@@ -5,7 +5,47 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Week's biggest US rounds: Kalshi $1B at $40B, Bedrock Robotics $600M, Serval $150M at $3B</title>
+      <link>https://catenaa.com/industries/technology/biggest-funding-rounds-physical-ai-kalshi/</link>
+      <guid isPermaLink="true">https://catenaa.com/industries/technology/biggest-funding-rounds-physical-ai-kalshi/</guid>
+      <category>agent-startup funding</category>
+      <description>Kalshi raised $1 billion at a $40 billion valuation, while Serval raised $150 million for AI agents that handle IT and back-office tasks.</description>
+      <pubDate>Sun, 01 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Google opens Android Studio to 40+ third-party coding agents via open Agent Client Protocol</title>
+      <link>https://techgig.com/amp/news/ai/google-opens-android-tools-to-third-party-ai-agents/135288250</link>
+      <guid isPermaLink="true">https://techgig.com/amp/news/ai/google-opens-android-tools-to-third-party-ai-agents/135288250</guid>
+      <category>model APIs / agent frameworks</category>
+      <description>Google's Android Studio now runs more than 40 third-party coding agents, including Claude and Codex, inside the IDE.</description>
+      <pubDate>Sun, 01 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Anthropic's red-team agents beat its own training-data safety monitor with disguised datasets</title>
+      <link>https://pondero.ai/news/2026-11-01-anthropic-automated-misalignment-search/</link>
+      <guid isPermaLink="true">https://pondero.ai/news/2026-11-01-anthropic-automated-misalignment-search/</guid>
+      <category>model APIs / agent frameworks</category>
+      <description>Anthropic found its own safety monitor could be bypassed by training data disguised as harmless stories, in a research test.</description>
+      <pubDate>Sun, 01 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Card networks back x402 despite its dispute gap: no built-in way to reverse a bad agent payment</title>
+      <link>https://tradersunion.com/news/cryptocurrency-news/show/4001833-card-networks-x402-ai-commerce/</link>
+      <guid isPermaLink="true">https://tradersunion.com/news/cryptocurrency-news/show/4001833-card-networks-x402-ai-commerce/</guid>
+      <category>agentic commerce rails</category>
+      <description>Card networks now help govern the x402 agent-payment standard, but it still has no built-in way to reverse a bad stablecoin payment.</description>
+      <pubDate>Sun, 01 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Oct 31 open-source radar: Lightpanda, a browser built for agents, and OpenBot's policy gateway</title>
+      <link>https://siliconnoon.com/open-source-radar-october-31-lightpanda-a-browser-for-agents/</link>
+      <guid isPermaLink="true">https://siliconnoon.com/open-source-radar-october-31-lightpanda-a-browser-for-agents/</guid>
+      <category>agent frameworks / file-governance</category>
+      <description>New open-source tools give AI agents their own browser and a policy gateway that checks every file and tool call before it runs.</description>
+      <pubDate>Sun, 01 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>DeepSeek open-sources dsh-superagent, a router–worker super-agent prototype for always-on coding agents</title>
       <link>https://chinamodelapi.com/news/deepseek-superagent-open-source</link>
@@ -365,46 +405,6 @@
       <category>agentic commerce rails</category>
       <description>New on-chain data shows x402 agent payments are growing in count but shrinking in value, with the average payment now around three cents.</description>
       <pubDate>Fri, 30 Oct 2026 10:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ServiceNow opens a 27-billion-parameter voice model</title>
-      <link>https://www.alextech.ai/en/news/servicenow-opens-a-27-billion-parameter-voice-model/</link>
-      <guid isPermaLink="true">https://www.alextech.ai/en/news/servicenow-opens-a-27-billion-parameter-voice-model/</guid>
-      <category>model API releases</category>
-      <description>ServiceNow released Apriel Voice 27B Preview, an open voice model that understands speech and replies with text or tool calls.</description>
-      <pubDate>Fri, 30 Oct 2026 10:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GitHub Copilot gets local AI models and sandboxed coding agents</title>
-      <link>https://medium.com/cagris-biz-stack/github-copilot-gets-local-ai-models-and-sandboxed-coding-agents-8581de7c79e0</link>
-      <guid isPermaLink="true">https://medium.com/cagris-biz-stack/github-copilot-gets-local-ai-models-and-sandboxed-coding-agents-8581de7c79e0</guid>
-      <category>agent frameworks</category>
-      <description>GitHub Copilot can now run coding agents on a local model or in the cloud, with agentic sessions sandboxed for file and network safety.</description>
-      <pubDate>Fri, 30 Oct 2026 10:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Claris expands AI developer preview for FileMaker</title>
-      <link>https://wisevoter.com/world/us/2026/10/30/claris-expands-ai-developer-preview-filemaker</link>
-      <guid isPermaLink="true">https://wisevoter.com/world/us/2026/10/30/claris-expands-ai-developer-preview-filemaker</guid>
-      <category>agent file rails</category>
-      <description>Claris opened its FileMaker AI preview wider, letting coding agents like Claude Code and Cursor read and write FileMaker files directly.</description>
-      <pubDate>Fri, 30 Oct 2026 10:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Mintive raises $7M seed to police enterprise AI agents</title>
-      <link>https://pivotnews.ai/five/mintive-raises-7-million-seed-to-police-enterprise-ai-agents</link>
-      <guid isPermaLink="true">https://pivotnews.ai/five/mintive-raises-7-million-seed-to-police-enterprise-ai-agents</guid>
-      <category>agent-startup funding</category>
-      <description>Mintive raised $7M seed for identity and access controls for enterprise AI agents, including an MCP gateway that governs which services agents can reach.</description>
-      <pubDate>Fri, 30 Oct 2026 07:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>XDC AI lets agents pay per call in USDC via x402</title>
-      <link>https://stablecoininsider.org/xdc-ai/</link>
-      <guid isPermaLink="true">https://stablecoininsider.org/xdc-ai/</guid>
-      <category>agentic commerce rails</category>
-      <description>XDC AI lets AI agents pay per API call in USDC via x402, settling without a checkout page — demonstrated live with agents buying coffee and services at a build day.</description>
-      <pubDate>Fri, 30 Oct 2026 07:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
