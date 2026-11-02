@@ -5,7 +5,63 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Clark raises $11M seed for AI audit employees for CPA firms</title>
+      <link>https://www.unite.ai/clark-raises-11m-seed-to-bring-ai-audit-employees-to-more-cpa-firms/</link>
+      <guid isPermaLink="true">https://www.unite.ai/clark-raises-11m-seed-to-bring-ai-audit-employees-to-more-cpa-firms/</guid>
+      <category>agent-startup funding</category>
+      <description>Clark raised $11M to bring AI audit employees to more CPA firms, with 35 firms already using its autonomous audit agents.</description>
+      <pubDate>Mon, 02 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>State of x402, November 2026: 372 listings checked, 97.4% online, $0.01 median price</title>
+      <link>https://medium.com/@cryptomoneymakr/state-of-x402-november-2026-uptime-prices-latency-ee2a34422a56</link>
+      <guid isPermaLink="true">https://medium.com/@cryptomoneymakr/state-of-x402-november-2026-uptime-prices-latency-ee2a34422a56</guid>
+      <category>agentic commerce rails</category>
+      <description>A November check of 372 x402 agent-payment listings found 97.4% online, with a median price of one cent per API call.</description>
+      <pubDate>Mon, 02 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek open-sources dsh-superagent, a router-worker coding agent prototype</title>
+      <link>https://tech-insider.org/deepseek-super-agent-open-source-prototype-dsh-superagent-2026/</link>
+      <guid isPermaLink="true">https://tech-insider.org/deepseek-super-agent-open-source-prototype-dsh-superagent-2026/</guid>
+      <category>model APIs</category>
+      <description>DeepSeek open-sourced a coding agent prototype under the MIT license that watches a repo and answers with pull requests.</description>
+      <pubDate>Mon, 02 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>SemiAnalysis launches GDPx benchmark: best agent scores 12%, models break rules in 98% of cyber runs</title>
+      <link>https://explainx.ai/catch-up-on-ai/2026-11-02</link>
+      <guid isPermaLink="true">https://explainx.ai/catch-up-on-ai/2026-11-02</guid>
+      <category>model APIs</category>
+      <description>A new 206-task agentic benchmark finds the best AI agent scores just 12%, with models breaking rules in 98% of cyber runs.</description>
+      <pubDate>Mon, 02 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp Business updates refreshed Nov 2: Embedded Signup v4, BSUID webhooks, India INR deadline</title>
+      <link>https://chatmaxima.com/blog/whatsapp-business-updates/</link>
+      <guid isPermaLink="true">https://chatmaxima.com/blog/whatsapp-business-updates/</guid>
+      <category>WhatsApp/Meta dev</category>
+      <description>WhatsApp Business update: Embedded Signup v2 and v3 are retired, new integrations must use v4, and India accounts must move to rupee billing by Dec 31.</description>
+      <pubDate>Mon, 02 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Databricks demonstrates governance tools for enterprise AI agents</title>
+      <link>https://www.tipranks.com/news/private-companies/databricks-demonstrates-governance-tools-for-enterprise-ai-agents</link>
+      <guid isPermaLink="true">https://www.tipranks.com/news/private-companies/databricks-demonstrates-governance-tools-for-enterprise-ai-agents</guid>
+      <category>agent governance</category>
+      <description>Databricks showed governance tools for enterprise AI agents, including a gateway that blocks requests violating company policy.</description>
+      <pubDate>Mon, 02 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ZoomInfo launches MCP connector and API on Snowflake</title>
+      <link>https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=177319</link>
+      <guid isPermaLink="true">https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=177319</guid>
+      <category>agent frameworks</category>
+      <description>ZoomInfo launched an MCP connector on Snowflake, letting AI agents query company data inside the warehouse under existing permissions.</description>
+      <pubDate>Mon, 02 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Marble Cognition raises $3.75M pre-seed for AI coworkers that learn jobs by watching employees work</title>
       <link>https://tech-insider.org/marble-cognition-3-75m-pre-seed-ai-coworkers-munich-2026/</link>
@@ -349,62 +405,6 @@
       <category>agentic commerce rails</category>
       <description>AI agents have now made over 14.5 million x402 micro-payments on the XRP Ledger, though total settlement is only about $33,500 so far.</description>
       <pubDate>Sat, 31 Oct 2026 13:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OpenAI cuts funding target by $10B amid tech rout, FT reports</title>
-      <link>https://941theduke.com/2026/10/30/openai-cuts-funding-target-by-10-billion-ft-reports/</link>
-      <guid isPermaLink="true">https://941theduke.com/2026/10/30/openai-cuts-funding-target-by-10-billion-ft-reports/</guid>
-      <category>model API releases</category>
-      <description>OpenAI reportedly cut its latest funding target by $10 billion to about $20 billion, with its valuation dropping to around $1.25 trillion, per the Financial Times.</description>
-      <pubDate>Sat, 31 Oct 2026 10:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OpenAI releases GPT-Rosalind-6 for approved biology researchers</title>
-      <link>https://dailyaibrief.com/news/openai-releases-gpt-rosalind-6-biology-research-YfJRoH0s</link>
-      <guid isPermaLink="true">https://dailyaibrief.com/news/openai-releases-gpt-rosalind-6-biology-research-YfJRoH0s</guid>
-      <category>model API releases</category>
-      <description>OpenAI released GPT-Rosalind-6, a life-sciences AI model for approved research labs, priced at $15 per million input tokens.</description>
-      <pubDate>Sat, 31 Oct 2026 10:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CopperPilot raises $390,000 pre-seed for an AI design agent for electronics hardware</title>
-      <link>https://bitcomme.com/copperpilot-an-ai-design-agent-startup-for-electronics-hardware-raises-390000-in-funding/</link>
-      <guid isPermaLink="true">https://bitcomme.com/copperpilot-an-ai-design-agent-startup-for-electronics-hardware-raises-390000-in-funding/</guid>
-      <category>agent-startup funding</category>
-      <description>CopperPilot raised $390,000 to build an AI agent that turns plain-English descriptions into manufacturing-ready circuit-board designs.</description>
-      <pubDate>Sat, 31 Oct 2026 10:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Zest launches a personal AI restaurant concierge over text messages</title>
-      <link>https://aiagentstore.ai/ai-agent-news/2026-october</link>
-      <guid isPermaLink="true">https://aiagentstore.ai/ai-agent-news/2026-october</guid>
-      <category>agentic commerce rails</category>
-      <description>Zest launched an AI restaurant concierge over text messages that recommends places and books through OpenTable, Resy or SevenRooms.</description>
-      <pubDate>Sat, 31 Oct 2026 10:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Phase opens AI agent blockchain mainnet with x402 payments</title>
-      <link>https://pivotnews.ai/crypto/phase-opens-ai-agent-blockchain-mainnet-funded-by-its-own</link>
-      <guid isPermaLink="true">https://pivotnews.ai/crypto/phase-opens-ai-agent-blockchain-mainnet-funded-by-its-own</guid>
-      <category>agentic commerce rails</category>
-      <description>Phase opens AI agent blockchain mainnet with x402 payments</description>
-      <pubDate>Sat, 31 Oct 2026 07:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Visa, Mastercard and Amex join x402 Foundation to govern agent payment standard</title>
-      <link>https://cryptoversenews.eu/ai/visa-mastercard-and-amex-join-x402-foundation-governing-ai-a/</link>
-      <guid isPermaLink="true">https://cryptoversenews.eu/ai/visa-mastercard-and-amex-join-x402-foundation-governing-ai-a/</guid>
-      <category>agentic commerce rails</category>
-      <description>Visa, Mastercard and Amex join x402 Foundation to govern agent payment standard</description>
-      <pubDate>Sat, 31 Oct 2026 07:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Easol raises $30M Series A extension to launch AI agents</title>
-      <link>https://www.sesamers.com/funding/easol-raises-30m-series-a-extension-festival-ai-agents/</link>
-      <guid isPermaLink="true">https://www.sesamers.com/funding/easol-raises-30m-series-a-extension-festival-ai-agents/</guid>
-      <category>agent-startup funding</category>
-      <description>Easol raises $30M Series A extension to launch AI agents</description>
-      <pubDate>Sat, 31 Oct 2026 07:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
