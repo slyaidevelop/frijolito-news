@@ -5,7 +5,55 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <item>
+      <title>OpenAI cuts funding target to $20B from $30B as investors cool on AI spend</title>
+      <link>https://www.thebrief.news/en/standard/article/38619/openai-cuts-its-current-funding-target-to-20-billion</link>
+      <guid isPermaLink="true">https://www.thebrief.news/en/standard/article/38619/openai-cuts-its-current-funding-target-to-20-billion</guid>
+      <category>agent-startup funding</category>
+      <description>OpenAI has cut its current fundraising target to $20 billion from $30 billion, with about $11 billion secured so far, according to reports.</description>
+      <pubDate>Sun, 01 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Lumaril raises $66M Series A at $400M valuation for AI on factory control systems</title>
+      <link>https://completeaitraining.com/news/lumaril-raises-66-million-at-a-400-million-valuation-for-ai/</link>
+      <guid isPermaLink="true">https://completeaitraining.com/news/lumaril-raises-66-million-at-a-400-million-valuation-for-ai/</guid>
+      <category>agent-startup funding</category>
+      <description>Lumaril raised $66 million to build AI that works with factories' existing control systems, valuing the company at $400 million.</description>
+      <pubDate>Sun, 01 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek launches coding agent aimed at Anthropic's Claude</title>
+      <link>https://emergent.sh/news/deepseek-coding-agent-launches-challenge</link>
+      <guid isPermaLink="true">https://emergent.sh/news/deepseek-coding-agent-launches-challenge</guid>
+      <category>model APIs</category>
+      <description>DeepSeek launched a new coding agent on November 1, aimed at developers looking for an alternative to Anthropic's Claude.</description>
+      <pubDate>Sun, 01 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OpenAI API deprecation calendar: GPT-5 family Dec 11, GPT-4o/4.1 snapshots Jan 14, Evals Nov 30</title>
+      <link>https://strongmocha.com/ai-infrastructure/gpt-4o-gpt-4-1-and-gpt-5-nano-are-leaving-openai-s-api-a-developer-guide/</link>
+      <guid isPermaLink="true">https://strongmocha.com/ai-infrastructure/gpt-4o-gpt-4-1-and-gpt-5-nano-are-leaving-openai-s-api-a-developer-guide/</guid>
+      <category>model APIs</category>
+      <description>OpenAI will remove the GPT-5 family from its API on December 11 and GPT-4o and GPT-4.1 snapshots on January 14, 2027, according to its deprecation schedule.</description>
+      <pubDate>Sun, 01 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Business WhatsApp group governance review flags admin lifecycle and impersonation risks</title>
+      <link>https://dev.to/9bot/governance-and-operational-security-of-business-whatsapp-group-portfolios-administrator-lifecycle-126p</link>
+      <guid isPermaLink="true">https://dev.to/9bot/governance-and-operational-security-of-business-whatsapp-group-portfolios-administrator-lifecycle-126p</guid>
+      <category>WhatsApp/Meta dev</category>
+      <description>A new review of business WhatsApp groups flags admin rights that outlive employment and maps the limits of Meta's Groups API.</description>
+      <pubDate>Sun, 01 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Governed retrieval's three-gate rule for permissioned company files</title>
+      <link>https://indexical.dev/blog/finding-answers-across-company-files-2026-governed-retrieval-3-gates-vs-open-access.php</link>
+      <guid isPermaLink="true">https://indexical.dev/blog/finding-answers-across-company-files-2026-governed-retrieval-3-gates-vs-open-access.php</guid>
+      <category>file-governance</category>
+      <description>A three-gate rule for AI answers over company files: filter by permission before searching, check freshness before answering, and cite sources or abstain.</description>
+      <pubDate>Sun, 01 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Stripe launches Link balance: funded balances with per-purchase limits for AI agents, starting with Instinct</title>
       <link>https://dailyaibrief.com/news/stripe-link-balance-ai-agents-QFUrdIHR</link>
@@ -357,54 +405,6 @@
       <category>file-governance</category>
       <description>Egnyte October release adds AI Control Center and MCP tool-access controls for agents</description>
       <pubDate>Fri, 30 Oct 2026 16:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>AI agent security startup AIR raises $50M across two seed rounds, lands on Fortune Cyber 60</title>
-      <link>https://dealroom.co/news/168439-ai-agent-security-startup-air-raises-50m-seed-lands-on-fortune-cyber-60/</link>
-      <guid isPermaLink="true">https://dealroom.co/news/168439-ai-agent-security-startup-air-raises-50m-seed-lands-on-fortune-cyber-60/</guid>
-      <category>agent-startup funding</category>
-      <description>AI agent security startup AIR raises $50M across two seed rounds, lands on Fortune Cyber 60</description>
-      <pubDate>Fri, 30 Oct 2026 16:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Instinct reportedly developing an 'Agent Phone' giving its AI agent its own dedicated phone number</title>
-      <link>https://runtimewire.com/article/instinct-agent-phone-dedicated-number</link>
-      <guid isPermaLink="true">https://runtimewire.com/article/instinct-agent-phone-dedicated-number</guid>
-      <category>Base44/Instinct ecosystem</category>
-      <description>Instinct reportedly developing an 'Agent Phone' giving its AI agent its own dedicated phone number</description>
-      <pubDate>Fri, 30 Oct 2026 16:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Hex raises $100M at $1.2B valuation and ships Hex 4.0, a rebuild for AI agents</title>
-      <link>https://superbcrew.com/hex-technologies-raises-100m-in-funding-at-1-2-billion-valuation/</link>
-      <guid isPermaLink="true">https://superbcrew.com/hex-technologies-raises-100m-in-funding-at-1-2-billion-valuation/</guid>
-      <category>agent-startup funding</category>
-      <description>Hex raises $100M at $1.2B valuation and ships Hex 4.0, a rebuild for AI agents</description>
-      <pubDate>Fri, 30 Oct 2026 13:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Otter.ai raises $320M from General Catalyst's growth fund for its meeting tool</title>
-      <link>https://www.raptorgroup.com/news/otter-ai-raises-320m-from-general-catalysts-growth-fund-for-its-meeting-tool/</link>
-      <guid isPermaLink="true">https://www.raptorgroup.com/news/otter-ai-raises-320m-from-general-catalysts-growth-fund-for-its-meeting-tool/</guid>
-      <category>agent-startup funding</category>
-      <description>Otter.ai raises $320M from General Catalyst's growth fund for its meeting tool</description>
-      <pubDate>Fri, 30 Oct 2026 13:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA expands NemoClaw blueprints for specialized AI agents</title>
-      <link>https://blockchain.news/news/nvidia-expands-nemoclaw-blueprints-for-specialized-ai-agents</link>
-      <guid isPermaLink="true">https://blockchain.news/news/nvidia-expands-nemoclaw-blueprints-for-specialized-ai-agents</guid>
-      <category>agent frameworks</category>
-      <description>NVIDIA expands NemoClaw blueprints for specialized AI agents</description>
-      <pubDate>Fri, 30 Oct 2026 13:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ZoomInfo launches MCP connector and API on Snowflake</title>
-      <link>https://www.zoominfo.com/newsroom/press-releases/zoominfo-mcp-api-launch-snowflake</link>
-      <guid isPermaLink="true">https://www.zoominfo.com/newsroom/press-releases/zoominfo-mcp-api-launch-snowflake</guid>
-      <category>file-governance</category>
-      <description>ZoomInfo launches MCP connector and API on Snowflake</description>
-      <pubDate>Fri, 30 Oct 2026 13:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
