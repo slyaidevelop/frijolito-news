@@ -5,7 +5,47 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Easol raises $30M Series A extension and launches Teammates, an agentic AI system for experience businesses</title>
+      <link>https://pulse2.com/easol-raises-30-million-series-a-extension-and-launches-agentic-ai-platform-for-experience-businesses/</link>
+      <guid isPermaLink="true">https://pulse2.com/easol-raises-30-million-series-a-extension-and-launches-agentic-ai-platform-for-experience-businesses/</guid>
+      <category>agent-startup funding</category>
+      <description>Easol raised $30M to launch Teammates, an agentic AI system that helps festivals, retreats and venues automate sales, support and operations.</description>
+      <pubDate>Mon, 02 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>x402 totals hit 196,254,391 settled payments and $42.3M volume as of Nov 2</title>
+      <link>https://agenteconomy.to/x402</link>
+      <guid isPermaLink="true">https://agenteconomy.to/x402</guid>
+      <category>agentic commerce rails</category>
+      <description>A live tracker counts over 196 million x402 payments settled and $42.3 million in volume as of November 2, with Base the largest chain.</description>
+      <pubDate>Mon, 02 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Meituan releases LongCat-2.5, a multimodal model aimed at whole software projects</title>
+      <link>https://superpowerdaily.com/posts/meituan-releases-longcat-2-5-an-ai-model-aimed-at-whole-software-projects</link>
+      <guid isPermaLink="true">https://superpowerdaily.com/posts/meituan-releases-longcat-2-5-an-ai-model-aimed-at-whole-software-projects</guid>
+      <category>model APIs</category>
+      <description>Meituan released LongCat-2.5, a multimodal coding model aimed at whole software projects, compatible with Claude Code, Codex and Hermes harnesses.</description>
+      <pubDate>Mon, 02 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>AWS weekly roundup: GPT-6.1 Terra generally available on Bedrock, Step Functions now usable as agent tools</title>
+      <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/</link>
+      <guid isPermaLink="true">https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/</guid>
+      <category>model APIs / agent frameworks</category>
+      <description>OpenAI's GPT-6.1 Terra is now generally available on Amazon Bedrock, and AWS Step Functions workflows can now be handed to agents as tools.</description>
+      <pubDate>Mon, 02 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Instinct's WhatsApp replies halted briefly on the morning of Nov 2</title>
+      <link>https://wisevoter.com/world/us/2026/11/02/instinct-ai-agent-whatsapp-service-outage</link>
+      <guid isPermaLink="true">https://wisevoter.com/world/us/2026/11/02/instinct-ai-agent-whatsapp-service-outage</guid>
+      <category>Base44/Instinct ecosystem</category>
+      <description>Instinct's WhatsApp replies stopped briefly on the morning of Nov 2 after a configuration issue interrupted a vendor payment; service has been restored.</description>
+      <pubDate>Mon, 02 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Clark raises $11M seed for AI audit employees for CPA firms</title>
       <link>https://www.unite.ai/clark-raises-11m-seed-to-bring-ai-audit-employees-to-more-cpa-firms/</link>
@@ -287,14 +327,6 @@
       <pubDate>Sun, 01 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
-      <title>x402 passes ~196M cumulative payments settled, $42.3M in volume, as of Nov 1</title>
-      <link>https://agenteconomy.to/x402</link>
-      <guid isPermaLink="true">https://agenteconomy.to/x402</guid>
-      <category>agentic commerce rails</category>
-      <description>A live tracker counts nearly 196 million x402 payments settled and $42.3 million in volume as of November 1, with Base the largest chain.</description>
-      <pubDate>Sun, 01 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
       <title>Zyrix launches ATLAS, an agent testing platform that issues an evidence-backed Go/No-Go before agents ship</title>
       <link>https://express-press-release.net/news/2026/11/01/1779196</link>
       <guid isPermaLink="true">https://express-press-release.net/news/2026/11/01/1779196</guid>
@@ -373,38 +405,6 @@
       <category>agent frameworks</category>
       <description>Factory shipped Droid 1.0, a model-independent coding agent harness where the model writes a program to run its tools instead of calling them one by one.</description>
       <pubDate>Sat, 31 Oct 2026 16:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Who actually pays on x402? An on-chain trace of Base sellers</title>
-      <link>https://dev.to/hasanmalik825gh/who-actually-pays-on-x402-we-traced-the-buyers-on-chain-259c</link>
-      <guid isPermaLink="true">https://dev.to/hasanmalik825gh/who-actually-pays-on-x402-we-traced-the-buyers-on-chain-259c</guid>
-      <category>agentic commerce rails</category>
-      <description>An on-chain trace found 52 of 81 sampled x402 sellers earned nothing in 24 hours, with the best earning just $6-15 a day.</description>
-      <pubDate>Sat, 31 Oct 2026 16:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Instinct adds OpenTable booking, its 4th named integration in about 4 days</title>
-      <link>https://fourweekmba.com/ai-10b-instinct-adds-opentable-its-4th-integration-in-4-days/</link>
-      <guid isPermaLink="true">https://fourweekmba.com/ai-10b-instinct-adds-opentable-its-4th-integration-in-4-days/</guid>
-      <category>Base44/Instinct ecosystem</category>
-      <description>Instinct added OpenTable booking, its fourth named integration in about four days after Stripe Link, Shopify Shop Pay and 1Password.</description>
-      <pubDate>Sat, 31 Oct 2026 13:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>AI Agent Framework Leaderboard updated Oct 31: Dify first of 43 open-source frameworks</title>
-      <link>https://gravity.fast/data/ai-agent-framework-leaderboard/</link>
-      <guid isPermaLink="true">https://gravity.fast/data/ai-agent-framework-leaderboard/</guid>
-      <category>agent frameworks</category>
-      <description>Dify leads a new ranking of 43 open-source AI agent frameworks, ahead of n8n and Mastra, with 30 of the 43 shipping a release in the last month.</description>
-      <pubDate>Sat, 31 Oct 2026 13:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>XRPL passes 14.5 million AI-agent x402 micro-payments, but only ~$33,500 settled</title>
-      <link>https://pluang.com/en/news-feed/transaksi-ai-agent-xrp-ledger-volume-nilai</link>
-      <guid isPermaLink="true">https://pluang.com/en/news-feed/transaksi-ai-agent-xrp-ledger-volume-nilai</guid>
-      <category>agentic commerce rails</category>
-      <description>AI agents have now made over 14.5 million x402 micro-payments on the XRP Ledger, though total settlement is only about $33,500 so far.</description>
-      <pubDate>Sat, 31 Oct 2026 13:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
