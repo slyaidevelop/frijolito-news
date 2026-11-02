@@ -5,13 +5,69 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Marble Cognition raises $3.75M pre-seed for AI coworkers that learn jobs by watching employees work</title>
+      <link>https://tech-insider.org/marble-cognition-3-75m-pre-seed-ai-coworkers-munich-2026/</link>
+      <guid isPermaLink="true">https://tech-insider.org/marble-cognition-3-75m-pre-seed-ai-coworkers-munich-2026/</guid>
+      <category>agent-startup funding</category>
+      <description>Marble Cognition raised $3.75M to build AI coworkers that learn how a company works by watching employees do their jobs.</description>
+      <pubDate>Mon, 02 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Roleo raises €2.9M for a personal AI career agent for tech professionals</title>
+      <link>https://www.finsmes.com/2026/11/roleo-raises-e2-9m-in-funding.html</link>
+      <guid isPermaLink="true">https://www.finsmes.com/2026/11/roleo-raises-e2-9m-in-funding.html</guid>
+      <category>agent-startup funding</category>
+      <description>Roleo raised €2.9M for a personal AI career agent that finds tech jobs matching a user's experience, goals and salary expectations.</description>
+      <pubDate>Mon, 02 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>XRP Ledger AI payments near 15 million, but total value settled stays under $50,000</title>
+      <link>https://www.kucoin.com/news/flash/xrp-ledger-ai-payments-near-15-million-as-average-transaction-value-stays-below-one-cent</link>
+      <guid isPermaLink="true">https://www.kucoin.com/news/flash/xrp-ledger-ai-payments-near-15-million-as-average-transaction-value-stays-below-one-cent</guid>
+      <category>agentic commerce rails</category>
+      <description>AI-agent payments on the XRP Ledger are nearing 15 million, though total value settled is still under $50,000 — about a third of a cent each.</description>
+      <pubDate>Mon, 02 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Apple Intelligence launches in China in December powered by Alibaba's Qwen; iOS 27.3 dev beta November 4</title>
+      <link>https://www.communeify.com/en/blog/ai-daily-2026-11-02/</link>
+      <guid isPermaLink="true">https://www.communeify.com/en/blog/ai-daily-2026-11-02/</guid>
+      <category>model APIs</category>
+      <description>Apple Intelligence arrives in China this December powered by Alibaba's Qwen models, with the iOS 27.3 developer beta starting November 4.</description>
+      <pubDate>Mon, 02 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Litera integrates Box into its Lito legal AI agent over MCP</title>
+      <link>https://www.businesswire.com/news/home/20261102294666/en/Litera-Integrates-with-Box-Bringing-Secure-Enterprise-Content-into-the-Workflows-Lawyers-Rely-on-Most</link>
+      <guid isPermaLink="true">https://www.businesswire.com/news/home/20261102294666/en/Litera-Integrates-with-Box-Bringing-Secure-Enterprise-Content-into-the-Workflows-Lawyers-Rely-on-Most</guid>
+      <category>file-governance</category>
+      <description>Litera connected its Lito legal AI agent to Box over MCP, so lawyers can search and summarize Box documents inside their workflow.</description>
+      <pubDate>Mon, 02 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Agent Framework October 2026: Python 1.24, .NET 1.25, Harness agent, Go preview; AutoGen archived</title>
+      <link>https://www.developersdigest.tech/blog/microsoft-agent-framework-whats-new-2026</link>
+      <guid isPermaLink="true">https://www.developersdigest.tech/blog/microsoft-agent-framework-whats-new-2026</guid>
+      <category>agent frameworks</category>
+      <description>Microsoft's Agent Framework reached Python 1.24 and .NET 1.25 in October, adding a Harness agent and Go preview as AutoGen is archived.</description>
+      <pubDate>Mon, 02 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fortinet launches FortiGuard Inline AI Security for FortiGate firewalls</title>
+      <link>https://apacnewsnetwork.com/2026/11/fortinet-adds-ai-security-checks-to-fortigate-firewalls-whats-new/</link>
+      <guid isPermaLink="true">https://apacnewsnetwork.com/2026/11/fortinet-adds-ai-security-checks-to-fortigate-firewalls-whats-new/</guid>
+      <category>agent governance</category>
+      <description>Fortinet added inline AI security to FortiGate firewalls, inspecting prompts, responses and MCP tool calls and flagging 35 types of sensitive data.</description>
+      <pubDate>Mon, 02 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>OpenAI cuts funding target to $20B from $30B as investors cool on AI spend</title>
       <link>https://www.thebrief.news/en/standard/article/38619/openai-cuts-its-current-funding-target-to-20-billion</link>
       <guid isPermaLink="true">https://www.thebrief.news/en/standard/article/38619/openai-cuts-its-current-funding-target-to-20-billion</guid>
       <category>agent-startup funding</category>
-      <description>OpenAI has cut its current fundraising target to $20 billion from $30 billion, with about $11 billion secured so far, according to reports.</description>
+      <description>OpenAI cuts funding target to $20B from $30B as investors cool on AI spend</description>
       <pubDate>Sun, 01 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -19,7 +75,7 @@
       <link>https://completeaitraining.com/news/lumaril-raises-66-million-at-a-400-million-valuation-for-ai/</link>
       <guid isPermaLink="true">https://completeaitraining.com/news/lumaril-raises-66-million-at-a-400-million-valuation-for-ai/</guid>
       <category>agent-startup funding</category>
-      <description>Lumaril raised $66 million to build AI that works with factories' existing control systems, valuing the company at $400 million.</description>
+      <description>Lumaril raises $66M Series A at $400M valuation for AI on factory control systems</description>
       <pubDate>Sun, 01 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -27,7 +83,7 @@
       <link>https://emergent.sh/news/deepseek-coding-agent-launches-challenge</link>
       <guid isPermaLink="true">https://emergent.sh/news/deepseek-coding-agent-launches-challenge</guid>
       <category>model APIs</category>
-      <description>DeepSeek launched a new coding agent on November 1, aimed at developers looking for an alternative to Anthropic's Claude.</description>
+      <description>DeepSeek launches coding agent aimed at Anthropic's Claude</description>
       <pubDate>Sun, 01 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -35,7 +91,7 @@
       <link>https://strongmocha.com/ai-infrastructure/gpt-4o-gpt-4-1-and-gpt-5-nano-are-leaving-openai-s-api-a-developer-guide/</link>
       <guid isPermaLink="true">https://strongmocha.com/ai-infrastructure/gpt-4o-gpt-4-1-and-gpt-5-nano-are-leaving-openai-s-api-a-developer-guide/</guid>
       <category>model APIs</category>
-      <description>OpenAI will remove the GPT-5 family from its API on December 11 and GPT-4o and GPT-4.1 snapshots on January 14, 2027, according to its deprecation schedule.</description>
+      <description>OpenAI API deprecation calendar: GPT-5 family Dec 11, GPT-4o/4.1 snapshots Jan 14, Evals Nov 30</description>
       <pubDate>Sun, 01 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -43,7 +99,7 @@
       <link>https://dev.to/9bot/governance-and-operational-security-of-business-whatsapp-group-portfolios-administrator-lifecycle-126p</link>
       <guid isPermaLink="true">https://dev.to/9bot/governance-and-operational-security-of-business-whatsapp-group-portfolios-administrator-lifecycle-126p</guid>
       <category>WhatsApp/Meta dev</category>
-      <description>A new review of business WhatsApp groups flags admin rights that outlive employment and maps the limits of Meta's Groups API.</description>
+      <description>Business WhatsApp group governance review flags admin lifecycle and impersonation risks</description>
       <pubDate>Sun, 01 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -51,7 +107,7 @@
       <link>https://indexical.dev/blog/finding-answers-across-company-files-2026-governed-retrieval-3-gates-vs-open-access.php</link>
       <guid isPermaLink="true">https://indexical.dev/blog/finding-answers-across-company-files-2026-governed-retrieval-3-gates-vs-open-access.php</guid>
       <category>file-governance</category>
-      <description>A three-gate rule for AI answers over company files: filter by permission before searching, check freshness before answering, and cite sources or abstain.</description>
+      <description>Governed retrieval's three-gate rule for permissioned company files</description>
       <pubDate>Sun, 01 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -59,7 +115,7 @@
       <link>https://dailyaibrief.com/news/stripe-link-balance-ai-agents-QFUrdIHR</link>
       <guid isPermaLink="true">https://dailyaibrief.com/news/stripe-link-balance-ai-agents-QFUrdIHR</guid>
       <category>agentic commerce rails</category>
-      <description>Stripe launched Link balance, letting consumers fund a dedicated balance with a per-purchase limit so AI agents can buy without approval each time, starting with Instinct.</description>
+      <description>Stripe launches Link balance: funded balances with per-purchase limits for AI agents, starting with Instinct</description>
       <pubDate>Sun, 01 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -67,7 +123,7 @@
       <link>https://cio.eletsonline.com/artificial-intelligence/salesforce-agent-fabric-agent-evals-kill-switch-ai-agent-governance-cost-controls/76624/</link>
       <guid isPermaLink="true">https://cio.eletsonline.com/artificial-intelligence/salesforce-agent-fabric-agent-evals-kill-switch-ai-agent-governance-cost-controls/76624/</guid>
       <category>agent governance</category>
-      <description>Salesforce added live agent evaluations, a kill switch, and hard spending caps to Agent Fabric, its control plane for agents across platforms.</description>
+      <description>Salesforce adds Agent Evals, an Agent Kill Switch, and hard spending caps to Agent Fabric</description>
       <pubDate>Sun, 01 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -75,7 +131,7 @@
       <link>https://medium.com/@AkhilAIWorld/your-opus-4-8-fast-mode-flag-becomes-an-error-on-november-30-swapping-the-model-id-is-only-a-third-e71564c25570</link>
       <guid isPermaLink="true">https://medium.com/@AkhilAIWorld/your-opus-4-8-fast-mode-flag-becomes-an-error-on-november-30-swapping-the-model-id-is-only-a-third-e71564c25570</guid>
       <category>model APIs</category>
-      <description>Anthropic deprecated fast mode for Claude Opus 4.8; after November 30, requests using that model with the fast flag will return an error.</description>
+      <description>Claude Opus 4.8 fast mode deprecated Oct 30, errors after Nov 30; Opus 5.5 is the migration path</description>
       <pubDate>Sun, 01 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -83,7 +139,7 @@
       <link>https://feliperosadr.medium.com/spring-ai-agents-are-coming-your-app-is-already-halfway-there-a66905237e9a</link>
       <guid isPermaLink="true">https://feliperosadr.medium.com/spring-ai-agents-are-coming-your-app-is-already-halfway-there-a66905237e9a</guid>
       <category>agent frameworks</category>
-      <description>The Spring team plans a dedicated Spring AI Agents project for November 2026, building on its MCP support and session memory.</description>
+      <description>Spring AI Agents project planned for November 2026, building on MCP support and session memory</description>
       <pubDate>Sun, 01 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -171,7 +227,7 @@
       <link>https://www.businesstoday.com.my/2026/11/01/deepseek-expands-ai-agent-ambitions-with-new-coding-prototype/</link>
       <guid isPermaLink="true">https://www.businesstoday.com.my/2026/11/01/deepseek-expands-ai-agent-ambitions-with-new-coding-prototype/</guid>
       <category>model APIs / agent frameworks</category>
-      <description>DeepSeek open-sources Super-Agent, a proactive coding agent, alongside a reported ~$15B raise</description>
+      <description>DeepSeek open-sourced Super-Agent, a proactive coding agent that watches developer chats and suggests fixes, alongside a reported $15 billion funding round ahead of a planned IPO.</description>
       <pubDate>Sun, 01 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -179,7 +235,7 @@
       <link>https://agenteconomy.to/x402</link>
       <guid isPermaLink="true">https://agenteconomy.to/x402</guid>
       <category>agentic commerce rails</category>
-      <description>x402 passes ~196M cumulative payments settled, $42.3M in volume, as of Nov 1</description>
+      <description>A live tracker counts nearly 196 million x402 payments settled and $42.3 million in volume as of November 1, with Base the largest chain.</description>
       <pubDate>Sun, 01 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -187,7 +243,7 @@
       <link>https://express-press-release.net/news/2026/11/01/1779196</link>
       <guid isPermaLink="true">https://express-press-release.net/news/2026/11/01/1779196</guid>
       <category>agent governance</category>
-      <description>Zyrix launches ATLAS, an agent testing platform that issues an evidence-backed Go/No-Go before agents ship</description>
+      <description>Zyrix launched ATLAS, a testing platform that checks what AI agents actually do and gives teams an evidence-backed go or no-go before they ship.</description>
       <pubDate>Sun, 01 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -195,7 +251,7 @@
       <link>https://vibecoding.app/best/app-builders</link>
       <guid isPermaLink="true">https://vibecoding.app/best/app-builders</guid>
       <category>Base44/Instinct ecosystem</category>
-      <description>Nov 1 builder roundup ranks Base44 top for a backend without configuring one</description>
+      <description>A November 1 roundup ranks Base44 top for non-coders wanting a full app backend without configuring one, with a free tier of 25 message credits a month.</description>
       <pubDate>Sun, 01 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -203,7 +259,7 @@
       <link>https://disrupts.disruptsmedia.com/fintech/causa-prima-raises-20m-put-ai-agents-both-sides-every-invoice</link>
       <guid isPermaLink="true">https://disrupts.disruptsmedia.com/fintech/causa-prima-raises-20m-put-ai-agents-both-sides-every-invoice</guid>
       <category>agent-startup funding</category>
-      <description>Causa Prima raises $20M seed to put AI agents on both sides of every invoice</description>
+      <description>Causa Prima raised $20M to put AI agents on both sides of every invoice, targeting inter-company settlement for businesses.</description>
       <pubDate>Sat, 31 Oct 2026 19:20:00 -0400</pubDate>
     </item>
     <item>
@@ -211,7 +267,7 @@
       <link>https://wisevoter.com/world/us/2026/10/31/phinity-labs-raises-5-2-million-ai-chip</link>
       <guid isPermaLink="true">https://wisevoter.com/world/us/2026/10/31/phinity-labs-raises-5-2-million-ai-chip</guid>
       <category>agent-startup funding</category>
-      <description>Phinity Labs raises $5.2M seed to build AI agents that design chips from text prompts</description>
+      <description>Phinity Labs raised $5.2M to build AI agents that design computer chips from text prompts.</description>
       <pubDate>Sat, 31 Oct 2026 19:20:00 -0400</pubDate>
     </item>
     <item>
@@ -219,7 +275,7 @@
       <link>https://www.ababnews.com/en/news/ac9dc63e-c337-4a59-80d1-c22a9206a97f</link>
       <guid isPermaLink="true">https://www.ababnews.com/en/news/ac9dc63e-c337-4a59-80d1-c22a9206a97f</guid>
       <category>Base44/Instinct ecosystem</category>
-      <description>Instinct reportedly raising at a ~$30B valuation, per investor disclosures</description>
+      <description>Instinct is reportedly raising a new round at a valuation of about $30 billion, up from $10 billion in September — unconfirmed by the company.</description>
       <pubDate>Sat, 31 Oct 2026 19:20:00 -0400</pubDate>
     </item>
     <item>
@@ -227,7 +283,7 @@
       <link>https://veronicaphillip.com/2026/10/31/💡-your-ai-agent-is-only-as-good-as-the-knowledge-its-allowed-to-use-2/</link>
       <guid isPermaLink="true">https://veronicaphillip.com/2026/10/31/💡-your-ai-agent-is-only-as-good-as-the-knowledge-its-allowed-to-use-2/</guid>
       <category>file-governance</category>
-      <description>State of MCP: October 2026 — 31 security advisories, 52,141 registry servers, spec unchanged until March 2027</description>
+      <description>A new State of MCP report counted 31 security advisories in October and over 52,000 servers in the official registry.</description>
       <pubDate>Sat, 31 Oct 2026 19:20:00 -0400</pubDate>
     </item>
     <item>
@@ -235,7 +291,7 @@
       <link>https://dev.to/alifar/shopify-moves-its-ai-agent-knowledge-base-into-merchant-admin-311p</link>
       <guid isPermaLink="true">https://dev.to/alifar/shopify-moves-its-ai-agent-knowledge-base-into-merchant-admin-311p</guid>
       <category>agentic commerce rails</category>
-      <description>Shopify moves its AI agent knowledge base into Merchant Admin, retires standalone app Jan 15, 2027</description>
+      <description>Shopify moved its AI agent knowledge base into Merchant Admin, with the old standalone app retiring January 15, 2027.</description>
       <pubDate>Sat, 31 Oct 2026 19:20:00 -0400</pubDate>
     </item>
     <item>
@@ -243,7 +299,7 @@
       <link>https://www.globenewswire.com/news-release/2026/10/31/3392722/0/en/dataline-raises-10-6m-to-give-ai-agents-data-they-can-trust.html</link>
       <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/10/31/3392722/0/en/dataline-raises-10-6m-to-give-ai-agents-data-they-can-trust.html</guid>
       <category>agentic commerce rails</category>
-      <description>Dataline raises $10.6M to give AI agents data they can trust</description>
+      <description>Dataline raised $10.6M to build a marketplace where AI agents pay per call for data, with free access for builders on Base and Robinhood Chain.</description>
       <pubDate>Sat, 31 Oct 2026 16:20:00 -0400</pubDate>
     </item>
     <item>
@@ -251,7 +307,7 @@
       <link>https://aiweekly.co/alerts/openai-python-sdk-3420-adds-agent-context-compaction-controls</link>
       <guid isPermaLink="true">https://aiweekly.co/alerts/openai-python-sdk-3420-adds-agent-context-compaction-controls</guid>
       <category>model APIs / agent frameworks</category>
-      <description>OpenAI Python SDK 3.42.0 adds agent context compaction controls</description>
+      <description>OpenAI's Python SDK 3.42.0 adds agent context compaction controls, session review, and experimental time awareness for agent builders.</description>
       <pubDate>Sat, 31 Oct 2026 16:20:00 -0400</pubDate>
     </item>
     <item>
@@ -259,7 +315,7 @@
       <link>https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/</link>
       <guid isPermaLink="true">https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/</guid>
       <category>agent frameworks</category>
-      <description>Factory Droid 1.0: model-independent coding agent harness built on Script mode</description>
+      <description>Factory shipped Droid 1.0, a model-independent coding agent harness where the model writes a program to run its tools instead of calling them one by one.</description>
       <pubDate>Sat, 31 Oct 2026 16:20:00 -0400</pubDate>
     </item>
     <item>
@@ -267,7 +323,7 @@
       <link>https://dev.to/hasanmalik825gh/who-actually-pays-on-x402-we-traced-the-buyers-on-chain-259c</link>
       <guid isPermaLink="true">https://dev.to/hasanmalik825gh/who-actually-pays-on-x402-we-traced-the-buyers-on-chain-259c</guid>
       <category>agentic commerce rails</category>
-      <description>Who actually pays on x402? An on-chain trace of Base sellers</description>
+      <description>An on-chain trace found 52 of 81 sampled x402 sellers earned nothing in 24 hours, with the best earning just $6-15 a day.</description>
       <pubDate>Sat, 31 Oct 2026 16:20:00 -0400</pubDate>
     </item>
     <item>
@@ -275,7 +331,7 @@
       <link>https://fourweekmba.com/ai-10b-instinct-adds-opentable-its-4th-integration-in-4-days/</link>
       <guid isPermaLink="true">https://fourweekmba.com/ai-10b-instinct-adds-opentable-its-4th-integration-in-4-days/</guid>
       <category>Base44/Instinct ecosystem</category>
-      <description>Instinct adds OpenTable booking, its 4th named integration in about 4 days</description>
+      <description>Instinct added OpenTable booking, its fourth named integration in about four days after Stripe Link, Shopify Shop Pay and 1Password.</description>
       <pubDate>Sat, 31 Oct 2026 13:20:00 -0400</pubDate>
     </item>
     <item>
@@ -283,7 +339,7 @@
       <link>https://gravity.fast/data/ai-agent-framework-leaderboard/</link>
       <guid isPermaLink="true">https://gravity.fast/data/ai-agent-framework-leaderboard/</guid>
       <category>agent frameworks</category>
-      <description>AI Agent Framework Leaderboard updated Oct 31: Dify first of 43 open-source frameworks</description>
+      <description>Dify leads a new ranking of 43 open-source AI agent frameworks, ahead of n8n and Mastra, with 30 of the 43 shipping a release in the last month.</description>
       <pubDate>Sat, 31 Oct 2026 13:20:00 -0400</pubDate>
     </item>
     <item>
@@ -291,7 +347,7 @@
       <link>https://pluang.com/en/news-feed/transaksi-ai-agent-xrp-ledger-volume-nilai</link>
       <guid isPermaLink="true">https://pluang.com/en/news-feed/transaksi-ai-agent-xrp-ledger-volume-nilai</guid>
       <category>agentic commerce rails</category>
-      <description>XRPL passes 14.5 million AI-agent x402 micro-payments, but only ~$33,500 settled</description>
+      <description>AI agents have now made over 14.5 million x402 micro-payments on the XRP Ledger, though total settlement is only about $33,500 so far.</description>
       <pubDate>Sat, 31 Oct 2026 13:20:00 -0400</pubDate>
     </item>
     <item>
@@ -299,7 +355,7 @@
       <link>https://941theduke.com/2026/10/30/openai-cuts-funding-target-by-10-billion-ft-reports/</link>
       <guid isPermaLink="true">https://941theduke.com/2026/10/30/openai-cuts-funding-target-by-10-billion-ft-reports/</guid>
       <category>model API releases</category>
-      <description>OpenAI cuts funding target by $10B amid tech rout, FT reports</description>
+      <description>OpenAI reportedly cut its latest funding target by $10 billion to about $20 billion, with its valuation dropping to around $1.25 trillion, per the Financial Times.</description>
       <pubDate>Sat, 31 Oct 2026 10:20:00 -0400</pubDate>
     </item>
     <item>
@@ -307,7 +363,7 @@
       <link>https://dailyaibrief.com/news/openai-releases-gpt-rosalind-6-biology-research-YfJRoH0s</link>
       <guid isPermaLink="true">https://dailyaibrief.com/news/openai-releases-gpt-rosalind-6-biology-research-YfJRoH0s</guid>
       <category>model API releases</category>
-      <description>OpenAI releases GPT-Rosalind-6 for approved biology researchers</description>
+      <description>OpenAI released GPT-Rosalind-6, a life-sciences AI model for approved research labs, priced at $15 per million input tokens.</description>
       <pubDate>Sat, 31 Oct 2026 10:20:00 -0400</pubDate>
     </item>
     <item>
@@ -315,7 +371,7 @@
       <link>https://bitcomme.com/copperpilot-an-ai-design-agent-startup-for-electronics-hardware-raises-390000-in-funding/</link>
       <guid isPermaLink="true">https://bitcomme.com/copperpilot-an-ai-design-agent-startup-for-electronics-hardware-raises-390000-in-funding/</guid>
       <category>agent-startup funding</category>
-      <description>CopperPilot raises $390,000 pre-seed for an AI design agent for electronics hardware</description>
+      <description>CopperPilot raised $390,000 to build an AI agent that turns plain-English descriptions into manufacturing-ready circuit-board designs.</description>
       <pubDate>Sat, 31 Oct 2026 10:20:00 -0400</pubDate>
     </item>
     <item>
@@ -323,7 +379,7 @@
       <link>https://aiagentstore.ai/ai-agent-news/2026-october</link>
       <guid isPermaLink="true">https://aiagentstore.ai/ai-agent-news/2026-october</guid>
       <category>agentic commerce rails</category>
-      <description>Zest launches a personal AI restaurant concierge over text messages</description>
+      <description>Zest launched an AI restaurant concierge over text messages that recommends places and books through OpenTable, Resy or SevenRooms.</description>
       <pubDate>Sat, 31 Oct 2026 10:20:00 -0400</pubDate>
     </item>
     <item>
@@ -349,62 +405,6 @@
       <category>agent-startup funding</category>
       <description>Easol raises $30M Series A extension to launch AI agents</description>
       <pubDate>Sat, 31 Oct 2026 07:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Zocdoc partners with Instinct for AI appointment booking</title>
-      <link>https://www.mobihealthnews.com/news/zocdoc-partners-instinct-ai-appointment-booking</link>
-      <guid isPermaLink="true">https://www.mobihealthnews.com/news/zocdoc-partners-instinct-ai-appointment-booking</guid>
-      <category>Base44/Instinct ecosystem</category>
-      <description>Zocdoc partners with Instinct for AI appointment booking</description>
-      <pubDate>Fri, 30 Oct 2026 19:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>DoorDash says it's only received 'several hundred' orders from AI agents</title>
-      <link>https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/</guid>
-      <category>agentic commerce rails</category>
-      <description>DoorDash says it's only received 'several hundred' orders from AI agents</description>
-      <pubDate>Fri, 30 Oct 2026 19:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Salesforce expands MuleSoft's Agent Fabric into an AI control layer</title>
-      <link>https://futurumgroup.com/insights/salesforce-agent-fabric-expands-to-ai-control/</link>
-      <guid isPermaLink="true">https://futurumgroup.com/insights/salesforce-agent-fabric-expands-to-ai-control/</guid>
-      <category>agent frameworks</category>
-      <description>Salesforce expands MuleSoft's Agent Fabric into an AI control layer</description>
-      <pubDate>Fri, 30 Oct 2026 19:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Obsero raises €1M seed to track the sources AI assistants quote</title>
-      <link>https://businesscloud.co.uk/news/obsero-raises-seed-funding-to-track-the-sources-ai-assistants-quote/</link>
-      <guid isPermaLink="true">https://businesscloud.co.uk/news/obsero-raises-seed-funding-to-track-the-sources-ai-assistants-quote/</guid>
-      <category>agent-startup funding</category>
-      <description>Obsero raises €1M seed to track the sources AI assistants quote</description>
-      <pubDate>Fri, 30 Oct 2026 19:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Cohere announces initial close of Series E targeting up to C$7B at C$35.7B valuation, with Canada taking an equity stake</title>
-      <link>https://www.prnewswire.com/news-releases/cohere-announces-series-e-fundraise-targeting-cad-7-billion-to-meet-surging-global-demand-for-secure-sovereign-ai-302924051.html</link>
-      <guid isPermaLink="true">https://www.prnewswire.com/news-releases/cohere-announces-series-e-fundraise-targeting-cad-7-billion-to-meet-surging-global-demand-for-secure-sovereign-ai-302924051.html</guid>
-      <category>agent-startup funding</category>
-      <description>Cohere announces initial close of Series E targeting up to C$7B at C$35.7B valuation, with Canada taking an equity stake</description>
-      <pubDate>Fri, 30 Oct 2026 16:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Deepgram acquires Daily, makers of open-source Pipecat voice-agent framework</title>
-      <link>https://deepgram.com/blog/daily-pipecat-deepgram</link>
-      <guid isPermaLink="true">https://deepgram.com/blog/daily-pipecat-deepgram</guid>
-      <category>agent frameworks</category>
-      <description>Deepgram acquires Daily, makers of open-source Pipecat voice-agent framework</description>
-      <pubDate>Fri, 30 Oct 2026 16:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Egnyte October release adds AI Control Center and MCP tool-access controls for agents</title>
-      <link>https://www.egnyte.com/blog/post/october-release-rollup-ai-control-center-bulk-extraction-email-capture-and-more</link>
-      <guid isPermaLink="true">https://www.egnyte.com/blog/post/october-release-rollup-ai-control-center-bulk-extraction-email-capture-and-more</guid>
-      <category>file-governance</category>
-      <description>Egnyte October release adds AI Control Center and MCP tool-access controls for agents</description>
-      <pubDate>Fri, 30 Oct 2026 16:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
