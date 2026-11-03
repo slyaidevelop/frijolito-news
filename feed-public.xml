@@ -5,7 +5,47 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Fal doubles valuation to $16B with $1.3B Series F for AI inference</title>
+      <link>https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/</guid>
+      <category>agent-startup funding</category>
+      <description>AI inference startup Fal raised $1.3 billion at a $16 billion valuation, double its April valuation, as demand for running AI models surges.</description>
+      <pubDate>Tue, 03 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Menlo Ventures: enterprise AI spending hit $176.8B, up 5.4x in a year, as agents take over</title>
+      <link>https://www.globenewswire.com/news-release/2026/11/03/3394279/0/en/menlo-ventures-2026-state-of-enterprise-ai-report-enterprise-ai-spending-hits-177b-up-5-4x-in-one-year-as-agents-take-over.html</link>
+      <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/11/03/3394279/0/en/menlo-ventures-2026-state-of-enterprise-ai-report-enterprise-ai-spending-hits-177b-up-5-4x-in-one-year-as-agents-take-over.html</guid>
+      <category>agent-startup funding</category>
+      <description>Enterprise AI spending reached $176.8 billion this year, up more than fivefold, according to Menlo Ventures' 2026 State of Enterprise AI report.</description>
+      <pubDate>Tue, 03 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fireblocks: x402's headline counts overstate real agent commerce</title>
+      <link>https://www.fireblocks.com/blog/agent-economy-numbers-x402-data</link>
+      <guid isPermaLink="true">https://www.fireblocks.com/blog/agent-economy-numbers-x402-data</guid>
+      <category>agentic commerce rails</category>
+      <description>A new Fireblocks analysis finds x402 agent payments total 196 million transactions, but recent monthly volume is far below last year's peak.</description>
+      <pubDate>Tue, 03 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CyberKord raises €2.7M pre-seed for an AI that investigates and fixes IT issues on its own</title>
+      <link>https://www.todaysstartupnews.com/funding/cyberkord-raises-2-7m-pre-seed-ai-it-cybersecurity-automation</link>
+      <guid isPermaLink="true">https://www.todaysstartupnews.com/funding/cyberkord-raises-2-7m-pre-seed-ai-it-cybersecurity-automation</guid>
+      <category>agent-startup funding</category>
+      <description>Milan startup CyberKord raised €2.7 million to build an AI platform that investigates and fixes IT and security issues on its own.</description>
+      <pubDate>Tue, 03 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Granter raises €1.6M to expand its AI public-funding platform across Europe</title>
+      <link>https://tech.eu/2026/11/03/portuguese-ai-startup-granter-bags-eur16m-to-expand-across-europe/</link>
+      <guid isPermaLink="true">https://tech.eu/2026/11/03/portuguese-ai-startup-granter-bags-eur16m-to-expand-across-europe/</guid>
+      <category>agent-startup funding</category>
+      <description>Portuguese startup Granter raised €1.6 million to expand its AI platform that helps businesses find and manage European public funding.</description>
+      <pubDate>Tue, 03 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Guava raises $12.5M seed for a developer platform for AI voice agents</title>
       <link>https://www.finsmes.com/2026/11/guava-raises-12-5m-in-seed-funding.html</link>
@@ -365,46 +405,6 @@
       <category>model APIs</category>
       <description>DeepSeek launches coding agent aimed at Anthropic's Claude</description>
       <pubDate>Sun, 01 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OpenAI API deprecation calendar: GPT-5 family Dec 11, GPT-4o/4.1 snapshots Jan 14, Evals Nov 30</title>
-      <link>https://strongmocha.com/ai-infrastructure/gpt-4o-gpt-4-1-and-gpt-5-nano-are-leaving-openai-s-api-a-developer-guide/</link>
-      <guid isPermaLink="true">https://strongmocha.com/ai-infrastructure/gpt-4o-gpt-4-1-and-gpt-5-nano-are-leaving-openai-s-api-a-developer-guide/</guid>
-      <category>model APIs</category>
-      <description>OpenAI API deprecation calendar: GPT-5 family Dec 11, GPT-4o/4.1 snapshots Jan 14, Evals Nov 30</description>
-      <pubDate>Sun, 01 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Business WhatsApp group governance review flags admin lifecycle and impersonation risks</title>
-      <link>https://dev.to/9bot/governance-and-operational-security-of-business-whatsapp-group-portfolios-administrator-lifecycle-126p</link>
-      <guid isPermaLink="true">https://dev.to/9bot/governance-and-operational-security-of-business-whatsapp-group-portfolios-administrator-lifecycle-126p</guid>
-      <category>WhatsApp/Meta dev</category>
-      <description>Business WhatsApp group governance review flags admin lifecycle and impersonation risks</description>
-      <pubDate>Sun, 01 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Governed retrieval's three-gate rule for permissioned company files</title>
-      <link>https://indexical.dev/blog/finding-answers-across-company-files-2026-governed-retrieval-3-gates-vs-open-access.php</link>
-      <guid isPermaLink="true">https://indexical.dev/blog/finding-answers-across-company-files-2026-governed-retrieval-3-gates-vs-open-access.php</guid>
-      <category>file-governance</category>
-      <description>Governed retrieval's three-gate rule for permissioned company files</description>
-      <pubDate>Sun, 01 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Stripe launches Link balance: funded balances with per-purchase limits for AI agents, starting with Instinct</title>
-      <link>https://dailyaibrief.com/news/stripe-link-balance-ai-agents-QFUrdIHR</link>
-      <guid isPermaLink="true">https://dailyaibrief.com/news/stripe-link-balance-ai-agents-QFUrdIHR</guid>
-      <category>agentic commerce rails</category>
-      <description>Stripe launches Link balance: funded balances with per-purchase limits for AI agents, starting with Instinct</description>
-      <pubDate>Sun, 01 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Salesforce adds Agent Evals, an Agent Kill Switch, and hard spending caps to Agent Fabric</title>
-      <link>https://cio.eletsonline.com/artificial-intelligence/salesforce-agent-fabric-agent-evals-kill-switch-ai-agent-governance-cost-controls/76624/</link>
-      <guid isPermaLink="true">https://cio.eletsonline.com/artificial-intelligence/salesforce-agent-fabric-agent-evals-kill-switch-ai-agent-governance-cost-controls/76624/</guid>
-      <category>agent governance</category>
-      <description>Salesforce adds Agent Evals, an Agent Kill Switch, and hard spending caps to Agent Fabric</description>
-      <pubDate>Sun, 01 Nov 2026 18:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
