@@ -5,13 +5,61 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Wabi raises $55M at $1.25B valuation after pivot to personal AI agent</title>
+      <link>https://theaiinsider.tech/2026/11/03/wabi-secures-55m-at-1-25b-valuation-after-pivot-to-personal-ai-agent/</link>
+      <guid isPermaLink="true">https://theaiinsider.tech/2026/11/03/wabi-secures-55m-at-1-25b-valuation-after-pivot-to-personal-ai-agent/</guid>
+      <category>agent-startup funding</category>
+      <description>Wabi raised $55 million at a $1.25 billion valuation after pivoting from prompt-built apps to a personal AI agent, in a round led by IVP.</description>
+      <pubDate>Tue, 03 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Clark raises $11M seed for autonomous AI audit employees for CPA firms</title>
+      <link>https://www.finsmes.com/2026/11/clark-raises-11m-in-seed-funding.html</link>
+      <guid isPermaLink="true">https://www.finsmes.com/2026/11/clark-raises-11m-in-seed-funding.html</guid>
+      <category>agent-startup funding</category>
+      <description>Clark raised $11 million to bring its autonomous AI audit employees to more CPA firms, with over 35 firms already using them.</description>
+      <pubDate>Tue, 03 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>x402serps: pay-per-search for AI agents over x402, no API key</title>
+      <link>https://dev.to/x402serps/how-to-give-your-ai-agent-web-search-with-x402-no-api-key-1eak</link>
+      <guid isPermaLink="true">https://dev.to/x402serps/how-to-give-your-ai-agent-web-search-with-x402-no-api-key-1eak</guid>
+      <category>agentic commerce rails</category>
+      <description>A new x402 service lets AI agents pay $0.004 per 10 web searches in stablecoins, with no API key or account needed.</description>
+      <pubDate>Tue, 03 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare Agents 0.33.0 ships Pi 1.5 support, with a one-way conversation migration</title>
+      <link>https://news.s3dat.com/stories/cloudflare-agents-pi-storage-migration</link>
+      <guid isPermaLink="true">https://news.s3dat.com/stories/cloudflare-agents-pi-storage-migration</guid>
+      <category>model APIs / agent frameworks</category>
+      <description>Cloudflare Agents 0.33.0 adds Pi 1.5 support, with a one-way conversation migration for developers using its Pi integration.</description>
+      <pubDate>Tue, 03 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OpenKruise Agents v0.6.0: governed agent sandboxes on Kubernetes at scale</title>
+      <link>https://www.cncf.io/blog/2026/11/03/openkruise-agents-v0-6-0-leaping-ahead-in-agent-sandbox-security-and-automation/</link>
+      <guid isPermaLink="true">https://www.cncf.io/blog/2026/11/03/openkruise-agents-v0-6-0-leaping-ahead-in-agent-sandbox-security-and-automation/</guid>
+      <category>model APIs / agent frameworks</category>
+      <description>OpenKruise Agents v0.6.0 manages AI agent sandboxes on Kubernetes at scale, keeping API keys out of the sandbox with credential injection.</description>
+      <pubDate>Tue, 03 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Platformr adds Optics Tag Manager agent and Remote MCP Server for AWS governance</title>
+      <link>https://www.morningstar.com/news/pr-newswire/20261103sf85830/platformr-expands-optics-ai-suite-with-tag-manager-and-an-mcp-server-bringing-conversational-aws-governance-to-every-ai-workflow</link>
+      <guid isPermaLink="true">https://www.morningstar.com/news/pr-newswire/20261103sf85830/platformr-expands-optics-ai-suite-with-tag-manager-and-an-mcp-server-bringing-conversational-aws-governance-to-every-ai-workflow</guid>
+      <category>file-governance / agent rails</category>
+      <description>Platformr added an AI Tag Manager and an MCP server so cloud teams can audit and apply AWS resource tags in plain English.</description>
+      <pubDate>Tue, 03 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Fal doubles valuation to $16B with $1.3B Series F for AI inference</title>
       <link>https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/</guid>
       <category>agent-startup funding</category>
-      <description>AI inference startup Fal raised $1.3 billion at a $16 billion valuation, double its April valuation, as demand for running AI models surges.</description>
+      <description>Fal doubles valuation to $16B with $1.3B Series F for AI inference</description>
       <pubDate>Tue, 03 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -19,7 +67,7 @@
       <link>https://www.globenewswire.com/news-release/2026/11/03/3394279/0/en/menlo-ventures-2026-state-of-enterprise-ai-report-enterprise-ai-spending-hits-177b-up-5-4x-in-one-year-as-agents-take-over.html</link>
       <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/11/03/3394279/0/en/menlo-ventures-2026-state-of-enterprise-ai-report-enterprise-ai-spending-hits-177b-up-5-4x-in-one-year-as-agents-take-over.html</guid>
       <category>agent-startup funding</category>
-      <description>Enterprise AI spending reached $176.8 billion this year, up more than fivefold, according to Menlo Ventures' 2026 State of Enterprise AI report.</description>
+      <description>Menlo Ventures: enterprise AI spending hit $176.8B, up 5.4x in a year, as agents take over</description>
       <pubDate>Tue, 03 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -27,7 +75,7 @@
       <link>https://www.fireblocks.com/blog/agent-economy-numbers-x402-data</link>
       <guid isPermaLink="true">https://www.fireblocks.com/blog/agent-economy-numbers-x402-data</guid>
       <category>agentic commerce rails</category>
-      <description>A new Fireblocks analysis finds x402 agent payments total 196 million transactions, but recent monthly volume is far below last year's peak.</description>
+      <description>Fireblocks: x402's headline counts overstate real agent commerce</description>
       <pubDate>Tue, 03 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -35,7 +83,7 @@
       <link>https://www.todaysstartupnews.com/funding/cyberkord-raises-2-7m-pre-seed-ai-it-cybersecurity-automation</link>
       <guid isPermaLink="true">https://www.todaysstartupnews.com/funding/cyberkord-raises-2-7m-pre-seed-ai-it-cybersecurity-automation</guid>
       <category>agent-startup funding</category>
-      <description>Milan startup CyberKord raised €2.7 million to build an AI platform that investigates and fixes IT and security issues on its own.</description>
+      <description>CyberKord raises €2.7M pre-seed for an AI that investigates and fixes IT issues on its own</description>
       <pubDate>Tue, 03 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -43,7 +91,7 @@
       <link>https://tech.eu/2026/11/03/portuguese-ai-startup-granter-bags-eur16m-to-expand-across-europe/</link>
       <guid isPermaLink="true">https://tech.eu/2026/11/03/portuguese-ai-startup-granter-bags-eur16m-to-expand-across-europe/</guid>
       <category>agent-startup funding</category>
-      <description>Portuguese startup Granter raised €1.6 million to expand its AI platform that helps businesses find and manage European public funding.</description>
+      <description>Granter raises €1.6M to expand its AI public-funding platform across Europe</description>
       <pubDate>Tue, 03 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -51,7 +99,7 @@
       <link>https://www.finsmes.com/2026/11/guava-raises-12-5m-in-seed-funding.html</link>
       <guid isPermaLink="true">https://www.finsmes.com/2026/11/guava-raises-12-5m-in-seed-funding.html</guid>
       <category>agent-startup funding</category>
-      <description>Guava raised $12.5M in seed funding to build a developer platform for AI voice agents that handle customer calls, scheduling, and live support.</description>
+      <description>Guava raises $12.5M seed for a developer platform for AI voice agents</description>
       <pubDate>Tue, 03 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -59,7 +107,7 @@
       <link>https://www.therecursive.com/polish-e2e-raises-eur7m-to-develop-ai-powered-software-testing/</link>
       <guid isPermaLink="true">https://www.therecursive.com/polish-e2e-raises-eur7m-to-develop-ai-powered-software-testing/</guid>
       <category>agent-startup funding</category>
-      <description>e2e raised €7M in seed funding for an open-source framework that tests web and mobile apps in the age of AI agents, after passing 1 million downloads in its first month.</description>
+      <description>e2e raises €7M seed for an open-source framework testing apps in the age of AI agents</description>
       <pubDate>Tue, 03 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -67,7 +115,7 @@
       <link>https://lifenewsagency.com/ai-start-up-trajectory-raises-us45-million-to-let-specialists-retrain-models-themselves/</link>
       <guid isPermaLink="true">https://lifenewsagency.com/ai-start-up-trajectory-raises-us45-million-to-let-specialists-retrain-models-themselves/</guid>
       <category>agent-startup funding</category>
-      <description>Trajectory raised $45M at a $300M valuation for a platform that lets specialists continually retrain AI models on their own mistakes.</description>
+      <description>Trajectory raises $45M Series A at $300M valuation for continual-learning post-training</description>
       <pubDate>Tue, 03 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -75,7 +123,7 @@
       <link>https://www.technology.org/2026/11/03/mistral-large-4-open-weights-hugging-face-modified-mit/</link>
       <guid isPermaLink="true">https://www.technology.org/2026/11/03/mistral-large-4-open-weights-hugging-face-modified-mit/</guid>
       <category>model APIs</category>
-      <description>Mistral released the open weights of Large 4, a roughly 1-trillion-parameter multimodal model with a 1-million-token context window.</description>
+      <description>Mistral Large 4 goes open weight: ~1T-parameter multimodal model, 1M-token context</description>
       <pubDate>Tue, 03 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -83,7 +131,7 @@
       <link>https://explainx.ai/blog/nvidia-auto-ontology-open-source-context-layer-agents-mcp-text-to-sql-2026</link>
       <guid isPermaLink="true">https://explainx.ai/blog/nvidia-auto-ontology-open-source-context-layer-agents-mcp-text-to-sql-2026</guid>
       <category>model APIs / agent frameworks</category>
-      <description>NVIDIA published Auto Ontology, an open-source framework that builds a business-meaning layer over company databases for AI agents to use.</description>
+      <description>NVIDIA publishes Auto Ontology, an open-source agent context layer over MCP</description>
       <pubDate>Tue, 03 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -91,7 +139,7 @@
       <link>http://business.theantlersamerican.com/theantlersamerican/article/bizwire-2026-11-3-snowflake-helps-enterprises-deploy-ai-agents-with-trusted-business-context-and-built-in-controls</link>
       <guid isPermaLink="true">http://business.theantlersamerican.com/theantlersamerican/article/bizwire-2026-11-3-snowflake-helps-enterprises-deploy-ai-agents-with-trusted-business-context-and-built-in-controls</guid>
       <category>file-governance / agent data</category>
-      <description>Snowflake launched Business Ontology and Cortex AI Gateway to give AI agents approved business definitions and one governed front door for data access.</description>
+      <description>Snowflake launches Business Ontology and Cortex AI Gateway for governed agent context</description>
       <pubDate>Tue, 03 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -147,7 +195,7 @@
       <link>https://www.pymnts.com/news/artificial-intelligence/2026/casap-raises-56-million-for-agentic-ai-financial-services/</link>
       <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/casap-raises-56-million-for-agentic-ai-financial-services/</guid>
       <category>agent-startup funding</category>
-      <description>Casap raises $56M Series B for agentic AI financial services</description>
+      <description>Casap raised $56M Series B for AI agents that investigate fraud and disputes inside banks' existing systems.</description>
       <pubDate>Mon, 02 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -155,7 +203,7 @@
       <link>https://www.swarms.ai/blog/swarms-v17-interlink-release</link>
       <guid isPermaLink="true">https://www.swarms.ai/blog/swarms-v17-interlink-release</guid>
       <category>agent frameworks</category>
-      <description>Swarms v17 'InterLink': channels, phased fan-out workflows, and a 0.28s import</description>
+      <description>Swarms shipped v17 'InterLink', adding shared channels for agent conversations and faster large fan-outs.</description>
       <pubDate>Mon, 02 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -163,7 +211,7 @@
       <link>https://msdynamicsworld.com/story/delinea-fastpath-deploys-fastpath-mcp-server-ai-readiness-access-governance-and-audits</link>
       <guid isPermaLink="true">https://msdynamicsworld.com/story/delinea-fastpath-deploys-fastpath-mcp-server-ai-readiness-access-governance-and-audits</guid>
       <category>file-governance / agent data</category>
-      <description>Delinea Fastpath launches a read-only MCP server for access governance and audits</description>
+      <description>Delinea Fastpath launched a read-only MCP server so AI assistants can answer access-governance and audit questions under existing controls.</description>
       <pubDate>Mon, 02 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -171,7 +219,7 @@
       <link>https://opentools.ai/news/runway-dev-coding-agent-plugins-account-model-limits-sdk-skills</link>
       <guid isPermaLink="true">https://opentools.ai/news/runway-dev-coding-agent-plugins-account-model-limits-sdk-skills</guid>
       <category>model APIs / agent frameworks</category>
-      <description>Runway Dev plugins give coding agents account-aware API guidance</description>
+      <description>Runway Dev plugins for Claude Code, Codex and Cursor let coding agents see project access, model prices and remaining credits before building.</description>
       <pubDate>Mon, 02 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -179,7 +227,7 @@
       <link>https://agenteconomy.to/stats/is-x402-growing</link>
       <guid isPermaLink="true">https://agenteconomy.to/stats/is-x402-growing</guid>
       <category>agentic commerce rails</category>
-      <description>Is x402 actually growing? Counts 91% below the Dec 2025 peak, average payment down to ~$0.054</description>
+      <description>New on-chain data shows x402 agent payments are steady in count but far below their late-2025 peak, with the average payment down to about five cents.</description>
       <pubDate>Mon, 02 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -187,7 +235,7 @@
       <link>https://overads.io/blog/social-platform-pricing-and-policy-changes</link>
       <guid isPermaLink="true">https://overads.io/blog/social-platform-pricing-and-policy-changes</guid>
       <category>WhatsApp/Meta dev</category>
-      <description>Meta Marketing API v24.0 stops being available November 10, 2026</description>
+      <description>Meta's Marketing API v24.0 stops being available November 10, 2026 — check API versions before that date.</description>
       <pubDate>Mon, 02 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -195,7 +243,7 @@
       <link>https://www.unite.ai/larridin-30-million-series-a-ai-spending-workforce-impact/</link>
       <guid isPermaLink="true">https://www.unite.ai/larridin-30-million-series-a-ai-spending-workforce-impact/</guid>
       <category>agent-startup funding</category>
-      <description>Larridin raises $30M Series A to measure AI spending and workforce impact</description>
+      <description>Larridin raised $30M Series A to measure what companies' AI spending actually buys across human and agent work, tracking over 2 billion AI sessions.</description>
       <pubDate>Mon, 02 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -203,7 +251,7 @@
       <link>https://saudishopper.com.sa/en/zoho-analytics-agentic-intelligence-engine-launch/</link>
       <guid isPermaLink="true">https://saudishopper.com.sa/en/zoho-analytics-agentic-intelligence-engine-launch/</guid>
       <category>file-governance / agent data</category>
-      <description>Zoho Analytics adds an agentic intelligence engine with semantic layers and MCP support</description>
+      <description>Zoho Analytics added an agentic intelligence layer that lets AI agents read company data with built-in permissions and audit trails, plus MCP support.</description>
       <pubDate>Mon, 02 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -211,7 +259,7 @@
       <link>https://pondero.ai/news/2026-11-02-openai-decisions-api-ga/</link>
       <guid isPermaLink="true">https://pondero.ai/news/2026-11-02-openai-decisions-api-ga/</guid>
       <category>model APIs</category>
-      <description>OpenAI's Decisions API exits beta into general availability, Datadog reporting 40x faster risk checks</description>
+      <description>OpenAI's Decisions API is now generally available, letting developers screen risky agent actions fast — Datadog reports 40x faster risk checks.</description>
       <pubDate>Mon, 02 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -219,7 +267,7 @@
       <link>https://tech-insider.org/au/build-kimi-k3-1-pro-agent-2026-2/</link>
       <guid isPermaLink="true">https://tech-insider.org/au/build-kimi-k3-1-pro-agent-2026-2/</guid>
       <category>model APIs / agent frameworks</category>
-      <description>Kimi K3.1 Pro put to work as a code-audit agent: 1M-token context, full weights promised by Nov 4</description>
+      <description>Moonshot's Kimi K3.1 Pro, a flagship model with a 1-million-token context window, can now run as a code-audit agent, with full weights promised by Nov 4.</description>
       <pubDate>Mon, 02 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -227,7 +275,7 @@
       <link>https://vibecoding.app/best/ai-coding-tools</link>
       <guid isPermaLink="true">https://vibecoding.app/best/ai-coding-tools</guid>
       <category>Base44 / no-code ecosystem</category>
-      <description>Vibe-coding roundup re-verifies Base44 pricing on Nov 2: free tier, Starter $20/mo, Elite $200/mo</description>
+      <description>A November 2 roundup re-checks Base44 pricing: free with limited credits, Starter at $20 a month, Elite at $200, with GitHub sync on paid tiers.</description>
       <pubDate>Mon, 02 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -235,7 +283,7 @@
       <link>https://pulse2.com/easol-raises-30-million-series-a-extension-and-launches-agentic-ai-platform-for-experience-businesses/</link>
       <guid isPermaLink="true">https://pulse2.com/easol-raises-30-million-series-a-extension-and-launches-agentic-ai-platform-for-experience-businesses/</guid>
       <category>agent-startup funding</category>
-      <description>Easol raises $30M Series A extension and launches Teammates, an agentic AI system for experience businesses</description>
+      <description>Easol raised $30M to launch Teammates, an agentic AI system that helps festivals, retreats and venues automate sales, support and operations.</description>
       <pubDate>Mon, 02 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -243,7 +291,7 @@
       <link>https://agenteconomy.to/x402</link>
       <guid isPermaLink="true">https://agenteconomy.to/x402</guid>
       <category>agentic commerce rails</category>
-      <description>x402 totals hit 196,254,391 settled payments and $42.3M volume as of Nov 2</description>
+      <description>A live tracker counts over 196 million x402 payments settled and $42.3 million in volume as of November 2, with Base the largest chain.</description>
       <pubDate>Mon, 02 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -251,7 +299,7 @@
       <link>https://superpowerdaily.com/posts/meituan-releases-longcat-2-5-an-ai-model-aimed-at-whole-software-projects</link>
       <guid isPermaLink="true">https://superpowerdaily.com/posts/meituan-releases-longcat-2-5-an-ai-model-aimed-at-whole-software-projects</guid>
       <category>model APIs</category>
-      <description>Meituan releases LongCat-2.5, a multimodal model aimed at whole software projects</description>
+      <description>Meituan released LongCat-2.5, a multimodal coding model aimed at whole software projects, compatible with Claude Code, Codex and Hermes harnesses.</description>
       <pubDate>Mon, 02 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -259,7 +307,7 @@
       <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/</link>
       <guid isPermaLink="true">https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/</guid>
       <category>model APIs / agent frameworks</category>
-      <description>AWS weekly roundup: GPT-6.1 Terra generally available on Bedrock, Step Functions now usable as agent tools</description>
+      <description>OpenAI's GPT-6.1 Terra is now generally available on Amazon Bedrock, and AWS Step Functions workflows can now be handed to agents as tools.</description>
       <pubDate>Mon, 02 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -267,7 +315,7 @@
       <link>https://wisevoter.com/world/us/2026/11/02/instinct-ai-agent-whatsapp-service-outage</link>
       <guid isPermaLink="true">https://wisevoter.com/world/us/2026/11/02/instinct-ai-agent-whatsapp-service-outage</guid>
       <category>Base44/Instinct ecosystem</category>
-      <description>Instinct's WhatsApp replies halted briefly on the morning of Nov 2</description>
+      <description>Instinct's WhatsApp replies stopped briefly on the morning of Nov 2 after a configuration issue interrupted a vendor payment; service has been restored.</description>
       <pubDate>Mon, 02 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -275,7 +323,7 @@
       <link>https://www.unite.ai/clark-raises-11m-seed-to-bring-ai-audit-employees-to-more-cpa-firms/</link>
       <guid isPermaLink="true">https://www.unite.ai/clark-raises-11m-seed-to-bring-ai-audit-employees-to-more-cpa-firms/</guid>
       <category>agent-startup funding</category>
-      <description>Clark raises $11M seed for AI audit employees for CPA firms</description>
+      <description>Clark raised $11M to bring AI audit employees to more CPA firms, with 35 firms already using its autonomous audit agents.</description>
       <pubDate>Mon, 02 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -283,7 +331,7 @@
       <link>https://medium.com/@cryptomoneymakr/state-of-x402-november-2026-uptime-prices-latency-ee2a34422a56</link>
       <guid isPermaLink="true">https://medium.com/@cryptomoneymakr/state-of-x402-november-2026-uptime-prices-latency-ee2a34422a56</guid>
       <category>agentic commerce rails</category>
-      <description>State of x402, November 2026: 372 listings checked, 97.4% online, $0.01 median price</description>
+      <description>A November check of 372 x402 agent-payment listings found 97.4% online, with a median price of one cent per API call.</description>
       <pubDate>Mon, 02 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -291,7 +339,7 @@
       <link>https://tech-insider.org/deepseek-super-agent-open-source-prototype-dsh-superagent-2026/</link>
       <guid isPermaLink="true">https://tech-insider.org/deepseek-super-agent-open-source-prototype-dsh-superagent-2026/</guid>
       <category>model APIs</category>
-      <description>DeepSeek open-sources dsh-superagent, a router-worker coding agent prototype</description>
+      <description>DeepSeek open-sourced a coding agent prototype under the MIT license that watches a repo and answers with pull requests.</description>
       <pubDate>Mon, 02 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -299,7 +347,7 @@
       <link>https://explainx.ai/catch-up-on-ai/2026-11-02</link>
       <guid isPermaLink="true">https://explainx.ai/catch-up-on-ai/2026-11-02</guid>
       <category>model APIs</category>
-      <description>SemiAnalysis launches GDPx benchmark: best agent scores 12%, models break rules in 98% of cyber runs</description>
+      <description>A new 206-task agentic benchmark finds the best AI agent scores just 12%, with models breaking rules in 98% of cyber runs.</description>
       <pubDate>Mon, 02 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -307,7 +355,7 @@
       <link>https://chatmaxima.com/blog/whatsapp-business-updates/</link>
       <guid isPermaLink="true">https://chatmaxima.com/blog/whatsapp-business-updates/</guid>
       <category>WhatsApp/Meta dev</category>
-      <description>WhatsApp Business updates refreshed Nov 2: Embedded Signup v4, BSUID webhooks, India INR deadline</description>
+      <description>WhatsApp Business update: Embedded Signup v2 and v3 are retired, new integrations must use v4, and India accounts must move to rupee billing by Dec 31.</description>
       <pubDate>Mon, 02 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -315,7 +363,7 @@
       <link>https://www.tipranks.com/news/private-companies/databricks-demonstrates-governance-tools-for-enterprise-ai-agents</link>
       <guid isPermaLink="true">https://www.tipranks.com/news/private-companies/databricks-demonstrates-governance-tools-for-enterprise-ai-agents</guid>
       <category>agent governance</category>
-      <description>Databricks demonstrates governance tools for enterprise AI agents</description>
+      <description>Databricks showed governance tools for enterprise AI agents, including a gateway that blocks requests violating company policy.</description>
       <pubDate>Mon, 02 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -323,7 +371,7 @@
       <link>https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=177319</link>
       <guid isPermaLink="true">https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=177319</guid>
       <category>agent frameworks</category>
-      <description>ZoomInfo launches MCP connector and API on Snowflake</description>
+      <description>ZoomInfo launched an MCP connector on Snowflake, letting AI agents query company data inside the warehouse under existing permissions.</description>
       <pubDate>Mon, 02 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -331,7 +379,7 @@
       <link>https://tech-insider.org/marble-cognition-3-75m-pre-seed-ai-coworkers-munich-2026/</link>
       <guid isPermaLink="true">https://tech-insider.org/marble-cognition-3-75m-pre-seed-ai-coworkers-munich-2026/</guid>
       <category>agent-startup funding</category>
-      <description>Marble Cognition raises $3.75M pre-seed for AI coworkers that learn jobs by watching employees work</description>
+      <description>Marble Cognition raised $3.75M to build AI coworkers that learn how a company works by watching employees do their jobs.</description>
       <pubDate>Mon, 02 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -339,7 +387,7 @@
       <link>https://www.finsmes.com/2026/11/roleo-raises-e2-9m-in-funding.html</link>
       <guid isPermaLink="true">https://www.finsmes.com/2026/11/roleo-raises-e2-9m-in-funding.html</guid>
       <category>agent-startup funding</category>
-      <description>Roleo raises €2.9M for a personal AI career agent for tech professionals</description>
+      <description>Roleo raised €2.9M for a personal AI career agent that finds tech jobs matching a user's experience, goals and salary expectations.</description>
       <pubDate>Mon, 02 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -347,7 +395,7 @@
       <link>https://www.kucoin.com/news/flash/xrp-ledger-ai-payments-near-15-million-as-average-transaction-value-stays-below-one-cent</link>
       <guid isPermaLink="true">https://www.kucoin.com/news/flash/xrp-ledger-ai-payments-near-15-million-as-average-transaction-value-stays-below-one-cent</guid>
       <category>agentic commerce rails</category>
-      <description>XRP Ledger AI payments near 15 million, but total value settled stays under $50,000</description>
+      <description>AI-agent payments on the XRP Ledger are nearing 15 million, though total value settled is still under $50,000 — about a third of a cent each.</description>
       <pubDate>Mon, 02 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -355,56 +403,8 @@
       <link>https://www.communeify.com/en/blog/ai-daily-2026-11-02/</link>
       <guid isPermaLink="true">https://www.communeify.com/en/blog/ai-daily-2026-11-02/</guid>
       <category>model APIs</category>
-      <description>Apple Intelligence launches in China in December powered by Alibaba's Qwen; iOS 27.3 dev beta November 4</description>
+      <description>Apple Intelligence arrives in China this December powered by Alibaba's Qwen models, with the iOS 27.3 developer beta starting November 4.</description>
       <pubDate>Mon, 02 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Litera integrates Box into its Lito legal AI agent over MCP</title>
-      <link>https://www.businesswire.com/news/home/20261102294666/en/Litera-Integrates-with-Box-Bringing-Secure-Enterprise-Content-into-the-Workflows-Lawyers-Rely-on-Most</link>
-      <guid isPermaLink="true">https://www.businesswire.com/news/home/20261102294666/en/Litera-Integrates-with-Box-Bringing-Secure-Enterprise-Content-into-the-Workflows-Lawyers-Rely-on-Most</guid>
-      <category>file-governance</category>
-      <description>Litera integrates Box into its Lito legal AI agent over MCP</description>
-      <pubDate>Mon, 02 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Agent Framework October 2026: Python 1.24, .NET 1.25, Harness agent, Go preview; AutoGen archived</title>
-      <link>https://www.developersdigest.tech/blog/microsoft-agent-framework-whats-new-2026</link>
-      <guid isPermaLink="true">https://www.developersdigest.tech/blog/microsoft-agent-framework-whats-new-2026</guid>
-      <category>agent frameworks</category>
-      <description>Microsoft Agent Framework October 2026: Python 1.24, .NET 1.25, Harness agent, Go preview; AutoGen archived</description>
-      <pubDate>Mon, 02 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Fortinet launches FortiGuard Inline AI Security for FortiGate firewalls</title>
-      <link>https://apacnewsnetwork.com/2026/11/fortinet-adds-ai-security-checks-to-fortigate-firewalls-whats-new/</link>
-      <guid isPermaLink="true">https://apacnewsnetwork.com/2026/11/fortinet-adds-ai-security-checks-to-fortigate-firewalls-whats-new/</guid>
-      <category>agent governance</category>
-      <description>Fortinet launches FortiGuard Inline AI Security for FortiGate firewalls</description>
-      <pubDate>Mon, 02 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OpenAI cuts funding target to $20B from $30B as investors cool on AI spend</title>
-      <link>https://www.thebrief.news/en/standard/article/38619/openai-cuts-its-current-funding-target-to-20-billion</link>
-      <guid isPermaLink="true">https://www.thebrief.news/en/standard/article/38619/openai-cuts-its-current-funding-target-to-20-billion</guid>
-      <category>agent-startup funding</category>
-      <description>OpenAI cuts funding target to $20B from $30B as investors cool on AI spend</description>
-      <pubDate>Sun, 01 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Lumaril raises $66M Series A at $400M valuation for AI on factory control systems</title>
-      <link>https://completeaitraining.com/news/lumaril-raises-66-million-at-a-400-million-valuation-for-ai/</link>
-      <guid isPermaLink="true">https://completeaitraining.com/news/lumaril-raises-66-million-at-a-400-million-valuation-for-ai/</guid>
-      <category>agent-startup funding</category>
-      <description>Lumaril raises $66M Series A at $400M valuation for AI on factory control systems</description>
-      <pubDate>Sun, 01 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek launches coding agent aimed at Anthropic's Claude</title>
-      <link>https://emergent.sh/news/deepseek-coding-agent-launches-challenge</link>
-      <guid isPermaLink="true">https://emergent.sh/news/deepseek-coding-agent-launches-challenge</guid>
-      <category>model APIs</category>
-      <description>DeepSeek launches coding agent aimed at Anthropic's Claude</description>
-      <pubDate>Sun, 01 Nov 2026 21:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
