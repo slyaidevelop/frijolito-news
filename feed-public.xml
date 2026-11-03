@@ -5,7 +5,55 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Mintive raises $7M seed led by Cowboy Ventures for AI agent identity</title>
+      <link>https://www.yourinfodaily.com/p/mintive-raises-7m-seed-led-by-cowboy-ventures-for-ai-agent-identity</link>
+      <guid isPermaLink="true">https://www.yourinfodaily.com/p/mintive-raises-7m-seed-led-by-cowboy-ventures-for-ai-agent-identity</guid>
+      <category>agent-startup funding</category>
+      <description>Mintive raised a $7M seed round led by Cowboy Ventures to build identity and governance infrastructure for enterprise AI agents.</description>
+      <pubDate>Tue, 03 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Manicule raises $1.3M seed co-led by Y Combinator for 'Agent Relations'</title>
+      <link>https://newzchain.com/manicule-raises-1-3m-seed-from-y-combinator-broom-ventures/</link>
+      <guid isPermaLink="true">https://newzchain.com/manicule-raises-1-3m-seed-from-y-combinator-broom-ventures/</guid>
+      <category>agent-startup funding</category>
+      <description>Manicule raised $1.3M in seed funding co-led by Y Combinator to help AI agents discover and recommend software products.</description>
+      <pubDate>Tue, 03 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Anthropic opens Message Threads in public beta for long-running agents</title>
+      <link>https://www.unite.ai/anthropic-launches-message-threads-beta-for-long-running-agents/</link>
+      <guid isPermaLink="true">https://www.unite.ai/anthropic-launches-message-threads-beta-for-long-running-agents/</guid>
+      <category>model APIs</category>
+      <description>Anthropic opened Message Threads in public beta, letting apps send a conversation once and then only new messages, cutting wait times on long sessions by about 35%.</description>
+      <pubDate>Tue, 03 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>NinjaOne launches Katana AI and a governed MCP server for IT operations</title>
+      <link>https://www.storagenewsletter.com/2026/11/03/ninjaone-brings-governed-agentic-ai-to-unified-it-operations-with-katana-ai-and-mcp/</link>
+      <guid isPermaLink="true">https://www.storagenewsletter.com/2026/11/03/ninjaone-brings-governed-agentic-ai-to-unified-it-operations-with-katana-ai-and-mcp/</guid>
+      <category>file-governance / agent data</category>
+      <description>NinjaOne launched Katana AI, an agentic IT technician, and an MCP server that gives external AI agents governed access to IT operations.</description>
+      <pubDate>Tue, 03 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>The x402 recourse gap: stablecoin payments are final, agents don't ask for refunds</title>
+      <link>https://research.appliedidentities.com/economy/2026-11-02/</link>
+      <guid isPermaLink="true">https://research.appliedidentities.com/economy/2026-11-02/</guid>
+      <category>agentic commerce rails</category>
+      <description>A new report warns that stablecoin payments made by AI agents are final with no built-in way to reverse a bad charge, and calls for machine-native refund rules.</description>
+      <pubDate>Tue, 03 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Atom lets AI agents buy domains with USDC via x402</title>
+      <link>https://stablecoininsider.org/atom-x402/</link>
+      <guid isPermaLink="true">https://stablecoininsider.org/atom-x402/</guid>
+      <category>agentic commerce rails</category>
+      <description>Atom now lets AI agents buy domain names with USDC over the x402 payment standard, capturing funds only after registration succeeds.</description>
+      <pubDate>Tue, 03 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Casap raises $56M Series B for agentic AI financial services</title>
       <link>https://www.pymnts.com/news/artificial-intelligence/2026/casap-raises-56-million-for-agentic-ai-financial-services/</link>
@@ -357,54 +405,6 @@
       <category>agentic commerce rails</category>
       <description>Card networks back x402 despite its dispute gap: no built-in way to reverse a bad agent payment</description>
       <pubDate>Sun, 01 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Oct 31 open-source radar: Lightpanda, a browser built for agents, and OpenBot's policy gateway</title>
-      <link>https://siliconnoon.com/open-source-radar-october-31-lightpanda-a-browser-for-agents/</link>
-      <guid isPermaLink="true">https://siliconnoon.com/open-source-radar-october-31-lightpanda-a-browser-for-agents/</guid>
-      <category>agent frameworks / file-governance</category>
-      <description>Oct 31 open-source radar: Lightpanda, a browser built for agents, and OpenBot's policy gateway</description>
-      <pubDate>Sun, 01 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek open-sources dsh-superagent, a router–worker super-agent prototype for always-on coding agents</title>
-      <link>https://chinamodelapi.com/news/deepseek-superagent-open-source</link>
-      <guid isPermaLink="true">https://chinamodelapi.com/news/deepseek-superagent-open-source</guid>
-      <category>model APIs / agent frameworks</category>
-      <description>DeepSeek open-sources dsh-superagent, a router–worker super-agent prototype for always-on coding agents</description>
-      <pubDate>Sun, 01 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>October at Agentic Finance Graph: 2.36M counted agent payments worth $9.09M, signed passes, Merkle-sum ledger</title>
-      <link>https://dev.to/agenticfinancegraph/october-at-agentic-finance-graph-signed-passes-a-merkle-sum-ledger-and-the-corrections-we-made-2jf8</link>
-      <guid isPermaLink="true">https://dev.to/agenticfinancegraph/october-at-agentic-finance-graph-signed-passes-a-merkle-sum-ledger-and-the-corrections-we-made-2jf8</guid>
-      <category>agentic commerce rails</category>
-      <description>October at Agentic Finance Graph: 2.36M counted agent payments worth $9.09M, signed passes, Merkle-sum ledger</description>
-      <pubDate>Sun, 01 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>An honest x402 seller earned $0.18 in two weeks and shut down; its host now offers free hosting for sellers like it</title>
-      <link>https://modelmarket.dev/blog/an-honest-x402-seller-earned-018-in-two-weeks-and-shut-down-we-now-host-sellers-like-it-for-free/</link>
-      <guid isPermaLink="true">https://modelmarket.dev/blog/an-honest-x402-seller-earned-018-in-two-weeks-and-shut-down-we-now-host-sellers-like-it-for-free/</guid>
-      <category>agentic commerce rails</category>
-      <description>An honest x402 seller earned $0.18 in two weeks and shut down; its host now offers free hosting for sellers like it</description>
-      <pubDate>Sun, 01 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Context Labs launches AI Distillery: run AI on company data with cryptographic provenance, without surrendering the data</title>
-      <link>https://morningtick.com/post/context-labs-unveils-tool-run-ai-company-owned-data/</link>
-      <guid isPermaLink="true">https://morningtick.com/post/context-labs-unveils-tool-run-ai-company-owned-data/</guid>
-      <category>file-governance</category>
-      <description>Context Labs launches AI Distillery: run AI on company data with cryptographic provenance, without surrendering the data</description>
-      <pubDate>Sun, 01 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OpenAI Evals goes read-only Oct 31 ahead of Nov 30 shutdown; Computer Use reaches general availability</title>
-      <link>https://agrawalparth.medium.com/ai-agents-need-six-gates-nano-banana-2-1-openai-evals-and-gemini-computer-use-14ca611d5f1b</link>
-      <guid isPermaLink="true">https://agrawalparth.medium.com/ai-agents-need-six-gates-nano-banana-2-1-openai-evals-and-gemini-computer-use-14ca611d5f1b</guid>
-      <category>model APIs / agent frameworks</category>
-      <description>OpenAI Evals goes read-only Oct 31 ahead of Nov 30 shutdown; Computer Use reaches general availability</description>
-      <pubDate>Sun, 01 Nov 2026 12:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
