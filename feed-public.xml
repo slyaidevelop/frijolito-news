@@ -5,7 +5,55 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Casap raises $56M Series B for agentic AI financial services</title>
+      <link>https://www.pymnts.com/news/artificial-intelligence/2026/casap-raises-56-million-for-agentic-ai-financial-services/</link>
+      <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/casap-raises-56-million-for-agentic-ai-financial-services/</guid>
+      <category>agent-startup funding</category>
+      <description>Casap raised $56M Series B for AI agents that investigate fraud and disputes inside banks' existing systems.</description>
+      <pubDate>Mon, 02 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Swarms v17 'InterLink': channels, phased fan-out workflows, and a 0.28s import</title>
+      <link>https://www.swarms.ai/blog/swarms-v17-interlink-release</link>
+      <guid isPermaLink="true">https://www.swarms.ai/blog/swarms-v17-interlink-release</guid>
+      <category>agent frameworks</category>
+      <description>Swarms shipped v17 'InterLink', adding shared channels for agent conversations and faster large fan-outs.</description>
+      <pubDate>Mon, 02 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Delinea Fastpath launches a read-only MCP server for access governance and audits</title>
+      <link>https://msdynamicsworld.com/story/delinea-fastpath-deploys-fastpath-mcp-server-ai-readiness-access-governance-and-audits</link>
+      <guid isPermaLink="true">https://msdynamicsworld.com/story/delinea-fastpath-deploys-fastpath-mcp-server-ai-readiness-access-governance-and-audits</guid>
+      <category>file-governance / agent data</category>
+      <description>Delinea Fastpath launched a read-only MCP server so AI assistants can answer access-governance and audit questions under existing controls.</description>
+      <pubDate>Mon, 02 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Runway Dev plugins give coding agents account-aware API guidance</title>
+      <link>https://opentools.ai/news/runway-dev-coding-agent-plugins-account-model-limits-sdk-skills</link>
+      <guid isPermaLink="true">https://opentools.ai/news/runway-dev-coding-agent-plugins-account-model-limits-sdk-skills</guid>
+      <category>model APIs / agent frameworks</category>
+      <description>Runway Dev plugins for Claude Code, Codex and Cursor let coding agents see project access, model prices and remaining credits before building.</description>
+      <pubDate>Mon, 02 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Is x402 actually growing? Counts 91% below the Dec 2025 peak, average payment down to ~$0.054</title>
+      <link>https://agenteconomy.to/stats/is-x402-growing</link>
+      <guid isPermaLink="true">https://agenteconomy.to/stats/is-x402-growing</guid>
+      <category>agentic commerce rails</category>
+      <description>New on-chain data shows x402 agent payments are steady in count but far below their late-2025 peak, with the average payment down to about five cents.</description>
+      <pubDate>Mon, 02 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Meta Marketing API v24.0 stops being available November 10, 2026</title>
+      <link>https://overads.io/blog/social-platform-pricing-and-policy-changes</link>
+      <guid isPermaLink="true">https://overads.io/blog/social-platform-pricing-and-policy-changes</guid>
+      <category>WhatsApp/Meta dev</category>
+      <description>Meta's Marketing API v24.0 stops being available November 10, 2026 — check API versions before that date.</description>
+      <pubDate>Mon, 02 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Larridin raises $30M Series A to measure AI spending and workforce impact</title>
       <link>https://www.unite.ai/larridin-30-million-series-a-ai-spending-workforce-impact/</link>
@@ -357,54 +405,6 @@
       <category>model APIs / agent frameworks</category>
       <description>OpenAI Evals goes read-only Oct 31 ahead of Nov 30 shutdown; Computer Use reaches general availability</description>
       <pubDate>Sun, 01 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek open-sources Super-Agent, a proactive coding agent, alongside a reported ~$15B raise</title>
-      <link>https://www.businesstoday.com.my/2026/11/01/deepseek-expands-ai-agent-ambitions-with-new-coding-prototype/</link>
-      <guid isPermaLink="true">https://www.businesstoday.com.my/2026/11/01/deepseek-expands-ai-agent-ambitions-with-new-coding-prototype/</guid>
-      <category>model APIs / agent frameworks</category>
-      <description>DeepSeek open-sourced Super-Agent, a proactive coding agent that watches developer chats and suggests fixes, alongside a reported $15 billion funding round ahead of a planned IPO.</description>
-      <pubDate>Sun, 01 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Zyrix launches ATLAS, an agent testing platform that issues an evidence-backed Go/No-Go before agents ship</title>
-      <link>https://express-press-release.net/news/2026/11/01/1779196</link>
-      <guid isPermaLink="true">https://express-press-release.net/news/2026/11/01/1779196</guid>
-      <category>agent governance</category>
-      <description>Zyrix launched ATLAS, a testing platform that checks what AI agents actually do and gives teams an evidence-backed go or no-go before they ship.</description>
-      <pubDate>Sun, 01 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Nov 1 builder roundup ranks Base44 top for a backend without configuring one</title>
-      <link>https://vibecoding.app/best/app-builders</link>
-      <guid isPermaLink="true">https://vibecoding.app/best/app-builders</guid>
-      <category>Base44/Instinct ecosystem</category>
-      <description>A November 1 roundup ranks Base44 top for non-coders wanting a full app backend without configuring one, with a free tier of 25 message credits a month.</description>
-      <pubDate>Sun, 01 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Causa Prima raises $20M seed to put AI agents on both sides of every invoice</title>
-      <link>https://disrupts.disruptsmedia.com/fintech/causa-prima-raises-20m-put-ai-agents-both-sides-every-invoice</link>
-      <guid isPermaLink="true">https://disrupts.disruptsmedia.com/fintech/causa-prima-raises-20m-put-ai-agents-both-sides-every-invoice</guid>
-      <category>agent-startup funding</category>
-      <description>Causa Prima raised $20M to put AI agents on both sides of every invoice, targeting inter-company settlement for businesses.</description>
-      <pubDate>Sat, 31 Oct 2026 19:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Phinity Labs raises $5.2M seed to build AI agents that design chips from text prompts</title>
-      <link>https://wisevoter.com/world/us/2026/10/31/phinity-labs-raises-5-2-million-ai-chip</link>
-      <guid isPermaLink="true">https://wisevoter.com/world/us/2026/10/31/phinity-labs-raises-5-2-million-ai-chip</guid>
-      <category>agent-startup funding</category>
-      <description>Phinity Labs raised $5.2M to build AI agents that design computer chips from text prompts.</description>
-      <pubDate>Sat, 31 Oct 2026 19:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Instinct reportedly raising at a ~$30B valuation, per investor disclosures</title>
-      <link>https://www.ababnews.com/en/news/ac9dc63e-c337-4a59-80d1-c22a9206a97f</link>
-      <guid isPermaLink="true">https://www.ababnews.com/en/news/ac9dc63e-c337-4a59-80d1-c22a9206a97f</guid>
-      <category>Base44/Instinct ecosystem</category>
-      <description>Instinct is reportedly raising a new round at a valuation of about $30 billion, up from $10 billion in September — unconfirmed by the company.</description>
-      <pubDate>Sat, 31 Oct 2026 19:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
