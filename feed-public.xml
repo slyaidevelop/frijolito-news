@@ -5,7 +5,47 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Larridin raises $30M Series A to measure AI spending and workforce impact</title>
+      <link>https://www.unite.ai/larridin-30-million-series-a-ai-spending-workforce-impact/</link>
+      <guid isPermaLink="true">https://www.unite.ai/larridin-30-million-series-a-ai-spending-workforce-impact/</guid>
+      <category>agent-startup funding</category>
+      <description>Larridin raised $30M Series A to measure what companies' AI spending actually buys across human and agent work, tracking over 2 billion AI sessions.</description>
+      <pubDate>Mon, 02 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Zoho Analytics adds an agentic intelligence engine with semantic layers and MCP support</title>
+      <link>https://saudishopper.com.sa/en/zoho-analytics-agentic-intelligence-engine-launch/</link>
+      <guid isPermaLink="true">https://saudishopper.com.sa/en/zoho-analytics-agentic-intelligence-engine-launch/</guid>
+      <category>file-governance / agent data</category>
+      <description>Zoho Analytics added an agentic intelligence layer that lets AI agents read company data with built-in permissions and audit trails, plus MCP support.</description>
+      <pubDate>Mon, 02 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OpenAI's Decisions API exits beta into general availability, Datadog reporting 40x faster risk checks</title>
+      <link>https://pondero.ai/news/2026-11-02-openai-decisions-api-ga/</link>
+      <guid isPermaLink="true">https://pondero.ai/news/2026-11-02-openai-decisions-api-ga/</guid>
+      <category>model APIs</category>
+      <description>OpenAI's Decisions API is now generally available, letting developers screen risky agent actions fast — Datadog reports 40x faster risk checks.</description>
+      <pubDate>Mon, 02 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kimi K3.1 Pro put to work as a code-audit agent: 1M-token context, full weights promised by Nov 4</title>
+      <link>https://tech-insider.org/au/build-kimi-k3-1-pro-agent-2026-2/</link>
+      <guid isPermaLink="true">https://tech-insider.org/au/build-kimi-k3-1-pro-agent-2026-2/</guid>
+      <category>model APIs / agent frameworks</category>
+      <description>Moonshot's Kimi K3.1 Pro, a flagship model with a 1-million-token context window, can now run as a code-audit agent, with full weights promised by Nov 4.</description>
+      <pubDate>Mon, 02 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Vibe-coding roundup re-verifies Base44 pricing on Nov 2: free tier, Starter $20/mo, Elite $200/mo</title>
+      <link>https://vibecoding.app/best/ai-coding-tools</link>
+      <guid isPermaLink="true">https://vibecoding.app/best/ai-coding-tools</guid>
+      <category>Base44 / no-code ecosystem</category>
+      <description>A November 2 roundup re-checks Base44 pricing: free with limited credits, Starter at $20 a month, Elite at $200, with GitHub sync on paid tiers.</description>
+      <pubDate>Mon, 02 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Easol raises $30M Series A extension and launches Teammates, an agentic AI system for experience businesses</title>
       <link>https://pulse2.com/easol-raises-30-million-series-a-extension-and-launches-agentic-ai-platform-for-experience-businesses/</link>
@@ -365,46 +405,6 @@
       <category>Base44/Instinct ecosystem</category>
       <description>Instinct is reportedly raising a new round at a valuation of about $30 billion, up from $10 billion in September — unconfirmed by the company.</description>
       <pubDate>Sat, 31 Oct 2026 19:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>State of MCP: October 2026 — 31 security advisories, 52,141 registry servers, spec unchanged until March 2027</title>
-      <link>https://veronicaphillip.com/2026/10/31/💡-your-ai-agent-is-only-as-good-as-the-knowledge-its-allowed-to-use-2/</link>
-      <guid isPermaLink="true">https://veronicaphillip.com/2026/10/31/💡-your-ai-agent-is-only-as-good-as-the-knowledge-its-allowed-to-use-2/</guid>
-      <category>file-governance</category>
-      <description>A new State of MCP report counted 31 security advisories in October and over 52,000 servers in the official registry.</description>
-      <pubDate>Sat, 31 Oct 2026 19:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Shopify moves its AI agent knowledge base into Merchant Admin, retires standalone app Jan 15, 2027</title>
-      <link>https://dev.to/alifar/shopify-moves-its-ai-agent-knowledge-base-into-merchant-admin-311p</link>
-      <guid isPermaLink="true">https://dev.to/alifar/shopify-moves-its-ai-agent-knowledge-base-into-merchant-admin-311p</guid>
-      <category>agentic commerce rails</category>
-      <description>Shopify moved its AI agent knowledge base into Merchant Admin, with the old standalone app retiring January 15, 2027.</description>
-      <pubDate>Sat, 31 Oct 2026 19:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Dataline raises $10.6M to give AI agents data they can trust</title>
-      <link>https://www.globenewswire.com/news-release/2026/10/31/3392722/0/en/dataline-raises-10-6m-to-give-ai-agents-data-they-can-trust.html</link>
-      <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/10/31/3392722/0/en/dataline-raises-10-6m-to-give-ai-agents-data-they-can-trust.html</guid>
-      <category>agentic commerce rails</category>
-      <description>Dataline raised $10.6M to build a marketplace where AI agents pay per call for data, with free access for builders on Base and Robinhood Chain.</description>
-      <pubDate>Sat, 31 Oct 2026 16:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OpenAI Python SDK 3.42.0 adds agent context compaction controls</title>
-      <link>https://aiweekly.co/alerts/openai-python-sdk-3420-adds-agent-context-compaction-controls</link>
-      <guid isPermaLink="true">https://aiweekly.co/alerts/openai-python-sdk-3420-adds-agent-context-compaction-controls</guid>
-      <category>model APIs / agent frameworks</category>
-      <description>OpenAI's Python SDK 3.42.0 adds agent context compaction controls, session review, and experimental time awareness for agent builders.</description>
-      <pubDate>Sat, 31 Oct 2026 16:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>Factory Droid 1.0: model-independent coding agent harness built on Script mode</title>
-      <link>https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/</link>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/</guid>
-      <category>agent frameworks</category>
-      <description>Factory shipped Droid 1.0, a model-independent coding agent harness where the model writes a program to run its tools instead of calling them one by one.</description>
-      <pubDate>Sat, 31 Oct 2026 16:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
