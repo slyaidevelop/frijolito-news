@@ -5,7 +5,55 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Finpilot raises $10M Series A for AI agents that handle grunt work for institutional investors</title>
+      <link>https://www.geekwire.com/2026/finpilot-raises-10m-for-ai-agents-that-handle-the-grunt-work-for-institutional-investors/</link>
+      <guid isPermaLink="true">https://www.geekwire.com/2026/finpilot-raises-10m-for-ai-agents-that-handle-the-grunt-work-for-institutional-investors/</guid>
+      <category>agent-startup funding</category>
+      <description>Finpilot raised $10 million to build AI agents that handle paperwork for institutional investors.</description>
+      <pubDate>Wed, 04 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Together AI launches Polymorphic Inference with Together Compiler, continuously retuning inference</title>
+      <link>https://www.unite.ai/together-ai-brings-continuous-compilation-to-production-inference/</link>
+      <guid isPermaLink="true">https://www.unite.ai/together-ai-brings-continuous-compilation-to-production-inference/</guid>
+      <category>model APIs</category>
+      <description>Together AI launched a system that continuously retunes AI inference for changing models and traffic.</description>
+      <pubDate>Wed, 04 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sarvam AI launches Prism, a decision-making model with 44ms responses and Apache 2.0 weights</title>
+      <link>https://www.thehindubusinessline.com/info-tech/sarvam-ai-launches-prism-decision-model-with-44-millisecond-response-time/article71663860.ece</link>
+      <guid isPermaLink="true">https://www.thehindubusinessline.com/info-tech/sarvam-ai-launches-prism-decision-model-with-44-millisecond-response-time/article71663860.ece</guid>
+      <category>model APIs</category>
+      <description>Sarvam AI launched Prism, a fast decision-making model that companies can customize and run themselves.</description>
+      <pubDate>Wed, 04 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Axion 1.0: open agent model family from ByteDance-linked authors, 18K examples, Apache 2.0</title>
+      <link>https://explainx.ai/blog/axion-1-0-bytedance-open-agent-model-two-sft-stages-rl-18k-examples-35b-122b-apache-2026</link>
+      <guid isPermaLink="true">https://explainx.ai/blog/axion-1-0-bytedance-open-agent-model-two-sft-stages-rl-18k-examples-35b-122b-apache-2026</guid>
+      <category>model APIs / agent frameworks</category>
+      <description>Axion 1.0 is a new open agent model family with its training recipe and code released publicly.</description>
+      <pubDate>Wed, 04 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ReqRes launches an Agent Sandbox, a free REST API built for AI coding agents to practice against</title>
+      <link>https://reqres.in/blog/launching-agent-sandbox</link>
+      <guid isPermaLink="true">https://reqres.in/blog/launching-agent-sandbox</guid>
+      <category>agent frameworks</category>
+      <description>ReqRes launched a free sandbox API designed for AI coding agents to practice against.</description>
+      <pubDate>Wed, 04 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Thermit raises seed led by Mashup Ventures for its Creazy commerce content agent</title>
+      <link>https://www.thesaasnews.com/news/ai-commerce-startup-thermit-operator-of-creazy-content-agent-raises-seed-funding-led/</link>
+      <guid isPermaLink="true">https://www.thesaasnews.com/news/ai-commerce-startup-thermit-operator-of-creazy-content-agent-raises-seed-funding-led/</guid>
+      <category>agent-startup funding</category>
+      <description>Thermit raised seed funding for Creazy, an AI agent that creates marketing content for online sellers.</description>
+      <pubDate>Wed, 04 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Sentra raises $150M Series C to control what AI agents can reach in data</title>
       <link>https://aiparabellum.com/sentra-raises-150m-ai-agent-data-security/</link>
@@ -357,54 +405,6 @@
       <category>agent-startup funding</category>
       <description>Easol raised $30M to launch Teammates, an agentic AI system that helps festivals, retreats and venues automate sales, support and operations.</description>
       <pubDate>Mon, 02 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>x402 totals hit 196,254,391 settled payments and $42.3M volume as of Nov 2</title>
-      <link>https://agenteconomy.to/x402</link>
-      <guid isPermaLink="true">https://agenteconomy.to/x402</guid>
-      <category>agentic commerce rails</category>
-      <description>A live tracker counts over 196 million x402 payments settled and $42.3 million in volume as of November 2, with Base the largest chain.</description>
-      <pubDate>Mon, 02 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Meituan releases LongCat-2.5, a multimodal model aimed at whole software projects</title>
-      <link>https://superpowerdaily.com/posts/meituan-releases-longcat-2-5-an-ai-model-aimed-at-whole-software-projects</link>
-      <guid isPermaLink="true">https://superpowerdaily.com/posts/meituan-releases-longcat-2-5-an-ai-model-aimed-at-whole-software-projects</guid>
-      <category>model APIs</category>
-      <description>Meituan released LongCat-2.5, a multimodal coding model aimed at whole software projects, compatible with Claude Code, Codex and Hermes harnesses.</description>
-      <pubDate>Mon, 02 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>AWS weekly roundup: GPT-6.1 Terra generally available on Bedrock, Step Functions now usable as agent tools</title>
-      <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/</link>
-      <guid isPermaLink="true">https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/</guid>
-      <category>model APIs / agent frameworks</category>
-      <description>OpenAI's GPT-6.1 Terra is now generally available on Amazon Bedrock, and AWS Step Functions workflows can now be handed to agents as tools.</description>
-      <pubDate>Mon, 02 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Instinct's WhatsApp replies halted briefly on the morning of Nov 2</title>
-      <link>https://wisevoter.com/world/us/2026/11/02/instinct-ai-agent-whatsapp-service-outage</link>
-      <guid isPermaLink="true">https://wisevoter.com/world/us/2026/11/02/instinct-ai-agent-whatsapp-service-outage</guid>
-      <category>Base44/Instinct ecosystem</category>
-      <description>Instinct's WhatsApp replies stopped briefly on the morning of Nov 2 after a configuration issue interrupted a vendor payment; service has been restored.</description>
-      <pubDate>Mon, 02 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Clark raises $11M seed for AI audit employees for CPA firms</title>
-      <link>https://www.unite.ai/clark-raises-11m-seed-to-bring-ai-audit-employees-to-more-cpa-firms/</link>
-      <guid isPermaLink="true">https://www.unite.ai/clark-raises-11m-seed-to-bring-ai-audit-employees-to-more-cpa-firms/</guid>
-      <category>agent-startup funding</category>
-      <description>Clark raised $11M to bring AI audit employees to more CPA firms, with 35 firms already using its autonomous audit agents.</description>
-      <pubDate>Mon, 02 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>State of x402, November 2026: 372 listings checked, 97.4% online, $0.01 median price</title>
-      <link>https://medium.com/@cryptomoneymakr/state-of-x402-november-2026-uptime-prices-latency-ee2a34422a56</link>
-      <guid isPermaLink="true">https://medium.com/@cryptomoneymakr/state-of-x402-november-2026-uptime-prices-latency-ee2a34422a56</guid>
-      <category>agentic commerce rails</category>
-      <description>A November check of 372 x402 agent-payment listings found 97.4% online, with a median price of one cent per API call.</description>
-      <pubDate>Mon, 02 Nov 2026 12:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
