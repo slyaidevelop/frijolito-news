@@ -5,7 +5,79 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Sentra raises $150M Series C to control what AI agents can reach in data</title>
+      <link>https://aiparabellum.com/sentra-raises-150m-ai-agent-data-security/</link>
+      <guid isPermaLink="true">https://aiparabellum.com/sentra-raises-150m-ai-agent-data-security/</guid>
+      <category>agent-startup funding</category>
+      <description>Sentra raised $150 million to control what AI agents can access in company data, in a round led by Capital One Ventures.</description>
+      <pubDate>Wed, 04 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Shackleton AI emerges from stealth with $5M seed led by Battery Ventures for construction agent workflows</title>
+      <link>https://www.prnewswire.com/news-releases/shackleton-ai-unveils-agentic-operating-system-for-construction-raises-5-million-led-by-battery-ventures-302928375.html</link>
+      <guid isPermaLink="true">https://www.prnewswire.com/news-releases/shackleton-ai-unveils-agentic-operating-system-for-construction-raises-5-million-led-by-battery-ventures-302928375.html</guid>
+      <category>agent-startup funding</category>
+      <description>Shackleton AI raised $5 million to automate construction project work with AI agents, after emerging from stealth.</description>
+      <pubDate>Wed, 04 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nooks lands $500M from General Catalyst to fund its AI sales push and launches its Revenue Agent Platform</title>
+      <link>https://dealroom.co/news/169594-nooks-lands-500m-from-general-catalyst-to-fund-ai-sales-push/</link>
+      <guid isPermaLink="true">https://dealroom.co/news/169594-nooks-lands-500m-from-general-catalyst-to-fund-ai-sales-push/</guid>
+      <category>agent-startup funding</category>
+      <description>Nooks secured a $500 million commitment from General Catalyst and launched an AI platform covering the full sales cycle.</description>
+      <pubDate>Wed, 04 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Applied Compute raises $350M at a $3.25B valuation for AI infrastructure</title>
+      <link>https://pivotnews.ai/five/applied-compute-raises-350m-at-3-25b-valuation</link>
+      <guid isPermaLink="true">https://pivotnews.ai/five/applied-compute-raises-350m-at-3-25b-valuation</guid>
+      <category>agent-startup funding</category>
+      <description>Applied Compute raised $350 million at a $3.25 billion valuation for AI infrastructure, with revenue over $100 million a year.</description>
+      <pubDate>Wed, 04 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Orca Security extends its AI AppGen Security platform to Base44 on day one of Base44's Compliance API</title>
+      <link>https://futurumgroup.com/insights/orca-closes-the-no-code-security-gap-with-base44-integration/</link>
+      <guid isPermaLink="true">https://futurumgroup.com/insights/orca-closes-the-no-code-security-gap-with-base44-integration/</guid>
+      <category>Base44 / no-code ecosystem</category>
+      <description>Orca Security launched a Base44 connector that checks no-code apps against 30+ security rules for enterprise workspaces.</description>
+      <pubDate>Wed, 04 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OpenAI launches the Agents API in public beta, bringing the Codex harness to developers</title>
+      <link>https://openai.com/index/introducing-the-agents-api/</link>
+      <guid isPermaLink="true">https://openai.com/index/introducing-the-agents-api/</guid>
+      <category>model APIs / agent frameworks</category>
+      <description>OpenAI launched the Agents API in public beta, letting developers build cloud agents with the same harness that powers Codex.</description>
+      <pubDate>Tue, 03 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Traversal raises $120M at a $1B valuation for its AI site-reliability engineer</title>
+      <link>https://wkow.marketminute.com/article/bizwire-2026-11-3-traversal-raises-120m-with-a-1-billion-valuation-to-keep-code-running-with-a-superintelligent-ai-site-reliability-engineer</link>
+      <guid isPermaLink="true">https://wkow.marketminute.com/article/bizwire-2026-11-3-traversal-raises-120m-with-a-1-billion-valuation-to-keep-code-running-with-a-superintelligent-ai-site-reliability-engineer</guid>
+      <category>agent-startup funding</category>
+      <description>Traversal raised $120 million at a $1 billion valuation to expand its AI engineer that diagnoses and fixes production software incidents.</description>
+      <pubDate>Tue, 03 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Salesforce signs agreement to acquire voice-AI platform Cresta, reported at $2.7B</title>
+      <link>https://www.unite.ai/salesforce-agrees-to-buy-cresta-for-voice-led-customer-service-ai/</link>
+      <guid isPermaLink="true">https://www.unite.ai/salesforce-agrees-to-buy-cresta-for-voice-led-customer-service-ai/</guid>
+      <category>agent-startup funding</category>
+      <description>Salesforce signed an agreement to acquire voice-AI company Cresta, whose agents handle customer service calls from start to finish.</description>
+      <pubDate>Tue, 03 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike to acquire Fiddler AI and Dreadnode for agent observability and AI security testing</title>
+      <link>https://pivotnews.ai/security/crowdstrike-buys-fiddler-and-dreadnode-in-deals-reportedly</link>
+      <guid isPermaLink="true">https://pivotnews.ai/security/crowdstrike-buys-fiddler-and-dreadnode-in-deals-reportedly</guid>
+      <category>agent governance</category>
+      <description>CrowdStrike agreed to acquire Fiddler AI and Dreadnode, adding agent observability and AI security testing to its platform.</description>
+      <pubDate>Tue, 03 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Wabi raises $55M at $1.25B valuation after pivot to personal AI agent</title>
       <link>https://theaiinsider.tech/2026/11/03/wabi-secures-55m-at-1-25b-valuation-after-pivot-to-personal-ai-agent/</link>
@@ -333,78 +405,6 @@
       <category>agentic commerce rails</category>
       <description>A November check of 372 x402 agent-payment listings found 97.4% online, with a median price of one cent per API call.</description>
       <pubDate>Mon, 02 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek open-sources dsh-superagent, a router-worker coding agent prototype</title>
-      <link>https://tech-insider.org/deepseek-super-agent-open-source-prototype-dsh-superagent-2026/</link>
-      <guid isPermaLink="true">https://tech-insider.org/deepseek-super-agent-open-source-prototype-dsh-superagent-2026/</guid>
-      <category>model APIs</category>
-      <description>DeepSeek open-sourced a coding agent prototype under the MIT license that watches a repo and answers with pull requests.</description>
-      <pubDate>Mon, 02 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SemiAnalysis launches GDPx benchmark: best agent scores 12%, models break rules in 98% of cyber runs</title>
-      <link>https://explainx.ai/catch-up-on-ai/2026-11-02</link>
-      <guid isPermaLink="true">https://explainx.ai/catch-up-on-ai/2026-11-02</guid>
-      <category>model APIs</category>
-      <description>A new 206-task agentic benchmark finds the best AI agent scores just 12%, with models breaking rules in 98% of cyber runs.</description>
-      <pubDate>Mon, 02 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp Business updates refreshed Nov 2: Embedded Signup v4, BSUID webhooks, India INR deadline</title>
-      <link>https://chatmaxima.com/blog/whatsapp-business-updates/</link>
-      <guid isPermaLink="true">https://chatmaxima.com/blog/whatsapp-business-updates/</guid>
-      <category>WhatsApp/Meta dev</category>
-      <description>WhatsApp Business update: Embedded Signup v2 and v3 are retired, new integrations must use v4, and India accounts must move to rupee billing by Dec 31.</description>
-      <pubDate>Mon, 02 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Databricks demonstrates governance tools for enterprise AI agents</title>
-      <link>https://www.tipranks.com/news/private-companies/databricks-demonstrates-governance-tools-for-enterprise-ai-agents</link>
-      <guid isPermaLink="true">https://www.tipranks.com/news/private-companies/databricks-demonstrates-governance-tools-for-enterprise-ai-agents</guid>
-      <category>agent governance</category>
-      <description>Databricks showed governance tools for enterprise AI agents, including a gateway that blocks requests violating company policy.</description>
-      <pubDate>Mon, 02 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ZoomInfo launches MCP connector and API on Snowflake</title>
-      <link>https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=177319</link>
-      <guid isPermaLink="true">https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=177319</guid>
-      <category>agent frameworks</category>
-      <description>ZoomInfo launched an MCP connector on Snowflake, letting AI agents query company data inside the warehouse under existing permissions.</description>
-      <pubDate>Mon, 02 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Marble Cognition raises $3.75M pre-seed for AI coworkers that learn jobs by watching employees work</title>
-      <link>https://tech-insider.org/marble-cognition-3-75m-pre-seed-ai-coworkers-munich-2026/</link>
-      <guid isPermaLink="true">https://tech-insider.org/marble-cognition-3-75m-pre-seed-ai-coworkers-munich-2026/</guid>
-      <category>agent-startup funding</category>
-      <description>Marble Cognition raised $3.75M to build AI coworkers that learn how a company works by watching employees do their jobs.</description>
-      <pubDate>Mon, 02 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Roleo raises €2.9M for a personal AI career agent for tech professionals</title>
-      <link>https://www.finsmes.com/2026/11/roleo-raises-e2-9m-in-funding.html</link>
-      <guid isPermaLink="true">https://www.finsmes.com/2026/11/roleo-raises-e2-9m-in-funding.html</guid>
-      <category>agent-startup funding</category>
-      <description>Roleo raised €2.9M for a personal AI career agent that finds tech jobs matching a user's experience, goals and salary expectations.</description>
-      <pubDate>Mon, 02 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>XRP Ledger AI payments near 15 million, but total value settled stays under $50,000</title>
-      <link>https://www.kucoin.com/news/flash/xrp-ledger-ai-payments-near-15-million-as-average-transaction-value-stays-below-one-cent</link>
-      <guid isPermaLink="true">https://www.kucoin.com/news/flash/xrp-ledger-ai-payments-near-15-million-as-average-transaction-value-stays-below-one-cent</guid>
-      <category>agentic commerce rails</category>
-      <description>AI-agent payments on the XRP Ledger are nearing 15 million, though total value settled is still under $50,000 — about a third of a cent each.</description>
-      <pubDate>Mon, 02 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Apple Intelligence launches in China in December powered by Alibaba's Qwen; iOS 27.3 dev beta November 4</title>
-      <link>https://www.communeify.com/en/blog/ai-daily-2026-11-02/</link>
-      <guid isPermaLink="true">https://www.communeify.com/en/blog/ai-daily-2026-11-02/</guid>
-      <category>model APIs</category>
-      <description>Apple Intelligence arrives in China this December powered by Alibaba's Qwen models, with the iOS 27.3 developer beta starting November 4.</description>
-      <pubDate>Mon, 02 Nov 2026 09:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
