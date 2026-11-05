@@ -5,7 +5,47 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <item>
+      <title>AIREV lands strategic investment from Singapore's Terra Invest to expand sovereign agentic AI</title>
+      <link>http://businessnewsmea.com/singapores-terra-invest-participates-in-strategic-funding-round-for-ai-company-airev/</link>
+      <guid isPermaLink="true">http://businessnewsmea.com/singapores-terra-invest-participates-in-strategic-funding-round-for-ai-company-airev/</guid>
+      <category>agent-startup funding</category>
+      <description>AIREV, the Abu Dhabi agentic AI company, landed a strategic investment from Singapore's Terra Invest to expand sovereign AI into wealth management and healthcare.</description>
+      <pubDate>Wed, 04 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Tencent launches Hy4 with vision and computer-use abilities at unchanged API pricing</title>
+      <link>https://www.theartificialbrief.io/p/daily-ai-news-11042026</link>
+      <guid isPermaLink="true">https://www.theartificialbrief.io/p/daily-ai-news-11042026</guid>
+      <category>model API releases</category>
+      <description>Tencent launched Hy4, a model with vision and computer-use abilities, available through Tencent Cloud and OpenRouter at unchanged pricing.</description>
+      <pubDate>Wed, 04 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Moonshot AI releases Kimi K3.1 Pro open weights: 2.8T-parameter MoE, 1M context</title>
+      <link>https://www.laura-martel.com/blog/kimi-k31-pro-launch</link>
+      <guid isPermaLink="true">https://www.laura-martel.com/blog/kimi-k31-pro-launch</guid>
+      <category>model API releases</category>
+      <description>Moonshot AI released the open weights of Kimi K3.1 Pro, a 2.8 trillion-parameter model with a 1 million-token context window.</description>
+      <pubDate>Wed, 04 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Vercel Labs releases agent-desktop: desktop control for AI agents via the OS accessibility tree</title>
+      <link>https://www.mlllm.io/articles/3720-vercel-labs-releases-agent-desktop-ai-agents-shift-from-screenshots-to-os-accessibility-trees/</link>
+      <guid isPermaLink="true">https://www.mlllm.io/articles/3720-vercel-labs-releases-agent-desktop-ai-agents-shift-from-screenshots-to-os-accessibility-trees/</guid>
+      <category>agent frameworks</category>
+      <description>Vercel Labs released agent-desktop, an open-source tool that lets AI agents control desktops through the operating system's accessibility tree instead of screenshots.</description>
+      <pubDate>Wed, 04 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Personal Agent Protocol draft 0.3 in progress: protocol scopes dropped, MCP joins discovery</title>
+      <link>https://reflektlab.ai/blog/personal-agent-protocol/</link>
+      <guid isPermaLink="true">https://reflektlab.ai/blog/personal-agent-protocol/</guid>
+      <category>Base44/Instinct ecosystem</category>
+      <description>The Personal Agent Protocol draft moved to version 0.3, dropping its own scopes and adding MCP servers to the discovery file.</description>
+      <pubDate>Wed, 04 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Cowboy raises $5M seed to build an app store for AI agents</title>
       <link>https://www.businesswire.com/news/home/20261104730692/en/Cowboy-Raises-%245-Million-in-Seed-Funding-to-Help-Developers-Own-Control-and-Monetize-AI</link>
@@ -365,46 +405,6 @@
       <category>agentic commerce rails</category>
       <description>Atom lets AI agents buy domains with USDC via x402</description>
       <pubDate>Tue, 03 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Casap raises $56M Series B for agentic AI financial services</title>
-      <link>https://www.pymnts.com/news/artificial-intelligence/2026/casap-raises-56-million-for-agentic-ai-financial-services/</link>
-      <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/casap-raises-56-million-for-agentic-ai-financial-services/</guid>
-      <category>agent-startup funding</category>
-      <description>Casap raised $56M Series B for AI agents that investigate fraud and disputes inside banks' existing systems.</description>
-      <pubDate>Mon, 02 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Swarms v17 'InterLink': channels, phased fan-out workflows, and a 0.28s import</title>
-      <link>https://www.swarms.ai/blog/swarms-v17-interlink-release</link>
-      <guid isPermaLink="true">https://www.swarms.ai/blog/swarms-v17-interlink-release</guid>
-      <category>agent frameworks</category>
-      <description>Swarms shipped v17 'InterLink', adding shared channels for agent conversations and faster large fan-outs.</description>
-      <pubDate>Mon, 02 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Delinea Fastpath launches a read-only MCP server for access governance and audits</title>
-      <link>https://msdynamicsworld.com/story/delinea-fastpath-deploys-fastpath-mcp-server-ai-readiness-access-governance-and-audits</link>
-      <guid isPermaLink="true">https://msdynamicsworld.com/story/delinea-fastpath-deploys-fastpath-mcp-server-ai-readiness-access-governance-and-audits</guid>
-      <category>file-governance / agent data</category>
-      <description>Delinea Fastpath launched a read-only MCP server so AI assistants can answer access-governance and audit questions under existing controls.</description>
-      <pubDate>Mon, 02 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Runway Dev plugins give coding agents account-aware API guidance</title>
-      <link>https://opentools.ai/news/runway-dev-coding-agent-plugins-account-model-limits-sdk-skills</link>
-      <guid isPermaLink="true">https://opentools.ai/news/runway-dev-coding-agent-plugins-account-model-limits-sdk-skills</guid>
-      <category>model APIs / agent frameworks</category>
-      <description>Runway Dev plugins for Claude Code, Codex and Cursor let coding agents see project access, model prices and remaining credits before building.</description>
-      <pubDate>Mon, 02 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Is x402 actually growing? Counts 91% below the Dec 2025 peak, average payment down to ~$0.054</title>
-      <link>https://agenteconomy.to/stats/is-x402-growing</link>
-      <guid isPermaLink="true">https://agenteconomy.to/stats/is-x402-growing</guid>
-      <category>agentic commerce rails</category>
-      <description>New on-chain data shows x402 agent payments are steady in count but far below their late-2025 peak, with the average payment down to about five cents.</description>
-      <pubDate>Mon, 02 Nov 2026 21:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
