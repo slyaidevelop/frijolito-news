@@ -5,7 +5,31 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Nooks raises $500M and launches Node, a proactive AI assistant for sales reps</title>
+      <link>https://www.eneralabs.com/blog/nooks-500m-node-agentic-sales-gtm-2026/</link>
+      <guid isPermaLink="true">https://www.eneralabs.com/blog/nooks-500m-node-agentic-sales-gtm-2026/</guid>
+      <category>agent-startup funding</category>
+      <description>Nooks raised $500M from General Catalyst and launched Node, an AI assistant that proactively works sales deals and prompts reps instead of waiting to be asked.</description>
+      <pubDate>Fri, 06 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Descope launches Envoy, a delegated sign-in path for personal AI agents with Poppy support</title>
+      <link>https://montserratindustrynews.com/article/954474137-descope-unveils-envoy-an-identity-aware-way-for-personal-ai-agents-to-act-on-people-s-behalf</link>
+      <guid isPermaLink="true">https://montserratindustrynews.com/article/954474137-descope-unveils-envoy-an-identity-aware-way-for-personal-ai-agents-to-act-on-people-s-behalf</guid>
+      <category>agent identity</category>
+      <description>Descope launched Envoy, giving consumer apps a way to let personal AI agents sign in and act for customers with clear permissions and approval.</description>
+      <pubDate>Fri, 06 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>x402 reality check: counts climb, but the average payment has shrunk to about $0.05</title>
+      <link>https://agenteconomy.to/stats/is-x402-growing</link>
+      <guid isPermaLink="true">https://agenteconomy.to/stats/is-x402-growing</guid>
+      <category>agentic commerce rails</category>
+      <description>New on-chain data shows x402 settled 5.1 million payments in October but only $274,000 in volume — the average payment is now about five cents.</description>
+      <pubDate>Fri, 06 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>CoinGecko halves x402 data costs to $0.005 per call and adds Polygon USDC payments</title>
       <link>https://cryptobriefing.com/coingecko-cuts-x402-data-costs-polygon/</link>
@@ -380,30 +404,6 @@
       <guid isPermaLink="true">https://aiparabellum.com/sentra-raises-150m-ai-agent-data-security/</guid>
       <category>agent-startup funding</category>
       <description>Sentra raises $150M Series C to control what AI agents can reach in data</description>
-      <pubDate>Wed, 04 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Shackleton AI emerges from stealth with $5M seed led by Battery Ventures for construction agent workflows</title>
-      <link>https://www.prnewswire.com/news-releases/shackleton-ai-unveils-agentic-operating-system-for-construction-raises-5-million-led-by-battery-ventures-302928375.html</link>
-      <guid isPermaLink="true">https://www.prnewswire.com/news-releases/shackleton-ai-unveils-agentic-operating-system-for-construction-raises-5-million-led-by-battery-ventures-302928375.html</guid>
-      <category>agent-startup funding</category>
-      <description>Shackleton AI emerges from stealth with $5M seed led by Battery Ventures for construction agent workflows</description>
-      <pubDate>Wed, 04 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Nooks lands $500M from General Catalyst to fund its AI sales push and launches its Revenue Agent Platform</title>
-      <link>https://dealroom.co/news/169594-nooks-lands-500m-from-general-catalyst-to-fund-ai-sales-push/</link>
-      <guid isPermaLink="true">https://dealroom.co/news/169594-nooks-lands-500m-from-general-catalyst-to-fund-ai-sales-push/</guid>
-      <category>agent-startup funding</category>
-      <description>Nooks lands $500M from General Catalyst to fund its AI sales push and launches its Revenue Agent Platform</description>
-      <pubDate>Wed, 04 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Applied Compute raises $350M at a $3.25B valuation for AI infrastructure</title>
-      <link>https://pivotnews.ai/five/applied-compute-raises-350m-at-3-25b-valuation</link>
-      <guid isPermaLink="true">https://pivotnews.ai/five/applied-compute-raises-350m-at-3-25b-valuation</guid>
-      <category>agent-startup funding</category>
-      <description>Applied Compute raises $350M at a $3.25B valuation for AI infrastructure</description>
       <pubDate>Wed, 04 Nov 2026 09:20:00 -0500</pubDate>
     </item>
   </channel>
