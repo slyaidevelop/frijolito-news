@@ -5,7 +5,79 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Ocient raises $100M Series C to accelerate agentic AI analytics</title>
+      <link>https://www.unite.ai/ocient-raises-100m-series-c-to-accelerate-ocientaiq-delivery/</link>
+      <guid isPermaLink="true">https://www.unite.ai/ocient-raises-100m-series-c-to-accelerate-ocientaiq-delivery/</guid>
+      <category>funding</category>
+      <description>Ocient raised $100M in Series C funding to accelerate its agentic AI analytics platform for petabyte-scale data, bringing total funding to $260M.</description>
+      <pubDate>Thu, 05 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Microsoft adds Dynamic Permissions and Execution Containers for agent security</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/</link>
+      <guid isPermaLink="true">https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/</guid>
+      <category>file-governance</category>
+      <description>Microsoft added task-scoped Dynamic Permissions for AI agents, made Execution Containers generally available, and expanded Defender to discover local agents and their MCP setups.</description>
+      <pubDate>Thu, 05 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>x402 passes 197 million settled payments</title>
+      <link>https://agenteconomy.to/x402</link>
+      <guid isPermaLink="true">https://agenteconomy.to/x402</guid>
+      <category>agentic-commerce</category>
+      <description>A live tracker counts over 197 million x402 payments settled and $42.45 million in volume as of November 5, with Base the largest chain.</description>
+      <pubDate>Thu, 05 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Orca extends AI AppGen Security to Base44's Compliance API</title>
+      <link>https://orca.security/resources/blog/ai-outside-your-pipelines-orca-extends-ai-appgen-security-to-base44s-compliance-api/</link>
+      <guid isPermaLink="true">https://orca.security/resources/blog/ai-outside-your-pipelines-orca-extends-ai-appgen-security-to-base44s-compliance-api/</guid>
+      <category>base44-ecosystem</category>
+      <description>Orca Security extended its AI AppGen Security platform to Base44 on day one of Base44's new Compliance API, checking no-code workspaces against 30+ security rules.</description>
+      <pubDate>Thu, 05 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Sand.ai raises $200M Series A+ for generative video models</title>
+      <link>https://techstartups.com/2026/11/05/startup-funding-news-today-november-5-2026-bit-bio-sand-ai-sentra-pliant-more/</link>
+      <guid isPermaLink="true">https://techstartups.com/2026/11/05/startup-funding-news-today-november-5-2026-bit-bio-sand-ai-sentra-pliant-more/</guid>
+      <category>funding</category>
+      <description>Sand.ai raised $200M in Series A+ funding to build generative video models, bringing its 2026 total to about $300M.</description>
+      <pubDate>Thu, 05 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Cyberhaven launches Agentic Data Security to watch what AI agents do with company data</title>
+      <link>https://www.morningstar.com/news/pr-newswire/20261105la90152/cyberhaven-delivers-agentic-data-security</link>
+      <guid isPermaLink="true">https://www.morningstar.com/news/pr-newswire/20261105la90152/cyberhaven-delivers-agentic-data-security</guid>
+      <category>file governance</category>
+      <description>Cyberhaven launched Agentic Data Security, which shows what AI agents do with company data and stops sensitive data before it leaves.</description>
+      <pubDate>Thu, 05 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Citrix adds SecurSpaces and SecurAccess for governed agentic work</title>
+      <link>https://itdigest.com/artificial-intelligence/governing-the-non-human-workforce-how-citrixs-agentic-workspaces-and-governance-framework-reshape-enterprise-ai/</link>
+      <guid isPermaLink="true">https://itdigest.com/artificial-intelligence/governing-the-non-human-workforce-how-citrixs-agentic-workspaces-and-governance-framework-reshape-enterprise-ai/</guid>
+      <category>agent governance</category>
+      <description>Citrix added SecurSpaces and SecurAccess, giving AI agents isolated sandboxes and audited sessions inside enterprise workspaces.</description>
+      <pubDate>Thu, 05 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Fingerprint can now detect hidden Muse, Instinct and Grok bot traffic</title>
+      <link>https://markets.financialcontent.com/kanerepublican/article/bizwire-2026-11-5-fingerprint-expands-bot-detection-to-uncover-hidden-muse-instinct-and-grok-bot-traffic-as-ai-agents-increasingly-conceal-their-identities</link>
+      <guid isPermaLink="true">https://markets.financialcontent.com/kanerepublican/article/bizwire-2026-11-5-fingerprint-expands-bot-detection-to-uncover-hidden-muse-instinct-and-grok-bot-traffic-as-ai-agents-increasingly-conceal-their-identities</guid>
+      <category>agent identity</category>
+      <description>Fingerprint expanded bot detection to identify undeclared traffic from AI agents including Meta's Muse, Instinct and xAI's Grok Bot.</description>
+      <pubDate>Thu, 05 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Base44 and Overwolf's Nitro launch $65K contest for AI-built web games</title>
+      <link>https://blog.overwolf.com/overwolfs-nitro-and-base44-launch-65k-contest-for-web-games-built-with-ai/</link>
+      <guid isPermaLink="true">https://blog.overwolf.com/overwolfs-nitro-and-base44-launch-65k-contest-for-web-games-built-with-ai/</guid>
+      <category>Base44 ecosystem</category>
+      <description>Base44 and Overwolf's Nitro launched a $65K contest for web games built with AI, with a $25,000 grand prize.</description>
+      <pubDate>Thu, 05 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>OpenAI ships ChatGPT Images 2.6 with animated GIFs and two new API models</title>
       <link>https://www.gadgets360.com/ai/news/openai-images-2-6-update-gif-creation-chatgpt-new-api-models-12287035</link>
@@ -333,78 +405,6 @@
       <category>file-governance / agent rails</category>
       <description>Platformr added an AI Tag Manager and an MCP server so cloud teams can audit and apply AWS resource tags in plain English.</description>
       <pubDate>Tue, 03 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Fal doubles valuation to $16B with $1.3B Series F for AI inference</title>
-      <link>https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/</guid>
-      <category>agent-startup funding</category>
-      <description>Fal doubles valuation to $16B with $1.3B Series F for AI inference</description>
-      <pubDate>Tue, 03 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Menlo Ventures: enterprise AI spending hit $176.8B, up 5.4x in a year, as agents take over</title>
-      <link>https://www.globenewswire.com/news-release/2026/11/03/3394279/0/en/menlo-ventures-2026-state-of-enterprise-ai-report-enterprise-ai-spending-hits-177b-up-5-4x-in-one-year-as-agents-take-over.html</link>
-      <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/11/03/3394279/0/en/menlo-ventures-2026-state-of-enterprise-ai-report-enterprise-ai-spending-hits-177b-up-5-4x-in-one-year-as-agents-take-over.html</guid>
-      <category>agent-startup funding</category>
-      <description>Menlo Ventures: enterprise AI spending hit $176.8B, up 5.4x in a year, as agents take over</description>
-      <pubDate>Tue, 03 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Fireblocks: x402's headline counts overstate real agent commerce</title>
-      <link>https://www.fireblocks.com/blog/agent-economy-numbers-x402-data</link>
-      <guid isPermaLink="true">https://www.fireblocks.com/blog/agent-economy-numbers-x402-data</guid>
-      <category>agentic commerce rails</category>
-      <description>Fireblocks: x402's headline counts overstate real agent commerce</description>
-      <pubDate>Tue, 03 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CyberKord raises €2.7M pre-seed for an AI that investigates and fixes IT issues on its own</title>
-      <link>https://www.todaysstartupnews.com/funding/cyberkord-raises-2-7m-pre-seed-ai-it-cybersecurity-automation</link>
-      <guid isPermaLink="true">https://www.todaysstartupnews.com/funding/cyberkord-raises-2-7m-pre-seed-ai-it-cybersecurity-automation</guid>
-      <category>agent-startup funding</category>
-      <description>CyberKord raises €2.7M pre-seed for an AI that investigates and fixes IT issues on its own</description>
-      <pubDate>Tue, 03 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Granter raises €1.6M to expand its AI public-funding platform across Europe</title>
-      <link>https://tech.eu/2026/11/03/portuguese-ai-startup-granter-bags-eur16m-to-expand-across-europe/</link>
-      <guid isPermaLink="true">https://tech.eu/2026/11/03/portuguese-ai-startup-granter-bags-eur16m-to-expand-across-europe/</guid>
-      <category>agent-startup funding</category>
-      <description>Granter raises €1.6M to expand its AI public-funding platform across Europe</description>
-      <pubDate>Tue, 03 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Guava raises $12.5M seed for a developer platform for AI voice agents</title>
-      <link>https://www.finsmes.com/2026/11/guava-raises-12-5m-in-seed-funding.html</link>
-      <guid isPermaLink="true">https://www.finsmes.com/2026/11/guava-raises-12-5m-in-seed-funding.html</guid>
-      <category>agent-startup funding</category>
-      <description>Guava raises $12.5M seed for a developer platform for AI voice agents</description>
-      <pubDate>Tue, 03 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>e2e raises €7M seed for an open-source framework testing apps in the age of AI agents</title>
-      <link>https://www.therecursive.com/polish-e2e-raises-eur7m-to-develop-ai-powered-software-testing/</link>
-      <guid isPermaLink="true">https://www.therecursive.com/polish-e2e-raises-eur7m-to-develop-ai-powered-software-testing/</guid>
-      <category>agent-startup funding</category>
-      <description>e2e raises €7M seed for an open-source framework testing apps in the age of AI agents</description>
-      <pubDate>Tue, 03 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Trajectory raises $45M Series A at $300M valuation for continual-learning post-training</title>
-      <link>https://lifenewsagency.com/ai-start-up-trajectory-raises-us45-million-to-let-specialists-retrain-models-themselves/</link>
-      <guid isPermaLink="true">https://lifenewsagency.com/ai-start-up-trajectory-raises-us45-million-to-let-specialists-retrain-models-themselves/</guid>
-      <category>agent-startup funding</category>
-      <description>Trajectory raises $45M Series A at $300M valuation for continual-learning post-training</description>
-      <pubDate>Tue, 03 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Mistral Large 4 goes open weight: ~1T-parameter multimodal model, 1M-token context</title>
-      <link>https://www.technology.org/2026/11/03/mistral-large-4-open-weights-hugging-face-modified-mit/</link>
-      <guid isPermaLink="true">https://www.technology.org/2026/11/03/mistral-large-4-open-weights-hugging-face-modified-mit/</guid>
-      <category>model APIs</category>
-      <description>Mistral Large 4 goes open weight: ~1T-parameter multimodal model, 1M-token context</description>
-      <pubDate>Tue, 03 Nov 2026 12:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
