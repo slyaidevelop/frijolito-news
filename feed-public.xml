@@ -5,13 +5,29 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Meta splits the WhatsApp Business Account into a WhatsApp Account plus per-provider Messaging Accounts</title>
+      <link>https://beacon-messenger.beaconwavestudio.com/blog/whatsapp-messaging-account-waac-split-shopify-notifications-what-changes</link>
+      <guid isPermaLink="true">https://beacon-messenger.beaconwavestudio.com/blog/whatsapp-messaging-account-waac-split-shopify-notifications-what-changes</guid>
+      <category>WhatsApp / Meta dev</category>
+      <description>Meta is splitting the WhatsApp Business Account in two: the phone number lives under one WhatsApp Account, and each provider gets its own Messaging Account with its own templates and billing.</description>
+      <pubDate>Sat, 07 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Meta ships specialized Muse models trained from Muse Wonder — 47% on its Personal Superintelligence Index, up from 38%</title>
+      <link>https://aistify.com/meta-muse-spaces-custom-ai-tools-dashboards/</link>
+      <guid isPermaLink="true">https://aistify.com/meta-muse-spaces-custom-ai-tools-dashboards/</guid>
+      <category>model APIs</category>
+      <description>Meta shipped new specialized models for Muse trained from Muse Wonder, scoring 47% on its internal benchmark, up from 38%, with better memory and task recovery.</description>
+      <pubDate>Sat, 07 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>OpenAI closes $11B first close at $1.25T valuation — under half the original $30B ask</title>
       <link>https://www.unite.ai/openai-secures-11b-in-initial-funding-at-1-25t-valuation/</link>
       <guid isPermaLink="true">https://www.unite.ai/openai-secures-11b-in-initial-funding-at-1-25t-valuation/</guid>
       <category>agent-startup funding</category>
-      <description>OpenAI closed an $11 billion first tranche at a $1.25 trillion valuation — less than half of the $30 billion it originally sought.</description>
+      <description>OpenAI closes $11B first close at $1.25T valuation — under half the original $30B ask</description>
       <pubDate>Sat, 07 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -19,7 +35,7 @@
       <link>https://docs.mistral.ai/resources/release-notes</link>
       <guid isPermaLink="true">https://docs.mistral.ai/resources/release-notes</guid>
       <category>model APIs / agent frameworks</category>
-      <description>Mistral opened managed agents in Studio public preview: build an agent once in Python and run it locally, self-hosted, or on Mistral's infrastructure.</description>
+      <description>Mistral Studio opens managed agents in public preview — write once, run anywhere</description>
       <pubDate>Sat, 07 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -27,7 +43,7 @@
       <link>https://www.perplexity.ai/page/ff9c0661-87ed-4e74-acf3-61a12803acbb</link>
       <guid isPermaLink="true">https://www.perplexity.ai/page/ff9c0661-87ed-4e74-acf3-61a12803acbb</guid>
       <category>always-on agents</category>
-      <description>Perplexity launched Teammates, always-on AI agents that take ownership of ongoing work, available to $200-a-month Max subscribers.</description>
+      <description>Perplexity launches Teammates, persistent AI agents for ongoing work</description>
       <pubDate>Sat, 07 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -35,7 +51,7 @@
       <link>https://www.computerweekly.com/blog/Open-Source-Insider/Hello-data-hows-my-pipeline-Airbyte-MCP-Server-lets-engineers-chat-to-data</link>
       <guid isPermaLink="true">https://www.computerweekly.com/blog/Open-Source-Insider/Hello-data-hows-my-pipeline-Airbyte-MCP-Server-lets-engineers-chat-to-data</guid>
       <category>file governance</category>
-      <description>Airbyte released an open-source MCP server that lets AI assistants query and fix data pipelines in plain language, with confirmations for destructive actions.</description>
+      <description>Airbyte ships open-source MCP server so agents can chat to data pipelines</description>
       <pubDate>Sat, 07 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -43,7 +59,7 @@
       <link>https://beacon-messenger.beaconwavestudio.com/blog/whatsapp-cloud-api-marketing-messages-sunset-october-2027-shopify</link>
       <guid isPermaLink="true">https://beacon-messenger.beaconwavestudio.com/blog/whatsapp-cloud-api-marketing-messages-sunset-october-2027-shopify</guid>
       <category>WhatsApp / Meta dev</category>
-      <description>Meta will stop carrying WhatsApp marketing templates on the Cloud API on October 13, 2027; marketing sends must move to the dedicated Marketing Messages API.</description>
+      <description>WhatsApp marketing templates leave the Cloud API in October 2027</description>
       <pubDate>Sat, 07 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -51,7 +67,7 @@
       <link>https://www.yet-another-changelog.ai/changelog/base44-superagent-payment-approval</link>
       <guid isPermaLink="true">https://www.yet-another-changelog.ai/changelog/base44-superagent-payment-approval</guid>
       <category>Base44 ecosystem</category>
-      <description>Base44 Superagents now pause at the pay button and ask for separate approval before any payment goes through.</description>
+      <description>Base44 Superagents now stop and ask before paying</description>
       <pubDate>Sat, 07 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -59,7 +75,7 @@
       <link>https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/amp/</link>
       <guid isPermaLink="true">https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/amp/</guid>
       <category>agent sidebar race</category>
-      <description>Meta launched Spaces in Muse: describe an idea in chat and Muse builds a persistent custom experience like a tracker, planner, or project board in the sidebar.</description>
+      <description>Meta launches Spaces in Muse — describe an idea and Muse builds a persistent custom experience</description>
       <pubDate>Fri, 06 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -67,7 +83,7 @@
       <link>https://banking40.ro/firmly-raises-15-million-and-launches-ask-agent-to-help-merchants-adopt-agentic-commerce-jp-morgan-mastercard-and-samsung-among-investors/</link>
       <guid isPermaLink="true">https://banking40.ro/firmly-raises-15-million-and-launches-ask-agent-to-help-merchants-adopt-agentic-commerce-jp-morgan-mastercard-and-samsung-among-investors/</guid>
       <category>agentic commerce</category>
-      <description>firmly raised a $15M Series A and launched Ask Agent, letting shoppers discover products and check out inside a chat on merchant websites.</description>
+      <description>firmly raises $15M Series A and launches Ask Agent in-chat checkout</description>
       <pubDate>Fri, 06 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -75,7 +91,7 @@
       <link>https://www.founderland.ai/articles/cowboy-raises-5m-seed-to-launch-an-app-store-for-ai-agents-mw5amq9y</link>
       <guid isPermaLink="true">https://www.founderland.ai/articles/cowboy-raises-5m-seed-to-launch-an-app-store-for-ai-agents-mw5amq9y</guid>
       <category>agent-startup funding</category>
-      <description>Cowboy raised a $5M seed round to launch an app store for AI agents, opening with more than 100 agents and 10,000 data feeds.</description>
+      <description>Cowboy raises $5M seed to launch an app store for AI agents</description>
       <pubDate>Fri, 06 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -83,7 +99,7 @@
       <link>https://www.unite.ai/anthropic-introduces-read-only-personal-finance-beta-in-claude/</link>
       <guid isPermaLink="true">https://www.unite.ai/anthropic-introduces-read-only-personal-finance-beta-in-claude/</guid>
       <category>model APIs</category>
-      <description>Anthropic launched Personal Finance in Claude in US beta: link bank and card accounts via Plaid and ask Claude about your money — read-only, it can't move funds.</description>
+      <description>Anthropic launches Personal Finance in Claude (US beta) — read-only bank linking via Plaid</description>
       <pubDate>Fri, 06 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -91,7 +107,7 @@
       <link>https://www.yourinfodaily.com/p/startup-funding-news-nov-5-2026-20-startups-raise-nearly-780-million</link>
       <guid isPermaLink="true">https://www.yourinfodaily.com/p/startup-funding-news-nov-5-2026-20-startups-raise-nearly-780-million</guid>
       <category>agent-startup funding</category>
-      <description>Kalepa raised $75M at a $470M valuation for AI agents that handle insurance underwriting, and plans to double headcount by 2027.</description>
+      <description>Kalepa raises $75M Series B at a $470M valuation for AI agents in insurance underwriting</description>
       <pubDate>Fri, 06 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -99,7 +115,7 @@
       <link>https://wisevoter.com/world/2026/11/03/avepoint-launches-trust-platform-enterprise-ai</link>
       <guid isPermaLink="true">https://wisevoter.com/world/2026/11/03/avepoint-launches-trust-platform-enterprise-ai</guid>
       <category>file governance</category>
-      <description>AvePoint launched a Trust Platform to govern enterprise AI agents, models and MCP servers, including discovery of shadow AI.</description>
+      <description>AvePoint launches Trust Platform to govern enterprise AI agents, models and MCP servers</description>
       <pubDate>Fri, 06 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -107,7 +123,7 @@
       <link>https://lifestyle.kotaradio.com/story/558114/wolters-kluwer-brings-tymetrix-360-data-into-enterprise-ai-workflows-with-new-mcp-server/</link>
       <guid isPermaLink="true">https://lifestyle.kotaradio.com/story/558114/wolters-kluwer-brings-tymetrix-360-data-into-enterprise-ai-workflows-with-new-mcp-server/</guid>
       <category>file governance</category>
-      <description>Wolters Kluwer launched an MCP server for TyMetrix 360°, letting legal teams run invoice workflows in one AI conversation under existing permissions.</description>
+      <description>Wolters Kluwer ships a TyMetrix 360° MCP server for governed legal invoice workflows</description>
       <pubDate>Fri, 06 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -115,7 +131,7 @@
       <link>https://api.socialintents.com/whatsapp-marketing-messages-api.html</link>
       <guid isPermaLink="true">https://api.socialintents.com/whatsapp-marketing-messages-api.html</guid>
       <category>WhatsApp / Meta dev</category>
-      <description>Meta is moving WhatsApp marketing messages to a dedicated API: Cloud API marketing sends stop working on October 13, 2027.</description>
+      <description>Meta moves WhatsApp marketing templates to a dedicated API; Cloud API marketing ends Oct 13, 2027</description>
       <pubDate>Fri, 06 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -123,7 +139,7 @@
       <link>https://sxf.si/brief/</link>
       <guid isPermaLink="true">https://sxf.si/brief/</guid>
       <category>model APIs</category>
-      <description>Independent evaluator METR estimates Anthropic's AI capability progress accelerated about 1.9x since October 2025, with key evidence redacted.</description>
+      <description>METR: Anthropic's benchmark capability progress accelerated ~1.9x since Oct 2025</description>
       <pubDate>Fri, 06 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -147,7 +163,7 @@
       <link>https://agenteconomy.to/stats/is-x402-growing</link>
       <guid isPermaLink="true">https://agenteconomy.to/stats/is-x402-growing</guid>
       <category>agentic commerce rails</category>
-      <description>New on-chain data shows x402 agent payments are steady in count but far below their late-2025 peak, with the average payment down to about five cents.</description>
+      <description>x402 reality check: counts climb, but the average payment has shrunk to about $0.05</description>
       <pubDate>Fri, 06 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -155,7 +171,7 @@
       <link>https://cryptobriefing.com/coingecko-cuts-x402-data-costs-polygon/</link>
       <guid isPermaLink="true">https://cryptobriefing.com/coingecko-cuts-x402-data-costs-polygon/</guid>
       <category>agentic commerce rails</category>
-      <description>CoinGecko cut its x402 crypto data price in half to $0.005 per call and added USDC payments on Polygon alongside Base and Solana.</description>
+      <description>CoinGecko halves x402 data costs to $0.005 per call and adds Polygon USDC payments</description>
       <pubDate>Fri, 06 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -163,7 +179,7 @@
       <link>https://6ix.com/news/dashboard-extended-to-solana</link>
       <guid isPermaLink="true">https://6ix.com/news/dashboard-extended-to-solana</guid>
       <category>agentic commerce rails</category>
-      <description>Roundhouse AI added Solana to its x402 payments dashboard, which now tracks over 202 million agent payments worth $45.6 million across three blockchains.</description>
+      <description>Roundhouse AI adds Solana to its x402 payments dashboard</description>
       <pubDate>Fri, 06 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -243,7 +259,7 @@
       <link>https://www.unite.ai/ocient-raises-100m-series-c-to-accelerate-ocientaiq-delivery/</link>
       <guid isPermaLink="true">https://www.unite.ai/ocient-raises-100m-series-c-to-accelerate-ocientaiq-delivery/</guid>
       <category>funding</category>
-      <description>Ocient raised $100M in Series C funding to accelerate its agentic AI analytics platform for petabyte-scale data, bringing total funding to $260M.</description>
+      <description>Ocient raises $100M Series C to accelerate agentic AI analytics</description>
       <pubDate>Thu, 05 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -251,7 +267,7 @@
       <link>https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/</link>
       <guid isPermaLink="true">https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/</guid>
       <category>file-governance</category>
-      <description>Microsoft added task-scoped Dynamic Permissions for AI agents, made Execution Containers generally available, and expanded Defender to discover local agents and their MCP setups.</description>
+      <description>Microsoft adds Dynamic Permissions and Execution Containers for agent security</description>
       <pubDate>Thu, 05 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -259,7 +275,7 @@
       <link>https://agenteconomy.to/x402</link>
       <guid isPermaLink="true">https://agenteconomy.to/x402</guid>
       <category>agentic-commerce</category>
-      <description>A live tracker counts over 197 million x402 payments settled and $42.45 million in volume as of November 5, with Base the largest chain.</description>
+      <description>x402 passes 197 million settled payments</description>
       <pubDate>Thu, 05 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -267,7 +283,7 @@
       <link>https://orca.security/resources/blog/ai-outside-your-pipelines-orca-extends-ai-appgen-security-to-base44s-compliance-api/</link>
       <guid isPermaLink="true">https://orca.security/resources/blog/ai-outside-your-pipelines-orca-extends-ai-appgen-security-to-base44s-compliance-api/</guid>
       <category>base44-ecosystem</category>
-      <description>Orca Security extended its AI AppGen Security platform to Base44 on day one of Base44's new Compliance API, checking no-code workspaces against 30+ security rules.</description>
+      <description>Orca extends AI AppGen Security to Base44's Compliance API</description>
       <pubDate>Thu, 05 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -275,7 +291,7 @@
       <link>https://techstartups.com/2026/11/05/startup-funding-news-today-november-5-2026-bit-bio-sand-ai-sentra-pliant-more/</link>
       <guid isPermaLink="true">https://techstartups.com/2026/11/05/startup-funding-news-today-november-5-2026-bit-bio-sand-ai-sentra-pliant-more/</guid>
       <category>funding</category>
-      <description>Sand.ai raised $200M in Series A+ funding to build generative video models, bringing its 2026 total to about $300M.</description>
+      <description>Sand.ai raises $200M Series A+ for generative video models</description>
       <pubDate>Thu, 05 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -283,7 +299,7 @@
       <link>https://www.morningstar.com/news/pr-newswire/20261105la90152/cyberhaven-delivers-agentic-data-security</link>
       <guid isPermaLink="true">https://www.morningstar.com/news/pr-newswire/20261105la90152/cyberhaven-delivers-agentic-data-security</guid>
       <category>file governance</category>
-      <description>Cyberhaven launched Agentic Data Security, which shows what AI agents do with company data and stops sensitive data before it leaves.</description>
+      <description>Cyberhaven launches Agentic Data Security to watch what AI agents do with company data</description>
       <pubDate>Thu, 05 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -291,7 +307,7 @@
       <link>https://itdigest.com/artificial-intelligence/governing-the-non-human-workforce-how-citrixs-agentic-workspaces-and-governance-framework-reshape-enterprise-ai/</link>
       <guid isPermaLink="true">https://itdigest.com/artificial-intelligence/governing-the-non-human-workforce-how-citrixs-agentic-workspaces-and-governance-framework-reshape-enterprise-ai/</guid>
       <category>agent governance</category>
-      <description>Citrix added SecurSpaces and SecurAccess, giving AI agents isolated sandboxes and audited sessions inside enterprise workspaces.</description>
+      <description>Citrix adds SecurSpaces and SecurAccess for governed agentic work</description>
       <pubDate>Thu, 05 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -299,7 +315,7 @@
       <link>https://markets.financialcontent.com/kanerepublican/article/bizwire-2026-11-5-fingerprint-expands-bot-detection-to-uncover-hidden-muse-instinct-and-grok-bot-traffic-as-ai-agents-increasingly-conceal-their-identities</link>
       <guid isPermaLink="true">https://markets.financialcontent.com/kanerepublican/article/bizwire-2026-11-5-fingerprint-expands-bot-detection-to-uncover-hidden-muse-instinct-and-grok-bot-traffic-as-ai-agents-increasingly-conceal-their-identities</guid>
       <category>agent identity</category>
-      <description>Fingerprint expanded bot detection to identify undeclared traffic from AI agents including Meta's Muse, Instinct and xAI's Grok Bot.</description>
+      <description>Fingerprint can now detect hidden Muse, Instinct and Grok bot traffic</description>
       <pubDate>Thu, 05 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -307,7 +323,7 @@
       <link>https://blog.overwolf.com/overwolfs-nitro-and-base44-launch-65k-contest-for-web-games-built-with-ai/</link>
       <guid isPermaLink="true">https://blog.overwolf.com/overwolfs-nitro-and-base44-launch-65k-contest-for-web-games-built-with-ai/</guid>
       <category>Base44 ecosystem</category>
-      <description>Base44 and Overwolf's Nitro launched a $65K contest for web games built with AI, with a $25,000 grand prize.</description>
+      <description>Base44 and Overwolf's Nitro launch $65K contest for AI-built web games</description>
       <pubDate>Thu, 05 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -315,7 +331,7 @@
       <link>https://www.gadgets360.com/ai/news/openai-images-2-6-update-gif-creation-chatgpt-new-api-models-12287035</link>
       <guid isPermaLink="true">https://www.gadgets360.com/ai/news/openai-images-2-6-update-gif-creation-chatgpt-new-api-models-12287035</guid>
       <category>model APIs</category>
-      <description>OpenAI released ChatGPT Images 2.6 with animated GIFs and two faster API models, Flare and Sunburst, for quicker image generation and editing.</description>
+      <description>OpenAI ships ChatGPT Images 2.6 with animated GIFs and two new API models</description>
       <pubDate>Thu, 05 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -323,7 +339,7 @@
       <link>https://www.unite.ai/anthropic-expands-claude-marketplace-with-partner-agents-and-products/</link>
       <guid isPermaLink="true">https://www.unite.ai/anthropic-expands-claude-marketplace-with-partner-agents-and-products/</guid>
       <category>model APIs</category>
-      <description>Anthropic added 14 partner agents to Claude Marketplace, including security and productivity tools, now payable from committed Anthropic spend.</description>
+      <description>Anthropic expands Claude Marketplace with 14 new partner agents</description>
       <pubDate>Thu, 05 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -331,7 +347,7 @@
       <link>https://www.actuallylearnai.com/newsletter/2026-11-03</link>
       <guid isPermaLink="true">https://www.actuallylearnai.com/newsletter/2026-11-03</guid>
       <category>model APIs</category>
-      <description>Anthropic added message threads to its Messages API in public beta, caching conversations server-side to cut latency on long Claude Code sessions.</description>
+      <description>Anthropic adds message threads to Messages API in public beta</description>
       <pubDate>Thu, 05 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -339,7 +355,7 @@
       <link>https://www.thepixelmark.com/blog/whatsapp-business-platform-billing-moves-to-inr-what-to-check-before-31-december-2026/</link>
       <guid isPermaLink="true">https://www.thepixelmark.com/blog/whatsapp-business-platform-billing-moves-to-inr-what-to-check-before-31-december-2026/</guid>
       <category>WhatsApp/Meta dev</category>
-      <description>Indian businesses on WhatsApp must switch messaging accounts to INR billing by December 31, 2026, or messages stop delivering from January 1.</description>
+      <description>WhatsApp Business Platform: INR billing migration deadline is Dec 31, 2026</description>
       <pubDate>Thu, 05 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -388,22 +404,6 @@
       <guid isPermaLink="true">https://www.theartificialbrief.io/p/daily-ai-news-11042026</guid>
       <category>model API releases</category>
       <description>Tencent launches Hy4 with vision and computer-use abilities at unchanged API pricing</description>
-      <pubDate>Wed, 04 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Moonshot AI releases Kimi K3.1 Pro open weights: 2.8T-parameter MoE, 1M context</title>
-      <link>https://www.laura-martel.com/blog/kimi-k31-pro-launch</link>
-      <guid isPermaLink="true">https://www.laura-martel.com/blog/kimi-k31-pro-launch</guid>
-      <category>model API releases</category>
-      <description>Moonshot AI releases Kimi K3.1 Pro open weights: 2.8T-parameter MoE, 1M context</description>
-      <pubDate>Wed, 04 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Vercel Labs releases agent-desktop: desktop control for AI agents via the OS accessibility tree</title>
-      <link>https://www.mlllm.io/articles/3720-vercel-labs-releases-agent-desktop-ai-agents-shift-from-screenshots-to-os-accessibility-trees/</link>
-      <guid isPermaLink="true">https://www.mlllm.io/articles/3720-vercel-labs-releases-agent-desktop-ai-agents-shift-from-screenshots-to-os-accessibility-trees/</guid>
-      <category>agent frameworks</category>
-      <description>Vercel Labs releases agent-desktop: desktop control for AI agents via the OS accessibility tree</description>
       <pubDate>Wed, 04 Nov 2026 21:20:00 -0500</pubDate>
     </item>
   </channel>
