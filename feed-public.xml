@@ -5,7 +5,39 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Shield AI raises $2.5B and buys radar maker Echodyne in a $5.3B deal</title>
+      <link>https://shield.ai/shield-to-acquire-echodyne-in-a-transaction-valued-at-5-3-billion-and-raise-2-5-billion-at-a-28-8-billion-valuation/</link>
+      <guid isPermaLink="true">https://shield.ai/shield-to-acquire-echodyne-in-a-transaction-valued-at-5-3-billion-and-raise-2-5-billion-at-a-28-8-billion-valuation/</guid>
+      <category>agent-startup funding</category>
+      <description>Shield AI is raising $2.5B and buying radar maker Echodyne in a $5.3B deal, valuing the defense AI company at $28.8B.</description>
+      <pubDate>Sat, 07 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Frontier Model Forum ships v1.0 Jailbreak Rating Framework for cyber threats</title>
+      <link>https://www.frontiermodelforum.org/updates/introducing-the-fmf-jailbreak-rating-framework-for-frontier-cyber-threats/</link>
+      <guid isPermaLink="true">https://www.frontiermodelforum.org/updates/introducing-the-fmf-jailbreak-rating-framework-for-frontier-cyber-threats/</guid>
+      <category>model APIs</category>
+      <description>OpenAI, Anthropic, Google DeepMind, Microsoft and Amazon released a shared framework for rating how dangerous an AI cyber jailbreak is.</description>
+      <pubDate>Sat, 07 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Free x402 agent wallet refuses payments on its own — spend leash plus decision jury</title>
+      <link>https://scriptmasterlabs.com/x402-agent-wallet</link>
+      <guid isPermaLink="true">https://scriptmasterlabs.com/x402-agent-wallet</guid>
+      <category>agentic commerce rails</category>
+      <description>A new free x402 wallet for AI agents checks sellers and spending limits before paying — and refused two test payments on its own.</description>
+      <pubDate>Sat, 07 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Hey Claude routes Alexa questions to Claude in open source</title>
+      <link>https://emergent.sh/news/hey-claude-open-source-integration-routes</link>
+      <guid isPermaLink="true">https://emergent.sh/news/hey-claude-open-source-integration-routes</guid>
+      <category>agent frameworks</category>
+      <description>An open-source project now routes questions Alexa can't answer to Claude automatically.</description>
+      <pubDate>Sat, 07 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Thinking Machines Lab closing in on a $5B round at a $40B valuation</title>
       <link>https://sports.sunbeltpost.com/2026/11/06/thinking-machines-lab-is-closing-in-on-a-new-5-billion-funding-round-at-a-40-billion-valuation/</link>
@@ -373,38 +405,6 @@
       <category>model APIs</category>
       <description>Anthropic added 14 partner agents to Claude Marketplace, including security and productivity tools, now payable from committed Anthropic spend.</description>
       <pubDate>Thu, 05 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Anthropic adds message threads to Messages API in public beta</title>
-      <link>https://www.actuallylearnai.com/newsletter/2026-11-03</link>
-      <guid isPermaLink="true">https://www.actuallylearnai.com/newsletter/2026-11-03</guid>
-      <category>model APIs</category>
-      <description>Anthropic added message threads to its Messages API in public beta, caching conversations server-side to cut latency on long Claude Code sessions.</description>
-      <pubDate>Thu, 05 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp Business Platform: INR billing migration deadline is Dec 31, 2026</title>
-      <link>https://www.thepixelmark.com/blog/whatsapp-business-platform-billing-moves-to-inr-what-to-check-before-31-december-2026/</link>
-      <guid isPermaLink="true">https://www.thepixelmark.com/blog/whatsapp-business-platform-billing-moves-to-inr-what-to-check-before-31-december-2026/</guid>
-      <category>WhatsApp/Meta dev</category>
-      <description>Indian businesses on WhatsApp must switch messaging accounts to INR billing by December 31, 2026, or messages stop delivering from January 1.</description>
-      <pubDate>Thu, 05 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>firmly raises $15M Series A and launches Ask Agent for agentic commerce</title>
-      <link>https://markets.financialcontent.com/stocks/article/gnwcq-2026-11-5-firmly-raises-15-million-series-a-and-launches-ask-agent-to-help-merchants-more-easily-adopt-agentic-commerce</link>
-      <guid isPermaLink="true">https://markets.financialcontent.com/stocks/article/gnwcq-2026-11-5-firmly-raises-15-million-series-a-and-launches-ask-agent-to-help-merchants-more-easily-adopt-agentic-commerce</guid>
-      <category>agentic commerce rails</category>
-      <description>firmly raises $15M Series A and launches Ask Agent for agentic commerce</description>
-      <pubDate>Thu, 05 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Kabilio raises €10M to put an AI agent inside accounting firms</title>
-      <link>https://techfundingnews.com/kabilio-10m-funding-ai-accounting-agents/</link>
-      <guid isPermaLink="true">https://techfundingnews.com/kabilio-10m-funding-ai-accounting-agents/</guid>
-      <category>agent-startup funding</category>
-      <description>Kabilio raises €10M to put an AI agent inside accounting firms</description>
-      <pubDate>Thu, 05 Nov 2026 09:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
