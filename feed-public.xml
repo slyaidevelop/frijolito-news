@@ -5,7 +5,39 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Meta launches Spaces in Muse — describe an idea and Muse builds a persistent custom experience</title>
+      <link>https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/amp/</link>
+      <guid isPermaLink="true">https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/amp/</guid>
+      <category>agent sidebar race</category>
+      <description>Meta launched Spaces in Muse: describe an idea in chat and Muse builds a persistent custom experience like a tracker, planner, or project board in the sidebar.</description>
+      <pubDate>Fri, 06 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>firmly raises $15M Series A and launches Ask Agent in-chat checkout</title>
+      <link>https://banking40.ro/firmly-raises-15-million-and-launches-ask-agent-to-help-merchants-adopt-agentic-commerce-jp-morgan-mastercard-and-samsung-among-investors/</link>
+      <guid isPermaLink="true">https://banking40.ro/firmly-raises-15-million-and-launches-ask-agent-to-help-merchants-adopt-agentic-commerce-jp-morgan-mastercard-and-samsung-among-investors/</guid>
+      <category>agentic commerce</category>
+      <description>firmly raised a $15M Series A and launched Ask Agent, letting shoppers discover products and check out inside a chat on merchant websites.</description>
+      <pubDate>Fri, 06 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Cowboy raises $5M seed to launch an app store for AI agents</title>
+      <link>https://www.founderland.ai/articles/cowboy-raises-5m-seed-to-launch-an-app-store-for-ai-agents-mw5amq9y</link>
+      <guid isPermaLink="true">https://www.founderland.ai/articles/cowboy-raises-5m-seed-to-launch-an-app-store-for-ai-agents-mw5amq9y</guid>
+      <category>agent-startup funding</category>
+      <description>Cowboy raised a $5M seed round to launch an app store for AI agents, opening with more than 100 agents and 10,000 data feeds.</description>
+      <pubDate>Fri, 06 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Anthropic launches Personal Finance in Claude (US beta) — read-only bank linking via Plaid</title>
+      <link>https://www.unite.ai/anthropic-introduces-read-only-personal-finance-beta-in-claude/</link>
+      <guid isPermaLink="true">https://www.unite.ai/anthropic-introduces-read-only-personal-finance-beta-in-claude/</guid>
+      <category>model APIs</category>
+      <description>Anthropic launched Personal Finance in Claude in US beta: link bank and card accounts via Plaid and ask Claude about your money — read-only, it can't move funds.</description>
+      <pubDate>Fri, 06 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Kalepa raises $75M Series B at a $470M valuation for AI agents in insurance underwriting</title>
       <link>https://www.yourinfodaily.com/p/startup-funding-news-nov-5-2026-20-startups-raise-nearly-780-million</link>
@@ -373,38 +405,6 @@
       <category>agent governance</category>
       <description>Leidos launched HeadWay Dispatch, a platform to govern AI agents from different vendors with risk-based autonomy controls.</description>
       <pubDate>Wed, 04 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Snowflake launches Business Ontology and expands Cortex AI Gateway</title>
-      <link>https://techintelpro.com/news/ai/enterprise-ai/snowflake-launches-business-ontology-and-cortex-ai-gateway</link>
-      <guid isPermaLink="true">https://techintelpro.com/news/ai/enterprise-ai/snowflake-launches-business-ontology-and-cortex-ai-gateway</guid>
-      <category>file/data governance</category>
-      <description>Snowflake launched Business Ontology and expanded its Cortex AI Gateway to govern AI agents with approved business definitions.</description>
-      <pubDate>Wed, 04 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OpenAI Agent Builder shuts down November 30: 26-day migration playbook</title>
-      <link>https://medium.com/@Travel4Fun4U/openai-agent-builder-dies-on-november-30-the-26-day-migration-playbook-export-rebuild-609e0ef38868</link>
-      <guid isPermaLink="true">https://medium.com/@Travel4Fun4U/openai-agent-builder-dies-on-november-30-the-26-day-migration-playbook-export-rebuild-609e0ef38868</guid>
-      <category>agent frameworks</category>
-      <description>OpenAI's Agent Builder shuts down November 30, so teams have 26 days to export workflows to the Agents SDK or Workspace Agents.</description>
-      <pubDate>Wed, 04 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Finpilot raises $10M Series A for AI agents that handle grunt work for institutional investors</title>
-      <link>https://www.geekwire.com/2026/finpilot-raises-10m-for-ai-agents-that-handle-the-grunt-work-for-institutional-investors/</link>
-      <guid isPermaLink="true">https://www.geekwire.com/2026/finpilot-raises-10m-for-ai-agents-that-handle-the-grunt-work-for-institutional-investors/</guid>
-      <category>agent-startup funding</category>
-      <description>Finpilot raises $10M Series A for AI agents that handle grunt work for institutional investors</description>
-      <pubDate>Wed, 04 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Together AI launches Polymorphic Inference with Together Compiler, continuously retuning inference</title>
-      <link>https://www.unite.ai/together-ai-brings-continuous-compilation-to-production-inference/</link>
-      <guid isPermaLink="true">https://www.unite.ai/together-ai-brings-continuous-compilation-to-production-inference/</guid>
-      <category>model APIs</category>
-      <description>Together AI launches Polymorphic Inference with Together Compiler, continuously retuning inference</description>
-      <pubDate>Wed, 04 Nov 2026 12:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
