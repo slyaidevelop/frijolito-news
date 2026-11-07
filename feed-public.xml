@@ -5,13 +5,53 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Kalepa raises $75M Series B at a $470M valuation for AI agents in insurance underwriting</title>
+      <link>https://www.yourinfodaily.com/p/startup-funding-news-nov-5-2026-20-startups-raise-nearly-780-million</link>
+      <guid isPermaLink="true">https://www.yourinfodaily.com/p/startup-funding-news-nov-5-2026-20-startups-raise-nearly-780-million</guid>
+      <category>agent-startup funding</category>
+      <description>Kalepa raised $75M at a $470M valuation for AI agents that handle insurance underwriting, and plans to double headcount by 2027.</description>
+      <pubDate>Fri, 06 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>AvePoint launches Trust Platform to govern enterprise AI agents, models and MCP servers</title>
+      <link>https://wisevoter.com/world/2026/11/03/avepoint-launches-trust-platform-enterprise-ai</link>
+      <guid isPermaLink="true">https://wisevoter.com/world/2026/11/03/avepoint-launches-trust-platform-enterprise-ai</guid>
+      <category>file governance</category>
+      <description>AvePoint launched a Trust Platform to govern enterprise AI agents, models and MCP servers, including discovery of shadow AI.</description>
+      <pubDate>Fri, 06 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Wolters Kluwer ships a TyMetrix 360° MCP server for governed legal invoice workflows</title>
+      <link>https://lifestyle.kotaradio.com/story/558114/wolters-kluwer-brings-tymetrix-360-data-into-enterprise-ai-workflows-with-new-mcp-server/</link>
+      <guid isPermaLink="true">https://lifestyle.kotaradio.com/story/558114/wolters-kluwer-brings-tymetrix-360-data-into-enterprise-ai-workflows-with-new-mcp-server/</guid>
+      <category>file governance</category>
+      <description>Wolters Kluwer launched an MCP server for TyMetrix 360°, letting legal teams run invoice workflows in one AI conversation under existing permissions.</description>
+      <pubDate>Fri, 06 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Meta moves WhatsApp marketing templates to a dedicated API; Cloud API marketing ends Oct 13, 2027</title>
+      <link>https://api.socialintents.com/whatsapp-marketing-messages-api.html</link>
+      <guid isPermaLink="true">https://api.socialintents.com/whatsapp-marketing-messages-api.html</guid>
+      <category>WhatsApp / Meta dev</category>
+      <description>Meta is moving WhatsApp marketing messages to a dedicated API: Cloud API marketing sends stop working on October 13, 2027.</description>
+      <pubDate>Fri, 06 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>METR: Anthropic's benchmark capability progress accelerated ~1.9x since Oct 2025</title>
+      <link>https://sxf.si/brief/</link>
+      <guid isPermaLink="true">https://sxf.si/brief/</guid>
+      <category>model APIs</category>
+      <description>Independent evaluator METR estimates Anthropic's AI capability progress accelerated about 1.9x since October 2025, with key evidence redacted.</description>
+      <pubDate>Fri, 06 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Nooks raises $500M and launches Node, a proactive AI assistant for sales reps</title>
       <link>https://www.eneralabs.com/blog/nooks-500m-node-agentic-sales-gtm-2026/</link>
       <guid isPermaLink="true">https://www.eneralabs.com/blog/nooks-500m-node-agentic-sales-gtm-2026/</guid>
       <category>agent-startup funding</category>
-      <description>Nooks raised $500M from General Catalyst and launched Node, an AI assistant that proactively works sales deals and prompts reps instead of waiting to be asked.</description>
+      <description>Nooks raises $500M and launches Node, a proactive AI assistant for sales reps</description>
       <pubDate>Fri, 06 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -19,7 +59,7 @@
       <link>https://montserratindustrynews.com/article/954474137-descope-unveils-envoy-an-identity-aware-way-for-personal-ai-agents-to-act-on-people-s-behalf</link>
       <guid isPermaLink="true">https://montserratindustrynews.com/article/954474137-descope-unveils-envoy-an-identity-aware-way-for-personal-ai-agents-to-act-on-people-s-behalf</guid>
       <category>agent identity</category>
-      <description>Descope launched Envoy, giving consumer apps a way to let personal AI agents sign in and act for customers with clear permissions and approval.</description>
+      <description>Descope launches Envoy, a delegated sign-in path for personal AI agents with Poppy support</description>
       <pubDate>Fri, 06 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -27,7 +67,7 @@
       <link>https://agenteconomy.to/stats/is-x402-growing</link>
       <guid isPermaLink="true">https://agenteconomy.to/stats/is-x402-growing</guid>
       <category>agentic commerce rails</category>
-      <description>New on-chain data shows x402 settled 5.1 million payments in October but only $274,000 in volume — the average payment is now about five cents.</description>
+      <description>New on-chain data shows x402 agent payments are steady in count but far below their late-2025 peak, with the average payment down to about five cents.</description>
       <pubDate>Fri, 06 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -365,46 +405,6 @@
       <category>model APIs</category>
       <description>Together AI launches Polymorphic Inference with Together Compiler, continuously retuning inference</description>
       <pubDate>Wed, 04 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sarvam AI launches Prism, a decision-making model with 44ms responses and Apache 2.0 weights</title>
-      <link>https://www.thehindubusinessline.com/info-tech/sarvam-ai-launches-prism-decision-model-with-44-millisecond-response-time/article71663860.ece</link>
-      <guid isPermaLink="true">https://www.thehindubusinessline.com/info-tech/sarvam-ai-launches-prism-decision-model-with-44-millisecond-response-time/article71663860.ece</guid>
-      <category>model APIs</category>
-      <description>Sarvam AI launches Prism, a decision-making model with 44ms responses and Apache 2.0 weights</description>
-      <pubDate>Wed, 04 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Axion 1.0: open agent model family from ByteDance-linked authors, 18K examples, Apache 2.0</title>
-      <link>https://explainx.ai/blog/axion-1-0-bytedance-open-agent-model-two-sft-stages-rl-18k-examples-35b-122b-apache-2026</link>
-      <guid isPermaLink="true">https://explainx.ai/blog/axion-1-0-bytedance-open-agent-model-two-sft-stages-rl-18k-examples-35b-122b-apache-2026</guid>
-      <category>model APIs / agent frameworks</category>
-      <description>Axion 1.0: open agent model family from ByteDance-linked authors, 18K examples, Apache 2.0</description>
-      <pubDate>Wed, 04 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ReqRes launches an Agent Sandbox, a free REST API built for AI coding agents to practice against</title>
-      <link>https://reqres.in/blog/launching-agent-sandbox</link>
-      <guid isPermaLink="true">https://reqres.in/blog/launching-agent-sandbox</guid>
-      <category>agent frameworks</category>
-      <description>ReqRes launches an Agent Sandbox, a free REST API built for AI coding agents to practice against</description>
-      <pubDate>Wed, 04 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Thermit raises seed led by Mashup Ventures for its Creazy commerce content agent</title>
-      <link>https://www.thesaasnews.com/news/ai-commerce-startup-thermit-operator-of-creazy-content-agent-raises-seed-funding-led/</link>
-      <guid isPermaLink="true">https://www.thesaasnews.com/news/ai-commerce-startup-thermit-operator-of-creazy-content-agent-raises-seed-funding-led/</guid>
-      <category>agent-startup funding</category>
-      <description>Thermit raises seed led by Mashup Ventures for its Creazy commerce content agent</description>
-      <pubDate>Wed, 04 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sentra raises $150M Series C to control what AI agents can reach in data</title>
-      <link>https://aiparabellum.com/sentra-raises-150m-ai-agent-data-security/</link>
-      <guid isPermaLink="true">https://aiparabellum.com/sentra-raises-150m-ai-agent-data-security/</guid>
-      <category>agent-startup funding</category>
-      <description>Sentra raises $150M Series C to control what AI agents can reach in data</description>
-      <pubDate>Wed, 04 Nov 2026 09:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
