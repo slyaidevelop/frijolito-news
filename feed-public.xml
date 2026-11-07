@@ -5,7 +5,55 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <item>
+      <title>OpenAI closes $11B first close at $1.25T valuation — under half the original $30B ask</title>
+      <link>https://www.unite.ai/openai-secures-11b-in-initial-funding-at-1-25t-valuation/</link>
+      <guid isPermaLink="true">https://www.unite.ai/openai-secures-11b-in-initial-funding-at-1-25t-valuation/</guid>
+      <category>agent-startup funding</category>
+      <description>OpenAI closed an $11 billion first tranche at a $1.25 trillion valuation — less than half of the $30 billion it originally sought.</description>
+      <pubDate>Sat, 07 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Mistral Studio opens managed agents in public preview — write once, run anywhere</title>
+      <link>https://docs.mistral.ai/resources/release-notes</link>
+      <guid isPermaLink="true">https://docs.mistral.ai/resources/release-notes</guid>
+      <category>model APIs / agent frameworks</category>
+      <description>Mistral opened managed agents in Studio public preview: build an agent once in Python and run it locally, self-hosted, or on Mistral's infrastructure.</description>
+      <pubDate>Sat, 07 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Perplexity launches Teammates, persistent AI agents for ongoing work</title>
+      <link>https://www.perplexity.ai/page/ff9c0661-87ed-4e74-acf3-61a12803acbb</link>
+      <guid isPermaLink="true">https://www.perplexity.ai/page/ff9c0661-87ed-4e74-acf3-61a12803acbb</guid>
+      <category>always-on agents</category>
+      <description>Perplexity launched Teammates, always-on AI agents that take ownership of ongoing work, available to $200-a-month Max subscribers.</description>
+      <pubDate>Sat, 07 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Airbyte ships open-source MCP server so agents can chat to data pipelines</title>
+      <link>https://www.computerweekly.com/blog/Open-Source-Insider/Hello-data-hows-my-pipeline-Airbyte-MCP-Server-lets-engineers-chat-to-data</link>
+      <guid isPermaLink="true">https://www.computerweekly.com/blog/Open-Source-Insider/Hello-data-hows-my-pipeline-Airbyte-MCP-Server-lets-engineers-chat-to-data</guid>
+      <category>file governance</category>
+      <description>Airbyte released an open-source MCP server that lets AI assistants query and fix data pipelines in plain language, with confirmations for destructive actions.</description>
+      <pubDate>Sat, 07 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp marketing templates leave the Cloud API in October 2027</title>
+      <link>https://beacon-messenger.beaconwavestudio.com/blog/whatsapp-cloud-api-marketing-messages-sunset-october-2027-shopify</link>
+      <guid isPermaLink="true">https://beacon-messenger.beaconwavestudio.com/blog/whatsapp-cloud-api-marketing-messages-sunset-october-2027-shopify</guid>
+      <category>WhatsApp / Meta dev</category>
+      <description>Meta will stop carrying WhatsApp marketing templates on the Cloud API on October 13, 2027; marketing sends must move to the dedicated Marketing Messages API.</description>
+      <pubDate>Sat, 07 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Base44 Superagents now stop and ask before paying</title>
+      <link>https://www.yet-another-changelog.ai/changelog/base44-superagent-payment-approval</link>
+      <guid isPermaLink="true">https://www.yet-another-changelog.ai/changelog/base44-superagent-payment-approval</guid>
+      <category>Base44 ecosystem</category>
+      <description>Base44 Superagents now pause at the pay button and ask for separate approval before any payment goes through.</description>
+      <pubDate>Sat, 07 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Meta launches Spaces in Muse — describe an idea and Muse builds a persistent custom experience</title>
       <link>https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/amp/</link>
@@ -357,54 +405,6 @@
       <category>agent frameworks</category>
       <description>Vercel Labs releases agent-desktop: desktop control for AI agents via the OS accessibility tree</description>
       <pubDate>Wed, 04 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Personal Agent Protocol draft 0.3 in progress: protocol scopes dropped, MCP joins discovery</title>
-      <link>https://reflektlab.ai/blog/personal-agent-protocol/</link>
-      <guid isPermaLink="true">https://reflektlab.ai/blog/personal-agent-protocol/</guid>
-      <category>Base44/Instinct ecosystem</category>
-      <description>Personal Agent Protocol draft 0.3 in progress: protocol scopes dropped, MCP joins discovery</description>
-      <pubDate>Wed, 04 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Cowboy raises $5M seed to build an app store for AI agents</title>
-      <link>https://www.businesswire.com/news/home/20261104730692/en/Cowboy-Raises-%245-Million-in-Seed-Funding-to-Help-Developers-Own-Control-and-Monetize-AI</link>
-      <guid isPermaLink="true">https://www.businesswire.com/news/home/20261104730692/en/Cowboy-Raises-%245-Million-in-Seed-Funding-to-Help-Developers-Own-Control-and-Monetize-AI</guid>
-      <category>agent-startup funding</category>
-      <description>Cowboy raised $5M to build an app store for AI agents, opening with 100+ agents and 10,000 data feeds developers can hire and monetize.</description>
-      <pubDate>Wed, 04 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>x402 passes 196.7M payments settled, $42.4M in volume</title>
-      <link>https://decrypt.co/resources/what-is-x402-how-ai-agents-pay-with-crypto</link>
-      <guid isPermaLink="true">https://decrypt.co/resources/what-is-x402-how-ai-agents-pay-with-crypto</guid>
-      <category>agentic commerce rails</category>
-      <description>x402 agent payments passed 196 million settled transactions and $42.4 million in volume, though October cooled sharply after a late-2025 minting frenzy.</description>
-      <pubDate>Wed, 04 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>PhoenixAI launches Contextbase, governed context infrastructure for AI agents</title>
-      <link>https://runtimewire.com/article/phoenixai-launches-contextbase-ai-agent-context</link>
-      <guid isPermaLink="true">https://runtimewire.com/article/phoenixai-launches-contextbase-ai-agent-context</guid>
-      <category>file/data governance</category>
-      <description>PhoenixAI launched Contextbase, putting agent memory, knowledge, traces and evaluations in one governed store inside its database.</description>
-      <pubDate>Wed, 04 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Brava Security raises $15M seed to expand AI SecOps in North America</title>
-      <link>https://www.unite.ai/brava-security-raises-15m-seed-to-expand-ai-secops-in-north-america/</link>
-      <guid isPermaLink="true">https://www.unite.ai/brava-security-raises-15m-seed-to-expand-ai-secops-in-north-america/</guid>
-      <category>agent-startup funding</category>
-      <description>Brava Security raised $15 million to build AI agents that test whether security tools would actually catch an attack.</description>
-      <pubDate>Wed, 04 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Leidos unveils HeadWay Dispatch for cross-vendor AI agent control</title>
-      <link>https://www.unite.ai/leidos-unveils-headway-dispatch-for-cross-vendor-ai-agent-control/</link>
-      <guid isPermaLink="true">https://www.unite.ai/leidos-unveils-headway-dispatch-for-cross-vendor-ai-agent-control/</guid>
-      <category>agent governance</category>
-      <description>Leidos launched HeadWay Dispatch, a platform to govern AI agents from different vendors with risk-based autonomy controls.</description>
-      <pubDate>Wed, 04 Nov 2026 15:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
