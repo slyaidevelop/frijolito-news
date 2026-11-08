@@ -5,7 +5,23 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Google ships Agent Development Kit 2.14.0 — core modules graduate, TeamsRunner lands</title>
+      <link>https://aiweekly.co/alerts/google-adk-2140-graduates-core-modules-adds-teams-runner</link>
+      <guid isPermaLink="true">https://aiweekly.co/alerts/google-adk-2140-graduates-core-modules-adds-teams-runner</guid>
+      <category>agent frameworks</category>
+      <description>Google shipped Agent Development Kit 2.14.0, graduating A2A and core modules out of experimental and adding a Teams runner for agents in Microsoft Teams.</description>
+      <pubDate>Sun, 08 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Anthropic ships Claude Opus 4.6 — 1M-token context, Agent Teams preview, context compaction</title>
+      <link>https://pengen.diewe.workers.dev/thegdsks/claude-opus-46-for-developers-agent-teams-1m-context-and-what-actually-matters-4h8c</link>
+      <guid isPermaLink="true">https://pengen.diewe.workers.dev/thegdsks/claude-opus-46-for-developers-agent-teams-1m-context-and-what-actually-matters-4h8c</guid>
+      <category>model APIs</category>
+      <description>Anthropic shipped Claude Opus 4.6 with 1M-token context, multi-agent teams in preview, and context compaction for long coding sessions.</description>
+      <pubDate>Sun, 08 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Claude Sonnet 4.5 retires from the Claude API on November 30 — migrate to Sonnet 5.5</title>
       <link>https://blurbrahlab.medium.com/claude-sonnet-4-5-is-retired-nov-30-top-10-ai-flutter-news-november-8-2026-9dd0b651d8e9</link>
@@ -388,22 +404,6 @@
       <guid isPermaLink="true">https://medium.com/@m.k_97958/monthly-report-october-2026-delivery-verification-in-x402-seller-track-records-downstream-of-5e8f8f60f726</guid>
       <category>agentic commerce rails</category>
       <description>October x402 report: delivery verification is now the missing layer</description>
-      <pubDate>Thu, 05 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Anthropic S-1 discloses $33.24B revenue; best agent model scores 12% on GDPx</title>
-      <link>https://medium.com/@hx_research/llm-technical-brief-nov-4-2026-anthropic-nears-its-rsi-threshold-best-agent-scores-12-on-gdpx-b9ffd79015f8</link>
-      <guid isPermaLink="true">https://medium.com/@hx_research/llm-technical-brief-nov-4-2026-anthropic-nears-its-rsi-threshold-best-agent-scores-12-on-gdpx-b9ffd79015f8</guid>
-      <category>model APIs</category>
-      <description>Anthropic S-1 discloses $33.24B revenue; best agent model scores 12% on GDPx</description>
-      <pubDate>Thu, 05 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Computer use compared across Claude, ChatGPT and Gemini as of Nov 5</title>
-      <link>https://medium.com/@sarathc225/can-an-ai-agent-use-your-computer-bd24f8645314</link>
-      <guid isPermaLink="true">https://medium.com/@sarathc225/can-an-ai-agent-use-your-computer-bd24f8645314</guid>
-      <category>model APIs / agent frameworks</category>
-      <description>Computer use compared across Claude, ChatGPT and Gemini as of Nov 5</description>
       <pubDate>Thu, 05 Nov 2026 21:20:00 -0500</pubDate>
     </item>
   </channel>
