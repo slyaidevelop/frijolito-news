@@ -5,13 +5,37 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Anthropic presses ahead with pre-Thanksgiving IPO, targeting $80-100B at a $1.25-1.75T valuation</title>
+      <link>https://www.siliconreport.com/anthropic-aims-for-pre-thanksgiving-ipo-to-raise-up-to-100-billion</link>
+      <guid isPermaLink="true">https://www.siliconreport.com/anthropic-aims-for-pre-thanksgiving-ipo-to-raise-up-to-100-billion</guid>
+      <category>agent-startup funding</category>
+      <description>Anthropic is pressing ahead with a pre-Thanksgiving IPO, aiming to raise $80-100 billion at a $1.25-1.75 trillion valuation despite the recent tech selloff.</description>
+      <pubDate>Sat, 07 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Axon invests another $1.2B in Skydio at a $5.2B valuation and takes exclusive public-safety distribution</title>
+      <link>https://dronelife.com/2026/11/06/axon-skydio-investment-exclusive-drone-distribution/</link>
+      <guid isPermaLink="true">https://dronelife.com/2026/11/06/axon-skydio-investment-exclusive-drone-distribution/</guid>
+      <category>agent-startup funding</category>
+      <description>Axon is investing another $1.2 billion in drone maker Skydio at a $5.2 billion valuation and becoming its exclusive public-safety distributor in the US and Canada.</description>
+      <pubDate>Sat, 07 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>DigitalOcean launches Cuttlefish, an iPhone app to approve or block AI agent actions, plus a Box integration for agents on shared files</title>
+      <link>https://www.whtop.com/news/36073-cloud-firm-digitalocean-launches-iphone-app-to-approve-ai-agent</link>
+      <guid isPermaLink="true">https://www.whtop.com/news/36073-cloud-firm-digitalocean-launches-iphone-app-to-approve-ai-agent</guid>
+      <category>file governance</category>
+      <description>DigitalOcean launched Cuttlefish, an iPhone app that lets you approve or block individual AI agent actions, plus a Box integration so agents work on shared files in place.</description>
+      <pubDate>Sat, 07 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Shield AI raises $2.5B and buys radar maker Echodyne in a $5.3B deal</title>
       <link>https://shield.ai/shield-to-acquire-echodyne-in-a-transaction-valued-at-5-3-billion-and-raise-2-5-billion-at-a-28-8-billion-valuation/</link>
       <guid isPermaLink="true">https://shield.ai/shield-to-acquire-echodyne-in-a-transaction-valued-at-5-3-billion-and-raise-2-5-billion-at-a-28-8-billion-valuation/</guid>
       <category>agent-startup funding</category>
-      <description>Shield AI is raising $2.5B and buying radar maker Echodyne in a $5.3B deal, valuing the defense AI company at $28.8B.</description>
+      <description>Shield AI raises $2.5B and buys radar maker Echodyne in a $5.3B deal</description>
       <pubDate>Sat, 07 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -19,7 +43,7 @@
       <link>https://www.frontiermodelforum.org/updates/introducing-the-fmf-jailbreak-rating-framework-for-frontier-cyber-threats/</link>
       <guid isPermaLink="true">https://www.frontiermodelforum.org/updates/introducing-the-fmf-jailbreak-rating-framework-for-frontier-cyber-threats/</guid>
       <category>model APIs</category>
-      <description>OpenAI, Anthropic, Google DeepMind, Microsoft and Amazon released a shared framework for rating how dangerous an AI cyber jailbreak is.</description>
+      <description>Frontier Model Forum ships v1.0 Jailbreak Rating Framework for cyber threats</description>
       <pubDate>Sat, 07 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -27,7 +51,7 @@
       <link>https://scriptmasterlabs.com/x402-agent-wallet</link>
       <guid isPermaLink="true">https://scriptmasterlabs.com/x402-agent-wallet</guid>
       <category>agentic commerce rails</category>
-      <description>A new free x402 wallet for AI agents checks sellers and spending limits before paying — and refused two test payments on its own.</description>
+      <description>Free x402 agent wallet refuses payments on its own — spend leash plus decision jury</description>
       <pubDate>Sat, 07 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -35,7 +59,7 @@
       <link>https://emergent.sh/news/hey-claude-open-source-integration-routes</link>
       <guid isPermaLink="true">https://emergent.sh/news/hey-claude-open-source-integration-routes</guid>
       <category>agent frameworks</category>
-      <description>An open-source project now routes questions Alexa can't answer to Claude automatically.</description>
+      <description>Hey Claude routes Alexa questions to Claude in open source</description>
       <pubDate>Sat, 07 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -381,30 +405,6 @@
       <category>agent identity</category>
       <description>Fingerprint expanded bot detection to identify undeclared traffic from AI agents including Meta's Muse, Instinct and xAI's Grok Bot.</description>
       <pubDate>Thu, 05 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Base44 and Overwolf's Nitro launch $65K contest for AI-built web games</title>
-      <link>https://blog.overwolf.com/overwolfs-nitro-and-base44-launch-65k-contest-for-web-games-built-with-ai/</link>
-      <guid isPermaLink="true">https://blog.overwolf.com/overwolfs-nitro-and-base44-launch-65k-contest-for-web-games-built-with-ai/</guid>
-      <category>Base44 ecosystem</category>
-      <description>Base44 and Overwolf's Nitro launched a $65K contest for web games built with AI, with a $25,000 grand prize.</description>
-      <pubDate>Thu, 05 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OpenAI ships ChatGPT Images 2.6 with animated GIFs and two new API models</title>
-      <link>https://www.gadgets360.com/ai/news/openai-images-2-6-update-gif-creation-chatgpt-new-api-models-12287035</link>
-      <guid isPermaLink="true">https://www.gadgets360.com/ai/news/openai-images-2-6-update-gif-creation-chatgpt-new-api-models-12287035</guid>
-      <category>model APIs</category>
-      <description>OpenAI released ChatGPT Images 2.6 with animated GIFs and two faster API models, Flare and Sunburst, for quicker image generation and editing.</description>
-      <pubDate>Thu, 05 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Anthropic expands Claude Marketplace with 14 new partner agents</title>
-      <link>https://www.unite.ai/anthropic-expands-claude-marketplace-with-partner-agents-and-products/</link>
-      <guid isPermaLink="true">https://www.unite.ai/anthropic-expands-claude-marketplace-with-partner-agents-and-products/</guid>
-      <category>model APIs</category>
-      <description>Anthropic added 14 partner agents to Claude Marketplace, including security and productivity tools, now payable from committed Anthropic spend.</description>
-      <pubDate>Thu, 05 Nov 2026 12:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
