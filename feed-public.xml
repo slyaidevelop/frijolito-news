@@ -5,7 +5,39 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Lumière PayCheck paid 45,152 x402 endpoints — 95% delivered once paid, but half of payment attempts never completed</title>
+      <link>https://lumierepaycheck.org/blog/we-paid-x402-endpoints-45152-times</link>
+      <guid isPermaLink="true">https://lumierepaycheck.org/blog/we-paid-x402-endpoints-45152-times</guid>
+      <category>agentic commerce rails</category>
+      <description>A six-week test paid 45,152 x402 endpoints: 95% delivered once paid, but half of all payment attempts never completed — the payment itself is the weak link.</description>
+      <pubDate>Sun, 08 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Phonic raises $27.5M Series A to help voice agents understand callers</title>
+      <link>https://www.cxnetwork.com/cx-experience/news/every-cx-start-up-funding-deal-you-need-to-know-november-6/amp</link>
+      <guid isPermaLink="true">https://www.cxnetwork.com/cx-experience/news/every-cx-start-up-funding-deal-you-need-to-know-november-6/amp</guid>
+      <category>agent-startup funding</category>
+      <description>Phonic raised $27.5M to build speech-to-speech AI models that help voice agents understand callers better.</description>
+      <pubDate>Sun, 08 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ShareGate MCP brings Microsoft 365 governance into Claude, ChatGPT and Copilot</title>
+      <link>https://sharegate.com/blog/new-in-sharegate-mcp-governance</link>
+      <guid isPermaLink="true">https://sharegate.com/blog/new-in-sharegate-mcp-governance</guid>
+      <category>file governance</category>
+      <description>ShareGate launched an MCP connector that lets Claude, ChatGPT and Copilot govern Microsoft 365 under the permissions users already have.</description>
+      <pubDate>Sun, 08 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Base44 scales from $3.5M to $200M ARR after Wix’s $80M acquisition</title>
+      <link>https://www.aurav.ae/base44-scales-from-3-5m-to-200m-arr-after-80m-wix-acquisition</link>
+      <guid isPermaLink="true">https://www.aurav.ae/base44-scales-from-3-5m-to-200m-arr-after-80m-wix-acquisition</guid>
+      <category>Base44 ecosystem</category>
+      <description>Base44 grew from $3.5M to a $200M revenue run-rate with about 2 million users in the year since Wix bought it for $80M.</description>
+      <pubDate>Sun, 08 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Anthropic presses ahead with pre-Thanksgiving IPO, targeting $80-100B at a $1.25-1.75T valuation</title>
       <link>https://www.siliconreport.com/anthropic-aims-for-pre-thanksgiving-ipo-to-raise-up-to-100-billion</link>
@@ -373,38 +405,6 @@
       <category>base44-ecosystem</category>
       <description>Orca Security extended its AI AppGen Security platform to Base44 on day one of Base44's new Compliance API, checking no-code workspaces against 30+ security rules.</description>
       <pubDate>Thu, 05 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sand.ai raises $200M Series A+ for generative video models</title>
-      <link>https://techstartups.com/2026/11/05/startup-funding-news-today-november-5-2026-bit-bio-sand-ai-sentra-pliant-more/</link>
-      <guid isPermaLink="true">https://techstartups.com/2026/11/05/startup-funding-news-today-november-5-2026-bit-bio-sand-ai-sentra-pliant-more/</guid>
-      <category>funding</category>
-      <description>Sand.ai raised $200M in Series A+ funding to build generative video models, bringing its 2026 total to about $300M.</description>
-      <pubDate>Thu, 05 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Cyberhaven launches Agentic Data Security to watch what AI agents do with company data</title>
-      <link>https://www.morningstar.com/news/pr-newswire/20261105la90152/cyberhaven-delivers-agentic-data-security</link>
-      <guid isPermaLink="true">https://www.morningstar.com/news/pr-newswire/20261105la90152/cyberhaven-delivers-agentic-data-security</guid>
-      <category>file governance</category>
-      <description>Cyberhaven launched Agentic Data Security, which shows what AI agents do with company data and stops sensitive data before it leaves.</description>
-      <pubDate>Thu, 05 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Citrix adds SecurSpaces and SecurAccess for governed agentic work</title>
-      <link>https://itdigest.com/artificial-intelligence/governing-the-non-human-workforce-how-citrixs-agentic-workspaces-and-governance-framework-reshape-enterprise-ai/</link>
-      <guid isPermaLink="true">https://itdigest.com/artificial-intelligence/governing-the-non-human-workforce-how-citrixs-agentic-workspaces-and-governance-framework-reshape-enterprise-ai/</guid>
-      <category>agent governance</category>
-      <description>Citrix added SecurSpaces and SecurAccess, giving AI agents isolated sandboxes and audited sessions inside enterprise workspaces.</description>
-      <pubDate>Thu, 05 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Fingerprint can now detect hidden Muse, Instinct and Grok bot traffic</title>
-      <link>https://markets.financialcontent.com/kanerepublican/article/bizwire-2026-11-5-fingerprint-expands-bot-detection-to-uncover-hidden-muse-instinct-and-grok-bot-traffic-as-ai-agents-increasingly-conceal-their-identities</link>
-      <guid isPermaLink="true">https://markets.financialcontent.com/kanerepublican/article/bizwire-2026-11-5-fingerprint-expands-bot-detection-to-uncover-hidden-muse-instinct-and-grok-bot-traffic-as-ai-agents-increasingly-conceal-their-identities</guid>
-      <category>agent identity</category>
-      <description>Fingerprint expanded bot detection to identify undeclared traffic from AI agents including Meta's Muse, Instinct and xAI's Grok Bot.</description>
-      <pubDate>Thu, 05 Nov 2026 15:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
