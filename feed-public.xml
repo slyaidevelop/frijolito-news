@@ -5,13 +5,37 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Claude Sonnet 4.6 ships today: 1M-token context, Opus-level coding at Sonnet prices</title>
+      <link>https://dev.to/paullovelace/claude-sonnet-46-is-here-1m-context-opus-level-coding-at-sonnet-prices-3odc</link>
+      <guid isPermaLink="true">https://dev.to/paullovelace/claude-sonnet-46-is-here-1m-context-opus-level-coding-at-sonnet-prices-3odc</guid>
+      <category>model APIs</category>
+      <description>Anthropic shipped Claude Sonnet 4.6 today with a 1M-token context window in beta, at the same price as Sonnet 4.5, now the default on claude.ai.</description>
+      <pubDate>Sun, 08 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>&amp;Truth raises $70M seed for AI proof generation; Lazarus AI raises $43M for sovereign on-prem AI</title>
+      <link>https://crosswalk.to/crosswalk/deals/2026-11-08</link>
+      <guid isPermaLink="true">https://crosswalk.to/crosswalk/deals/2026-11-08</guid>
+      <category>agent-startup funding</category>
+      <description>&amp;Truth raised $70M to mathematically verify AI-generated code, and Lazarus AI raised $43M for AI platforms enterprises run on their own servers.</description>
+      <pubDate>Sun, 08 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Claude Code auto-commits leaked 1,100+ live secrets to public GitHub; GitLab 19.5 governs agentic dev</title>
+      <link>https://theartofcto.com/daily-sync/2026-11-08-daily-sync</link>
+      <guid isPermaLink="true">https://theartofcto.com/daily-sync/2026-11-08-daily-sync</guid>
+      <category>file governance</category>
+      <description>Over 1,100 public GitHub files were found holding live passwords and API keys committed by AI coding helpers; GitLab 19.5 adds governed workflows for agentic development.</description>
+      <pubDate>Sun, 08 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>OpenAI closes $11B first close at $1.25T valuation — weekly financing recap</title>
       <link>https://www.aidailyinsights.cn/en/2026-11-08/</link>
       <guid isPermaLink="true">https://www.aidailyinsights.cn/en/2026-11-08/</guid>
       <category>agent-startup funding</category>
-      <description>OpenAI took in about $11 billion in a first funding close at a $1.25 trillion valuation, with the full round still to come.</description>
+      <description>OpenAI closes $11B first close at $1.25T valuation — weekly financing recap</description>
       <pubDate>Sun, 08 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -19,7 +43,7 @@
       <link>https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/</link>
       <guid isPermaLink="true">https://www.alleywatch.com/2026/11/the-weekly-notable-startup-funding-report-11-9-26/</guid>
       <category>agent-startup funding</category>
-      <description>Applied Compute raised $350M for custom enterprise AI models, and Larridin, Firmly.ai and Cowboy closed rounds in the same week.</description>
+      <description>Weekly funding roundup: Applied Compute $350M, Larridin $30M, Firmly.ai $15M, Cowboy $5M</description>
       <pubDate>Sun, 08 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -27,7 +51,7 @@
       <link>https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t</link>
       <guid isPermaLink="true">https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t</guid>
       <category>agentic commerce rails</category>
-      <description>Stablecoin payments jumped 45% to $482B this year while supply barely grew — and AI agent payments doubled to 68 million in Q3, worth just $3.7M total.</description>
+      <description>Stablecoin payments jumped 45% to $482B while supply barely grew; agent payments doubled to 68.3M in Q3 but totaled just $3.7M</description>
       <pubDate>Sun, 08 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -35,7 +59,7 @@
       <link>https://medium.com/@btibor91/openai-and-anthropic-this-week-gpt-6-cyber-images-2-6-personal-finance-pierre-week-45-2026-ae6fe20d23fd</link>
       <guid isPermaLink="true">https://medium.com/@btibor91/openai-and-anthropic-this-week-gpt-6-cyber-images-2-6-personal-finance-pierre-week-45-2026-ae6fe20d23fd</guid>
       <category>model APIs</category>
-      <description>OpenAI launched a cybersecurity model and new image tools and is buying Pierre for coding-agent Git workflows; Anthropic added message threads and open-sourced FlashProve.</description>
+      <description>OpenAI ships GPT-6 Cyber and Images 2.6, moves to acquire Pierre; Anthropic ships message threads and open-sources FlashProve</description>
       <pubDate>Sun, 08 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -43,7 +67,7 @@
       <link>https://aiseek.dev/en/stories/9d23d971-a4bf-4ae6-9603-4315d4b7a39f</link>
       <guid isPermaLink="true">https://aiseek.dev/en/stories/9d23d971-a4bf-4ae6-9603-4315d4b7a39f</guid>
       <category>file governance</category>
-      <description>AWS's Agent Registry is now generally available in GovCloud, giving public-sector teams a governed catalog for agents, tools and MCP servers.</description>
+      <description>AWS Agent Registry generally available in GovCloud (US-West)</description>
       <pubDate>Sun, 08 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -51,7 +75,7 @@
       <link>https://www.augmentai.app/trends/enterprises-move-from-answering-prompts-to-taking-action-with-open-ai-standards-b93cfb</link>
       <guid isPermaLink="true">https://www.augmentai.app/trends/enterprises-move-from-answering-prompts-to-taking-action-with-open-ai-standards-b93cfb</guid>
       <category>file governance</category>
-      <description>Wolters Kluwer launched an MCP server for TyMetrix 360, letting AI assistants run legal and financial tasks inside existing user permissions.</description>
+      <description>Wolters Kluwer ships TyMetrix 360 MCP server for governed legal and financial actions</description>
       <pubDate>Sun, 08 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -59,7 +83,7 @@
       <link>https://aiweekly.co/alerts/google-adk-2140-graduates-core-modules-adds-teams-runner</link>
       <guid isPermaLink="true">https://aiweekly.co/alerts/google-adk-2140-graduates-core-modules-adds-teams-runner</guid>
       <category>agent frameworks</category>
-      <description>Google ships Agent Development Kit 2.14.0 — core modules graduate, TeamsRunner lands</description>
+      <description>Google shipped Agent Development Kit 2.14.0, graduating A2A and core modules out of experimental and adding a Teams runner for agents in Microsoft Teams.</description>
       <pubDate>Sun, 08 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -67,7 +91,7 @@
       <link>https://pengen.diewe.workers.dev/thegdsks/claude-opus-46-for-developers-agent-teams-1m-context-and-what-actually-matters-4h8c</link>
       <guid isPermaLink="true">https://pengen.diewe.workers.dev/thegdsks/claude-opus-46-for-developers-agent-teams-1m-context-and-what-actually-matters-4h8c</guid>
       <category>model APIs</category>
-      <description>Anthropic ships Claude Opus 4.6 — 1M-token context, Agent Teams preview, context compaction</description>
+      <description>Anthropic shipped Claude Opus 4.6 with 1M-token context, multi-agent teams in preview, and context compaction for long coding sessions.</description>
       <pubDate>Sun, 08 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -75,7 +99,7 @@
       <link>https://blurbrahlab.medium.com/claude-sonnet-4-5-is-retired-nov-30-top-10-ai-flutter-news-november-8-2026-9dd0b651d8e9</link>
       <guid isPermaLink="true">https://blurbrahlab.medium.com/claude-sonnet-4-5-is-retired-nov-30-top-10-ai-flutter-news-november-8-2026-9dd0b651d8e9</guid>
       <category>model APIs</category>
-      <description>Claude Sonnet 4.5 retires from the Claude API on November 30 — migrate to Sonnet 5.5</description>
+      <description>Claude Sonnet 4.5 stops working on the Claude API on November 30 — Anthropic says to switch to Sonnet 5.5, and Opus 4.8 fast mode goes the same day.</description>
       <pubDate>Sun, 08 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -83,7 +107,7 @@
       <link>https://github.com/openai/codex/releases</link>
       <guid isPermaLink="true">https://github.com/openai/codex/releases</guid>
       <category>agent frameworks</category>
-      <description>Codex 0.167.0 ships an Agent Command Center for managing agent sessions</description>
+      <description>Codex 0.167.0 adds an Agent Command Center to manage coding-agent sessions, with backend switching and local image previews.</description>
       <pubDate>Sun, 08 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -91,7 +115,7 @@
       <link>https://therealdeal.com/national/2026/11/06/ai-home-search-agents-favor-compass-reffkin-says/</link>
       <guid isPermaLink="true">https://therealdeal.com/national/2026/11/06/ai-home-search-agents-favor-compass-reffkin-says/</guid>
       <category>Instinct ecosystem</category>
-      <description>Compass says AI home-search agents favor its listings and bypass portals</description>
+      <description>Compass says AI agents like Instinct and Muse are going straight to brokerage sites for home searches, bypassing traditional listing portals.</description>
       <pubDate>Sun, 08 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -99,7 +123,7 @@
       <link>https://lumierepaycheck.org/blog/we-paid-x402-endpoints-45152-times</link>
       <guid isPermaLink="true">https://lumierepaycheck.org/blog/we-paid-x402-endpoints-45152-times</guid>
       <category>agentic commerce rails</category>
-      <description>Lumière PayCheck paid 45,152 x402 endpoints — 95% delivered once paid, but half of payment attempts never completed</description>
+      <description>A six-week test paid 45,152 x402 endpoints: 95% delivered once paid, but half of all payment attempts never completed — the payment itself is the weak link.</description>
       <pubDate>Sun, 08 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -107,7 +131,7 @@
       <link>https://www.cxnetwork.com/cx-experience/news/every-cx-start-up-funding-deal-you-need-to-know-november-6/amp</link>
       <guid isPermaLink="true">https://www.cxnetwork.com/cx-experience/news/every-cx-start-up-funding-deal-you-need-to-know-november-6/amp</guid>
       <category>agent-startup funding</category>
-      <description>Phonic raises $27.5M Series A to help voice agents understand callers</description>
+      <description>Phonic raised $27.5M to build speech-to-speech AI models that help voice agents understand callers better.</description>
       <pubDate>Sun, 08 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -115,7 +139,7 @@
       <link>https://sharegate.com/blog/new-in-sharegate-mcp-governance</link>
       <guid isPermaLink="true">https://sharegate.com/blog/new-in-sharegate-mcp-governance</guid>
       <category>file governance</category>
-      <description>ShareGate MCP brings Microsoft 365 governance into Claude, ChatGPT and Copilot</description>
+      <description>ShareGate launched an MCP connector that lets Claude, ChatGPT and Copilot govern Microsoft 365 under the permissions users already have.</description>
       <pubDate>Sun, 08 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -123,7 +147,7 @@
       <link>https://www.aurav.ae/base44-scales-from-3-5m-to-200m-arr-after-80m-wix-acquisition</link>
       <guid isPermaLink="true">https://www.aurav.ae/base44-scales-from-3-5m-to-200m-arr-after-80m-wix-acquisition</guid>
       <category>Base44 ecosystem</category>
-      <description>Base44 scales from $3.5M to $200M ARR after Wix’s $80M acquisition</description>
+      <description>Base44 grew from $3.5M to a $200M revenue run-rate with about 2 million users in the year since Wix bought it for $80M.</description>
       <pubDate>Sun, 08 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -131,7 +155,7 @@
       <link>https://www.siliconreport.com/anthropic-aims-for-pre-thanksgiving-ipo-to-raise-up-to-100-billion</link>
       <guid isPermaLink="true">https://www.siliconreport.com/anthropic-aims-for-pre-thanksgiving-ipo-to-raise-up-to-100-billion</guid>
       <category>agent-startup funding</category>
-      <description>Anthropic presses ahead with pre-Thanksgiving IPO, targeting $80-100B at a $1.25-1.75T valuation</description>
+      <description>Anthropic is pressing ahead with a pre-Thanksgiving IPO, aiming to raise $80-100 billion at a $1.25-1.75 trillion valuation despite the recent tech selloff.</description>
       <pubDate>Sat, 07 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -139,7 +163,7 @@
       <link>https://dronelife.com/2026/11/06/axon-skydio-investment-exclusive-drone-distribution/</link>
       <guid isPermaLink="true">https://dronelife.com/2026/11/06/axon-skydio-investment-exclusive-drone-distribution/</guid>
       <category>agent-startup funding</category>
-      <description>Axon invests another $1.2B in Skydio at a $5.2B valuation and takes exclusive public-safety distribution</description>
+      <description>Axon is investing another $1.2 billion in drone maker Skydio at a $5.2 billion valuation and becoming its exclusive public-safety distributor in the US and Canada.</description>
       <pubDate>Sat, 07 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -147,7 +171,7 @@
       <link>https://www.whtop.com/news/36073-cloud-firm-digitalocean-launches-iphone-app-to-approve-ai-agent</link>
       <guid isPermaLink="true">https://www.whtop.com/news/36073-cloud-firm-digitalocean-launches-iphone-app-to-approve-ai-agent</guid>
       <category>file governance</category>
-      <description>DigitalOcean launches Cuttlefish, an iPhone app to approve or block AI agent actions, plus a Box integration for agents on shared files</description>
+      <description>DigitalOcean launched Cuttlefish, an iPhone app that lets you approve or block individual AI agent actions, plus a Box integration so agents work on shared files in place.</description>
       <pubDate>Sat, 07 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -187,7 +211,7 @@
       <link>https://sports.sunbeltpost.com/2026/11/06/thinking-machines-lab-is-closing-in-on-a-new-5-billion-funding-round-at-a-40-billion-valuation/</link>
       <guid isPermaLink="true">https://sports.sunbeltpost.com/2026/11/06/thinking-machines-lab-is-closing-in-on-a-new-5-billion-funding-round-at-a-40-billion-valuation/</guid>
       <category>agent-startup funding</category>
-      <description>Thinking Machines Lab closing in on a $5B round at a $40B valuation</description>
+      <description>Thinking Machines Lab is reportedly closing a $5 billion funding round at a $40 billion valuation, led by Accel.</description>
       <pubDate>Sat, 07 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -195,7 +219,7 @@
       <link>https://crosswalk.to/crosswalk/deals/today</link>
       <guid isPermaLink="true">https://crosswalk.to/crosswalk/deals/today</guid>
       <category>agent-startup funding</category>
-      <description>Future Secure AI raises $80M in convertible notes at a reported $1.2B valuation cap</description>
+      <description>Future Secure AI raised $80 million for supervised AI agent teams that handle work in banking, consulting, healthcare and law.</description>
       <pubDate>Sat, 07 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -203,7 +227,7 @@
       <link>https://dev.to/delimitter/amd-opens-the-managed-agent-runtime-behind-its-own-instinct-gpu-clusters-473</link>
       <guid isPermaLink="true">https://dev.to/delimitter/amd-opens-the-managed-agent-runtime-behind-its-own-instinct-gpu-clusters-473</guid>
       <category>agent frameworks</category>
-      <description>AMD open-sources PrimusClaw, a managed agent runtime for its Instinct GPU clusters</description>
+      <description>AMD open-sourced PrimusClaw, a managed runtime for AI agents that runs on its Instinct GPU clusters with per-session sandboxes.</description>
       <pubDate>Sat, 07 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -211,7 +235,7 @@
       <link>https://pondero.ai/news/2026-11-07-nvidia-cosmos3-world-models/</link>
       <guid isPermaLink="true">https://pondero.ai/news/2026-11-07-nvidia-cosmos3-world-models/</guid>
       <category>model APIs</category>
-      <description>NVIDIA opens four Cosmos 3 Nano checkpoints for robot and self-driving simulation</description>
+      <description>NVIDIA released four open Cosmos 3 Nano checkpoints for robot and self-driving simulation, with the full training recipe included.</description>
       <pubDate>Sat, 07 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -219,7 +243,7 @@
       <link>https://agenteconomy.to/x402</link>
       <guid isPermaLink="true">https://agenteconomy.to/x402</guid>
       <category>agentic commerce</category>
-      <description>x402 settles 197.6M payments worth $42.5M in stablecoins</description>
+      <description>A live tracker counts over 197.5 million x402 payments settled and $42.5 million in volume as of November 7, with Base the largest chain.</description>
       <pubDate>Sat, 07 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -291,7 +315,7 @@
       <link>https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/amp/</link>
       <guid isPermaLink="true">https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/amp/</guid>
       <category>agent sidebar race</category>
-      <description>Meta launches Spaces in Muse — describe an idea and Muse builds a persistent custom experience</description>
+      <description>Meta launched Spaces in Muse: describe an idea in chat and Muse builds a persistent custom experience like a tracker, planner, or project board in the sidebar.</description>
       <pubDate>Fri, 06 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -299,7 +323,7 @@
       <link>https://banking40.ro/firmly-raises-15-million-and-launches-ask-agent-to-help-merchants-adopt-agentic-commerce-jp-morgan-mastercard-and-samsung-among-investors/</link>
       <guid isPermaLink="true">https://banking40.ro/firmly-raises-15-million-and-launches-ask-agent-to-help-merchants-adopt-agentic-commerce-jp-morgan-mastercard-and-samsung-among-investors/</guid>
       <category>agentic commerce</category>
-      <description>firmly raises $15M Series A and launches Ask Agent in-chat checkout</description>
+      <description>firmly raised a $15M Series A and launched Ask Agent, letting shoppers discover products and check out inside a chat on merchant websites.</description>
       <pubDate>Fri, 06 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -307,7 +331,7 @@
       <link>https://www.founderland.ai/articles/cowboy-raises-5m-seed-to-launch-an-app-store-for-ai-agents-mw5amq9y</link>
       <guid isPermaLink="true">https://www.founderland.ai/articles/cowboy-raises-5m-seed-to-launch-an-app-store-for-ai-agents-mw5amq9y</guid>
       <category>agent-startup funding</category>
-      <description>Cowboy raises $5M seed to launch an app store for AI agents</description>
+      <description>Cowboy raised a $5M seed round to launch an app store for AI agents, opening with more than 100 agents and 10,000 data feeds.</description>
       <pubDate>Fri, 06 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -315,7 +339,7 @@
       <link>https://www.unite.ai/anthropic-introduces-read-only-personal-finance-beta-in-claude/</link>
       <guid isPermaLink="true">https://www.unite.ai/anthropic-introduces-read-only-personal-finance-beta-in-claude/</guid>
       <category>model APIs</category>
-      <description>Anthropic launches Personal Finance in Claude (US beta) — read-only bank linking via Plaid</description>
+      <description>Anthropic launched Personal Finance in Claude in US beta: link bank and card accounts via Plaid and ask Claude about your money — read-only, it can't move funds.</description>
       <pubDate>Fri, 06 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -323,7 +347,7 @@
       <link>https://www.yourinfodaily.com/p/startup-funding-news-nov-5-2026-20-startups-raise-nearly-780-million</link>
       <guid isPermaLink="true">https://www.yourinfodaily.com/p/startup-funding-news-nov-5-2026-20-startups-raise-nearly-780-million</guid>
       <category>agent-startup funding</category>
-      <description>Kalepa raises $75M Series B at a $470M valuation for AI agents in insurance underwriting</description>
+      <description>Kalepa raised $75M at a $470M valuation for AI agents that handle insurance underwriting, and plans to double headcount by 2027.</description>
       <pubDate>Fri, 06 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -331,7 +355,7 @@
       <link>https://wisevoter.com/world/2026/11/03/avepoint-launches-trust-platform-enterprise-ai</link>
       <guid isPermaLink="true">https://wisevoter.com/world/2026/11/03/avepoint-launches-trust-platform-enterprise-ai</guid>
       <category>file governance</category>
-      <description>AvePoint launches Trust Platform to govern enterprise AI agents, models and MCP servers</description>
+      <description>AvePoint launched a Trust Platform to govern enterprise AI agents, models and MCP servers, including discovery of shadow AI.</description>
       <pubDate>Fri, 06 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -339,7 +363,7 @@
       <link>https://lifestyle.kotaradio.com/story/558114/wolters-kluwer-brings-tymetrix-360-data-into-enterprise-ai-workflows-with-new-mcp-server/</link>
       <guid isPermaLink="true">https://lifestyle.kotaradio.com/story/558114/wolters-kluwer-brings-tymetrix-360-data-into-enterprise-ai-workflows-with-new-mcp-server/</guid>
       <category>file governance</category>
-      <description>Wolters Kluwer ships a TyMetrix 360° MCP server for governed legal invoice workflows</description>
+      <description>Wolters Kluwer launched an MCP server for TyMetrix 360°, letting legal teams run invoice workflows in one AI conversation under existing permissions.</description>
       <pubDate>Fri, 06 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -347,7 +371,7 @@
       <link>https://api.socialintents.com/whatsapp-marketing-messages-api.html</link>
       <guid isPermaLink="true">https://api.socialintents.com/whatsapp-marketing-messages-api.html</guid>
       <category>WhatsApp / Meta dev</category>
-      <description>Meta moves WhatsApp marketing templates to a dedicated API; Cloud API marketing ends Oct 13, 2027</description>
+      <description>Meta is moving WhatsApp marketing messages to a dedicated API: Cloud API marketing sends stop working on October 13, 2027.</description>
       <pubDate>Fri, 06 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -355,7 +379,7 @@
       <link>https://sxf.si/brief/</link>
       <guid isPermaLink="true">https://sxf.si/brief/</guid>
       <category>model APIs</category>
-      <description>METR: Anthropic's benchmark capability progress accelerated ~1.9x since Oct 2025</description>
+      <description>Independent evaluator METR estimates Anthropic's AI capability progress accelerated about 1.9x since October 2025, with key evidence redacted.</description>
       <pubDate>Fri, 06 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -379,32 +403,8 @@
       <link>https://agenteconomy.to/stats/is-x402-growing</link>
       <guid isPermaLink="true">https://agenteconomy.to/stats/is-x402-growing</guid>
       <category>agentic commerce rails</category>
-      <description>x402 reality check: counts climb, but the average payment has shrunk to about $0.05</description>
+      <description>New on-chain data shows x402 agent payments are steady in count but far below their late-2025 peak, with the average payment down to about five cents.</description>
       <pubDate>Fri, 06 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CoinGecko halves x402 data costs to $0.005 per call and adds Polygon USDC payments</title>
-      <link>https://cryptobriefing.com/coingecko-cuts-x402-data-costs-polygon/</link>
-      <guid isPermaLink="true">https://cryptobriefing.com/coingecko-cuts-x402-data-costs-polygon/</guid>
-      <category>agentic commerce rails</category>
-      <description>CoinGecko halves x402 data costs to $0.005 per call and adds Polygon USDC payments</description>
-      <pubDate>Fri, 06 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Roundhouse AI adds Solana to its x402 payments dashboard</title>
-      <link>https://6ix.com/news/dashboard-extended-to-solana</link>
-      <guid isPermaLink="true">https://6ix.com/news/dashboard-extended-to-solana</guid>
-      <category>agentic commerce rails</category>
-      <description>Roundhouse AI adds Solana to its x402 payments dashboard</description>
-      <pubDate>Fri, 06 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COOCON and DSRV partner to build AI-agent stablecoin payments on x402</title>
-      <link>https://www.cointrust.com/market-news/coocon-and-dsrv-partner-to-develop-ai-agent-stablecoin-payments</link>
-      <guid isPermaLink="true">https://www.cointrust.com/market-news/coocon-and-dsrv-partner-to-develop-ai-agent-stablecoin-payments</guid>
-      <category>agentic commerce rails</category>
-      <description>COOCON and DSRV partner to build AI-agent stablecoin payments on x402</description>
-      <pubDate>Fri, 06 Nov 2026 09:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
