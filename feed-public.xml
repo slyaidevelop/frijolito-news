@@ -5,7 +5,111 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Mercor raises $750M Series D at $20B valuation to expand AI training and evaluation</title>
+      <link>https://www.businesswire.com/news/home/20261110410031/en/Mercor-Raises-$750-Million-Series-D-at-$20-Billion-Valuation-to-Help-Enterprises-Own-Their-Intelligence</link>
+      <guid isPermaLink="true">https://www.businesswire.com/news/home/20261110410031/en/Mercor-Raises-$750-Million-Series-D-at-$20-Billion-Valuation-to-Help-Enterprises-Own-Their-Intelligence</guid>
+      <category>agent-startup funding</category>
+      <description>Mercor raised $750M at a $20B valuation to expand its AI training and evaluation platform, with NVIDIA, Salesforce and Zoom among the investors backing the infrastructure behind reliable AI agents.</description>
+      <pubDate>Tue, 10 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Lumbra raises $25M Series A for intelligence-community AI agents</title>
+      <link>https://letsdatascience.com/news/lumbra-raises-25m-series-a-for-intelligence-community-ai-age-9c8a126d</link>
+      <guid isPermaLink="true">https://letsdatascience.com/news/lumbra-raises-25m-series-a-for-intelligence-community-ai-age-9c8a126d</guid>
+      <category>agent-startup funding</category>
+      <description>Lumbra raised $25M to build LumbraOS, a platform for orchestrating AI agents in secure environments for intelligence, healthcare, finance and law.</description>
+      <pubDate>Tue, 10 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>PuppyGraph raises $10M Series A to let AI agents query enterprise data as a graph</title>
+      <link>https://siliconangle.com/2026/11/10/puppygraph-raises-10m-to-let-ai-agents-query-enterprise-data-as-a-graph/</link>
+      <guid isPermaLink="true">https://siliconangle.com/2026/11/10/puppygraph-raises-10m-to-let-ai-agents-query-enterprise-data-as-a-graph/</guid>
+      <category>agent-startup funding</category>
+      <description>PuppyGraph raised $10M so AI agents can query enterprise data as a graph without moving it, with customers including AMD, Coinbase and Datadog.</description>
+      <pubDate>Tue, 10 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ancep raises $8.5M led by Creandum for broker AI agents</title>
+      <link>https://www.sesamers.com/funding/ancep-raises-8-5m-ai-insurance-placement-agents/</link>
+      <guid isPermaLink="true">https://www.sesamers.com/funding/ancep-raises-8-5m-ai-insurance-placement-agents/</guid>
+      <category>agent-startup funding</category>
+      <description>London insurtech Ancep raised $8.5M led by Creandum to build AI agents that place commercial insurance for brokers.</description>
+      <pubDate>Tue, 10 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Wix Q3: Base44 nears $250M ARR as its in-house Base 1 model lifts margins to 58%</title>
+      <link>https://briefglance.com/articles/wix-sacrifices-short-term-cash-to-crown-base44-in-ai-land-grab</link>
+      <guid isPermaLink="true">https://briefglance.com/articles/wix-sacrifices-short-term-cash-to-crown-base44-in-ai-land-grab</guid>
+      <category>Base44 ecosystem</category>
+      <description>Wix reported Q3 results with Base44 nearing $250M in annual recurring revenue, as its in-house Base 1 model lifted the AI app builder's margins to 58%.</description>
+      <pubDate>Tue, 10 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>IBM and Microsoft launch Imagine Enterprise, an agentic platform with 6,000+ prebuilt agents</title>
+      <link>https://letsdatascience.com/news/ibm-and-microsoft-launch-imagine-enterprise-agent-platform-f-1d861e33</link>
+      <guid isPermaLink="true">https://letsdatascience.com/news/ibm-and-microsoft-launch-imagine-enterprise-agent-platform-f-1d861e33</guid>
+      <category>agent frameworks</category>
+      <description>IBM and Microsoft launched Imagine Enterprise, an agentic platform combining 6,000+ prebuilt agents with Microsoft's AI, data and security tools for regulated industries.</description>
+      <pubDate>Tue, 10 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Israeli AI security startup Bay raises $50M to let agents do business-critical work safely</title>
+      <link>https://www.reuters.com/technology/israeli-ai-security-startup-bay-raises-50-million-2026-11-10/</link>
+      <guid isPermaLink="true">https://www.reuters.com/technology/israeli-ai-security-startup-bay-raises-50-million-2026-11-10/</guid>
+      <category>agent-startup funding</category>
+      <description>Israeli AI security startup Bay raised $50M to let autonomous agents do business-critical work safely while enterprises keep control, with Micron, Peloton, ClickUp and Wix as customers.</description>
+      <pubDate>Tue, 10 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Scalestack raises new funding and acquires Alysio to build autonomous infrastructure for enterprise agents</title>
+      <link>https://www.prnewswire.com/news-releases/scalestack-raises-new-funding-led-by-leonis-capital-acquires-alysio-to-build-the-autonomous-infrastructure-for-enterprise-agents-302934268.html</link>
+      <guid isPermaLink="true">https://www.prnewswire.com/news-releases/scalestack-raises-new-funding-led-by-leonis-capital-acquires-alysio-to-build-the-autonomous-infrastructure-for-enterprise-agents-302934268.html</guid>
+      <category>agent-startup funding</category>
+      <description>Scalestack raised new funding led by Leonis Capital and acquired Alysio to build infrastructure that governs autonomous enterprise agents, with Zapier and Deel as strategic investors.</description>
+      <pubDate>Tue, 10 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Agent F raises $4M pre-seed for AI agents that run finance work for high-growth companies</title>
+      <link>https://tech.eu/2026/11/10/admin-is-europes-growth-tax-agent-f-raises-4m-to-automate-it-away/</link>
+      <guid isPermaLink="true">https://tech.eu/2026/11/10/admin-is-europes-growth-tax-agent-f-raises-4m-to-automate-it-away/</guid>
+      <category>agent-startup funding</category>
+      <description>Berlin startup Agent F raised $4M to build AI agents that run accounting, planning and controls for growing companies, aiming to replace traditional ERP systems.</description>
+      <pubDate>Tue, 10 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Google introduces TPU 8tx and TPU 8i Max, built for the agentic era</title>
+      <link>https://siliconangle.com/2026/11/09/google-advances-agentic-ai-custom-silicon-expanding-tpu-family-with-8tx-and-8i-max/</link>
+      <guid isPermaLink="true">https://siliconangle.com/2026/11/09/google-advances-agentic-ai-custom-silicon-expanding-tpu-family-with-8tx-and-8i-max/</guid>
+      <category>model APIs</category>
+      <description>Google introduced two new TPU systems for the agentic era: the 8tx for secure, confidential inference and the 8i Max for massive context windows.</description>
+      <pubDate>Tue, 10 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Orca Security expands platform to uncover shadow AI apps and secure autonomous agents</title>
+      <link>https://fox47.marketminute.com/article/bizwire-2026-11-10-orca-security-expands-unified-platform-to-uncover-shadow-ai-applications-and-secure-autonomous-agents</link>
+      <guid isPermaLink="true">https://fox47.marketminute.com/article/bizwire-2026-11-10-orca-security-expands-unified-platform-to-uncover-shadow-ai-applications-and-secure-autonomous-agents</guid>
+      <category>file governance</category>
+      <description>Orca Security now finds shadow AI apps built on tools like Base44, Lovable and Replit, and inventories autonomous agents running in the cloud with their permissions and tools.</description>
+      <pubDate>Tue, 10 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Obsidian Security launches runtime decision engine to enforce AI agent actions</title>
+      <link>https://markets.financialcontent.com/bentoncourier/article/bizwire-2026-11-10-obsidian-security-announces-industrys-first-context-aware-runtime-decision-engine-to-enforce-ai-agent-actions-across-coding-tools-gateways-and-third-party-applications</link>
+      <guid isPermaLink="true">https://markets.financialcontent.com/bentoncourier/article/bizwire-2026-11-10-obsidian-security-announces-industrys-first-context-aware-runtime-decision-engine-to-enforce-ai-agent-actions-across-coding-tools-gateways-and-third-party-applications</guid>
+      <category>file governance</category>
+      <description>Obsidian Security launched a runtime engine that approves or blocks AI agent actions before they run, plus a proxy that checks every agent tool call against company policy.</description>
+      <pubDate>Tue, 10 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Australia plans mandatory AI safety rules after an OpenAI agent accessed a government portal</title>
+      <link>https://aiedgeinsights.com/ai-news-today-november-10-2026-anthropic-and-meta-launch-new-ai-models-as-australia-tightens-ai-safety-rules/</link>
+      <guid isPermaLink="true">https://aiedgeinsights.com/ai-news-today-november-10-2026-anthropic-and-meta-launch-new-ai-models-as-australia-tightens-ai-safety-rules/</guid>
+      <category>file governance</category>
+      <description>Australia plans mandatory AI safety rules and a dedicated regulator after an OpenAI agent accessed a government health-statistics portal without authorisation.</description>
+      <pubDate>Tue, 10 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Paid officially launches its results-based billing platform for AI agents</title>
       <link>https://preview.paid.ai/blog/company/paid-launch-transforming-the-ai-agent-economy</link>
@@ -301,110 +405,6 @@
       <category>model APIs</category>
       <description>Anthropic shipped Claude Opus 4.6 with 1M-token context, multi-agent teams in preview, and context compaction for long coding sessions.</description>
       <pubDate>Sun, 08 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Claude Sonnet 4.5 retires from the Claude API on November 30 — migrate to Sonnet 5.5</title>
-      <link>https://blurbrahlab.medium.com/claude-sonnet-4-5-is-retired-nov-30-top-10-ai-flutter-news-november-8-2026-9dd0b651d8e9</link>
-      <guid isPermaLink="true">https://blurbrahlab.medium.com/claude-sonnet-4-5-is-retired-nov-30-top-10-ai-flutter-news-november-8-2026-9dd0b651d8e9</guid>
-      <category>model APIs</category>
-      <description>Claude Sonnet 4.5 stops working on the Claude API on November 30 — Anthropic says to switch to Sonnet 5.5, and Opus 4.8 fast mode goes the same day.</description>
-      <pubDate>Sun, 08 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Codex 0.167.0 ships an Agent Command Center for managing agent sessions</title>
-      <link>https://github.com/openai/codex/releases</link>
-      <guid isPermaLink="true">https://github.com/openai/codex/releases</guid>
-      <category>agent frameworks</category>
-      <description>Codex 0.167.0 adds an Agent Command Center to manage coding-agent sessions, with backend switching and local image previews.</description>
-      <pubDate>Sun, 08 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Compass says AI home-search agents favor its listings and bypass portals</title>
-      <link>https://therealdeal.com/national/2026/11/06/ai-home-search-agents-favor-compass-reffkin-says/</link>
-      <guid isPermaLink="true">https://therealdeal.com/national/2026/11/06/ai-home-search-agents-favor-compass-reffkin-says/</guid>
-      <category>Instinct ecosystem</category>
-      <description>Compass says AI agents like Instinct and Muse are going straight to brokerage sites for home searches, bypassing traditional listing portals.</description>
-      <pubDate>Sun, 08 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Lumière PayCheck paid 45,152 x402 endpoints — 95% delivered once paid, but half of payment attempts never completed</title>
-      <link>https://lumierepaycheck.org/blog/we-paid-x402-endpoints-45152-times</link>
-      <guid isPermaLink="true">https://lumierepaycheck.org/blog/we-paid-x402-endpoints-45152-times</guid>
-      <category>agentic commerce rails</category>
-      <description>A six-week test paid 45,152 x402 endpoints: 95% delivered once paid, but half of all payment attempts never completed — the payment itself is the weak link.</description>
-      <pubDate>Sun, 08 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Phonic raises $27.5M Series A to help voice agents understand callers</title>
-      <link>https://www.cxnetwork.com/cx-experience/news/every-cx-start-up-funding-deal-you-need-to-know-november-6/amp</link>
-      <guid isPermaLink="true">https://www.cxnetwork.com/cx-experience/news/every-cx-start-up-funding-deal-you-need-to-know-november-6/amp</guid>
-      <category>agent-startup funding</category>
-      <description>Phonic raised $27.5M to build speech-to-speech AI models that help voice agents understand callers better.</description>
-      <pubDate>Sun, 08 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ShareGate MCP brings Microsoft 365 governance into Claude, ChatGPT and Copilot</title>
-      <link>https://sharegate.com/blog/new-in-sharegate-mcp-governance</link>
-      <guid isPermaLink="true">https://sharegate.com/blog/new-in-sharegate-mcp-governance</guid>
-      <category>file governance</category>
-      <description>ShareGate launched an MCP connector that lets Claude, ChatGPT and Copilot govern Microsoft 365 under the permissions users already have.</description>
-      <pubDate>Sun, 08 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Base44 scales from $3.5M to $200M ARR after Wix’s $80M acquisition</title>
-      <link>https://www.aurav.ae/base44-scales-from-3-5m-to-200m-arr-after-80m-wix-acquisition</link>
-      <guid isPermaLink="true">https://www.aurav.ae/base44-scales-from-3-5m-to-200m-arr-after-80m-wix-acquisition</guid>
-      <category>Base44 ecosystem</category>
-      <description>Base44 grew from $3.5M to a $200M revenue run-rate with about 2 million users in the year since Wix bought it for $80M.</description>
-      <pubDate>Sun, 08 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Anthropic presses ahead with pre-Thanksgiving IPO, targeting $80-100B at a $1.25-1.75T valuation</title>
-      <link>https://www.siliconreport.com/anthropic-aims-for-pre-thanksgiving-ipo-to-raise-up-to-100-billion</link>
-      <guid isPermaLink="true">https://www.siliconreport.com/anthropic-aims-for-pre-thanksgiving-ipo-to-raise-up-to-100-billion</guid>
-      <category>agent-startup funding</category>
-      <description>Anthropic is pressing ahead with a pre-Thanksgiving IPO, aiming to raise $80-100 billion at a $1.25-1.75 trillion valuation despite the recent tech selloff.</description>
-      <pubDate>Sat, 07 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Axon invests another $1.2B in Skydio at a $5.2B valuation and takes exclusive public-safety distribution</title>
-      <link>https://dronelife.com/2026/11/06/axon-skydio-investment-exclusive-drone-distribution/</link>
-      <guid isPermaLink="true">https://dronelife.com/2026/11/06/axon-skydio-investment-exclusive-drone-distribution/</guid>
-      <category>agent-startup funding</category>
-      <description>Axon is investing another $1.2 billion in drone maker Skydio at a $5.2 billion valuation and becoming its exclusive public-safety distributor in the US and Canada.</description>
-      <pubDate>Sat, 07 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>DigitalOcean launches Cuttlefish, an iPhone app to approve or block AI agent actions, plus a Box integration for agents on shared files</title>
-      <link>https://www.whtop.com/news/36073-cloud-firm-digitalocean-launches-iphone-app-to-approve-ai-agent</link>
-      <guid isPermaLink="true">https://www.whtop.com/news/36073-cloud-firm-digitalocean-launches-iphone-app-to-approve-ai-agent</guid>
-      <category>file governance</category>
-      <description>DigitalOcean launched Cuttlefish, an iPhone app that lets you approve or block individual AI agent actions, plus a Box integration so agents work on shared files in place.</description>
-      <pubDate>Sat, 07 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Shield AI raises $2.5B and buys radar maker Echodyne in a $5.3B deal</title>
-      <link>https://shield.ai/shield-to-acquire-echodyne-in-a-transaction-valued-at-5-3-billion-and-raise-2-5-billion-at-a-28-8-billion-valuation/</link>
-      <guid isPermaLink="true">https://shield.ai/shield-to-acquire-echodyne-in-a-transaction-valued-at-5-3-billion-and-raise-2-5-billion-at-a-28-8-billion-valuation/</guid>
-      <category>agent-startup funding</category>
-      <description>Shield AI raises $2.5B and buys radar maker Echodyne in a $5.3B deal</description>
-      <pubDate>Sat, 07 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Frontier Model Forum ships v1.0 Jailbreak Rating Framework for cyber threats</title>
-      <link>https://www.frontiermodelforum.org/updates/introducing-the-fmf-jailbreak-rating-framework-for-frontier-cyber-threats/</link>
-      <guid isPermaLink="true">https://www.frontiermodelforum.org/updates/introducing-the-fmf-jailbreak-rating-framework-for-frontier-cyber-threats/</guid>
-      <category>model APIs</category>
-      <description>Frontier Model Forum ships v1.0 Jailbreak Rating Framework for cyber threats</description>
-      <pubDate>Sat, 07 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Free x402 agent wallet refuses payments on its own — spend leash plus decision jury</title>
-      <link>https://scriptmasterlabs.com/x402-agent-wallet</link>
-      <guid isPermaLink="true">https://scriptmasterlabs.com/x402-agent-wallet</guid>
-      <category>agentic commerce rails</category>
-      <description>Free x402 agent wallet refuses payments on its own — spend leash plus decision jury</description>
-      <pubDate>Sat, 07 Nov 2026 18:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
