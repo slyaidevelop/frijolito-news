@@ -5,7 +5,31 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Daylight raises $80M Series B led by Goldman Sachs Alternatives for AI-agent security operations</title>
+      <link>https://www.morningstar.com/news/accesswire/1249257msn/as-ai-threats-surge-daylight-raises-80m-led-by-goldman-sachs-alternatives</link>
+      <guid isPermaLink="true">https://www.morningstar.com/news/accesswire/1249257msn/as-ai-threats-surge-daylight-raises-80m-led-by-goldman-sachs-alternatives</guid>
+      <category>agent-startup funding</category>
+      <description>Daylight raised $80M to expand its AI-agent security platform, which pairs AI agents with human experts to detect and respond to cyber threats.</description>
+      <pubDate>Tue, 10 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Gryphon launches Agentic Governance API and MCP integration for governed AI outreach</title>
+      <link>https://www.newswire.ca/news-releases/gryphon-unveils-2h-2026-strategic-product-launch-giving-enterprises-the-governance-to-expand-agentic-outreach-and-grow-revenue-802268981.html</link>
+      <guid isPermaLink="true">https://www.newswire.ca/news-releases/gryphon-unveils-2h-2026-strategic-product-launch-giving-enterprises-the-governance-to-expand-agentic-outreach-and-grow-revenue-802268981.html</guid>
+      <category>file governance</category>
+      <description>Gryphon launched an Agentic Governance API and MCP integration so AI agents can check contacts against do-not-call and consent lists before reaching out.</description>
+      <pubDate>Tue, 10 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>InterSystems joins Google Cloud as launch partner for Gemini for Healthcare via FHIR MCP</title>
+      <link>https://www.businesswire.com/news/home/20261110093577/en/InterSystems-Joins-Google-Cloud-as-Launch-Partner-for-Gemini-for-Healthcare</link>
+      <guid isPermaLink="true">https://www.businesswire.com/news/home/20261110093577/en/InterSystems-Joins-Google-Cloud-as-Launch-Partner-for-Gemini-for-Healthcare</guid>
+      <category>file governance</category>
+      <description>InterSystems is partnering with Google Cloud so Gemini for Healthcare can access health records through a governed FHIR data connection.</description>
+      <pubDate>Tue, 10 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Mercor raises $750M Series D at $20B valuation to expand AI training and evaluation</title>
       <link>https://www.businesswire.com/news/home/20261110410031/en/Mercor-Raises-$750-Million-Series-D-at-$20-Billion-Valuation-to-Help-Enterprises-Own-Their-Intelligence</link>
@@ -381,30 +405,6 @@
       <category>file governance</category>
       <description>AWS Agent Registry generally available in GovCloud (US-West)</description>
       <pubDate>Sun, 08 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Wolters Kluwer ships TyMetrix 360 MCP server for governed legal and financial actions</title>
-      <link>https://www.augmentai.app/trends/enterprises-move-from-answering-prompts-to-taking-action-with-open-ai-standards-b93cfb</link>
-      <guid isPermaLink="true">https://www.augmentai.app/trends/enterprises-move-from-answering-prompts-to-taking-action-with-open-ai-standards-b93cfb</guid>
-      <category>file governance</category>
-      <description>Wolters Kluwer ships TyMetrix 360 MCP server for governed legal and financial actions</description>
-      <pubDate>Sun, 08 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Google ships Agent Development Kit 2.14.0 — core modules graduate, TeamsRunner lands</title>
-      <link>https://aiweekly.co/alerts/google-adk-2140-graduates-core-modules-adds-teams-runner</link>
-      <guid isPermaLink="true">https://aiweekly.co/alerts/google-adk-2140-graduates-core-modules-adds-teams-runner</guid>
-      <category>agent frameworks</category>
-      <description>Google shipped Agent Development Kit 2.14.0, graduating A2A and core modules out of experimental and adding a Teams runner for agents in Microsoft Teams.</description>
-      <pubDate>Sun, 08 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Anthropic ships Claude Opus 4.6 — 1M-token context, Agent Teams preview, context compaction</title>
-      <link>https://pengen.diewe.workers.dev/thegdsks/claude-opus-46-for-developers-agent-teams-1m-context-and-what-actually-matters-4h8c</link>
-      <guid isPermaLink="true">https://pengen.diewe.workers.dev/thegdsks/claude-opus-46-for-developers-agent-teams-1m-context-and-what-actually-matters-4h8c</guid>
-      <category>model APIs</category>
-      <description>Anthropic shipped Claude Opus 4.6 with 1M-token context, multi-agent teams in preview, and context compaction for long coding sessions.</description>
-      <pubDate>Sun, 08 Nov 2026 15:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
