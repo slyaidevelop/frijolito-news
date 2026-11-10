@@ -5,13 +5,133 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Paid officially launches its results-based billing platform for AI agents</title>
+      <link>https://preview.paid.ai/blog/company/paid-launch-transforming-the-ai-agent-economy</link>
+      <guid isPermaLink="true">https://preview.paid.ai/blog/company/paid-launch-transforming-the-ai-agent-economy</guid>
+      <category>agentic commerce rails</category>
+      <description>Paid officially launched its platform for billing AI agents by the results they deliver, backed by €10M from EQT Ventures and Sequoia, with Artisan and IFS already using it.</description>
+      <pubDate>Mon, 09 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Cisco adds Anthropic's Claude Mythos to AI Defense for red-teaming AI agents</title>
+      <link>https://www.morningstar.com/news/pr-newswire/20261109sf92945/cisco-unveils-frontier-ai-red-teaming-and-agent-observability-to-secure-the-agentic-enterprise</link>
+      <guid isPermaLink="true">https://www.morningstar.com/news/pr-newswire/20261109sf92945/cisco-unveils-frontier-ai-red-teaming-and-agent-observability-to-secure-the-agentic-enterprise</guid>
+      <category>model APIs</category>
+      <description>Cisco added Anthropic's Claude Mythos to its AI Defense red-teaming, so security teams can stress-test AI agents with simulated multi-step attacks, plus new Splunk agent observability.</description>
+      <pubDate>Mon, 09 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Skyfall AI emerges from stealth with an autonomous 'AI CEO' and a $2M startup-acquisition program</title>
+      <link>https://www.citybiz.co/article/931449/skyfall-ai-unveils-ai-ceo-steve-announces-results-and-2m-acquisition-program/</link>
+      <guid isPermaLink="true">https://www.citybiz.co/article/931449/skyfall-ai-unveils-ai-ceo-steve-announces-results-and-2m-acquisition-program/</guid>
+      <category>agent-startup funding</category>
+      <description>Skyfall AI came out of stealth with Steve, an autonomous system that runs digital businesses on its own, plus a $2M program to acquire five early-stage startups.</description>
+      <pubDate>Mon, 09 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Meta launches Muse Ember, a smaller, cheaper model built for repetitive agent work</title>
+      <link>https://www.pymnts.com/news/artificial-intelligence/2026/meta-and-anthropic-push-ai-models-into-more-complex-work/</link>
+      <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/meta-and-anthropic-push-ai-models-into-more-complex-work/</guid>
+      <category>model APIs</category>
+      <description>Meta launched Muse Ember, a smaller, cheaper model built for repetitive AI agent work like tool calls and coding subtasks, priced at $0.10 per million input tokens.</description>
+      <pubDate>Mon, 09 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Coframe raises $25M Series A for AI agents that rebuild websites and ads as they test them</title>
+      <link>https://www.unite.ai/coframe-raises-25m-series-a-bringing-total-funding-to-35m/</link>
+      <guid isPermaLink="true">https://www.unite.ai/coframe-raises-25m-series-a-bringing-total-funding-to-35m/</guid>
+      <category>agent-startup funding</category>
+      <description>Coframe raised $25M to build websites, landing pages and ads that continuously rebuild and test themselves, and is working with OpenAI on ChatGPT ads.</description>
+      <pubDate>Mon, 09 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp rolls out Meta Business Agent in India, plus a Business Agent Platform for large enterprises</title>
+      <link>https://turbo.gadgets360.com/en/apps/whatsapp-meta-business-agent-new-discovery-features-news-11742962</link>
+      <guid isPermaLink="true">https://turbo.gadgets360.com/en/apps/whatsapp-meta-business-agent-new-discovery-features-news-11742962</guid>
+      <category>WhatsApp / Meta dev</category>
+      <description>WhatsApp is rolling out Meta Business Agent in India, with a new platform for large enterprises and business discovery features inside the app.</description>
+      <pubDate>Mon, 09 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT Enterprise now available through AWS Marketplace</title>
+      <link>https://theitguysfix.com/2026/11/09/5-pm-technology-news-recap-claude-5-2-chatgpt-aws-disney-ai-seabed-robotics-databricks-access-november-9-2026/</link>
+      <guid isPermaLink="true">https://theitguysfix.com/2026/11/09/5-pm-technology-news-recap-claude-5-2-chatgpt-aws-disney-ai-seabed-robotics-databricks-access-november-9-2026/</guid>
+      <category>model APIs</category>
+      <description>ChatGPT Enterprise is now available through AWS Marketplace, so organizations can buy and manage it on existing AWS billing.</description>
+      <pubDate>Mon, 09 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Meta upgrades Muse with Active Memory and Active Focus; OpenAI counters with ChatGPT Remix</title>
+      <link>https://www.dailyairoundup.com/roundups/daily-roundup-2026-11-09</link>
+      <guid isPermaLink="true">https://www.dailyairoundup.com/roundups/daily-roundup-2026-11-09</guid>
+      <category>agent sidebar race</category>
+      <description>Meta upgraded Muse with Active Memory and Active Focus, while OpenAI added Remix so teams can copy and edit each other's ChatGPT Sites.</description>
+      <pubDate>Mon, 09 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Anthropic ships Claude Fable 5.2 and Mythos 5.2 — faster flagship models, price cut to $8/$40 per million tokens</title>
+      <link>https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/</guid>
+      <category>model API releases</category>
+      <description>Anthropic released Claude Fable 5.2 and Mythos 5.2, faster flagship models for coding and technical work at lower prices — $8 per million input tokens.</description>
+      <pubDate>Mon, 09 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>AI agent payment value falls 94.5% from late-2025 peak; TRM Labs says only 0.6–7.5% of x402 value is genuine commerce</title>
+      <link>https://cryptobriefing.com/ai-agent-payment-value-drops-94-percent/</link>
+      <guid isPermaLink="true">https://cryptobriefing.com/ai-agent-payment-value-drops-94-percent/</guid>
+      <category>agentic commerce rails</category>
+      <description>Agent payment volumes fell 94.5% from their late-2025 peak, and new research suggests only a small share of x402 payments are genuine agent commerce.</description>
+      <pubDate>Mon, 09 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Coinbase launches Wallet MCP: AI assistants connect to Coinbase Wallet for x402 USDC payments with manual approval</title>
+      <link>https://basisdesk.news/news/coinbase-developer-platform-wallet-mcp-ai-agents</link>
+      <guid isPermaLink="true">https://basisdesk.news/news/coinbase-developer-platform-wallet-mcp-ai-agents</guid>
+      <category>agentic commerce rails</category>
+      <description>Coinbase published Wallet MCP, letting AI assistants connect to a Coinbase Wallet and make x402 USDC micropayments, with every payment needing manual approval.</description>
+      <pubDate>Mon, 09 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ripple and Privy bring AI-agent wallets and x402 payments to the XRP Ledger as RLUSD transfers hit $20.1B</title>
+      <link>https://www.coingabbar.com/en/xrp-news-today-privy-ai-wallets-rlusd-20-billion-xrp-price</link>
+      <guid isPermaLink="true">https://www.coingabbar.com/en/xrp-news-today-privy-ai-wallets-rlusd-20-billion-xrp-price</guid>
+      <category>agentic commerce rails</category>
+      <description>Ripple and Privy are bringing AI-agent wallets to the XRP Ledger so agents can hold funds and pay via x402, as RLUSD transfers hit $20.1B.</description>
+      <pubDate>Mon, 09 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>DECA Labs raises $12M to build the agent-led software commercialization network</title>
+      <link>https://www.theblock.co/press-releases/deca-labs-raises-12-million-to-build-the-agent-led-software-commercialization-network-436211</link>
+      <guid isPermaLink="true">https://www.theblock.co/press-releases/deca-labs-raises-12-million-to-build-the-agent-led-software-commercialization-network-436211</guid>
+      <category>agent-startup funding</category>
+      <description>DECA Labs raised $12M from Polychain, Pantera, Accel and dao5 to build a network where AI agents take software from idea to market.</description>
+      <pubDate>Mon, 09 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Guava raises $12.5M seed for enterprise voice AI agents</title>
+      <link>https://angelinvestorsnetwork.com/startups/guava-raises-12-5-mn-in-seed-funding-to-expand-enterprise-voice-ai-agents</link>
+      <guid isPermaLink="true">https://angelinvestorsnetwork.com/startups/guava-raises-12-5-mn-in-seed-funding-to-expand-enterprise-voice-ai-agents</guid>
+      <category>agent-startup funding</category>
+      <description>Guava raised a $12.5M seed round led by Acrew Capital to build voice AI agents for enterprise phone calls.</description>
+      <pubDate>Mon, 09 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Spines raises $64M for agentic AI publishing platform</title>
+      <link>https://www.finsmes.com/2026/11/spines-raises-64m-in-funding.html</link>
+      <guid isPermaLink="true">https://www.finsmes.com/2026/11/spines-raises-64m-in-funding.html</guid>
+      <category>agent-startup funding</category>
+      <description>Spines raised $64M to grow its AI publishing platform, which turns manuscripts into published books with agents and human editors.</description>
+      <pubDate>Mon, 09 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Firmly raises $15M Series A backed by JPMorgan and Mastercard, launches Ask Agent in-chat checkout</title>
       <link>https://www.geekwire.com/2026/jpmorgan-and-mastercard-back-seattle-startup-firmlys-bet-on-ai-shopping-agents/</link>
       <guid isPermaLink="true">https://www.geekwire.com/2026/jpmorgan-and-mastercard-back-seattle-startup-firmlys-bet-on-ai-shopping-agents/</guid>
       <category>agentic commerce rails</category>
-      <description>Firmly raised $15M from JPMorgan, Mastercard and Samsung Next to connect retailers to AI shopping assistants, and launched Ask Agent for in-chat checkout.</description>
+      <description>Firmly raises $15M Series A backed by JPMorgan and Mastercard, launches Ask Agent in-chat checkout</description>
       <pubDate>Mon, 09 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -19,7 +139,7 @@
       <link>https://agenticaihype.substack.com/p/thinking-machines-5b-raise-anthropics</link>
       <guid isPermaLink="true">https://agenticaihype.substack.com/p/thinking-machines-5b-raise-anthropics</guid>
       <category>agent-startup funding</category>
-      <description>Thinking Machines Lab is reportedly closing a $5B round at a $40B valuation, while Anthropic rolls out its always-on Claude Duet agent and Mistral previews Studio managed agents.</description>
+      <description>Thinking Machines Lab reportedly closing a $5B round at a $40B valuation; Anthropic rolls out always-on Claude Duet</description>
       <pubDate>Mon, 09 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -27,7 +147,7 @@
       <link>https://siliconangle.com/2026/11/09/ai-powered-hardware-testing-and-engineering-startup-nominal-raises-240m-at-3b-valuation/</link>
       <guid isPermaLink="true">https://siliconangle.com/2026/11/09/ai-powered-hardware-testing-and-engineering-startup-nominal-raises-240m-at-3b-valuation/</guid>
       <category>agent-startup funding</category>
-      <description>Nominal raised $240M at a $3B valuation for AI-powered hardware testing software, with an agent that investigates test data and performs analysis.</description>
+      <description>Nominal raises $240M at a $3B valuation for AI hardware-testing software</description>
       <pubDate>Mon, 09 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -35,7 +155,7 @@
       <link>https://www.unite.ai/geniosai-raises-19-1m-in-combined-seed-and-series-a-funding/</link>
       <guid isPermaLink="true">https://www.unite.ai/geniosai-raises-19-1m-in-combined-seed-and-series-a-funding/</guid>
       <category>agent-startup funding</category>
-      <description>geniosAI came out of stealth with $19.1M in seed and Series A funding to build AI agents for finance and investment teams.</description>
+      <description>geniosAI emerges from stealth with $19.1M combined seed and Series A for finance agents</description>
       <pubDate>Mon, 09 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -43,7 +163,7 @@
       <link>https://www.shashi.co/2026/11/box-launches-new-agent-security.html</link>
       <guid isPermaLink="true">https://www.shashi.co/2026/11/box-launches-new-agent-security.html</guid>
       <category>file governance</category>
-      <description>Box made its agent security controls generally available, letting companies limit which files agents can read and block them from sharing content outside the company.</description>
+      <description>Box makes agent security controls generally available — classification limits and MCP guardrails</description>
       <pubDate>Mon, 09 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -51,7 +171,7 @@
       <link>https://newsletter.superpowerdaily.com/p/meta-adds-project-workspaces-to-its-ai-agent</link>
       <guid isPermaLink="true">https://newsletter.superpowerdaily.com/p/meta-adds-project-workspaces-to-its-ai-agent</guid>
       <category>agent sidebar race</category>
-      <description>Meta added project workspaces to its Muse AI agent — persistent spaces in the sidebar that connected apps can keep updated in the background.</description>
+      <description>Meta's Muse gets project workspaces: Spaces that connected apps update in the background</description>
       <pubDate>Mon, 09 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -59,7 +179,7 @@
       <link>https://www.sendseven.com/en/blog/whatsapp-business-news-meta-updates</link>
       <guid isPermaLink="true">https://www.sendseven.com/en/blog/whatsapp-business-news-meta-updates</guid>
       <category>WhatsApp / Meta dev</category>
-      <description>Meta retired WhatsApp's conversation_analytics endpoint on November 1, and its developer MCP server can now create apps and business portfolios.</description>
+      <description>WhatsApp Business: conversation_analytics endpoint retired Nov 1; Meta's developer MCP creates apps and portfolios</description>
       <pubDate>Mon, 09 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -67,7 +187,7 @@
       <link>https://pathubs.com/blog/postman-ai-scandal-silent-mcp-injection-bruno-migration</link>
       <guid isPermaLink="true">https://pathubs.com/blog/postman-ai-scandal-silent-mcp-injection-bruno-migration</guid>
       <category>file governance</category>
-      <description>Postman desktop silently installed its own MCP plugin into Claude Code and Codex, self-approving its startup hook</description>
+      <description>Postman desktop updates were found silently adding its plugin to Claude Code and Codex without asking, including self-approving its own startup hook.</description>
       <pubDate>Mon, 09 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -75,7 +195,7 @@
       <link>https://for.you.com/posts/ai-agent-governance-shifts-to-runtime-control-as-mcp-risks-4d0ab1fe</link>
       <guid isPermaLink="true">https://for.you.com/posts/ai-agent-governance-shifts-to-runtime-control-as-mcp-risks-4d0ab1fe</guid>
       <category>file governance</category>
-      <description>Agent governance shifts to runtime control as MCP risks mount: Citrix, Ebix and Veylan launch policy checkpoints</description>
+      <description>Citrix, Ebix and Veylan all launched runtime controls for AI agents this week, as a count found 382 security flaws tied to MCP servers.</description>
       <pubDate>Mon, 09 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -83,7 +203,7 @@
       <link>https://enjoy.dev/blog/ai-models-shutting-down-november-2026/</link>
       <guid isPermaLink="true">https://enjoy.dev/blog/ai-models-shutting-down-november-2026/</guid>
       <category>model APIs</category>
-      <description>November model shutdown calendar: Jules read-only Nov 11, OpenAI leaves Cursor Nov 12, Sonnet 4.5 retires Nov 30</description>
+      <description>Several AI models retire this month, starting with Jules going read-only on November 11 and OpenAI leaving Cursor on November 12.</description>
       <pubDate>Mon, 09 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -91,7 +211,7 @@
       <link>https://blog.tronsave.io/x402-on-tron-ai-agent-usdt-payments/</link>
       <guid isPermaLink="true">https://blog.tronsave.io/x402-on-tron-ai-agent-usdt-payments/</guid>
       <category>agentic commerce rails</category>
-      <description>x402 on TRON still not official: USDT agent payments await the open spec proposal</description>
+      <description>USDT payments for AI agents on TRON are not officially live yet — the x402 binding is still an open proposal and Coinbase's facilitator doesn't list TRON.</description>
       <pubDate>Mon, 09 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -99,7 +219,7 @@
       <link>https://dev.to/paullovelace/claude-sonnet-46-is-here-1m-context-opus-level-coding-at-sonnet-prices-3odc</link>
       <guid isPermaLink="true">https://dev.to/paullovelace/claude-sonnet-46-is-here-1m-context-opus-level-coding-at-sonnet-prices-3odc</guid>
       <category>model APIs</category>
-      <description>Claude Sonnet 4.6 ships today: 1M-token context, Opus-level coding at Sonnet prices</description>
+      <description>Anthropic shipped Claude Sonnet 4.6 today with a 1M-token context window in beta, at the same price as Sonnet 4.5, now the default on claude.ai.</description>
       <pubDate>Sun, 08 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -107,7 +227,7 @@
       <link>https://crosswalk.to/crosswalk/deals/2026-11-08</link>
       <guid isPermaLink="true">https://crosswalk.to/crosswalk/deals/2026-11-08</guid>
       <category>agent-startup funding</category>
-      <description>&amp;Truth raises $70M seed for AI proof generation; Lazarus AI raises $43M for sovereign on-prem AI</description>
+      <description>&amp;Truth raised $70M to mathematically verify AI-generated code, and Lazarus AI raised $43M for AI platforms enterprises run on their own servers.</description>
       <pubDate>Sun, 08 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -115,7 +235,7 @@
       <link>https://theartofcto.com/daily-sync/2026-11-08-daily-sync</link>
       <guid isPermaLink="true">https://theartofcto.com/daily-sync/2026-11-08-daily-sync</guid>
       <category>file governance</category>
-      <description>Claude Code auto-commits leaked 1,100+ live secrets to public GitHub; GitLab 19.5 governs agentic dev</description>
+      <description>Over 1,100 public GitHub files were found holding live passwords and API keys committed by AI coding helpers; GitLab 19.5 adds governed workflows for agentic development.</description>
       <pubDate>Sun, 08 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -171,7 +291,7 @@
       <link>https://aiweekly.co/alerts/google-adk-2140-graduates-core-modules-adds-teams-runner</link>
       <guid isPermaLink="true">https://aiweekly.co/alerts/google-adk-2140-graduates-core-modules-adds-teams-runner</guid>
       <category>agent frameworks</category>
-      <description>Google ships Agent Development Kit 2.14.0 — core modules graduate, TeamsRunner lands</description>
+      <description>Google shipped Agent Development Kit 2.14.0, graduating A2A and core modules out of experimental and adding a Teams runner for agents in Microsoft Teams.</description>
       <pubDate>Sun, 08 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -179,7 +299,7 @@
       <link>https://pengen.diewe.workers.dev/thegdsks/claude-opus-46-for-developers-agent-teams-1m-context-and-what-actually-matters-4h8c</link>
       <guid isPermaLink="true">https://pengen.diewe.workers.dev/thegdsks/claude-opus-46-for-developers-agent-teams-1m-context-and-what-actually-matters-4h8c</guid>
       <category>model APIs</category>
-      <description>Anthropic ships Claude Opus 4.6 — 1M-token context, Agent Teams preview, context compaction</description>
+      <description>Anthropic shipped Claude Opus 4.6 with 1M-token context, multi-agent teams in preview, and context compaction for long coding sessions.</description>
       <pubDate>Sun, 08 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -187,7 +307,7 @@
       <link>https://blurbrahlab.medium.com/claude-sonnet-4-5-is-retired-nov-30-top-10-ai-flutter-news-november-8-2026-9dd0b651d8e9</link>
       <guid isPermaLink="true">https://blurbrahlab.medium.com/claude-sonnet-4-5-is-retired-nov-30-top-10-ai-flutter-news-november-8-2026-9dd0b651d8e9</guid>
       <category>model APIs</category>
-      <description>Claude Sonnet 4.5 retires from the Claude API on November 30 — migrate to Sonnet 5.5</description>
+      <description>Claude Sonnet 4.5 stops working on the Claude API on November 30 — Anthropic says to switch to Sonnet 5.5, and Opus 4.8 fast mode goes the same day.</description>
       <pubDate>Sun, 08 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -195,7 +315,7 @@
       <link>https://github.com/openai/codex/releases</link>
       <guid isPermaLink="true">https://github.com/openai/codex/releases</guid>
       <category>agent frameworks</category>
-      <description>Codex 0.167.0 ships an Agent Command Center for managing agent sessions</description>
+      <description>Codex 0.167.0 adds an Agent Command Center to manage coding-agent sessions, with backend switching and local image previews.</description>
       <pubDate>Sun, 08 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -203,7 +323,7 @@
       <link>https://therealdeal.com/national/2026/11/06/ai-home-search-agents-favor-compass-reffkin-says/</link>
       <guid isPermaLink="true">https://therealdeal.com/national/2026/11/06/ai-home-search-agents-favor-compass-reffkin-says/</guid>
       <category>Instinct ecosystem</category>
-      <description>Compass says AI home-search agents favor its listings and bypass portals</description>
+      <description>Compass says AI agents like Instinct and Muse are going straight to brokerage sites for home searches, bypassing traditional listing portals.</description>
       <pubDate>Sun, 08 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -211,7 +331,7 @@
       <link>https://lumierepaycheck.org/blog/we-paid-x402-endpoints-45152-times</link>
       <guid isPermaLink="true">https://lumierepaycheck.org/blog/we-paid-x402-endpoints-45152-times</guid>
       <category>agentic commerce rails</category>
-      <description>Lumière PayCheck paid 45,152 x402 endpoints — 95% delivered once paid, but half of payment attempts never completed</description>
+      <description>A six-week test paid 45,152 x402 endpoints: 95% delivered once paid, but half of all payment attempts never completed — the payment itself is the weak link.</description>
       <pubDate>Sun, 08 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -219,7 +339,7 @@
       <link>https://www.cxnetwork.com/cx-experience/news/every-cx-start-up-funding-deal-you-need-to-know-november-6/amp</link>
       <guid isPermaLink="true">https://www.cxnetwork.com/cx-experience/news/every-cx-start-up-funding-deal-you-need-to-know-november-6/amp</guid>
       <category>agent-startup funding</category>
-      <description>Phonic raises $27.5M Series A to help voice agents understand callers</description>
+      <description>Phonic raised $27.5M to build speech-to-speech AI models that help voice agents understand callers better.</description>
       <pubDate>Sun, 08 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -227,7 +347,7 @@
       <link>https://sharegate.com/blog/new-in-sharegate-mcp-governance</link>
       <guid isPermaLink="true">https://sharegate.com/blog/new-in-sharegate-mcp-governance</guid>
       <category>file governance</category>
-      <description>ShareGate MCP brings Microsoft 365 governance into Claude, ChatGPT and Copilot</description>
+      <description>ShareGate launched an MCP connector that lets Claude, ChatGPT and Copilot govern Microsoft 365 under the permissions users already have.</description>
       <pubDate>Sun, 08 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -235,7 +355,7 @@
       <link>https://www.aurav.ae/base44-scales-from-3-5m-to-200m-arr-after-80m-wix-acquisition</link>
       <guid isPermaLink="true">https://www.aurav.ae/base44-scales-from-3-5m-to-200m-arr-after-80m-wix-acquisition</guid>
       <category>Base44 ecosystem</category>
-      <description>Base44 scales from $3.5M to $200M ARR after Wix’s $80M acquisition</description>
+      <description>Base44 grew from $3.5M to a $200M revenue run-rate with about 2 million users in the year since Wix bought it for $80M.</description>
       <pubDate>Sun, 08 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -243,7 +363,7 @@
       <link>https://www.siliconreport.com/anthropic-aims-for-pre-thanksgiving-ipo-to-raise-up-to-100-billion</link>
       <guid isPermaLink="true">https://www.siliconreport.com/anthropic-aims-for-pre-thanksgiving-ipo-to-raise-up-to-100-billion</guid>
       <category>agent-startup funding</category>
-      <description>Anthropic presses ahead with pre-Thanksgiving IPO, targeting $80-100B at a $1.25-1.75T valuation</description>
+      <description>Anthropic is pressing ahead with a pre-Thanksgiving IPO, aiming to raise $80-100 billion at a $1.25-1.75 trillion valuation despite the recent tech selloff.</description>
       <pubDate>Sat, 07 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -251,7 +371,7 @@
       <link>https://dronelife.com/2026/11/06/axon-skydio-investment-exclusive-drone-distribution/</link>
       <guid isPermaLink="true">https://dronelife.com/2026/11/06/axon-skydio-investment-exclusive-drone-distribution/</guid>
       <category>agent-startup funding</category>
-      <description>Axon invests another $1.2B in Skydio at a $5.2B valuation and takes exclusive public-safety distribution</description>
+      <description>Axon is investing another $1.2 billion in drone maker Skydio at a $5.2 billion valuation and becoming its exclusive public-safety distributor in the US and Canada.</description>
       <pubDate>Sat, 07 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -259,7 +379,7 @@
       <link>https://www.whtop.com/news/36073-cloud-firm-digitalocean-launches-iphone-app-to-approve-ai-agent</link>
       <guid isPermaLink="true">https://www.whtop.com/news/36073-cloud-firm-digitalocean-launches-iphone-app-to-approve-ai-agent</guid>
       <category>file governance</category>
-      <description>DigitalOcean launches Cuttlefish, an iPhone app to approve or block AI agent actions, plus a Box integration for agents on shared files</description>
+      <description>DigitalOcean launched Cuttlefish, an iPhone app that lets you approve or block individual AI agent actions, plus a Box integration so agents work on shared files in place.</description>
       <pubDate>Sat, 07 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -285,126 +405,6 @@
       <category>agentic commerce rails</category>
       <description>Free x402 agent wallet refuses payments on its own — spend leash plus decision jury</description>
       <pubDate>Sat, 07 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Hey Claude routes Alexa questions to Claude in open source</title>
-      <link>https://emergent.sh/news/hey-claude-open-source-integration-routes</link>
-      <guid isPermaLink="true">https://emergent.sh/news/hey-claude-open-source-integration-routes</guid>
-      <category>agent frameworks</category>
-      <description>Hey Claude routes Alexa questions to Claude in open source</description>
-      <pubDate>Sat, 07 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Thinking Machines Lab closing in on a $5B round at a $40B valuation</title>
-      <link>https://sports.sunbeltpost.com/2026/11/06/thinking-machines-lab-is-closing-in-on-a-new-5-billion-funding-round-at-a-40-billion-valuation/</link>
-      <guid isPermaLink="true">https://sports.sunbeltpost.com/2026/11/06/thinking-machines-lab-is-closing-in-on-a-new-5-billion-funding-round-at-a-40-billion-valuation/</guid>
-      <category>agent-startup funding</category>
-      <description>Thinking Machines Lab closing in on a $5B round at a $40B valuation</description>
-      <pubDate>Sat, 07 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Future Secure AI raises $80M in convertible notes at a reported $1.2B valuation cap</title>
-      <link>https://crosswalk.to/crosswalk/deals/today</link>
-      <guid isPermaLink="true">https://crosswalk.to/crosswalk/deals/today</guid>
-      <category>agent-startup funding</category>
-      <description>Future Secure AI raises $80M in convertible notes at a reported $1.2B valuation cap</description>
-      <pubDate>Sat, 07 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>AMD open-sources PrimusClaw, a managed agent runtime for its Instinct GPU clusters</title>
-      <link>https://dev.to/delimitter/amd-opens-the-managed-agent-runtime-behind-its-own-instinct-gpu-clusters-473</link>
-      <guid isPermaLink="true">https://dev.to/delimitter/amd-opens-the-managed-agent-runtime-behind-its-own-instinct-gpu-clusters-473</guid>
-      <category>agent frameworks</category>
-      <description>AMD open-sources PrimusClaw, a managed agent runtime for its Instinct GPU clusters</description>
-      <pubDate>Sat, 07 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA opens four Cosmos 3 Nano checkpoints for robot and self-driving simulation</title>
-      <link>https://pondero.ai/news/2026-11-07-nvidia-cosmos3-world-models/</link>
-      <guid isPermaLink="true">https://pondero.ai/news/2026-11-07-nvidia-cosmos3-world-models/</guid>
-      <category>model APIs</category>
-      <description>NVIDIA opens four Cosmos 3 Nano checkpoints for robot and self-driving simulation</description>
-      <pubDate>Sat, 07 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>x402 settles 197.6M payments worth $42.5M in stablecoins</title>
-      <link>https://agenteconomy.to/x402</link>
-      <guid isPermaLink="true">https://agenteconomy.to/x402</guid>
-      <category>agentic commerce</category>
-      <description>x402 settles 197.6M payments worth $42.5M in stablecoins</description>
-      <pubDate>Sat, 07 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Meta splits the WhatsApp Business Account into a WhatsApp Account plus per-provider Messaging Accounts</title>
-      <link>https://beacon-messenger.beaconwavestudio.com/blog/whatsapp-messaging-account-waac-split-shopify-notifications-what-changes</link>
-      <guid isPermaLink="true">https://beacon-messenger.beaconwavestudio.com/blog/whatsapp-messaging-account-waac-split-shopify-notifications-what-changes</guid>
-      <category>WhatsApp / Meta dev</category>
-      <description>Meta splits the WhatsApp Business Account into a WhatsApp Account plus per-provider Messaging Accounts</description>
-      <pubDate>Sat, 07 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Meta ships specialized Muse models trained from Muse Wonder — 47% on its Personal Superintelligence Index, up from 38%</title>
-      <link>https://aistify.com/meta-muse-spaces-custom-ai-tools-dashboards/</link>
-      <guid isPermaLink="true">https://aistify.com/meta-muse-spaces-custom-ai-tools-dashboards/</guid>
-      <category>model APIs</category>
-      <description>Meta ships specialized Muse models trained from Muse Wonder — 47% on its Personal Superintelligence Index, up from 38%</description>
-      <pubDate>Sat, 07 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OpenAI closes $11B first close at $1.25T valuation — under half the original $30B ask</title>
-      <link>https://www.unite.ai/openai-secures-11b-in-initial-funding-at-1-25t-valuation/</link>
-      <guid isPermaLink="true">https://www.unite.ai/openai-secures-11b-in-initial-funding-at-1-25t-valuation/</guid>
-      <category>agent-startup funding</category>
-      <description>OpenAI closes $11B first close at $1.25T valuation — under half the original $30B ask</description>
-      <pubDate>Sat, 07 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Mistral Studio opens managed agents in public preview — write once, run anywhere</title>
-      <link>https://docs.mistral.ai/resources/release-notes</link>
-      <guid isPermaLink="true">https://docs.mistral.ai/resources/release-notes</guid>
-      <category>model APIs / agent frameworks</category>
-      <description>Mistral Studio opens managed agents in public preview — write once, run anywhere</description>
-      <pubDate>Sat, 07 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Perplexity launches Teammates, persistent AI agents for ongoing work</title>
-      <link>https://www.perplexity.ai/page/ff9c0661-87ed-4e74-acf3-61a12803acbb</link>
-      <guid isPermaLink="true">https://www.perplexity.ai/page/ff9c0661-87ed-4e74-acf3-61a12803acbb</guid>
-      <category>always-on agents</category>
-      <description>Perplexity launches Teammates, persistent AI agents for ongoing work</description>
-      <pubDate>Sat, 07 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Airbyte ships open-source MCP server so agents can chat to data pipelines</title>
-      <link>https://www.computerweekly.com/blog/Open-Source-Insider/Hello-data-hows-my-pipeline-Airbyte-MCP-Server-lets-engineers-chat-to-data</link>
-      <guid isPermaLink="true">https://www.computerweekly.com/blog/Open-Source-Insider/Hello-data-hows-my-pipeline-Airbyte-MCP-Server-lets-engineers-chat-to-data</guid>
-      <category>file governance</category>
-      <description>Airbyte ships open-source MCP server so agents can chat to data pipelines</description>
-      <pubDate>Sat, 07 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp marketing templates leave the Cloud API in October 2027</title>
-      <link>https://beacon-messenger.beaconwavestudio.com/blog/whatsapp-cloud-api-marketing-messages-sunset-october-2027-shopify</link>
-      <guid isPermaLink="true">https://beacon-messenger.beaconwavestudio.com/blog/whatsapp-cloud-api-marketing-messages-sunset-october-2027-shopify</guid>
-      <category>WhatsApp / Meta dev</category>
-      <description>WhatsApp marketing templates leave the Cloud API in October 2027</description>
-      <pubDate>Sat, 07 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Base44 Superagents now stop and ask before paying</title>
-      <link>https://www.yet-another-changelog.ai/changelog/base44-superagent-payment-approval</link>
-      <guid isPermaLink="true">https://www.yet-another-changelog.ai/changelog/base44-superagent-payment-approval</guid>
-      <category>Base44 ecosystem</category>
-      <description>Base44 Superagents now stop and ask before paying</description>
-      <pubDate>Sat, 07 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Meta launches Spaces in Muse — describe an idea and Muse builds a persistent custom experience</title>
-      <link>https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/amp/</link>
-      <guid isPermaLink="true">https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/amp/</guid>
-      <category>agent sidebar race</category>
-      <description>Meta launches Spaces in Muse — describe an idea and Muse builds a persistent custom experience</description>
-      <pubDate>Fri, 06 Nov 2026 21:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
