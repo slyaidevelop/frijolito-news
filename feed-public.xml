@@ -5,7 +5,31 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Rox raises $100M Series B at $1.3B valuation to grow revenue agent for Global 2000</title>
+      <link>https://www.unite.ai/rox-raises-100m-series-b-at-1-3b-valuation-to-advance-ai-research/</link>
+      <guid isPermaLink="true">https://www.unite.ai/rox-raises-100m-series-b-at-1-3b-valuation-to-advance-ai-research/</guid>
+      <category>agent-startup funding</category>
+      <description>Rox raised $100M at a $1.3B valuation to grow its AI revenue agent for large enterprises, with annual revenue up more than tenfold in its first year.</description>
+      <pubDate>Wed, 11 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Databricks turns Genie into an autonomous enterprise AI coworker</title>
+      <link>https://www.unite.ai/databricks-turns-genie-into-an-autonomous-enterprise-ai-coworker/</link>
+      <guid isPermaLink="true">https://www.unite.ai/databricks-turns-genie-into-an-autonomous-enterprise-ai-coworker/</guid>
+      <category>agent frameworks</category>
+      <description>Databricks turned its Genie assistant into an autonomous AI coworker for enterprise work, with governed data definitions and admin controls on what agents can do.</description>
+      <pubDate>Wed, 11 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GoodData.AI launches the Agentic Serving Plane, a governed execution layer for AI agents</title>
+      <link>https://www.newswire.com/news/gooddata-ai-launches-the-agentic-serving-plane-a-new-category-of-22874248</link>
+      <guid isPermaLink="true">https://www.newswire.com/news/gooddata-ai-launches-the-agentic-serving-plane-a-new-category-of-22874248</guid>
+      <category>file governance</category>
+      <description>GoodData launched a governed layer that lets AI agents work with enterprise data under business rules and access controls, through its MCP server.</description>
+      <pubDate>Wed, 11 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Google makes Gemini 4 Carbon generally available at $2/$10 per million tokens, undercutting Claude Fable 5.2</title>
       <link>https://www.zubiqo.com/news/google-launches-gemini-4-carbon-api-at-2-10-per-1m-tokens-undercutting-claude-fable-5-2-nljo3g</link>
@@ -380,30 +404,6 @@
       <guid isPermaLink="true">https://pathubs.com/blog/postman-ai-scandal-silent-mcp-injection-bruno-migration</guid>
       <category>file governance</category>
       <description>Postman desktop updates were found silently adding its plugin to Claude Code and Codex without asking, including self-approving its own startup hook.</description>
-      <pubDate>Mon, 09 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Agent governance shifts to runtime control as MCP risks mount: Citrix, Ebix and Veylan launch policy checkpoints</title>
-      <link>https://for.you.com/posts/ai-agent-governance-shifts-to-runtime-control-as-mcp-risks-4d0ab1fe</link>
-      <guid isPermaLink="true">https://for.you.com/posts/ai-agent-governance-shifts-to-runtime-control-as-mcp-risks-4d0ab1fe</guid>
-      <category>file governance</category>
-      <description>Citrix, Ebix and Veylan all launched runtime controls for AI agents this week, as a count found 382 security flaws tied to MCP servers.</description>
-      <pubDate>Mon, 09 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>November model shutdown calendar: Jules read-only Nov 11, OpenAI leaves Cursor Nov 12, Sonnet 4.5 retires Nov 30</title>
-      <link>https://enjoy.dev/blog/ai-models-shutting-down-november-2026/</link>
-      <guid isPermaLink="true">https://enjoy.dev/blog/ai-models-shutting-down-november-2026/</guid>
-      <category>model APIs</category>
-      <description>Several AI models retire this month, starting with Jules going read-only on November 11 and OpenAI leaving Cursor on November 12.</description>
-      <pubDate>Mon, 09 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>x402 on TRON still not official: USDT agent payments await the open spec proposal</title>
-      <link>https://blog.tronsave.io/x402-on-tron-ai-agent-usdt-payments/</link>
-      <guid isPermaLink="true">https://blog.tronsave.io/x402-on-tron-ai-agent-usdt-payments/</guid>
-      <category>agentic commerce rails</category>
-      <description>USDT payments for AI agents on TRON are not officially live yet — the x402 binding is still an open proposal and Coinbase's facilitator doesn't list TRON.</description>
       <pubDate>Mon, 09 Nov 2026 09:20:00 -0500</pubDate>
     </item>
   </channel>
