@@ -5,7 +5,39 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Google makes Gemini 4 Carbon generally available at $2/$10 per million tokens, undercutting Claude Fable 5.2</title>
+      <link>https://www.zubiqo.com/news/google-launches-gemini-4-carbon-api-at-2-10-per-1m-tokens-undercutting-claude-fable-5-2-nljo3g</link>
+      <guid isPermaLink="true">https://www.zubiqo.com/news/google-launches-gemini-4-carbon-api-at-2-10-per-1m-tokens-undercutting-claude-fable-5-2-nljo3g</guid>
+      <category>model API</category>
+      <description>Google made Gemini 4 Carbon widely available at $2 per million input tokens, undercutting rival frontier models, and previewed Antigravity's /swarm mode that splits one prompt across a team of agents.</description>
+      <pubDate>Wed, 11 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Anthropic launches IPO roadshow at $70-78 a share, Nasdaq ticker ANT, in a deal that could value it near $1.4T</title>
+      <link>https://www.eyssen.ai/blog/latest-ai-news-35/latest-ai-news-november-10-2026-489</link>
+      <guid isPermaLink="true">https://www.eyssen.ai/blog/latest-ai-news-35/latest-ai-news-november-10-2026-489</guid>
+      <category>agent-startup funding</category>
+      <description>Anthropic launched its IPO roadshow with a $70-78 price range and a planned Nasdaq listing under the ticker ANT, in a deal that could value the AI company at up to about $1.4 trillion.</description>
+      <pubDate>Wed, 11 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Claude gains Sheets, Whiteboards and Data while ChatGPT adds business profiles and seller agents</title>
+      <link>https://www.theneuron.ai/news/google-anthropic-openai-ai-assistants-workspaces/</link>
+      <guid isPermaLink="true">https://www.theneuron.ai/news/google-anthropic-openai-ai-assistants-workspaces/</guid>
+      <category>model API</category>
+      <description>Anthropic added Sheets, Whiteboards and Data to Claude, and OpenAI added business profiles and customer-facing seller agents in ChatGPT, as both assistants move into shared workspaces.</description>
+      <pubDate>Wed, 11 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Honest x402 numbers: TRM Labs bounds the genuinely agentic share at 0.6-7.5% of screened commerce</title>
+      <link>https://www.ideabosque.com/library/x402-settlement-scale-vs-agent-share/</link>
+      <guid isPermaLink="true">https://www.ideabosque.com/library/x402-settlement-scale-vs-agent-share/</guid>
+      <category>agentic commerce rails</category>
+      <description>A new analysis of x402 payments finds most settled volume still isn't agents buying things - TRM Labs bounds the genuinely agentic share at 0.6-7.5% of screened commerce, even as settlements pass 191 million.</description>
+      <pubDate>Wed, 11 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Inkbox raises $5.3M seed and launches cloud-hosted AI agents with persistent computers</title>
       <link>https://cryptobriefing.com/inkbox-raises-5-million-cloud-ai-agents/</link>
@@ -373,38 +405,6 @@
       <category>agentic commerce rails</category>
       <description>USDT payments for AI agents on TRON are not officially live yet — the x402 binding is still an open proposal and Coinbase's facilitator doesn't list TRON.</description>
       <pubDate>Mon, 09 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Claude Sonnet 4.6 ships today: 1M-token context, Opus-level coding at Sonnet prices</title>
-      <link>https://dev.to/paullovelace/claude-sonnet-46-is-here-1m-context-opus-level-coding-at-sonnet-prices-3odc</link>
-      <guid isPermaLink="true">https://dev.to/paullovelace/claude-sonnet-46-is-here-1m-context-opus-level-coding-at-sonnet-prices-3odc</guid>
-      <category>model APIs</category>
-      <description>Anthropic shipped Claude Sonnet 4.6 today with a 1M-token context window in beta, at the same price as Sonnet 4.5, now the default on claude.ai.</description>
-      <pubDate>Sun, 08 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>&amp;Truth raises $70M seed for AI proof generation; Lazarus AI raises $43M for sovereign on-prem AI</title>
-      <link>https://crosswalk.to/crosswalk/deals/2026-11-08</link>
-      <guid isPermaLink="true">https://crosswalk.to/crosswalk/deals/2026-11-08</guid>
-      <category>agent-startup funding</category>
-      <description>&amp;Truth raised $70M to mathematically verify AI-generated code, and Lazarus AI raised $43M for AI platforms enterprises run on their own servers.</description>
-      <pubDate>Sun, 08 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Claude Code auto-commits leaked 1,100+ live secrets to public GitHub; GitLab 19.5 governs agentic dev</title>
-      <link>https://theartofcto.com/daily-sync/2026-11-08-daily-sync</link>
-      <guid isPermaLink="true">https://theartofcto.com/daily-sync/2026-11-08-daily-sync</guid>
-      <category>file governance</category>
-      <description>Over 1,100 public GitHub files were found holding live passwords and API keys committed by AI coding helpers; GitLab 19.5 adds governed workflows for agentic development.</description>
-      <pubDate>Sun, 08 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OpenAI closes $11B first close at $1.25T valuation — weekly financing recap</title>
-      <link>https://www.aidailyinsights.cn/en/2026-11-08/</link>
-      <guid isPermaLink="true">https://www.aidailyinsights.cn/en/2026-11-08/</guid>
-      <category>agent-startup funding</category>
-      <description>OpenAI closes $11B first close at $1.25T valuation — weekly financing recap</description>
-      <pubDate>Sun, 08 Nov 2026 18:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
