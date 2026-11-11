@@ -5,13 +5,53 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Plurai raises $13M seed led by Team8 for AI agent simulation infrastructure</title>
+      <link>https://crosswalk.to/crosswalk/deals/today</link>
+      <guid isPermaLink="true">https://crosswalk.to/crosswalk/deals/today</guid>
+      <category>agent-startup funding</category>
+      <description>Plurai raised $13M led by Team8 to test AI agents in simulated copies of a company's own systems, catching failures before they reach customers.</description>
+      <pubDate>Wed, 11 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Agen.co launches Cody, an AI agent that maintains agent access policy</title>
+      <link>https://seafood.einnews.com/pr_news/955924780/agen-co-by-frontegg-launches-cody-the-first-ai-agent-to-maintain-agent-access-policy</link>
+      <guid isPermaLink="true">https://seafood.einnews.com/pr_news/955924780/agen-co-by-frontegg-launches-cody-the-first-ai-agent-to-maintain-agent-access-policy</guid>
+      <category>agent governance</category>
+      <description>Agen.co launched Cody, an AI agent that drafts policy changes for enterprise AI agents from what they actually request, with a human approving each one.</description>
+      <pubDate>Wed, 11 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Optimizely Agent Platform goes desktop and adds OpenAI models</title>
+      <link>https://world.optimizely.com/blogs/scott-reed/dates/2026/11/optimizely-agent-platform---new-desktop-app-opal-ai-models-and-more</link>
+      <guid isPermaLink="true">https://world.optimizely.com/blogs/scott-reed/dates/2026/11/optimizely-agent-platform---new-desktop-app-opal-ai-models-and-more</guid>
+      <category>agent frameworks</category>
+      <description>Optimizely's Mark agent platform is now a desktop app, and OpenAI models join Google and Anthropic so teams can pick a model per agent.</description>
+      <pubDate>Wed, 11 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Swap.io x402 API: a DAO payroll bot pays $0.003007 per quote in USDC</title>
+      <link>https://medium.com/@akhileshking/payday-agent-a-dao-payroll-bot-that-pays-swap-io-per-quote-with-x402-817ef6adcc85</link>
+      <guid isPermaLink="true">https://medium.com/@akhileshking/payday-agent-a-dao-payroll-bot-that-pays-swap-io-per-quote-with-x402-817ef6adcc85</guid>
+      <category>agentic commerce rails</category>
+      <description>A DAO payroll bot paid $0.003 in USDC per quote through Swap.io's x402 API - no account or API key, just a stablecoin payment per call.</description>
+      <pubDate>Wed, 11 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Responsive MCP moves from retrieval to governed action in ChatGPT, Copilot and Claude</title>
+      <link>https://www.varindia.com/news/responsive-expands-mcp-capabilities-to-bring-governed-knowledge-into-revenue-critical-workflows</link>
+      <guid isPermaLink="true">https://www.varindia.com/news/responsive-expands-mcp-capabilities-to-bring-governed-knowledge-into-revenue-critical-workflows</guid>
+      <category>file governance</category>
+      <description>Responsive's MCP now lets teams take governed actions inside ChatGPT, Copilot and Claude, not just retrieve answers, with permissions enforced.</description>
+      <pubDate>Wed, 11 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Rox raises $100M Series B at $1.3B valuation to grow revenue agent for Global 2000</title>
       <link>https://www.unite.ai/rox-raises-100m-series-b-at-1-3b-valuation-to-advance-ai-research/</link>
       <guid isPermaLink="true">https://www.unite.ai/rox-raises-100m-series-b-at-1-3b-valuation-to-advance-ai-research/</guid>
       <category>agent-startup funding</category>
-      <description>Rox raised $100M at a $1.3B valuation to grow its AI revenue agent for large enterprises, with annual revenue up more than tenfold in its first year.</description>
+      <description>Rox raises $100M Series B at $1.3B valuation to grow revenue agent for Global 2000</description>
       <pubDate>Wed, 11 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -19,7 +59,7 @@
       <link>https://www.unite.ai/databricks-turns-genie-into-an-autonomous-enterprise-ai-coworker/</link>
       <guid isPermaLink="true">https://www.unite.ai/databricks-turns-genie-into-an-autonomous-enterprise-ai-coworker/</guid>
       <category>agent frameworks</category>
-      <description>Databricks turned its Genie assistant into an autonomous AI coworker for enterprise work, with governed data definitions and admin controls on what agents can do.</description>
+      <description>Databricks turns Genie into an autonomous enterprise AI coworker</description>
       <pubDate>Wed, 11 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -27,7 +67,7 @@
       <link>https://www.newswire.com/news/gooddata-ai-launches-the-agentic-serving-plane-a-new-category-of-22874248</link>
       <guid isPermaLink="true">https://www.newswire.com/news/gooddata-ai-launches-the-agentic-serving-plane-a-new-category-of-22874248</guid>
       <category>file governance</category>
-      <description>GoodData launched a governed layer that lets AI agents work with enterprise data under business rules and access controls, through its MCP server.</description>
+      <description>GoodData.AI launches the Agentic Serving Plane, a governed execution layer for AI agents</description>
       <pubDate>Wed, 11 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -365,46 +405,6 @@
       <category>agent-startup funding</category>
       <description>Nominal raises $240M at a $3B valuation for AI hardware-testing software</description>
       <pubDate>Mon, 09 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>geniosAI emerges from stealth with $19.1M combined seed and Series A for finance agents</title>
-      <link>https://www.unite.ai/geniosai-raises-19-1m-in-combined-seed-and-series-a-funding/</link>
-      <guid isPermaLink="true">https://www.unite.ai/geniosai-raises-19-1m-in-combined-seed-and-series-a-funding/</guid>
-      <category>agent-startup funding</category>
-      <description>geniosAI emerges from stealth with $19.1M combined seed and Series A for finance agents</description>
-      <pubDate>Mon, 09 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Box makes agent security controls generally available — classification limits and MCP guardrails</title>
-      <link>https://www.shashi.co/2026/11/box-launches-new-agent-security.html</link>
-      <guid isPermaLink="true">https://www.shashi.co/2026/11/box-launches-new-agent-security.html</guid>
-      <category>file governance</category>
-      <description>Box makes agent security controls generally available — classification limits and MCP guardrails</description>
-      <pubDate>Mon, 09 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Meta's Muse gets project workspaces: Spaces that connected apps update in the background</title>
-      <link>https://newsletter.superpowerdaily.com/p/meta-adds-project-workspaces-to-its-ai-agent</link>
-      <guid isPermaLink="true">https://newsletter.superpowerdaily.com/p/meta-adds-project-workspaces-to-its-ai-agent</guid>
-      <category>agent sidebar race</category>
-      <description>Meta's Muse gets project workspaces: Spaces that connected apps update in the background</description>
-      <pubDate>Mon, 09 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp Business: conversation_analytics endpoint retired Nov 1; Meta's developer MCP creates apps and portfolios</title>
-      <link>https://www.sendseven.com/en/blog/whatsapp-business-news-meta-updates</link>
-      <guid isPermaLink="true">https://www.sendseven.com/en/blog/whatsapp-business-news-meta-updates</guid>
-      <category>WhatsApp / Meta dev</category>
-      <description>WhatsApp Business: conversation_analytics endpoint retired Nov 1; Meta's developer MCP creates apps and portfolios</description>
-      <pubDate>Mon, 09 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Postman desktop silently installed its own MCP plugin into Claude Code and Codex, self-approving its startup hook</title>
-      <link>https://pathubs.com/blog/postman-ai-scandal-silent-mcp-injection-bruno-migration</link>
-      <guid isPermaLink="true">https://pathubs.com/blog/postman-ai-scandal-silent-mcp-injection-bruno-migration</guid>
-      <category>file governance</category>
-      <description>Postman desktop updates were found silently adding its plugin to Claude Code and Codex without asking, including self-approving its own startup hook.</description>
-      <pubDate>Mon, 09 Nov 2026 09:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
