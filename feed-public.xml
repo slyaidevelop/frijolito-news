@@ -5,7 +5,31 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Graphon Labs raises $35M Series A for 'Persistent Intelligence' agent memory infrastructure</title>
+      <link>https://crosswalk.to/crosswalk/deals/2026-11-10</link>
+      <guid isPermaLink="true">https://crosswalk.to/crosswalk/deals/2026-11-10</guid>
+      <category>agent-startup funding</category>
+      <description>Graphon Labs raised $35M to build memory infrastructure that lets AI agents continuously access, understand and remember data, so long-running agents stop starting from scratch.</description>
+      <pubDate>Thu, 12 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>NetApp AI Data Engine adds governed AI access over MCP — metadata search only, no file contents</title>
+      <link>https://docs.netapp.com/us-en/ai-data-engine/mcp/learn-about-mcp.html</link>
+      <guid isPermaLink="true">https://docs.netapp.com/us-en/ai-data-engine/mcp/learn-about-mcp.html</guid>
+      <category>file governance</category>
+      <description>NetApp's AI Data Engine now lets AI assistants search file metadata through MCP, but only inside collections you enable - agents get context without ever opening the files.</description>
+      <pubDate>Thu, 12 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Amazon deploys serverless MCP gateway on ECS Fargate for governed agent access to data lakes</title>
+      <link>https://blogs.techbytes.app/posts/serverless-mcp-server-for-ai-agent-data-lake-access-on/</link>
+      <guid isPermaLink="true">https://blogs.techbytes.app/posts/serverless-mcp-server-for-ai-agent-data-lake-access-on/</guid>
+      <category>agent frameworks</category>
+      <description>Amazon deployed a serverless MCP gateway on ECS Fargate that gives AI agents governed access to data lakes, with read-only queries and guardrails on every request.</description>
+      <pubDate>Thu, 12 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>A home GPU box behind x402: two days of real numbers — 15 paid calls, $0.017 from strangers</title>
       <link>https://dev.to/leandro_leite_e6a19fcb1ce/i-put-a-gpu-box-behind-http-402-two-days-of-real-numbers-5089</link>
@@ -381,30 +405,6 @@
       <category>agent-startup funding</category>
       <description>Skyfall AI came out of stealth with Steve, an autonomous system that runs digital businesses on its own, plus a $2M program to acquire five early-stage startups.</description>
       <pubDate>Mon, 09 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Meta launches Muse Ember, a smaller, cheaper model built for repetitive agent work</title>
-      <link>https://www.pymnts.com/news/artificial-intelligence/2026/meta-and-anthropic-push-ai-models-into-more-complex-work/</link>
-      <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/meta-and-anthropic-push-ai-models-into-more-complex-work/</guid>
-      <category>model APIs</category>
-      <description>Meta launched Muse Ember, a smaller, cheaper model built for repetitive AI agent work like tool calls and coding subtasks, priced at $0.10 per million input tokens.</description>
-      <pubDate>Mon, 09 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Coframe raises $25M Series A for AI agents that rebuild websites and ads as they test them</title>
-      <link>https://www.unite.ai/coframe-raises-25m-series-a-bringing-total-funding-to-35m/</link>
-      <guid isPermaLink="true">https://www.unite.ai/coframe-raises-25m-series-a-bringing-total-funding-to-35m/</guid>
-      <category>agent-startup funding</category>
-      <description>Coframe raised $25M to build websites, landing pages and ads that continuously rebuild and test themselves, and is working with OpenAI on ChatGPT ads.</description>
-      <pubDate>Mon, 09 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp rolls out Meta Business Agent in India, plus a Business Agent Platform for large enterprises</title>
-      <link>https://turbo.gadgets360.com/en/apps/whatsapp-meta-business-agent-new-discovery-features-news-11742962</link>
-      <guid isPermaLink="true">https://turbo.gadgets360.com/en/apps/whatsapp-meta-business-agent-new-discovery-features-news-11742962</guid>
-      <category>WhatsApp / Meta dev</category>
-      <description>WhatsApp is rolling out Meta Business Agent in India, with a new platform for large enterprises and business discovery features inside the app.</description>
-      <pubDate>Mon, 09 Nov 2026 18:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
