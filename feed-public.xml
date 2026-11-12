@@ -5,7 +5,39 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Plurai raises $13M seed and opens AI agent simulation platform to general availability</title>
+      <link>https://www.unite.ai/plurai-raises-13m-seed-and-opens-ai-agent-simulation-platform/</link>
+      <guid isPermaLink="true">https://www.unite.ai/plurai-raises-13m-seed-and-opens-ai-agent-simulation-platform/</guid>
+      <category>agent-startup funding</category>
+      <description>Plurai raised $13M and opened its AI-agent simulation platform, which tests agents in a digital twin before they reach real customers.</description>
+      <pubDate>Wed, 11 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Base44 hits reported $200M ARR run-rate with about 2M users</title>
+      <link>https://www.saastr.com/saastr-ai-app-of-the-week-base44-one-founder-zero-funding-80-million-from-wix-in-6-months-now-at-200-million-arr/</link>
+      <guid isPermaLink="true">https://www.saastr.com/saastr-ai-app-of-the-week-base44-one-founder-zero-funding-80-million-from-wix-in-6-months-now-at-200-million-arr/</guid>
+      <category>Base44 ecosystem</category>
+      <description>Base44 reportedly hit a $200M annual revenue run-rate with about 2 million users, up from $3.5M when Wix acquired it.</description>
+      <pubDate>Wed, 11 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Adobe ships local MCP server for Creative Cloud at MAX, letting AI assistants drive Photoshop and Premiere on your machine</title>
+      <link>https://pondero.ai/mcps/guides/adobe-creative-cloud-mcp-guide/</link>
+      <guid isPermaLink="true">https://pondero.ai/mcps/guides/adobe-creative-cloud-mcp-guide/</guid>
+      <category>agent frameworks</category>
+      <description>Adobe released a local MCP server for Creative Cloud, letting AI assistants drive Photoshop, Illustrator, After Effects and Premiere on your own computer.</description>
+      <pubDate>Wed, 11 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>FormAssembly launches rebuilt platform with headless MCP server and governed intake agents</title>
+      <link>https://www.globenewswire.com/news-release/2026/11/09/3398503/0/en/formassembly-launches-new-platform-for-building-secure-auditable-and-compliant-data-processes.html</link>
+      <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/11/09/3398503/0/en/formassembly-launches-new-platform-for-building-secure-auditable-and-compliant-data-processes.html</guid>
+      <category>file governance</category>
+      <description>FormAssembly launched a rebuilt platform with a headless MCP server and AI intake agents that turn voice and chat conversations into structured data.</description>
+      <pubDate>Wed, 11 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Plurai raises $13M seed led by Team8 for AI agent simulation infrastructure</title>
       <link>https://crosswalk.to/crosswalk/deals/today</link>
@@ -373,38 +405,6 @@
       <category>agent-startup funding</category>
       <description>Guava raised a $12.5M seed round led by Acrew Capital to build voice AI agents for enterprise phone calls.</description>
       <pubDate>Mon, 09 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Spines raises $64M for agentic AI publishing platform</title>
-      <link>https://www.finsmes.com/2026/11/spines-raises-64m-in-funding.html</link>
-      <guid isPermaLink="true">https://www.finsmes.com/2026/11/spines-raises-64m-in-funding.html</guid>
-      <category>agent-startup funding</category>
-      <description>Spines raised $64M to grow its AI publishing platform, which turns manuscripts into published books with agents and human editors.</description>
-      <pubDate>Mon, 09 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Firmly raises $15M Series A backed by JPMorgan and Mastercard, launches Ask Agent in-chat checkout</title>
-      <link>https://www.geekwire.com/2026/jpmorgan-and-mastercard-back-seattle-startup-firmlys-bet-on-ai-shopping-agents/</link>
-      <guid isPermaLink="true">https://www.geekwire.com/2026/jpmorgan-and-mastercard-back-seattle-startup-firmlys-bet-on-ai-shopping-agents/</guid>
-      <category>agentic commerce rails</category>
-      <description>Firmly raises $15M Series A backed by JPMorgan and Mastercard, launches Ask Agent in-chat checkout</description>
-      <pubDate>Mon, 09 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Thinking Machines Lab reportedly closing a $5B round at a $40B valuation; Anthropic rolls out always-on Claude Duet</title>
-      <link>https://agenticaihype.substack.com/p/thinking-machines-5b-raise-anthropics</link>
-      <guid isPermaLink="true">https://agenticaihype.substack.com/p/thinking-machines-5b-raise-anthropics</guid>
-      <category>agent-startup funding</category>
-      <description>Thinking Machines Lab reportedly closing a $5B round at a $40B valuation; Anthropic rolls out always-on Claude Duet</description>
-      <pubDate>Mon, 09 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Nominal raises $240M at a $3B valuation for AI hardware-testing software</title>
-      <link>https://siliconangle.com/2026/11/09/ai-powered-hardware-testing-and-engineering-startup-nominal-raises-240m-at-3b-valuation/</link>
-      <guid isPermaLink="true">https://siliconangle.com/2026/11/09/ai-powered-hardware-testing-and-engineering-startup-nominal-raises-240m-at-3b-valuation/</guid>
-      <category>agent-startup funding</category>
-      <description>Nominal raises $240M at a $3B valuation for AI hardware-testing software</description>
-      <pubDate>Mon, 09 Nov 2026 12:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
