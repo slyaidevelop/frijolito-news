@@ -5,7 +5,39 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Anthropic IPO roadshow: $70–78 a share, ticker ANT, pricing Nov 18 as bankers eye above-range pricing</title>
+      <link>https://www.morningstar.com/news/pr-newswire/20261111ln94960/an-ai-developer-starts-its-ipo-roadshow-and-its-filing-names-chip-and-cloud-partners</link>
+      <guid isPermaLink="true">https://www.morningstar.com/news/pr-newswire/20261111ln94960/an-ai-developer-starts-its-ipo-roadshow-and-its-filing-names-chip-and-cloud-partners</guid>
+      <category>agent-startup funding</category>
+      <description>Anthropic launched its IPO roadshow at $70 to $78 a share under ticker ANT, with pricing expected November 18 and heavy first-day demand.</description>
+      <pubDate>Thu, 12 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OpenAI launches ChatGPT Business Agents and GPT-Live models with full-duplex voice</title>
+      <link>https://sysarticles.com/daily-tech-brief-2026-11-11/</link>
+      <guid isPermaLink="true">https://sysarticles.com/daily-tech-brief-2026-11-11/</guid>
+      <category>model APIs</category>
+      <description>OpenAI launched ChatGPT Business Agents and GPT-Live models, letting businesses transact with customers inside ChatGPT with full-duplex voice.</description>
+      <pubDate>Thu, 12 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Two malicious MCP packages caught harvesting secrets as MCP becomes the main attack surface</title>
+      <link>https://hangingcontext.com/stories/2026-11-10/mcp-trust-problem/</link>
+      <guid isPermaLink="true">https://hangingcontext.com/stories/2026-11-10/mcp-trust-problem/</guid>
+      <category>file governance</category>
+      <description>Two malicious MCP packages were caught harvesting secrets from AI agent toolchains, as researchers warn MCP is now the main attack surface for agents.</description>
+      <pubDate>Thu, 12 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Gemini lands in Apple CarPlay, a default surface no other frontier model occupies</title>
+      <link>https://ainews.mavenotics.com/latest</link>
+      <guid isPermaLink="true">https://ainews.mavenotics.com/latest</guid>
+      <category>model API</category>
+      <description>Google put Gemini in Apple CarPlay, a default in-car surface no other frontier model occupies.</description>
+      <pubDate>Thu, 12 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Plurai raises $13M seed and opens AI agent simulation platform to general availability</title>
       <link>https://www.unite.ai/plurai-raises-13m-seed-and-opens-ai-agent-simulation-platform/</link>
@@ -372,38 +404,6 @@
       <guid isPermaLink="true">https://cryptobriefing.com/ai-agent-payment-value-drops-94-percent/</guid>
       <category>agentic commerce rails</category>
       <description>Agent payment volumes fell 94.5% from their late-2025 peak, and new research suggests only a small share of x402 payments are genuine agent commerce.</description>
-      <pubDate>Mon, 09 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Coinbase launches Wallet MCP: AI assistants connect to Coinbase Wallet for x402 USDC payments with manual approval</title>
-      <link>https://basisdesk.news/news/coinbase-developer-platform-wallet-mcp-ai-agents</link>
-      <guid isPermaLink="true">https://basisdesk.news/news/coinbase-developer-platform-wallet-mcp-ai-agents</guid>
-      <category>agentic commerce rails</category>
-      <description>Coinbase published Wallet MCP, letting AI assistants connect to a Coinbase Wallet and make x402 USDC micropayments, with every payment needing manual approval.</description>
-      <pubDate>Mon, 09 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Ripple and Privy bring AI-agent wallets and x402 payments to the XRP Ledger as RLUSD transfers hit $20.1B</title>
-      <link>https://www.coingabbar.com/en/xrp-news-today-privy-ai-wallets-rlusd-20-billion-xrp-price</link>
-      <guid isPermaLink="true">https://www.coingabbar.com/en/xrp-news-today-privy-ai-wallets-rlusd-20-billion-xrp-price</guid>
-      <category>agentic commerce rails</category>
-      <description>Ripple and Privy are bringing AI-agent wallets to the XRP Ledger so agents can hold funds and pay via x402, as RLUSD transfers hit $20.1B.</description>
-      <pubDate>Mon, 09 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>DECA Labs raises $12M to build the agent-led software commercialization network</title>
-      <link>https://www.theblock.co/press-releases/deca-labs-raises-12-million-to-build-the-agent-led-software-commercialization-network-436211</link>
-      <guid isPermaLink="true">https://www.theblock.co/press-releases/deca-labs-raises-12-million-to-build-the-agent-led-software-commercialization-network-436211</guid>
-      <category>agent-startup funding</category>
-      <description>DECA Labs raised $12M from Polychain, Pantera, Accel and dao5 to build a network where AI agents take software from idea to market.</description>
-      <pubDate>Mon, 09 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Guava raises $12.5M seed for enterprise voice AI agents</title>
-      <link>https://angelinvestorsnetwork.com/startups/guava-raises-12-5-mn-in-seed-funding-to-expand-enterprise-voice-ai-agents</link>
-      <guid isPermaLink="true">https://angelinvestorsnetwork.com/startups/guava-raises-12-5-mn-in-seed-funding-to-expand-enterprise-voice-ai-agents</guid>
-      <category>agent-startup funding</category>
-      <description>Guava raised a $12.5M seed round led by Acrew Capital to build voice AI agents for enterprise phone calls.</description>
       <pubDate>Mon, 09 Nov 2026 15:20:00 -0500</pubDate>
     </item>
   </channel>
