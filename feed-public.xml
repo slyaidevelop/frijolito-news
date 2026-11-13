@@ -5,7 +5,47 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <item>
+      <title>LangChain raises $300M at a $3B valuation as Alphabet's CapitalG bets on AI agent tooling</title>
+      <link>https://www.europesays.com/ai/239156/</link>
+      <guid isPermaLink="true">https://www.europesays.com/ai/239156/</guid>
+      <category>agent-startup funding</category>
+      <description>LangChain raised $300M at a $3B valuation led by Alphabet's CapitalG, more than doubling its value in a year as companies rush to put AI agents to work.</description>
+      <pubDate>Fri, 13 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Google launches Gemini 4 Hydrogen, a fast model for coding and agentic work</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
+      <guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</guid>
+      <category>model APIs</category>
+      <description>Google launched Gemini 4 Hydrogen, a fast model for coding and agentic work at $1.50 per million input tokens, now live across the Gemini API, Search, and coding tools.</description>
+      <pubDate>Fri, 13 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Anthropic opens self-hosted Claude Managed Agents in private beta</title>
+      <link>https://platform.claude.com/docs/en/release-notes/api</link>
+      <guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/api</guid>
+      <category>agent frameworks</category>
+      <description>Anthropic opened a private beta letting companies run Claude Managed Agents on their own servers, keeping session data and credentials in their own cloud.</description>
+      <pubDate>Fri, 13 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OpenAI launches Daybreak Red Team and Defense Factory security products</title>
+      <link>https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-11-13</link>
+      <guid isPermaLink="true">https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-11-13</guid>
+      <category>agent frameworks</category>
+      <description>OpenAI launched Daybreak Red Team and Defense Factory, AI security products that probe web apps for weaknesses and scan codebases to propose fixes.</description>
+      <pubDate>Fri, 13 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Imprint raises $130M and ships an MCP server for AI agents; Future Secure AI becomes Australia's newest unicorn</title>
+      <link>https://www.cxnetwork.com/cx-experience/news/every-cx-start-up-funding-deal-you-need-to-know-november-13</link>
+      <guid isPermaLink="true">https://www.cxnetwork.com/cx-experience/news/every-cx-start-up-funding-deal-you-need-to-know-november-13</guid>
+      <category>agent-startup funding</category>
+      <description>Imprint raised $130M and shipped a tool letting AI agents securely access loyalty rewards and virtual cards, while Future Secure AI became Australia's newest unicorn with an $82M raise.</description>
+      <pubDate>Fri, 13 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Mirendil raises $1B Series A to make frontier AI R&amp;D accessible to individual scientists</title>
       <link>https://crosswalk.to/crosswalk/deals/2026-11-12</link>
@@ -365,46 +405,6 @@
       <category>Base44 ecosystem</category>
       <description>Wix reported Q3 results with Base44 nearing $250M in annual recurring revenue, as its in-house Base 1 model lifted the AI app builder's margins to 58%.</description>
       <pubDate>Tue, 10 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>IBM and Microsoft launch Imagine Enterprise, an agentic platform with 6,000+ prebuilt agents</title>
-      <link>https://letsdatascience.com/news/ibm-and-microsoft-launch-imagine-enterprise-agent-platform-f-1d861e33</link>
-      <guid isPermaLink="true">https://letsdatascience.com/news/ibm-and-microsoft-launch-imagine-enterprise-agent-platform-f-1d861e33</guid>
-      <category>agent frameworks</category>
-      <description>IBM and Microsoft launched Imagine Enterprise, an agentic platform combining 6,000+ prebuilt agents with Microsoft's AI, data and security tools for regulated industries.</description>
-      <pubDate>Tue, 10 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Israeli AI security startup Bay raises $50M to let agents do business-critical work safely</title>
-      <link>https://www.reuters.com/technology/israeli-ai-security-startup-bay-raises-50-million-2026-11-10/</link>
-      <guid isPermaLink="true">https://www.reuters.com/technology/israeli-ai-security-startup-bay-raises-50-million-2026-11-10/</guid>
-      <category>agent-startup funding</category>
-      <description>Israeli AI security startup Bay raised $50M to let autonomous agents do business-critical work safely while enterprises keep control, with Micron, Peloton, ClickUp and Wix as customers.</description>
-      <pubDate>Tue, 10 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Scalestack raises new funding and acquires Alysio to build autonomous infrastructure for enterprise agents</title>
-      <link>https://www.prnewswire.com/news-releases/scalestack-raises-new-funding-led-by-leonis-capital-acquires-alysio-to-build-the-autonomous-infrastructure-for-enterprise-agents-302934268.html</link>
-      <guid isPermaLink="true">https://www.prnewswire.com/news-releases/scalestack-raises-new-funding-led-by-leonis-capital-acquires-alysio-to-build-the-autonomous-infrastructure-for-enterprise-agents-302934268.html</guid>
-      <category>agent-startup funding</category>
-      <description>Scalestack raised new funding led by Leonis Capital and acquired Alysio to build infrastructure that governs autonomous enterprise agents, with Zapier and Deel as strategic investors.</description>
-      <pubDate>Tue, 10 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Agent F raises $4M pre-seed for AI agents that run finance work for high-growth companies</title>
-      <link>https://tech.eu/2026/11/10/admin-is-europes-growth-tax-agent-f-raises-4m-to-automate-it-away/</link>
-      <guid isPermaLink="true">https://tech.eu/2026/11/10/admin-is-europes-growth-tax-agent-f-raises-4m-to-automate-it-away/</guid>
-      <category>agent-startup funding</category>
-      <description>Berlin startup Agent F raised $4M to build AI agents that run accounting, planning and controls for growing companies, aiming to replace traditional ERP systems.</description>
-      <pubDate>Tue, 10 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Google introduces TPU 8tx and TPU 8i Max, built for the agentic era</title>
-      <link>https://siliconangle.com/2026/11/09/google-advances-agentic-ai-custom-silicon-expanding-tpu-family-with-8tx-and-8i-max/</link>
-      <guid isPermaLink="true">https://siliconangle.com/2026/11/09/google-advances-agentic-ai-custom-silicon-expanding-tpu-family-with-8tx-and-8i-max/</guid>
-      <category>model APIs</category>
-      <description>Google introduced two new TPU systems for the agentic era: the 8tx for secure, confidential inference and the 8i Max for massive context windows.</description>
-      <pubDate>Tue, 10 Nov 2026 09:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
