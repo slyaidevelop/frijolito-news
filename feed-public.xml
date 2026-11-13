@@ -5,7 +5,55 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Mirendil raises $1B Series A to make frontier AI R&amp;D accessible to individual scientists</title>
+      <link>https://crosswalk.to/crosswalk/deals/2026-11-12</link>
+      <guid isPermaLink="true">https://crosswalk.to/crosswalk/deals/2026-11-12</guid>
+      <category>agent-startup funding</category>
+      <description>Mirendil raised a $1B Series A to make frontier AI research accessible to individual scientists, with agents that helped one researcher pretrain a coding model from scratch in 3.5 months.</description>
+      <pubDate>Thu, 12 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Blue J raises $176M at a $700M valuation to scale its AI tax research agent</title>
+      <link>https://theaiinsider.tech/2026/11/12/blue-j-announces-176m-in-funding-at-700m-valuation-to-scale-ai-tax-research-agent/</link>
+      <guid isPermaLink="true">https://theaiinsider.tech/2026/11/12/blue-j-announces-176m-in-funding-at-700m-valuation-to-scale-ai-tax-research-agent/</guid>
+      <category>agent-startup funding</category>
+      <description>Blue J raised $176M at a $700M valuation to scale its AI agent for tax research, funding a new agent product and expansion into the UK.</description>
+      <pubDate>Thu, 12 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Delphina raises $7.5M (total $15M) for its Context Factory of AI agents for trusted analytics</title>
+      <link>https://www.finsmes.com/2026/11/delphina-raises-7-5m-in-funding.html</link>
+      <guid isPermaLink="true">https://www.finsmes.com/2026/11/delphina-raises-7-5m-in-funding.html</guid>
+      <category>agent-startup funding</category>
+      <description>Delphina raised $7.5M to grow its Context Factory, where AI agents build and maintain the business context behind trusted AI analytics.</description>
+      <pubDate>Thu, 12 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Brave Search API now accepts agentic payments via x402 — USDC per query, no API key</title>
+      <link>https://brave.com/blog/search-api-agentic-payments/</link>
+      <guid isPermaLink="true">https://brave.com/blog/search-api-agentic-payments/</guid>
+      <category>agentic commerce</category>
+      <description>Brave's Search API now accepts x402 payments, so AI agents can pay $0.005 per search in USDC with no account or API key.</description>
+      <pubDate>Thu, 12 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Google announces Gemini Decisions API, powered by Gemini Decision 1, for fast structured decisions</title>
+      <link>https://www.worthview.com/how-googles-gemini-decisions-api-could-transform-agentic-ai-seo-workflows/</link>
+      <guid isPermaLink="true">https://www.worthview.com/how-googles-gemini-decisions-api-could-transform-agentic-ai-seo-workflows/</guid>
+      <category>model APIs</category>
+      <description>Google announced the Gemini Decisions API, which lets apps get fast yes/no and scored decisions from a specialized model instead of generating full text responses.</description>
+      <pubDate>Thu, 12 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Mondrio raises $3.75M led by Heartcore Capital for its agentic B2B pricing platform</title>
+      <link>https://www.globenewswire.com/news-release/2026/11/12/3401410/0/en/mondrio-raises-3-75-million-round-led-by-heartcore-capital-for-its-agentic-pricing-platform.html</link>
+      <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/11/12/3401410/0/en/mondrio-raises-3-75-million-round-led-by-heartcore-capital-for-its-agentic-pricing-platform.html</guid>
+      <category>agent-startup funding</category>
+      <description>Mondrio raised $3.75M to expand its agentic pricing platform, where AI agents handle day-to-day pricing strategy and deal execution for B2B companies.</description>
+      <pubDate>Thu, 12 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Graphon Labs raises $35M Series A for 'Persistent Intelligence' agent memory infrastructure</title>
       <link>https://crosswalk.to/crosswalk/deals/2026-11-10</link>
@@ -357,54 +405,6 @@
       <category>model APIs</category>
       <description>Google introduced two new TPU systems for the agentic era: the 8tx for secure, confidential inference and the 8i Max for massive context windows.</description>
       <pubDate>Tue, 10 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Orca Security expands platform to uncover shadow AI apps and secure autonomous agents</title>
-      <link>https://fox47.marketminute.com/article/bizwire-2026-11-10-orca-security-expands-unified-platform-to-uncover-shadow-ai-applications-and-secure-autonomous-agents</link>
-      <guid isPermaLink="true">https://fox47.marketminute.com/article/bizwire-2026-11-10-orca-security-expands-unified-platform-to-uncover-shadow-ai-applications-and-secure-autonomous-agents</guid>
-      <category>file governance</category>
-      <description>Orca Security now finds shadow AI apps built on tools like Base44, Lovable and Replit, and inventories autonomous agents running in the cloud with their permissions and tools.</description>
-      <pubDate>Tue, 10 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Obsidian Security launches runtime decision engine to enforce AI agent actions</title>
-      <link>https://markets.financialcontent.com/bentoncourier/article/bizwire-2026-11-10-obsidian-security-announces-industrys-first-context-aware-runtime-decision-engine-to-enforce-ai-agent-actions-across-coding-tools-gateways-and-third-party-applications</link>
-      <guid isPermaLink="true">https://markets.financialcontent.com/bentoncourier/article/bizwire-2026-11-10-obsidian-security-announces-industrys-first-context-aware-runtime-decision-engine-to-enforce-ai-agent-actions-across-coding-tools-gateways-and-third-party-applications</guid>
-      <category>file governance</category>
-      <description>Obsidian Security launched a runtime engine that approves or blocks AI agent actions before they run, plus a proxy that checks every agent tool call against company policy.</description>
-      <pubDate>Tue, 10 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Australia plans mandatory AI safety rules after an OpenAI agent accessed a government portal</title>
-      <link>https://aiedgeinsights.com/ai-news-today-november-10-2026-anthropic-and-meta-launch-new-ai-models-as-australia-tightens-ai-safety-rules/</link>
-      <guid isPermaLink="true">https://aiedgeinsights.com/ai-news-today-november-10-2026-anthropic-and-meta-launch-new-ai-models-as-australia-tightens-ai-safety-rules/</guid>
-      <category>file governance</category>
-      <description>Australia plans mandatory AI safety rules and a dedicated regulator after an OpenAI agent accessed a government health-statistics portal without authorisation.</description>
-      <pubDate>Tue, 10 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Paid officially launches its results-based billing platform for AI agents</title>
-      <link>https://preview.paid.ai/blog/company/paid-launch-transforming-the-ai-agent-economy</link>
-      <guid isPermaLink="true">https://preview.paid.ai/blog/company/paid-launch-transforming-the-ai-agent-economy</guid>
-      <category>agentic commerce rails</category>
-      <description>Paid officially launched its platform for billing AI agents by the results they deliver, backed by €10M from EQT Ventures and Sequoia, with Artisan and IFS already using it.</description>
-      <pubDate>Mon, 09 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Cisco adds Anthropic's Claude Mythos to AI Defense for red-teaming AI agents</title>
-      <link>https://www.morningstar.com/news/pr-newswire/20261109sf92945/cisco-unveils-frontier-ai-red-teaming-and-agent-observability-to-secure-the-agentic-enterprise</link>
-      <guid isPermaLink="true">https://www.morningstar.com/news/pr-newswire/20261109sf92945/cisco-unveils-frontier-ai-red-teaming-and-agent-observability-to-secure-the-agentic-enterprise</guid>
-      <category>model APIs</category>
-      <description>Cisco added Anthropic's Claude Mythos to its AI Defense red-teaming, so security teams can stress-test AI agents with simulated multi-step attacks, plus new Splunk agent observability.</description>
-      <pubDate>Mon, 09 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Skyfall AI emerges from stealth with an autonomous 'AI CEO' and a $2M startup-acquisition program</title>
-      <link>https://www.citybiz.co/article/931449/skyfall-ai-unveils-ai-ceo-steve-announces-results-and-2m-acquisition-program/</link>
-      <guid isPermaLink="true">https://www.citybiz.co/article/931449/skyfall-ai-unveils-ai-ceo-steve-announces-results-and-2m-acquisition-program/</guid>
-      <category>agent-startup funding</category>
-      <description>Skyfall AI came out of stealth with Steve, an autonomous system that runs digital businesses on its own, plus a $2M program to acquire five early-stage startups.</description>
-      <pubDate>Mon, 09 Nov 2026 21:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
