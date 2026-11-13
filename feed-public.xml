@@ -5,7 +5,31 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <item>
+      <title>MCP gets a fixed six-month release cadence — and a draft file-transfer extension</title>
+      <link>https://n8nlab.io/news/mcp-six-month-release-train-file-transfers</link>
+      <guid isPermaLink="true">https://n8nlab.io/news/mcp-six-month-release-train-file-transfers</guid>
+      <category>file governance</category>
+      <description>MCP now ships on a fixed six-month release schedule, and a new draft extension lets AI agents send and receive real files without cramming them into the model's context.</description>
+      <pubDate>Fri, 13 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VS Code 1.145.3 patches a critical MCP-server flaw (CVSS 9.6) and Workspace Trust bypasses</title>
+      <link>https://hangingcontext.com/stories/2026-11-12/vs-code-mcp-azure-openai-fixes/</link>
+      <guid isPermaLink="true">https://hangingcontext.com/stories/2026-11-12/vs-code-mcp-azure-openai-fixes/</guid>
+      <category>file governance</category>
+      <description>Microsoft patched a critical flaw in VS Code where a malicious MCP server could run code through a notification — update to 1.145.3 and check which MCP servers your tools trust.</description>
+      <pubDate>Fri, 13 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Microsoft Agent Framework 1.25.0 adds callable MCP approval policies</title>
+      <link>https://www.cloudproinc.com.au/index.php/2026/11/11/microsoft-agent-framework-mcp-approval-policies-governance-guide/</link>
+      <guid isPermaLink="true">https://www.cloudproinc.com.au/index.php/2026/11/11/microsoft-agent-framework-mcp-approval-policies-governance-guide/</guid>
+      <category>agent frameworks</category>
+      <description>Microsoft Agent Framework 1.25.0 lets developers require human approval per MCP tool, so a server adding new tools can't slip past a blanket setting.</description>
+      <pubDate>Fri, 13 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>LangChain raises $300M at a $3B valuation as Alphabet's CapitalG bets on AI agent tooling</title>
       <link>https://www.europesays.com/ai/239156/</link>
@@ -380,30 +404,6 @@
       <guid isPermaLink="true">https://letsdatascience.com/news/lumbra-raises-25m-series-a-for-intelligence-community-ai-age-9c8a126d</guid>
       <category>agent-startup funding</category>
       <description>Lumbra raised $25M to build LumbraOS, a platform for orchestrating AI agents in secure environments for intelligence, healthcare, finance and law.</description>
-      <pubDate>Tue, 10 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>PuppyGraph raises $10M Series A to let AI agents query enterprise data as a graph</title>
-      <link>https://siliconangle.com/2026/11/10/puppygraph-raises-10m-to-let-ai-agents-query-enterprise-data-as-a-graph/</link>
-      <guid isPermaLink="true">https://siliconangle.com/2026/11/10/puppygraph-raises-10m-to-let-ai-agents-query-enterprise-data-as-a-graph/</guid>
-      <category>agent-startup funding</category>
-      <description>PuppyGraph raised $10M so AI agents can query enterprise data as a graph without moving it, with customers including AMD, Coinbase and Datadog.</description>
-      <pubDate>Tue, 10 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Ancep raises $8.5M led by Creandum for broker AI agents</title>
-      <link>https://www.sesamers.com/funding/ancep-raises-8-5m-ai-insurance-placement-agents/</link>
-      <guid isPermaLink="true">https://www.sesamers.com/funding/ancep-raises-8-5m-ai-insurance-placement-agents/</guid>
-      <category>agent-startup funding</category>
-      <description>London insurtech Ancep raised $8.5M led by Creandum to build AI agents that place commercial insurance for brokers.</description>
-      <pubDate>Tue, 10 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Wix Q3: Base44 nears $250M ARR as its in-house Base 1 model lifts margins to 58%</title>
-      <link>https://briefglance.com/articles/wix-sacrifices-short-term-cash-to-crown-base44-in-ai-land-grab</link>
-      <guid isPermaLink="true">https://briefglance.com/articles/wix-sacrifices-short-term-cash-to-crown-base44-in-ai-land-grab</guid>
-      <category>Base44 ecosystem</category>
-      <description>Wix reported Q3 results with Base44 nearing $250M in annual recurring revenue, as its in-house Base 1 model lifted the AI app builder's margins to 58%.</description>
       <pubDate>Tue, 10 Nov 2026 12:20:00 -0500</pubDate>
     </item>
   </channel>
