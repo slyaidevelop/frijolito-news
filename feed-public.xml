@@ -5,13 +5,21 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Base44 Accelerator Cohort 2 opens applications — $1M in perks, 0% equity</title>
+      <link>https://opportunitylab.net/base44-accelerator-cohort-2-2027/</link>
+      <guid isPermaLink="true">https://opportunitylab.net/base44-accelerator-cohort-2-2027/</guid>
+      <category>Base44 ecosystem</category>
+      <description>Base44 opened applications for its Accelerator Cohort 2: a free 12-week program for 44 teams with up to $1M in perks and $75K in prizes, no equity taken; deadline Dec 12, 2026.</description>
+      <pubDate>Fri, 13 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>MCP gets a fixed six-month release cadence — and a draft file-transfer extension</title>
       <link>https://n8nlab.io/news/mcp-six-month-release-train-file-transfers</link>
       <guid isPermaLink="true">https://n8nlab.io/news/mcp-six-month-release-train-file-transfers</guid>
       <category>file governance</category>
-      <description>MCP now ships on a fixed six-month release schedule, and a new draft extension lets AI agents send and receive real files without cramming them into the model's context.</description>
+      <description>MCP gets a fixed six-month release cadence — and a draft file-transfer extension</description>
       <pubDate>Fri, 13 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -19,7 +27,7 @@
       <link>https://hangingcontext.com/stories/2026-11-12/vs-code-mcp-azure-openai-fixes/</link>
       <guid isPermaLink="true">https://hangingcontext.com/stories/2026-11-12/vs-code-mcp-azure-openai-fixes/</guid>
       <category>file governance</category>
-      <description>Microsoft patched a critical flaw in VS Code where a malicious MCP server could run code through a notification — update to 1.145.3 and check which MCP servers your tools trust.</description>
+      <description>VS Code 1.145.3 patches a critical MCP-server flaw (CVSS 9.6) and Workspace Trust bypasses</description>
       <pubDate>Fri, 13 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -27,7 +35,7 @@
       <link>https://www.cloudproinc.com.au/index.php/2026/11/11/microsoft-agent-framework-mcp-approval-policies-governance-guide/</link>
       <guid isPermaLink="true">https://www.cloudproinc.com.au/index.php/2026/11/11/microsoft-agent-framework-mcp-approval-policies-governance-guide/</guid>
       <category>agent frameworks</category>
-      <description>Microsoft Agent Framework 1.25.0 lets developers require human approval per MCP tool, so a server adding new tools can't slip past a blanket setting.</description>
+      <description>Microsoft Agent Framework 1.25.0 adds callable MCP approval policies</description>
       <pubDate>Fri, 13 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -396,14 +404,6 @@
       <guid isPermaLink="true">https://www.businesswire.com/news/home/20261110410031/en/Mercor-Raises-$750-Million-Series-D-at-$20-Billion-Valuation-to-Help-Enterprises-Own-Their-Intelligence</guid>
       <category>agent-startup funding</category>
       <description>Mercor raised $750M at a $20B valuation to expand its AI training and evaluation platform, with NVIDIA, Salesforce and Zoom among the investors backing the infrastructure behind reliable AI agents.</description>
-      <pubDate>Tue, 10 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Lumbra raises $25M Series A for intelligence-community AI agents</title>
-      <link>https://letsdatascience.com/news/lumbra-raises-25m-series-a-for-intelligence-community-ai-age-9c8a126d</link>
-      <guid isPermaLink="true">https://letsdatascience.com/news/lumbra-raises-25m-series-a-for-intelligence-community-ai-age-9c8a126d</guid>
-      <category>agent-startup funding</category>
-      <description>Lumbra raised $25M to build LumbraOS, a platform for orchestrating AI agents in secure environments for intelligence, healthcare, finance and law.</description>
       <pubDate>Tue, 10 Nov 2026 12:20:00 -0500</pubDate>
     </item>
   </channel>
