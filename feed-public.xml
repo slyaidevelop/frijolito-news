@@ -5,7 +5,39 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <item>
+      <title>KubeCon NA 2026: agent identity takes center stage — OpenShift 5.0 ships a built-in MCP server</title>
+      <link>https://dev.to/saaro_net/kubecon-na-2026-live-the-identity-crisis-of-ai-agents-and-the-first-announcements-from-salt-lake-2fdg</link>
+      <guid isPermaLink="true">https://dev.to/saaro_net/kubecon-na-2026-live-the-identity-crisis-of-ai-agents-and-the-first-announcements-from-salt-lake-2fdg</guid>
+      <category>file governance</category>
+      <description>KubeCon's big theme: figuring out which AI agent did what. Red Hat built an MCP server into OpenShift 5.0, and agent skills are now versioned like software packages.</description>
+      <pubDate>Sat, 14 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Same three agents built in Grok Bot, ChatGPT Dots, Claude Duet and Meta Muse: Duet wins the inbox, Muse Spaces the tracker</title>
+      <link>https://medium.com/@ZoyaVasquez/i-built-the-same-3-agents-in-grok-bot-chatgpt-dots-and-claude-duet-4bb91b0186c0</link>
+      <guid isPermaLink="true">https://medium.com/@ZoyaVasquez/i-built-the-same-3-agents-in-grok-bot-chatgpt-dots-and-claude-duet-4bb91b0186c0</guid>
+      <category>agent spaces</category>
+      <description>One tester built the same three agents in Grok Bot, ChatGPT Dots, Claude Duet and Meta Muse. Duet won the support inbox; Muse Spaces built a self-updating tracker from one sentence.</description>
+      <pubDate>Sat, 14 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>MCP servers drift under a pinned version: one server rebuilt 19 times with 15 dependency sets</title>
+      <link>https://www.ashishkaul.com/journal/mcp-server-security-version-number</link>
+      <guid isPermaLink="true">https://www.ashishkaul.com/journal/mcp-server-security-version-number</guid>
+      <category>file governance</category>
+      <description>Pinning an MCP server's version doesn't pin its dependencies — one server rebuilt 19 times with 15 different dependency sets while the version tag stayed the same.</description>
+      <pubDate>Sat, 14 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GitHub Copilot retires six models Dec 14 and locks down its harness; VS Code 1.146 previews MCP skills</title>
+      <link>https://ai.dominicreichl.com/trends/</link>
+      <guid isPermaLink="true">https://ai.dominicreichl.com/trends/</guid>
+      <category>model APIs</category>
+      <description>GitHub Copilot drops six models on Dec 14, including Claude Fable 5 and Gemini 4 Argon, and VS Code is locking down its agent harness ahead of a February removal.</description>
+      <pubDate>Sat, 14 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>OpenAI launches ChatGPT Wallet: its dots agents can now spend with tokenized cards</title>
       <link>https://0xzx.com/en/post/pst_2a234cc8cb1aabb6</link>
@@ -373,38 +405,6 @@
       <category>agent-startup funding</category>
       <description>Plurai raises $13M seed and opens AI agent simulation platform to general availability</description>
       <pubDate>Wed, 11 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Base44 hits reported $200M ARR run-rate with about 2M users</title>
-      <link>https://www.saastr.com/saastr-ai-app-of-the-week-base44-one-founder-zero-funding-80-million-from-wix-in-6-months-now-at-200-million-arr/</link>
-      <guid isPermaLink="true">https://www.saastr.com/saastr-ai-app-of-the-week-base44-one-founder-zero-funding-80-million-from-wix-in-6-months-now-at-200-million-arr/</guid>
-      <category>Base44 ecosystem</category>
-      <description>Base44 hits reported $200M ARR run-rate with about 2M users</description>
-      <pubDate>Wed, 11 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Adobe ships local MCP server for Creative Cloud at MAX, letting AI assistants drive Photoshop and Premiere on your machine</title>
-      <link>https://pondero.ai/mcps/guides/adobe-creative-cloud-mcp-guide/</link>
-      <guid isPermaLink="true">https://pondero.ai/mcps/guides/adobe-creative-cloud-mcp-guide/</guid>
-      <category>agent frameworks</category>
-      <description>Adobe ships local MCP server for Creative Cloud at MAX, letting AI assistants drive Photoshop and Premiere on your machine</description>
-      <pubDate>Wed, 11 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FormAssembly launches rebuilt platform with headless MCP server and governed intake agents</title>
-      <link>https://www.globenewswire.com/news-release/2026/11/09/3398503/0/en/formassembly-launches-new-platform-for-building-secure-auditable-and-compliant-data-processes.html</link>
-      <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/11/09/3398503/0/en/formassembly-launches-new-platform-for-building-secure-auditable-and-compliant-data-processes.html</guid>
-      <category>file governance</category>
-      <description>FormAssembly launches rebuilt platform with headless MCP server and governed intake agents</description>
-      <pubDate>Wed, 11 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Plurai raises $13M seed led by Team8 for AI agent simulation infrastructure</title>
-      <link>https://crosswalk.to/crosswalk/deals/today</link>
-      <guid isPermaLink="true">https://crosswalk.to/crosswalk/deals/today</guid>
-      <category>agent-startup funding</category>
-      <description>Plurai raises $13M seed led by Team8 for AI agent simulation infrastructure</description>
-      <pubDate>Wed, 11 Nov 2026 15:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
