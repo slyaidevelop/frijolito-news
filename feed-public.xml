@@ -5,13 +5,45 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <item>
+      <title>MCP and Agent Skills move to vendor-neutral governance under the Linux Foundation's Agentic AI Foundation</title>
+      <link>https://aigovernance.com/news/mcp-and-agent-skills-move-to-vendor-neutral-governance-under-linux-foundation</link>
+      <guid isPermaLink="true">https://aigovernance.com/news/mcp-and-agent-skills-move-to-vendor-neutral-governance-under-linux-foundation</guid>
+      <category>agent governance</category>
+      <description>The Model Context Protocol and Agent Skills specifications now sit under vendor-neutral governance at the Linux Foundation's Agentic AI Foundation, moving agent rules out of single-vendor control.</description>
+      <pubDate>Sun, 15 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Microsoft adds task-scoped permissions and OS-level containment for AI agents</title>
+      <link>https://insights.guava.pro/microsoft-task-scoped-permissions-containment-ai-agents/</link>
+      <guid isPermaLink="true">https://insights.guava.pro/microsoft-task-scoped-permissions-containment-ai-agents/</guid>
+      <category>agent governance</category>
+      <description>Microsoft's November security updates add task-scoped permissions for AI agents and make Execution Containers generally available, adding OS-level containment for agents that read files and use tools.</description>
+      <pubDate>Sun, 15 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Responsive Fall 2026 release expands MCP from retrieval to governed action</title>
+      <link>https://rightcolumnmedia.com/news/responsive-fall-2026-release-expands-mcp-capabilities-to-bring-governed-knowledge-into-revenue-critical-workflows</link>
+      <guid isPermaLink="true">https://rightcolumnmedia.com/news/responsive-fall-2026-release-expands-mcp-capabilities-to-bring-governed-knowledge-into-revenue-critical-workflows</guid>
+      <category>file-governance and agent file rails</category>
+      <description>Responsive expanded its MCP capabilities from retrieval to governed action, so teams can now act on trusted knowledge inside ChatGPT, Copilot and Claude with existing permissions enforced.</description>
+      <pubDate>Sun, 15 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>AgentKit vs Claude Agent SDK vs ADK: all three shipped major updates within weeks</title>
+      <link>https://futuretweets.com/openai-agentkit-vs-claude-agent-sdk-vs-google-adk-2026/</link>
+      <guid isPermaLink="true">https://futuretweets.com/openai-agentkit-vs-claude-agent-sdk-vs-google-adk-2026/</guid>
+      <category>agent frameworks</category>
+      <description>A new comparison of OpenAI's AgentKit, Anthropic's Claude Agent SDK and Google's ADK finds all three shipped major updates within weeks, making the production harness — not the model — the deciding factor.</description>
+      <pubDate>Sun, 15 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Sierra ships Personal Agent Protocol (Poppy) v1.0; Shopify on for every merchant, Muse checks Poppy first</title>
       <link>https://sierra.ai/blog/releasing-poppy</link>
       <guid isPermaLink="true">https://sierra.ai/blog/releasing-poppy</guid>
       <category>agentic commerce rails</category>
-      <description>Sierra released version 1.0 of its Personal Agent Protocol, and Shopify switched it on for every merchant, while Meta's Muse now looks for it first on every site it visits.</description>
+      <description>Sierra ships Personal Agent Protocol (Poppy) v1.0; Shopify on for every merchant, Muse checks Poppy first</description>
       <pubDate>Sat, 14 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -19,7 +51,7 @@
       <link>https://www.vizaca.com/business/rox-series-b-ai-sales-agents/</link>
       <guid isPermaLink="true">https://www.vizaca.com/business/rox-series-b-ai-sales-agents/</guid>
       <category>agent-startup funding</category>
-      <description>Rox raised $100M at a $1.3B valuation to grow its AI sales agent, in a round co-led by General Catalyst and March Capital.</description>
+      <description>Rox raises $100M Series B at $1.3B valuation for AI sales agents</description>
       <pubDate>Sat, 14 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -27,7 +59,7 @@
       <link>https://dealroom.co/news/171407-inkbox-lands-5-3m-seed-for-ai-agents-with-their-own-persistent-computers/</link>
       <guid isPermaLink="true">https://dealroom.co/news/171407-inkbox-lands-5-3m-seed-for-ai-agents-with-their-own-persistent-computers/</guid>
       <category>agent-startup funding</category>
-      <description>Inkbox raised a $5.3M seed round to give AI agents their own persistent computers that keep files, tools and context between sessions.</description>
+      <description>Inkbox lands $5.3M seed for AI agents with their own persistent computers</description>
       <pubDate>Sat, 14 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -35,7 +67,7 @@
       <link>https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/</link>
       <guid isPermaLink="true">https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/</guid>
       <category>agent frameworks</category>
-      <description>Vercel released an open-source beta library of UI behaviors that coding agents assemble into accessible components.</description>
+      <description>Vercel ships UI SDK beta: 50+ UI behaviors for AI coding agents</description>
       <pubDate>Sat, 14 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -43,7 +75,7 @@
       <link>https://medium.com/@nuthalapativarun/siri-now-reads-skill-md-apple-turned-app-intents-into-an-agent-tool-api-87ca4a9024e2</link>
       <guid isPermaLink="true">https://medium.com/@nuthalapativarun/siri-now-reads-skill-md-apple-turned-app-intents-into-an-agent-tool-api-87ca4a9024e2</guid>
       <category>model APIs</category>
-      <description>Apple opened Siri AI to developers in a preview, letting apps expose actions Siri can call using the same skills format agent tools use.</description>
+      <description>Apple opens Siri AI to developers: App Intents become agent tools, Siri reads SKILL.md</description>
       <pubDate>Sat, 14 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -51,7 +83,7 @@
       <link>https://dev.to/delimitter/memro-a-memory-layer-for-ai-agents-with-typed-memory-and-mcp-over-postgresql-46ag</link>
       <guid isPermaLink="true">https://dev.to/delimitter/memro-a-memory-layer-for-ai-agents-with-typed-memory-and-mcp-over-postgresql-46ag</guid>
       <category>file governance</category>
-      <description>Memro launched an open-source memory layer for AI agents, with typed memory and an MCP server running on PostgreSQL.</description>
+      <description>Memro v0.1.0: a memory layer for AI agents with typed memory and MCP over PostgreSQL</description>
       <pubDate>Sat, 14 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -59,7 +91,7 @@
       <link>https://dev.to/saaro_net/kubecon-na-2026-live-the-identity-crisis-of-ai-agents-and-the-first-announcements-from-salt-lake-2fdg</link>
       <guid isPermaLink="true">https://dev.to/saaro_net/kubecon-na-2026-live-the-identity-crisis-of-ai-agents-and-the-first-announcements-from-salt-lake-2fdg</guid>
       <category>file governance</category>
-      <description>KubeCon's big theme: figuring out which AI agent did what. Red Hat built an MCP server into OpenShift 5.0, and agent skills are now versioned like software packages.</description>
+      <description>KubeCon NA 2026: agent identity takes center stage — OpenShift 5.0 ships a built-in MCP server</description>
       <pubDate>Sat, 14 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -67,7 +99,7 @@
       <link>https://medium.com/@ZoyaVasquez/i-built-the-same-3-agents-in-grok-bot-chatgpt-dots-and-claude-duet-4bb91b0186c0</link>
       <guid isPermaLink="true">https://medium.com/@ZoyaVasquez/i-built-the-same-3-agents-in-grok-bot-chatgpt-dots-and-claude-duet-4bb91b0186c0</guid>
       <category>agent spaces</category>
-      <description>One tester built the same three agents in Grok Bot, ChatGPT Dots, Claude Duet and Meta Muse. Duet won the support inbox; Muse Spaces built a self-updating tracker from one sentence.</description>
+      <description>Same three agents built in Grok Bot, ChatGPT Dots, Claude Duet and Meta Muse: Duet wins the inbox, Muse Spaces the tracker</description>
       <pubDate>Sat, 14 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -75,7 +107,7 @@
       <link>https://www.ashishkaul.com/journal/mcp-server-security-version-number</link>
       <guid isPermaLink="true">https://www.ashishkaul.com/journal/mcp-server-security-version-number</guid>
       <category>file governance</category>
-      <description>Pinning an MCP server's version doesn't pin its dependencies — one server rebuilt 19 times with 15 different dependency sets while the version tag stayed the same.</description>
+      <description>MCP servers drift under a pinned version: one server rebuilt 19 times with 15 dependency sets</description>
       <pubDate>Sat, 14 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -83,7 +115,7 @@
       <link>https://ai.dominicreichl.com/trends/</link>
       <guid isPermaLink="true">https://ai.dominicreichl.com/trends/</guid>
       <category>model APIs</category>
-      <description>GitHub Copilot drops six models on Dec 14, including Claude Fable 5 and Gemini 4 Argon, and VS Code is locking down its agent harness ahead of a February removal.</description>
+      <description>GitHub Copilot retires six models Dec 14 and locks down its harness; VS Code 1.146 previews MCP skills</description>
       <pubDate>Sat, 14 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -91,7 +123,7 @@
       <link>https://0xzx.com/en/post/pst_2a234cc8cb1aabb6</link>
       <guid isPermaLink="true">https://0xzx.com/en/post/pst_2a234cc8cb1aabb6</guid>
       <category>agentic commerce rails</category>
-      <description>OpenAI launched ChatGPT Wallet, letting its dots agents check out online with one-time tokens standing in for real Visa, Mastercard or Amex cards — no crypto involved.</description>
+      <description>OpenAI launches ChatGPT Wallet: its dots agents can now spend with tokenized cards</description>
       <pubDate>Sat, 14 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -99,7 +131,7 @@
       <link>https://metagrok.io/how-to/run-multi-agent-research</link>
       <guid isPermaLink="true">https://metagrok.io/how-to/run-multi-agent-research</guid>
       <category>model APIs</category>
-      <description>xAI ships grok-4.20-multi-agent in beta: a team of agents per research call</description>
+      <description>xAI launched grok-4.20-multi-agent in beta: one call spins up a team of agents that research in parallel, with a leader agent pulling it together into a final answer.</description>
       <pubDate>Sat, 14 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -107,7 +139,7 @@
       <link>https://aiweekly.co/alerts/google-opens-agent-gateway-preview-for-eks-aks-openshift</link>
       <guid isPermaLink="true">https://aiweekly.co/alerts/google-opens-agent-gateway-preview-for-eks-aks-openshift</guid>
       <category>agent governance</category>
-      <description>Google opens Agent Gateway in Limited Preview for EKS, AKS and OpenShift</description>
+      <description>Google opened Agent Gateway in limited preview for Amazon EKS, Azure AKS and OpenShift, giving agents a verifiable identity and routing their traffic through policy-enforcing proxies outside Google Cloud.</description>
       <pubDate>Sat, 14 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -123,7 +155,7 @@
       <link>https://trewknowledge.com/2026/11/13/ai-this-week-smarter-models-deeper-access-higher-stakes/</link>
       <guid isPermaLink="true">https://trewknowledge.com/2026/11/13/ai-this-week-smarter-models-deeper-access-higher-stakes/</guid>
       <category>agent spaces</category>
-      <description>OpenAI launches Business Hub beta in ChatGPT: verified profiles and business agents</description>
+      <description>OpenAI launched a Business Hub beta in ChatGPT, letting companies claim verified profiles and deploy a business agent that answers users' questions.</description>
       <pubDate>Sat, 14 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -131,7 +163,7 @@
       <link>https://windowsforum.com/news/arctera-adds-mcp-connectivity-for-microsoft-365-copilot-admin-setup-and-governance-questions.452072/</link>
       <guid isPermaLink="true">https://windowsforum.com/news/arctera-adds-mcp-connectivity-for-microsoft-365-copilot-admin-setup-and-governance-questions.452072/</guid>
       <category>file governance</category>
-      <description>Arctera adds MCP connectivity for Microsoft 365 Copilot</description>
+      <description>Arctera added MCP connectivity for Microsoft 365 Copilot, letting Copilot reach governed enterprise content through a live federated connector.</description>
       <pubDate>Sat, 14 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -139,7 +171,7 @@
       <link>https://techstartups.com/2026/11/13/startup-funding-news-today-november-13-2026-mirendil-langchain-luminal-kindo-q-ctrl-more/</link>
       <guid isPermaLink="true">https://techstartups.com/2026/11/13/startup-funding-news-today-november-13-2026-mirendil-langchain-luminal-kindo-q-ctrl-more/</guid>
       <category>agent-startup funding</category>
-      <description>Kindo raises $30M to govern enterprise AI agents and their spending</description>
+      <description>Kindo raised $30M to govern enterprise AI agents and their spending, co-led by Crosspoint Capital and Forgepoint Capital.</description>
       <pubDate>Sat, 14 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -147,7 +179,7 @@
       <link>https://www.weex.com/news/detail/ai-agent-payments-reach-15-million-expanding-xrp-ledger-ecosystem-oyrrkkrqv445ib4jf9482qyy</link>
       <guid isPermaLink="true">https://www.weex.com/news/detail/ai-agent-payments-reach-15-million-expanding-xrp-ledger-ecosystem-oyrrkkrqv445ib4jf9482qyy</guid>
       <category>agentic commerce rails</category>
-      <description>AI agent payments on the XRP Ledger pass 15.69 million</description>
+      <description>AI agent payments on the XRP Ledger passed 15.69 million, with 5,410 services from 193 merchants now payable by agents via x402 in XRP and RLUSD.</description>
       <pubDate>Sat, 14 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -155,7 +187,7 @@
       <link>https://databento.com/blog/series-c/</link>
       <guid isPermaLink="true">https://databento.com/blog/series-c/</guid>
       <category>agent-startup funding</category>
-      <description>Databento raises $100M Series C at a $1.1B valuation</description>
+      <description>Databento raised $100M at a $1.1B valuation to expand its financial market-data APIs, counting five of the six largest frontier AI labs as customers.</description>
       <pubDate>Sat, 14 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -163,7 +195,7 @@
       <link>https://www.unite.ai/luminal-lands-25m-series-a-as-standard-capital-leads-the-round/</link>
       <guid isPermaLink="true">https://www.unite.ai/luminal-lands-25m-series-a-as-standard-capital-leads-the-round/</guid>
       <category>model APIs</category>
-      <description>Luminal raises $25M Series A to cut AI inference costs across chips</description>
+      <description>Luminal raised $25M led by Standard Capital for a compiler and inference cloud that runs AI models faster and cheaper across different chips.</description>
       <pubDate>Sat, 14 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -179,7 +211,7 @@
       <link>https://www.ideabosque.com/library/x402-settlement-scale-vs-agent-share/</link>
       <guid isPermaLink="true">https://www.ideabosque.com/library/x402-settlement-scale-vs-agent-share/</guid>
       <category>agentic commerce rails</category>
-      <description>Honest x402 numbers: TRM Labs bounds the genuinely agentic share at 0.6-7.5% of screened commerce</description>
+      <description>A new analysis of x402 payments finds most settled volume still isn't agents buying things - TRM Labs bounds the genuinely agentic share at 0.6-7.5% of screened commerce, even as settlements pass 191 million.</description>
       <pubDate>Fri, 13 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -243,7 +275,7 @@
       <link>https://opportunitylab.net/base44-accelerator-cohort-2-2027/</link>
       <guid isPermaLink="true">https://opportunitylab.net/base44-accelerator-cohort-2-2027/</guid>
       <category>Base44 ecosystem</category>
-      <description>Base44 Accelerator Cohort 2 opens applications — $1M in perks, 0% equity</description>
+      <description>Base44 opened applications for its Accelerator Cohort 2: a free 12-week program for 44 teams with up to $1M in perks and $75K in prizes, no equity taken; deadline Dec 12, 2026.</description>
       <pubDate>Fri, 13 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -275,7 +307,7 @@
       <link>https://www.europesays.com/ai/239156/</link>
       <guid isPermaLink="true">https://www.europesays.com/ai/239156/</guid>
       <category>agent-startup funding</category>
-      <description>LangChain raises $300M at a $3B valuation as Alphabet's CapitalG bets on AI agent tooling</description>
+      <description>LangChain raised $300M at a $3B valuation led by Alphabet's CapitalG, more than doubling its value in a year as companies rush to put AI agents to work.</description>
       <pubDate>Fri, 13 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -283,7 +315,7 @@
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
       <guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</guid>
       <category>model APIs</category>
-      <description>Google launches Gemini 4 Hydrogen, a fast model for coding and agentic work</description>
+      <description>Google launched Gemini 4 Hydrogen, a fast model for coding and agentic work at $1.50 per million input tokens, now live across the Gemini API, Search, and coding tools.</description>
       <pubDate>Fri, 13 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -291,7 +323,7 @@
       <link>https://platform.claude.com/docs/en/release-notes/api</link>
       <guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/api</guid>
       <category>agent frameworks</category>
-      <description>Anthropic opens self-hosted Claude Managed Agents in private beta</description>
+      <description>Anthropic opened a private beta letting companies run Claude Managed Agents on their own servers, keeping session data and credentials in their own cloud.</description>
       <pubDate>Fri, 13 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -299,7 +331,7 @@
       <link>https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-11-13</link>
       <guid isPermaLink="true">https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-11-13</guid>
       <category>agent frameworks</category>
-      <description>OpenAI launches Daybreak Red Team and Defense Factory security products</description>
+      <description>OpenAI launched Daybreak Red Team and Defense Factory, AI security products that probe web apps for weaknesses and scan codebases to propose fixes.</description>
       <pubDate>Fri, 13 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -307,7 +339,7 @@
       <link>https://www.cxnetwork.com/cx-experience/news/every-cx-start-up-funding-deal-you-need-to-know-november-13</link>
       <guid isPermaLink="true">https://www.cxnetwork.com/cx-experience/news/every-cx-start-up-funding-deal-you-need-to-know-november-13</guid>
       <category>agent-startup funding</category>
-      <description>Imprint raises $130M and ships an MCP server for AI agents; Future Secure AI becomes Australia's newest unicorn</description>
+      <description>Imprint raised $130M and shipped a tool letting AI agents securely access loyalty rewards and virtual cards, while Future Secure AI became Australia's newest unicorn with an $82M raise.</description>
       <pubDate>Fri, 13 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -315,7 +347,7 @@
       <link>https://crosswalk.to/crosswalk/deals/2026-11-12</link>
       <guid isPermaLink="true">https://crosswalk.to/crosswalk/deals/2026-11-12</guid>
       <category>agent-startup funding</category>
-      <description>Mirendil raises $1B Series A to make frontier AI R&amp;D accessible to individual scientists</description>
+      <description>Mirendil raised a $1B Series A to make frontier AI research accessible to individual scientists, with agents that helped one researcher pretrain a coding model from scratch in 3.5 months.</description>
       <pubDate>Thu, 12 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -323,7 +355,7 @@
       <link>https://theaiinsider.tech/2026/11/12/blue-j-announces-176m-in-funding-at-700m-valuation-to-scale-ai-tax-research-agent/</link>
       <guid isPermaLink="true">https://theaiinsider.tech/2026/11/12/blue-j-announces-176m-in-funding-at-700m-valuation-to-scale-ai-tax-research-agent/</guid>
       <category>agent-startup funding</category>
-      <description>Blue J raises $176M at a $700M valuation to scale its AI tax research agent</description>
+      <description>Blue J raised $176M at a $700M valuation to scale its AI agent for tax research, funding a new agent product and expansion into the UK.</description>
       <pubDate>Thu, 12 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -331,7 +363,7 @@
       <link>https://www.finsmes.com/2026/11/delphina-raises-7-5m-in-funding.html</link>
       <guid isPermaLink="true">https://www.finsmes.com/2026/11/delphina-raises-7-5m-in-funding.html</guid>
       <category>agent-startup funding</category>
-      <description>Delphina raises $7.5M (total $15M) for its Context Factory of AI agents for trusted analytics</description>
+      <description>Delphina raised $7.5M to grow its Context Factory, where AI agents build and maintain the business context behind trusted AI analytics.</description>
       <pubDate>Thu, 12 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -339,7 +371,7 @@
       <link>https://brave.com/blog/search-api-agentic-payments/</link>
       <guid isPermaLink="true">https://brave.com/blog/search-api-agentic-payments/</guid>
       <category>agentic commerce</category>
-      <description>Brave Search API now accepts agentic payments via x402 — USDC per query, no API key</description>
+      <description>Brave's Search API now accepts x402 payments, so AI agents can pay $0.005 per search in USDC with no account or API key.</description>
       <pubDate>Thu, 12 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -347,7 +379,7 @@
       <link>https://www.worthview.com/how-googles-gemini-decisions-api-could-transform-agentic-ai-seo-workflows/</link>
       <guid isPermaLink="true">https://www.worthview.com/how-googles-gemini-decisions-api-could-transform-agentic-ai-seo-workflows/</guid>
       <category>model APIs</category>
-      <description>Google announces Gemini Decisions API, powered by Gemini Decision 1, for fast structured decisions</description>
+      <description>Google announced the Gemini Decisions API, which lets apps get fast yes/no and scored decisions from a specialized model instead of generating full text responses.</description>
       <pubDate>Thu, 12 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -355,7 +387,7 @@
       <link>https://www.globenewswire.com/news-release/2026/11/12/3401410/0/en/mondrio-raises-3-75-million-round-led-by-heartcore-capital-for-its-agentic-pricing-platform.html</link>
       <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/11/12/3401410/0/en/mondrio-raises-3-75-million-round-led-by-heartcore-capital-for-its-agentic-pricing-platform.html</guid>
       <category>agent-startup funding</category>
-      <description>Mondrio raises $3.75M led by Heartcore Capital for its agentic B2B pricing platform</description>
+      <description>Mondrio raised $3.75M to expand its agentic pricing platform, where AI agents handle day-to-day pricing strategy and deal execution for B2B companies.</description>
       <pubDate>Thu, 12 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -363,7 +395,7 @@
       <link>https://crosswalk.to/crosswalk/deals/2026-11-10</link>
       <guid isPermaLink="true">https://crosswalk.to/crosswalk/deals/2026-11-10</guid>
       <category>agent-startup funding</category>
-      <description>Graphon Labs raises $35M Series A for 'Persistent Intelligence' agent memory infrastructure</description>
+      <description>Graphon Labs raised $35M to build memory infrastructure that lets AI agents continuously access, understand and remember data, so long-running agents stop starting from scratch.</description>
       <pubDate>Thu, 12 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -371,40 +403,8 @@
       <link>https://docs.netapp.com/us-en/ai-data-engine/mcp/learn-about-mcp.html</link>
       <guid isPermaLink="true">https://docs.netapp.com/us-en/ai-data-engine/mcp/learn-about-mcp.html</guid>
       <category>file governance</category>
-      <description>NetApp AI Data Engine adds governed AI access over MCP — metadata search only, no file contents</description>
+      <description>NetApp's AI Data Engine now lets AI assistants search file metadata through MCP, but only inside collections you enable - agents get context without ever opening the files.</description>
       <pubDate>Thu, 12 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Amazon deploys serverless MCP gateway on ECS Fargate for governed agent access to data lakes</title>
-      <link>https://blogs.techbytes.app/posts/serverless-mcp-server-for-ai-agent-data-lake-access-on/</link>
-      <guid isPermaLink="true">https://blogs.techbytes.app/posts/serverless-mcp-server-for-ai-agent-data-lake-access-on/</guid>
-      <category>agent frameworks</category>
-      <description>Amazon deploys serverless MCP gateway on ECS Fargate for governed agent access to data lakes</description>
-      <pubDate>Thu, 12 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>A home GPU box behind x402: two days of real numbers — 15 paid calls, $0.017 from strangers</title>
-      <link>https://dev.to/leandro_leite_e6a19fcb1ce/i-put-a-gpu-box-behind-http-402-two-days-of-real-numbers-5089</link>
-      <guid isPermaLink="true">https://dev.to/leandro_leite_e6a19fcb1ce/i-put-a-gpu-box-behind-http-402-two-days-of-real-numbers-5089</guid>
-      <category>agentic commerce</category>
-      <description>A home GPU box behind x402: two days of real numbers — 15 paid calls, $0.017 from strangers</description>
-      <pubDate>Thu, 12 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BlackRock, Coinbase and Chainlink outline what AI agents need to make payments</title>
-      <link>https://cryptonews.net/news/blockchain/33733351/</link>
-      <guid isPermaLink="true">https://cryptonews.net/news/blockchain/33733351/</guid>
-      <category>agentic commerce</category>
-      <description>BlackRock, Coinbase and Chainlink outline what AI agents need to make payments</description>
-      <pubDate>Thu, 12 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Adobe previews local MCP for Creative Cloud at MAX 2026</title>
-      <link>https://ienvi.com.au/adobe-previews-local-mcp-integration-at-max-2026-letting-external-ai-a-f54f878c/</link>
-      <guid isPermaLink="true">https://ienvi.com.au/adobe-previews-local-mcp-integration-at-max-2026-letting-external-ai-a-f54f878c/</guid>
-      <category>file governance</category>
-      <description>Adobe previews local MCP for Creative Cloud at MAX 2026</description>
-      <pubDate>Thu, 12 Nov 2026 12:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
