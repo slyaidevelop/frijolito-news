@@ -5,7 +5,55 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Sierra ships Personal Agent Protocol (Poppy) v1.0; Shopify on for every merchant, Muse checks Poppy first</title>
+      <link>https://sierra.ai/blog/releasing-poppy</link>
+      <guid isPermaLink="true">https://sierra.ai/blog/releasing-poppy</guid>
+      <category>agentic commerce rails</category>
+      <description>Sierra released version 1.0 of its Personal Agent Protocol, and Shopify switched it on for every merchant, while Meta's Muse now looks for it first on every site it visits.</description>
+      <pubDate>Sat, 14 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Rox raises $100M Series B at $1.3B valuation for AI sales agents</title>
+      <link>https://www.vizaca.com/business/rox-series-b-ai-sales-agents/</link>
+      <guid isPermaLink="true">https://www.vizaca.com/business/rox-series-b-ai-sales-agents/</guid>
+      <category>agent-startup funding</category>
+      <description>Rox raised $100M at a $1.3B valuation to grow its AI sales agent, in a round co-led by General Catalyst and March Capital.</description>
+      <pubDate>Sat, 14 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Inkbox lands $5.3M seed for AI agents with their own persistent computers</title>
+      <link>https://dealroom.co/news/171407-inkbox-lands-5-3m-seed-for-ai-agents-with-their-own-persistent-computers/</link>
+      <guid isPermaLink="true">https://dealroom.co/news/171407-inkbox-lands-5-3m-seed-for-ai-agents-with-their-own-persistent-computers/</guid>
+      <category>agent-startup funding</category>
+      <description>Inkbox raised a $5.3M seed round to give AI agents their own persistent computers that keep files, tools and context between sessions.</description>
+      <pubDate>Sat, 14 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Vercel ships UI SDK beta: 50+ UI behaviors for AI coding agents</title>
+      <link>https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/</link>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/</guid>
+      <category>agent frameworks</category>
+      <description>Vercel released an open-source beta library of UI behaviors that coding agents assemble into accessible components.</description>
+      <pubDate>Sat, 14 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Apple opens Siri AI to developers: App Intents become agent tools, Siri reads SKILL.md</title>
+      <link>https://medium.com/@nuthalapativarun/siri-now-reads-skill-md-apple-turned-app-intents-into-an-agent-tool-api-87ca4a9024e2</link>
+      <guid isPermaLink="true">https://medium.com/@nuthalapativarun/siri-now-reads-skill-md-apple-turned-app-intents-into-an-agent-tool-api-87ca4a9024e2</guid>
+      <category>model APIs</category>
+      <description>Apple opened Siri AI to developers in a preview, letting apps expose actions Siri can call using the same skills format agent tools use.</description>
+      <pubDate>Sat, 14 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Memro v0.1.0: a memory layer for AI agents with typed memory and MCP over PostgreSQL</title>
+      <link>https://dev.to/delimitter/memro-a-memory-layer-for-ai-agents-with-typed-memory-and-mcp-over-postgresql-46ag</link>
+      <guid isPermaLink="true">https://dev.to/delimitter/memro-a-memory-layer-for-ai-agents-with-typed-memory-and-mcp-over-postgresql-46ag</guid>
+      <category>file governance</category>
+      <description>Memro launched an open-source memory layer for AI agents, with typed memory and an MCP server running on PostgreSQL.</description>
+      <pubDate>Sat, 14 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>KubeCon NA 2026: agent identity takes center stage — OpenShift 5.0 ships a built-in MCP server</title>
       <link>https://dev.to/saaro_net/kubecon-na-2026-live-the-identity-crisis-of-ai-agents-and-the-first-announcements-from-salt-lake-2fdg</link>
@@ -357,54 +405,6 @@
       <category>file governance</category>
       <description>Adobe previews local MCP for Creative Cloud at MAX 2026</description>
       <pubDate>Thu, 12 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Alibaba's Qwen 4 API goes live at $1/$4 per million tokens</title>
-      <link>https://local-ai-zone.github.io/blog/November_2026_AI_Model_Updates.html</link>
-      <guid isPermaLink="true">https://local-ai-zone.github.io/blog/November_2026_AI_Model_Updates.html</guid>
-      <category>model APIs</category>
-      <description>Alibaba's Qwen 4 API goes live at $1/$4 per million tokens</description>
-      <pubDate>Thu, 12 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Anthropic IPO roadshow: $70–78 a share, ticker ANT, pricing Nov 18 as bankers eye above-range pricing</title>
-      <link>https://www.morningstar.com/news/pr-newswire/20261111ln94960/an-ai-developer-starts-its-ipo-roadshow-and-its-filing-names-chip-and-cloud-partners</link>
-      <guid isPermaLink="true">https://www.morningstar.com/news/pr-newswire/20261111ln94960/an-ai-developer-starts-its-ipo-roadshow-and-its-filing-names-chip-and-cloud-partners</guid>
-      <category>agent-startup funding</category>
-      <description>Anthropic IPO roadshow: $70–78 a share, ticker ANT, pricing Nov 18 as bankers eye above-range pricing</description>
-      <pubDate>Thu, 12 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OpenAI launches ChatGPT Business Agents and GPT-Live models with full-duplex voice</title>
-      <link>https://sysarticles.com/daily-tech-brief-2026-11-11/</link>
-      <guid isPermaLink="true">https://sysarticles.com/daily-tech-brief-2026-11-11/</guid>
-      <category>model APIs</category>
-      <description>OpenAI launches ChatGPT Business Agents and GPT-Live models with full-duplex voice</description>
-      <pubDate>Thu, 12 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Two malicious MCP packages caught harvesting secrets as MCP becomes the main attack surface</title>
-      <link>https://hangingcontext.com/stories/2026-11-10/mcp-trust-problem/</link>
-      <guid isPermaLink="true">https://hangingcontext.com/stories/2026-11-10/mcp-trust-problem/</guid>
-      <category>file governance</category>
-      <description>Two malicious MCP packages caught harvesting secrets as MCP becomes the main attack surface</description>
-      <pubDate>Thu, 12 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Gemini lands in Apple CarPlay, a default surface no other frontier model occupies</title>
-      <link>https://ainews.mavenotics.com/latest</link>
-      <guid isPermaLink="true">https://ainews.mavenotics.com/latest</guid>
-      <category>model API</category>
-      <description>Gemini lands in Apple CarPlay, a default surface no other frontier model occupies</description>
-      <pubDate>Thu, 12 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Plurai raises $13M seed and opens AI agent simulation platform to general availability</title>
-      <link>https://www.unite.ai/plurai-raises-13m-seed-and-opens-ai-agent-simulation-platform/</link>
-      <guid isPermaLink="true">https://www.unite.ai/plurai-raises-13m-seed-and-opens-ai-agent-simulation-platform/</guid>
-      <category>agent-startup funding</category>
-      <description>Plurai raises $13M seed and opens AI agent simulation platform to general availability</description>
-      <pubDate>Wed, 11 Nov 2026 18:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
