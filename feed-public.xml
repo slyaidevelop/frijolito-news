@@ -5,7 +5,39 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <item>
+      <title>OpenAI reported to raise $15B at a $1.25T valuation in Nov 11-12 AI funding wave</title>
+      <link>https://aifundingtracker.com/ai-funding-news-november-11-12-2026/</link>
+      <guid isPermaLink="true">https://aifundingtracker.com/ai-funding-news-november-11-12-2026/</guid>
+      <category>agent-startup funding</category>
+      <description>OpenAI reportedly raised $15 billion at a $1.25 trillion valuation, the largest piece of about $16.6 billion in AI funding announced November 11-12.</description>
+      <pubDate>Sun, 15 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>StackShip ships an MCP server with scoped write access and approval gates</title>
+      <link>https://docs.stackship.run/automation/mcp/</link>
+      <guid isPermaLink="true">https://docs.stackship.run/automation/mcp/</guid>
+      <category>agent governance</category>
+      <description>StackShip launched an MCP server that lets AI agents inspect and manage infrastructure workspaces, with scoped permissions and approval gates on every change.</description>
+      <pubDate>Sun, 15 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>StitchStudio raises $8M to expand AI agents for insurance operations</title>
+      <link>https://www.europesays.com/ai/241211/</link>
+      <guid isPermaLink="true">https://www.europesays.com/ai/241211/</guid>
+      <category>agent-startup funding</category>
+      <description>Insurtech StitchStudio raised $8 million to expand AI agents that automate insurance underwriting and brokerage workflows inside existing systems.</description>
+      <pubDate>Sun, 15 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Upshift maps 30 companies that let AI agents pay; x402 passes 200M payments</title>
+      <link>https://www.upshift.finance/blog/agentic-payments-companies</link>
+      <guid isPermaLink="true">https://www.upshift.finance/blog/agentic-payments-companies</guid>
+      <category>agentic commerce rails</category>
+      <description>A new map of 30 agentic-payments companies shows how AI agents actually spend - wallets, cards, pay-per-call and checkout - as x402 payments pass 200 million.</description>
+      <pubDate>Sun, 15 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>MCP and Agent Skills move to vendor-neutral governance under the Linux Foundation's Agentic AI Foundation</title>
       <link>https://aigovernance.com/news/mcp-and-agent-skills-move-to-vendor-neutral-governance-under-linux-foundation</link>
@@ -373,38 +405,6 @@
       <category>agentic commerce</category>
       <description>Brave's Search API now accepts x402 payments, so AI agents can pay $0.005 per search in USDC with no account or API key.</description>
       <pubDate>Thu, 12 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Google announces Gemini Decisions API, powered by Gemini Decision 1, for fast structured decisions</title>
-      <link>https://www.worthview.com/how-googles-gemini-decisions-api-could-transform-agentic-ai-seo-workflows/</link>
-      <guid isPermaLink="true">https://www.worthview.com/how-googles-gemini-decisions-api-could-transform-agentic-ai-seo-workflows/</guid>
-      <category>model APIs</category>
-      <description>Google announced the Gemini Decisions API, which lets apps get fast yes/no and scored decisions from a specialized model instead of generating full text responses.</description>
-      <pubDate>Thu, 12 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Mondrio raises $3.75M led by Heartcore Capital for its agentic B2B pricing platform</title>
-      <link>https://www.globenewswire.com/news-release/2026/11/12/3401410/0/en/mondrio-raises-3-75-million-round-led-by-heartcore-capital-for-its-agentic-pricing-platform.html</link>
-      <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/11/12/3401410/0/en/mondrio-raises-3-75-million-round-led-by-heartcore-capital-for-its-agentic-pricing-platform.html</guid>
-      <category>agent-startup funding</category>
-      <description>Mondrio raised $3.75M to expand its agentic pricing platform, where AI agents handle day-to-day pricing strategy and deal execution for B2B companies.</description>
-      <pubDate>Thu, 12 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Graphon Labs raises $35M Series A for 'Persistent Intelligence' agent memory infrastructure</title>
-      <link>https://crosswalk.to/crosswalk/deals/2026-11-10</link>
-      <guid isPermaLink="true">https://crosswalk.to/crosswalk/deals/2026-11-10</guid>
-      <category>agent-startup funding</category>
-      <description>Graphon Labs raised $35M to build memory infrastructure that lets AI agents continuously access, understand and remember data, so long-running agents stop starting from scratch.</description>
-      <pubDate>Thu, 12 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>NetApp AI Data Engine adds governed AI access over MCP — metadata search only, no file contents</title>
-      <link>https://docs.netapp.com/us-en/ai-data-engine/mcp/learn-about-mcp.html</link>
-      <guid isPermaLink="true">https://docs.netapp.com/us-en/ai-data-engine/mcp/learn-about-mcp.html</guid>
-      <category>file governance</category>
-      <description>NetApp's AI Data Engine now lets AI assistants search file metadata through MCP, but only inside collections you enable - agents get context without ever opening the files.</description>
-      <pubDate>Thu, 12 Nov 2026 15:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
