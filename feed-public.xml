@@ -5,7 +5,23 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Anthropic IPO roadshow ~6x oversubscribed; pricing expected Nov 18, trading Nov 19</title>
+      <link>https://www.mexc.com/learn/article/anthropic-ipo-roadshow</link>
+      <guid isPermaLink="true">https://www.mexc.com/learn/article/anthropic-ipo-roadshow</guid>
+      <category>agent-startup funding</category>
+      <description>Anthropic's IPO roadshow is reportedly about six times oversubscribed, with pricing expected November 18 and trading November 19 at a valuation reported up to about $1.4 trillion.</description>
+      <pubDate>Sun, 15 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Hatz AI raises $24M Series A to put an AI control plane in MSPs' hands</title>
+      <link>https://www.prnewswire.com/news-releases/hatz-ai-raises-24m-series-a-to-solidify-position-as-the-ai-platform-for-managed-service-providers-and-small-and-medium-sized-businesses-302936133.html</link>
+      <guid isPermaLink="true">https://www.prnewswire.com/news-releases/hatz-ai-raises-24m-series-a-to-solidify-position-as-the-ai-platform-for-managed-service-providers-and-small-and-medium-sized-businesses-302936133.html</guid>
+      <category>agent-startup funding</category>
+      <description>Hatz AI raised $24 million led by Nadia Partners to expand its AI control plane for managed service providers, letting IT firms offer governed AI services to small businesses.</description>
+      <pubDate>Sun, 15 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>OpenAI reported to raise $15B at a $1.25T valuation in Nov 11-12 AI funding wave</title>
       <link>https://aifundingtracker.com/ai-funding-news-november-11-12-2026/</link>
@@ -388,22 +404,6 @@
       <guid isPermaLink="true">https://theaiinsider.tech/2026/11/12/blue-j-announces-176m-in-funding-at-700m-valuation-to-scale-ai-tax-research-agent/</guid>
       <category>agent-startup funding</category>
       <description>Blue J raised $176M at a $700M valuation to scale its AI agent for tax research, funding a new agent product and expansion into the UK.</description>
-      <pubDate>Thu, 12 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Delphina raises $7.5M (total $15M) for its Context Factory of AI agents for trusted analytics</title>
-      <link>https://www.finsmes.com/2026/11/delphina-raises-7-5m-in-funding.html</link>
-      <guid isPermaLink="true">https://www.finsmes.com/2026/11/delphina-raises-7-5m-in-funding.html</guid>
-      <category>agent-startup funding</category>
-      <description>Delphina raised $7.5M to grow its Context Factory, where AI agents build and maintain the business context behind trusted AI analytics.</description>
-      <pubDate>Thu, 12 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Brave Search API now accepts agentic payments via x402 — USDC per query, no API key</title>
-      <link>https://brave.com/blog/search-api-agentic-payments/</link>
-      <guid isPermaLink="true">https://brave.com/blog/search-api-agentic-payments/</guid>
-      <category>agentic commerce</category>
-      <description>Brave's Search API now accepts x402 payments, so AI agents can pay $0.005 per search in USDC with no account or API key.</description>
       <pubDate>Thu, 12 Nov 2026 18:20:00 -0500</pubDate>
     </item>
   </channel>
