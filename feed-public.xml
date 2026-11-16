@@ -2,10 +2,66 @@
 <rss version="2.0">
   <channel>
     <title>Frijolito Public News Updates</title>
-    <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
+    <link>https://frijolito.app</link>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Qwen launches Qwen4-Max: 2.4T-parameter backbone, native vision, 1M-token context</title>
+      <link>https://munderdiffl.in/blog/agent-tools-today-2026-11-16/</link>
+      <guid isPermaLink="true">https://munderdiffl.in/blog/agent-tools-today-2026-11-16/</guid>
+      <category>model APIs</category>
+      <description>Qwen launched Qwen4-Max today, a huge new AI model with a 2.4-trillion-parameter backbone, native vision, and a one-million-token context window.</description>
+      <pubDate>Mon, 16 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Linux Foundation launches Agent Name Service to give AI agents verifiable identities</title>
+      <link>https://www.prnewswire.com/news-releases/linux-foundation-welcomes-agent-name-service-to-bring-verifiable-identity-and-discovery-to-ai-agents-302935151.html</link>
+      <guid isPermaLink="true">https://www.prnewswire.com/news-releases/linux-foundation-welcomes-agent-name-service-to-bring-verifiable-identity-and-discovery-to-ai-agents-302935151.html</guid>
+      <category>agent governance</category>
+      <description>The Linux Foundation launched Agent Name Service, an open standard that gives AI agents verifiable, DNS-based identities so systems can check who an agent is before trusting it.</description>
+      <pubDate>Mon, 16 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>United Airlines bans unauthorized third-party AI agents from booking flights</title>
+      <link>https://enjoy.dev/blog/united-airlines-ai-agents/</link>
+      <guid isPermaLink="true">https://enjoy.dev/blog/united-airlines-ai-agents/</guid>
+      <category>agentic commerce rails</category>
+      <description>United Airlines now bans unauthorized third-party AI agents from booking, changing, or buying tickets — even with the passenger's approval — and can cancel agent-made reservations.</description>
+      <pubDate>Mon, 16 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ElevenLabs previews ElevenAI: meeting notes, dictation and agent follow-ups in one app</title>
+      <link>https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/</guid>
+      <category>model APIs</category>
+      <description>ElevenLabs previewed ElevenAI, an app that takes meeting notes, sends action items, and turns speech into text in over 90 languages, with agent follow-ups built in.</description>
+      <pubDate>Mon, 16 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>AT&amp;T runs nearly 500 agentic workflows in production and plans to triple them</title>
+      <link>https://aiagentupdate.com/post/att-500-agentic-workflows-2026-11-15</link>
+      <guid isPermaLink="true">https://aiagentupdate.com/post/att-500-agentic-workflows-2026-11-15</guid>
+      <category>agent governance</category>
+      <description>AT&amp;T says it runs nearly 500 AI agent workflows in production, handling over a million transactions a month, and plans to triple that number next year.</description>
+      <pubDate>Mon, 16 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Kimi and Zhipu clone Claude's Managed Agents API for hosted agents</title>
+      <link>https://yage.ai/share/kimi-zhipu-claude-managed-agents-protocol-en-20261108.html</link>
+      <guid isPermaLink="true">https://yage.ai/share/kimi-zhipu-claude-managed-agents-protocol-en-20261108.html</guid>
+      <category>agent frameworks</category>
+      <description>Kimi and Zhipu both launched hosted agent services that copy Anthropic's managed-agents API design, with Kimi pricing its cloud sandboxes far below Claude's.</description>
+      <pubDate>Mon, 16 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OpenAI Responses API bug: approved MCP writes can execute twice</title>
+      <link>https://aiagentstore.ai/ai-agent-news/this-week?ref=blog.svil.dev</link>
+      <guid isPermaLink="true">https://aiagentstore.ai/ai-agent-news/this-week?ref=blog.svil.dev</guid>
+      <category>agent frameworks</category>
+      <description>A bug report says an approved write through OpenAI's Responses API can sometimes run twice — a warning for anyone building agents that change data or publish content.</description>
+      <pubDate>Mon, 16 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Mastercard backs both card and crypto rails for AI agent payments</title>
       <link>https://coinmarketcap.com/academy/article/mastercard-chatgpt-wallet-x402-agent-payments</link>
@@ -349,62 +405,6 @@
       <category>file governance</category>
       <description>Data.co launches private AI platform and dataset marketplace with MCP access for agents</description>
       <pubDate>Fri, 13 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Base44 Accelerator Cohort 2 opens applications — $1M in perks, 0% equity</title>
-      <link>https://opportunitylab.net/base44-accelerator-cohort-2-2027/</link>
-      <guid isPermaLink="true">https://opportunitylab.net/base44-accelerator-cohort-2-2027/</guid>
-      <category>Base44 ecosystem</category>
-      <description>Base44 opened applications for its Accelerator Cohort 2: a free 12-week program for 44 teams with up to $1M in perks and $75K in prizes, no equity taken; deadline Dec 12, 2026.</description>
-      <pubDate>Fri, 13 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MCP gets a fixed six-month release cadence — and a draft file-transfer extension</title>
-      <link>https://n8nlab.io/news/mcp-six-month-release-train-file-transfers</link>
-      <guid isPermaLink="true">https://n8nlab.io/news/mcp-six-month-release-train-file-transfers</guid>
-      <category>file governance</category>
-      <description>MCP gets a fixed six-month release cadence — and a draft file-transfer extension</description>
-      <pubDate>Fri, 13 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VS Code 1.145.3 patches a critical MCP-server flaw (CVSS 9.6) and Workspace Trust bypasses</title>
-      <link>https://hangingcontext.com/stories/2026-11-12/vs-code-mcp-azure-openai-fixes/</link>
-      <guid isPermaLink="true">https://hangingcontext.com/stories/2026-11-12/vs-code-mcp-azure-openai-fixes/</guid>
-      <category>file governance</category>
-      <description>VS Code 1.145.3 patches a critical MCP-server flaw (CVSS 9.6) and Workspace Trust bypasses</description>
-      <pubDate>Fri, 13 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Agent Framework 1.25.0 adds callable MCP approval policies</title>
-      <link>https://www.cloudproinc.com.au/index.php/2026/11/11/microsoft-agent-framework-mcp-approval-policies-governance-guide/</link>
-      <guid isPermaLink="true">https://www.cloudproinc.com.au/index.php/2026/11/11/microsoft-agent-framework-mcp-approval-policies-governance-guide/</guid>
-      <category>agent frameworks</category>
-      <description>Microsoft Agent Framework 1.25.0 adds callable MCP approval policies</description>
-      <pubDate>Fri, 13 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LangChain raises $300M at a $3B valuation as Alphabet's CapitalG bets on AI agent tooling</title>
-      <link>https://www.europesays.com/ai/239156/</link>
-      <guid isPermaLink="true">https://www.europesays.com/ai/239156/</guid>
-      <category>agent-startup funding</category>
-      <description>LangChain raised $300M at a $3B valuation led by Alphabet's CapitalG, more than doubling its value in a year as companies rush to put AI agents to work.</description>
-      <pubDate>Fri, 13 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Google launches Gemini 4 Hydrogen, a fast model for coding and agentic work</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
-      <guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</guid>
-      <category>model APIs</category>
-      <description>Google launched Gemini 4 Hydrogen, a fast model for coding and agentic work at $1.50 per million input tokens, now live across the Gemini API, Search, and coding tools.</description>
-      <pubDate>Fri, 13 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Anthropic opens self-hosted Claude Managed Agents in private beta</title>
-      <link>https://platform.claude.com/docs/en/release-notes/api</link>
-      <guid isPermaLink="true">https://platform.claude.com/docs/en/release-notes/api</guid>
-      <category>agent frameworks</category>
-      <description>Anthropic opened a private beta letting companies run Claude Managed Agents on their own servers, keeping session data and credentials in their own cloud.</description>
-      <pubDate>Fri, 13 Nov 2026 09:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
