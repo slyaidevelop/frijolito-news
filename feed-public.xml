@@ -5,7 +5,39 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Mastercard backs both card and crypto rails for AI agent payments</title>
+      <link>https://coinmarketcap.com/academy/article/mastercard-chatgpt-wallet-x402-agent-payments</link>
+      <guid isPermaLink="true">https://coinmarketcap.com/academy/article/mastercard-chatgpt-wallet-x402-agent-payments</guid>
+      <category>agentic commerce rails</category>
+      <description>Mastercard is backing both card payments and stablecoin payments for AI agents: ChatGPT Wallet runs on card tokenization, while its Agent Pay for Machines settles in stablecoins on Coinbase's x402 protocol.</description>
+      <pubDate>Sun, 15 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>XRP Ledger passes 11.7M sub-dollar AI agent microtransactions via x402</title>
+      <link>https://en.coin-turk.com/xrpl-ai-agent-transactions-surpass-11-7-million-t54-ai-eyes-real-world-payments/</link>
+      <guid isPermaLink="true">https://en.coin-turk.com/xrpl-ai-agent-transactions-surpass-11-7-million-t54-ai-eyes-real-world-payments/</guid>
+      <category>agentic commerce rails</category>
+      <description>The XRP Ledger passed 11.7 million sub-dollar AI agent microtransactions through t54.ai's x402 facilitator, with agents paying per task in XRP or the RLUSD stablecoin.</description>
+      <pubDate>Sun, 15 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>The 3 a.m. Invoice: a hands-on study of x402 payment risk</title>
+      <link>https://medium.com/@sriram1983007/the-3-a-m-invoice-c10953df8a67</link>
+      <guid isPermaLink="true">https://medium.com/@sriram1983007/the-3-a-m-invoice-c10953df8a67</guid>
+      <category>agentic commerce rails</category>
+      <description>A study of one day of real x402 payments on Base found 396,786 agent payments, nearly all tiny — and a small AI model approved 34.6% of the payments it should have stopped.</description>
+      <pubDate>Sun, 15 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>6.4M autonomous agent payments expose a legal identity gap</title>
+      <link>https://thecurrencyanalytics.com/regulations/6-4-million-agent-payments-identity-gap-309149</link>
+      <guid isPermaLink="true">https://thecurrencyanalytics.com/regulations/6-4-million-agent-payments-identity-gap-309149</guid>
+      <category>agent governance</category>
+      <description>Autonomous AI agents made 6.4 million x402 payments in 35 days with no human approving each one, exposing a legal gap over who is liable when an agent spends.</description>
+      <pubDate>Sun, 15 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Anthropic IPO roadshow ~6x oversubscribed; pricing expected Nov 18, trading Nov 19</title>
       <link>https://www.mexc.com/learn/article/anthropic-ipo-roadshow</link>
@@ -373,38 +405,6 @@
       <category>agent frameworks</category>
       <description>Anthropic opened a private beta letting companies run Claude Managed Agents on their own servers, keeping session data and credentials in their own cloud.</description>
       <pubDate>Fri, 13 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OpenAI launches Daybreak Red Team and Defense Factory security products</title>
-      <link>https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-11-13</link>
-      <guid isPermaLink="true">https://ddsboston.com/blogs/vibe-code-academy/ai-news-for-vibe-coders-daily-2026-11-13</guid>
-      <category>agent frameworks</category>
-      <description>OpenAI launched Daybreak Red Team and Defense Factory, AI security products that probe web apps for weaknesses and scan codebases to propose fixes.</description>
-      <pubDate>Fri, 13 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Imprint raises $130M and ships an MCP server for AI agents; Future Secure AI becomes Australia's newest unicorn</title>
-      <link>https://www.cxnetwork.com/cx-experience/news/every-cx-start-up-funding-deal-you-need-to-know-november-13</link>
-      <guid isPermaLink="true">https://www.cxnetwork.com/cx-experience/news/every-cx-start-up-funding-deal-you-need-to-know-november-13</guid>
-      <category>agent-startup funding</category>
-      <description>Imprint raised $130M and shipped a tool letting AI agents securely access loyalty rewards and virtual cards, while Future Secure AI became Australia's newest unicorn with an $82M raise.</description>
-      <pubDate>Fri, 13 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Mirendil raises $1B Series A to make frontier AI R&amp;D accessible to individual scientists</title>
-      <link>https://crosswalk.to/crosswalk/deals/2026-11-12</link>
-      <guid isPermaLink="true">https://crosswalk.to/crosswalk/deals/2026-11-12</guid>
-      <category>agent-startup funding</category>
-      <description>Mirendil raised a $1B Series A to make frontier AI research accessible to individual scientists, with agents that helped one researcher pretrain a coding model from scratch in 3.5 months.</description>
-      <pubDate>Thu, 12 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Blue J raises $176M at a $700M valuation to scale its AI tax research agent</title>
-      <link>https://theaiinsider.tech/2026/11/12/blue-j-announces-176m-in-funding-at-700m-valuation-to-scale-ai-tax-research-agent/</link>
-      <guid isPermaLink="true">https://theaiinsider.tech/2026/11/12/blue-j-announces-176m-in-funding-at-700m-valuation-to-scale-ai-tax-research-agent/</guid>
-      <category>agent-startup funding</category>
-      <description>Blue J raised $176M at a $700M valuation to scale its AI agent for tax research, funding a new agent product and expansion into the UK.</description>
-      <pubDate>Thu, 12 Nov 2026 18:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
