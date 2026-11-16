@@ -2,16 +2,64 @@
 <rss version="2.0">
   <channel>
     <title>Frijolito Public News Updates</title>
-    <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <link>https://frijolito.app</link>
+    <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Dreamteam raises $53M for an AI-native CRM with AI coworkers</title>
+      <link>https://agilebrandguide.com/ai-native-crm-dreamteam-raises-53m-to-challenge-incumbents-with-ai-coworkers-who-actually-get-work-done/</link>
+      <guid isPermaLink="true">https://agilebrandguide.com/ai-native-crm-dreamteam-raises-53m-to-challenge-incumbents-with-ai-coworkers-who-actually-get-work-done/</guid>
+      <category>agent-startup funding</category>
+      <description>Dreamteam raised $53 million from Accel and Together Fund for an AI-native CRM built around four AI coworkers, and signed more than 100 customers in its first three months.</description>
+      <pubDate>Mon, 16 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Numa raises $45M Series C for dealership AI</title>
+      <link>https://www.securities.io/numa-raises-45-million-series-c-to-expand-its-dealership-ai-platform/</link>
+      <guid isPermaLink="true">https://www.securities.io/numa-raises-45-million-series-c-to-expand-its-dealership-ai-platform/</guid>
+      <category>agent-startup funding</category>
+      <description>Numa raised $45 million to expand its dealership AI platform, which now serves more than 1,500 dealerships after FordDirect made it its strategic AI vendor.</description>
+      <pubDate>Mon, 16 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Exaforce launches ExaU: an AI agent team for every security practitioner</title>
+      <link>https://business.theantlersamerican.com/theantlersamerican/article/bizwire-2026-11-16-exaforce-launches-exau-ai-agent-team-for-every-security-practitioner</link>
+      <guid isPermaLink="true">https://business.theantlersamerican.com/theantlersamerican/article/bizwire-2026-11-16-exaforce-launches-exau-ai-agent-team-for-every-security-practitioner</guid>
+      <category>agent launches</category>
+      <description>Exaforce launched ExaU, giving every security practitioner their own team of AI agents that learn their priorities and work around the clock.</description>
+      <pubDate>Mon, 16 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Moneiva raises $3.1M seed to automate supply-chain communications</title>
+      <link>https://lifestyle.inspiredn.com/story/995761/moneiva-raises-3-1-million-to-automate-the-hardest-work-in-supply-chain/</link>
+      <guid isPermaLink="true">https://lifestyle.inspiredn.com/story/995761/moneiva-raises-3-1-million-to-automate-the-hardest-work-in-supply-chain/</guid>
+      <category>agent-startup funding</category>
+      <description>Moneiva raised $3.1 million to automate the hardest coordination work in supply chains with AI operators already running live with carriers and brokers.</description>
+      <pubDate>Mon, 16 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Agentic finance in 2026: the rails shipped before the riders</title>
+      <link>https://vanja.io/agentic-finance/</link>
+      <guid isPermaLink="true">https://vanja.io/agentic-finance/</guid>
+      <category>agentic commerce rails</category>
+      <description>A new sourced map of agentic finance finds the payment rails shipped before the riders: x402 settled about $274,000 in October, at roughly five cents a payment.</description>
+      <pubDate>Mon, 16 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Rational Optimist's guide to AI agents: Instinct retrieves a family's airline miles</title>
+      <link>https://rationaloptimistsociety.substack.com/p/agents-ai-for-normies</link>
+      <guid isPermaLink="true">https://rationaloptimistsociety.substack.com/p/agents-ai-for-normies</guid>
+      <category>Base44/Instinct ecosystem</category>
+      <description>A first-person account describes an AI agent retrieving a family's airline miles on its own - digging bookings from email, opening accounts, and chatting with a human rep.</description>
+      <pubDate>Mon, 16 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Qwen launches Qwen4-Max: 2.4T-parameter backbone, native vision, 1M-token context</title>
       <link>https://munderdiffl.in/blog/agent-tools-today-2026-11-16/</link>
       <guid isPermaLink="true">https://munderdiffl.in/blog/agent-tools-today-2026-11-16/</guid>
       <category>model APIs</category>
-      <description>Qwen launched Qwen4-Max today, a huge new AI model with a 2.4-trillion-parameter backbone, native vision, and a one-million-token context window.</description>
+      <description>Qwen launches Qwen4-Max: 2.4T-parameter backbone, native vision, 1M-token context</description>
       <pubDate>Mon, 16 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -19,7 +67,7 @@
       <link>https://www.prnewswire.com/news-releases/linux-foundation-welcomes-agent-name-service-to-bring-verifiable-identity-and-discovery-to-ai-agents-302935151.html</link>
       <guid isPermaLink="true">https://www.prnewswire.com/news-releases/linux-foundation-welcomes-agent-name-service-to-bring-verifiable-identity-and-discovery-to-ai-agents-302935151.html</guid>
       <category>agent governance</category>
-      <description>The Linux Foundation launched Agent Name Service, an open standard that gives AI agents verifiable, DNS-based identities so systems can check who an agent is before trusting it.</description>
+      <description>Linux Foundation launches Agent Name Service to give AI agents verifiable identities</description>
       <pubDate>Mon, 16 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -27,7 +75,7 @@
       <link>https://enjoy.dev/blog/united-airlines-ai-agents/</link>
       <guid isPermaLink="true">https://enjoy.dev/blog/united-airlines-ai-agents/</guid>
       <category>agentic commerce rails</category>
-      <description>United Airlines now bans unauthorized third-party AI agents from booking, changing, or buying tickets — even with the passenger's approval — and can cancel agent-made reservations.</description>
+      <description>United Airlines bans unauthorized third-party AI agents from booking flights</description>
       <pubDate>Mon, 16 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -35,7 +83,7 @@
       <link>https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/</guid>
       <category>model APIs</category>
-      <description>ElevenLabs previewed ElevenAI, an app that takes meeting notes, sends action items, and turns speech into text in over 90 languages, with agent follow-ups built in.</description>
+      <description>ElevenLabs previews ElevenAI: meeting notes, dictation and agent follow-ups in one app</description>
       <pubDate>Mon, 16 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -43,7 +91,7 @@
       <link>https://aiagentupdate.com/post/att-500-agentic-workflows-2026-11-15</link>
       <guid isPermaLink="true">https://aiagentupdate.com/post/att-500-agentic-workflows-2026-11-15</guid>
       <category>agent governance</category>
-      <description>AT&amp;T says it runs nearly 500 AI agent workflows in production, handling over a million transactions a month, and plans to triple that number next year.</description>
+      <description>AT&amp;T runs nearly 500 agentic workflows in production and plans to triple them</description>
       <pubDate>Mon, 16 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -51,7 +99,7 @@
       <link>https://yage.ai/share/kimi-zhipu-claude-managed-agents-protocol-en-20261108.html</link>
       <guid isPermaLink="true">https://yage.ai/share/kimi-zhipu-claude-managed-agents-protocol-en-20261108.html</guid>
       <category>agent frameworks</category>
-      <description>Kimi and Zhipu both launched hosted agent services that copy Anthropic's managed-agents API design, with Kimi pricing its cloud sandboxes far below Claude's.</description>
+      <description>Kimi and Zhipu clone Claude's Managed Agents API for hosted agents</description>
       <pubDate>Mon, 16 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -59,7 +107,7 @@
       <link>https://aiagentstore.ai/ai-agent-news/this-week?ref=blog.svil.dev</link>
       <guid isPermaLink="true">https://aiagentstore.ai/ai-agent-news/this-week?ref=blog.svil.dev</guid>
       <category>agent frameworks</category>
-      <description>A bug report says an approved write through OpenAI's Responses API can sometimes run twice — a warning for anyone building agents that change data or publish content.</description>
+      <description>OpenAI Responses API bug: approved MCP writes can execute twice</description>
       <pubDate>Mon, 16 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -357,54 +405,6 @@
       <category>model APIs</category>
       <description>Meta Muse Ember: a small model for agent workloads at $0.10/$0.50 per million tokens</description>
       <pubDate>Fri, 13 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Meta's November WhatsApp Business changes: analytics endpoint retired, marketing leaves Cloud API in 2027</title>
-      <link>https://sendseven.com/en/blog/whatsapp-business-news-meta-updates</link>
-      <guid isPermaLink="true">https://sendseven.com/en/blog/whatsapp-business-news-meta-updates</guid>
-      <category>WhatsApp/Meta dev</category>
-      <description>Meta's November WhatsApp Business changes: analytics endpoint retired, marketing leaves Cloud API in 2027</description>
-      <pubDate>Fri, 13 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BlackRock, Coinbase and Chainlink outline what AI agents need to make payments</title>
-      <link>https://cryptopulsedaily.com/blackrock-coinbase-and-chainlink-executives-outline-what-ai-agents-need-to-make-payments/</link>
-      <guid isPermaLink="true">https://cryptopulsedaily.com/blackrock-coinbase-and-chainlink-executives-outline-what-ai-agents-need-to-make-payments/</guid>
-      <category>agentic commerce</category>
-      <description>BlackRock, Coinbase and Chainlink outline what AI agents need to make payments</description>
-      <pubDate>Fri, 13 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Charles Schwab launches its own MCP servers, moving from read-only AI to agentic AI</title>
-      <link>https://riabiz.com/a/2026/11/13/schwab-surprises-analysts-with-extra-rapid-launch-of-own-mcp-servers-also-leaping-from-read-only-to-agentic-get-stuff-done-ai-it-leaves-rias-out-for-now-and-makes-anthropics-days-numbered-as-schwabs-exclusive-llm</link>
-      <guid isPermaLink="true">https://riabiz.com/a/2026/11/13/schwab-surprises-analysts-with-extra-rapid-launch-of-own-mcp-servers-also-leaping-from-read-only-to-agentic-get-stuff-done-ai-it-leaves-rias-out-for-now-and-makes-anthropics-days-numbered-as-schwabs-exclusive-llm</guid>
-      <category>agent frameworks</category>
-      <description>Charles Schwab launches its own MCP servers, moving from read-only AI to agentic AI</description>
-      <pubDate>Fri, 13 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Edge0 open-sources Edge0-145B, a 145B-parameter model built to run agents on one GPU</title>
-      <link>https://explainx.ai/blog/edge0-145b-open-on-device-laptop-agent-model-november-2026</link>
-      <guid isPermaLink="true">https://explainx.ai/blog/edge0-145b-open-on-device-laptop-agent-model-november-2026</guid>
-      <category>model APIs</category>
-      <description>Edge0 open-sources Edge0-145B, a 145B-parameter model built to run agents on one GPU</description>
-      <pubDate>Fri, 13 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Vercel launches the UI SDK (0.1.0-beta.1), a behavior library for coding agents</title>
-      <link>https://aicodewith.ai/en/blog/vercel-ui-sdk-claude-code-codex-cursor</link>
-      <guid isPermaLink="true">https://aicodewith.ai/en/blog/vercel-ui-sdk-claude-code-codex-cursor</guid>
-      <category>agent frameworks</category>
-      <description>Vercel launches the UI SDK (0.1.0-beta.1), a behavior library for coding agents</description>
-      <pubDate>Fri, 13 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Data.co launches private AI platform and dataset marketplace with MCP access for agents</title>
-      <link>https://recorderonline.marketminute.com/article/marketersmedia-2026-11-12-dataco-launches-private-ai-platform-and-data-marketplace-featuring-91-datasets-from-25-providers</link>
-      <guid isPermaLink="true">https://recorderonline.marketminute.com/article/marketersmedia-2026-11-12-dataco-launches-private-ai-platform-and-data-marketplace-featuring-91-datasets-from-25-providers</guid>
-      <category>file governance</category>
-      <description>Data.co launches private AI platform and dataset marketplace with MCP access for agents</description>
-      <pubDate>Fri, 13 Nov 2026 18:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
