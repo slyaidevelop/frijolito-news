@@ -5,7 +5,23 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Developer API week, Nov 9-16: Gemini Decisions API, DeepSeek app suite, Copilot deprecations</title>
+      <link>https://dev.to/cuelark/ai-updates-for-developers-nov-9-16-2026-fable-52-gemini-4-carbon-decision-models-and-what-14j1</link>
+      <guid isPermaLink="true">https://dev.to/cuelark/ai-updates-for-developers-nov-9-16-2026-fable-52-gemini-4-carbon-decision-models-and-what-14j1</guid>
+      <category>model APIs</category>
+      <description>Google's Gemini Decisions API scores up to 1,000 closed questions per call, DeepSeek shipped a built-in application API suite, and GitHub Copilot drops six models on Dec 14 - a busy week for developer APIs.</description>
+      <pubDate>Mon, 16 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Airbnb CEO: AI agents like Muse and Instinct barely bringing in bookings - 'I don't see them as a threat'</title>
+      <link>https://apexnews-latam.com/en/news/airbnb-ceo-says-ai-agents-like-muse-and-instinct-are-barely-bringing-in-bookings-i-don-t-see-them-as-a-threat-7499d7dc261106en_zz</link>
+      <guid isPermaLink="true">https://apexnews-latam.com/en/news/airbnb-ceo-says-ai-agents-like-muse-and-instinct-are-barely-bringing-in-bookings-i-don-t-see-them-as-a-threat-7499d7dc261106en_zz</guid>
+      <category>Base44/Instinct ecosystem</category>
+      <description>Airbnb's CEO says AI agents like Muse and Instinct are barely bringing in bookings so far and don't look like a threat yet, even as Airbnb plans its own AI agent next year.</description>
+      <pubDate>Mon, 16 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Dreamteam raises $53M for an AI-native CRM with AI coworkers</title>
       <link>https://agilebrandguide.com/ai-native-crm-dreamteam-raises-53m-to-challenge-incumbents-with-ai-coworkers-who-actually-get-work-done/</link>
@@ -388,22 +404,6 @@
       <guid isPermaLink="true">https://openai.com/index/introducing-the-agents-api/</guid>
       <category>agent frameworks</category>
       <description>OpenAI launches Agents API in public beta, bringing the Codex harness to developers</description>
-      <pubDate>Fri, 13 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Honest x402 numbers: TRM Labs bounds the genuinely agentic share at 0.6-7.5% of screened commerce</title>
-      <link>https://www.ideabosque.com/library/x402-settlement-scale-vs-agent-share/</link>
-      <guid isPermaLink="true">https://www.ideabosque.com/library/x402-settlement-scale-vs-agent-share/</guid>
-      <category>agentic commerce rails</category>
-      <description>A new analysis of x402 payments finds most settled volume still isn't agents buying things - TRM Labs bounds the genuinely agentic share at 0.6-7.5% of screened commerce, even as settlements pass 191 million.</description>
-      <pubDate>Fri, 13 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Meta Muse Ember: a small model for agent workloads at $0.10/$0.50 per million tokens</title>
-      <link>https://sophrai.com/new-ai-agent-tools-this-week-2026-11-13/</link>
-      <guid isPermaLink="true">https://sophrai.com/new-ai-agent-tools-this-week-2026-11-13/</guid>
-      <category>model APIs</category>
-      <description>Meta Muse Ember: a small model for agent workloads at $0.10/$0.50 per million tokens</description>
       <pubDate>Fri, 13 Nov 2026 21:20:00 -0500</pubDate>
     </item>
   </channel>
