@@ -5,7 +5,31 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Alibaba releases Qwen4-Max: 2.4T-parameter MoE, 1M context, API-only at $1.50/$4.50 per 1M tokens</title>
+      <link>https://www.hpcwire.com/aiwire/2026/11/16/alibaba-releases-qwen4-max-with-2-4-trillion-parameters/</link>
+      <guid isPermaLink="true">https://www.hpcwire.com/aiwire/2026/11/16/alibaba-releases-qwen4-max-with-2-4-trillion-parameters/</guid>
+      <category>model APIs</category>
+      <description>Alibaba released Qwen4-Max, a 2.4-trillion-parameter AI model with a one-million-token context window, available now through its cloud API at $1.50 per million input tokens.</description>
+      <pubDate>Mon, 16 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>DI closes round at $100M valuation to build AI agents for markets</title>
+      <link>https://dealroom.co/news/173186-di-closes-round-at-100m-valuation-to-build-ai-agents-for-markets/</link>
+      <guid isPermaLink="true">https://dealroom.co/news/173186-di-closes-round-at-100m-valuation-to-build-ai-agents-for-markets/</guid>
+      <category>agent-startup funding</category>
+      <description>DI closed a funding round at a $100 million valuation to build an AI agent network for stock and crypto markets, with its first product, Event Engine, launching soon.</description>
+      <pubDate>Mon, 16 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>x402 settlements pass 201 million, worth $43.0M</title>
+      <link>https://agenteconomy.to/x402</link>
+      <guid isPermaLink="true">https://agenteconomy.to/x402</guid>
+      <category>agentic commerce rails</category>
+      <description>Payments on the x402 protocol passed 201 million settled transactions, worth $43 million, with most activity on the Base network.</description>
+      <pubDate>Mon, 16 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Developer API week, Nov 9-16: Gemini Decisions API, DeepSeek app suite, Copilot deprecations</title>
       <link>https://dev.to/cuelark/ai-updates-for-developers-nov-9-16-2026-fable-52-gemini-4-carbon-decision-models-and-what-14j1</link>
@@ -381,30 +405,6 @@
       <category>agentic commerce rails</category>
       <description>AI agent payments on the XRP Ledger passed 15.69 million, with 5,410 services from 193 merchants now payable by agents via x402 in XRP and RLUSD.</description>
       <pubDate>Sat, 14 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Databento raises $100M Series C at a $1.1B valuation</title>
-      <link>https://databento.com/blog/series-c/</link>
-      <guid isPermaLink="true">https://databento.com/blog/series-c/</guid>
-      <category>agent-startup funding</category>
-      <description>Databento raised $100M at a $1.1B valuation to expand its financial market-data APIs, counting five of the six largest frontier AI labs as customers.</description>
-      <pubDate>Sat, 14 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Luminal raises $25M Series A to cut AI inference costs across chips</title>
-      <link>https://www.unite.ai/luminal-lands-25m-series-a-as-standard-capital-leads-the-round/</link>
-      <guid isPermaLink="true">https://www.unite.ai/luminal-lands-25m-series-a-as-standard-capital-leads-the-round/</guid>
-      <category>model APIs</category>
-      <description>Luminal raised $25M led by Standard Capital for a compiler and inference cloud that runs AI models faster and cheaper across different chips.</description>
-      <pubDate>Sat, 14 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OpenAI launches Agents API in public beta, bringing the Codex harness to developers</title>
-      <link>https://openai.com/index/introducing-the-agents-api/</link>
-      <guid isPermaLink="true">https://openai.com/index/introducing-the-agents-api/</guid>
-      <category>agent frameworks</category>
-      <description>OpenAI launches Agents API in public beta, bringing the Codex harness to developers</description>
-      <pubDate>Fri, 13 Nov 2026 21:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
