@@ -5,7 +5,39 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Voyage Labs raises $12M seed for Atlas, a personal AI agent for travel</title>
+      <link>https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/</guid>
+      <category>agent-startup funding</category>
+      <description>Voyage Labs raised $12 million to build Atlas, a personal AI agent that plans, books and monitors trips and local outings, now in private beta on iMessage and the web.</description>
+      <pubDate>Tue, 17 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pedestal AI emerges from stealth with $4.7M seed to put AI agents in supply chains</title>
+      <link>https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/</guid>
+      <category>agent-startup funding</category>
+      <description>Pedestal AI emerged from stealth with $4.7 million to bring AI agents into supply chain and logistics, already deployed at Fortune 500 companies and major shippers.</description>
+      <pubDate>Tue, 17 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Anthropic launches linked billing beta for Claude</title>
+      <link>https://superpowerdaily.com/posts/anthropic-adds-direct-claude-billing-for-outside-tools-without-shared-api-keys</link>
+      <guid isPermaLink="true">https://superpowerdaily.com/posts/anthropic-adds-direct-claude-billing-for-outside-tools-without-shared-api-keys</guid>
+      <category>model APIs</category>
+      <description>Anthropic launched linked billing in beta, letting customers pay for Claude inside supported third-party tools without sharing an API key.</description>
+      <pubDate>Tue, 17 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Anthropic's text watermark reaches older Claude models</title>
+      <link>https://metarix.io/claude-text-watermark</link>
+      <guid isPermaLink="true">https://metarix.io/claude-text-watermark</guid>
+      <category>model APIs</category>
+      <description>Anthropic extended its invisible text watermark to older Claude models Opus 4.6, Opus 4.5, Sonnet 4.5 and Haiku 4.5 as of November 16.</description>
+      <pubDate>Tue, 17 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Model ML raises $250M Series B at $1.5B valuation for personal AI agents in banking and consulting</title>
       <link>https://www.generalatlantic.com/media-article/model-ml-raises-250-million-at-1-5-billion-valuation-18-months-after-launching-from-stealth/</link>
@@ -372,38 +404,6 @@
       <guid isPermaLink="true">https://sierra.ai/blog/releasing-poppy</guid>
       <category>agentic commerce rails</category>
       <description>Sierra ships Personal Agent Protocol (Poppy) v1.0; Shopify on for every merchant, Muse checks Poppy first</description>
-      <pubDate>Sat, 14 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Rox raises $100M Series B at $1.3B valuation for AI sales agents</title>
-      <link>https://www.vizaca.com/business/rox-series-b-ai-sales-agents/</link>
-      <guid isPermaLink="true">https://www.vizaca.com/business/rox-series-b-ai-sales-agents/</guid>
-      <category>agent-startup funding</category>
-      <description>Rox raises $100M Series B at $1.3B valuation for AI sales agents</description>
-      <pubDate>Sat, 14 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Inkbox lands $5.3M seed for AI agents with their own persistent computers</title>
-      <link>https://dealroom.co/news/171407-inkbox-lands-5-3m-seed-for-ai-agents-with-their-own-persistent-computers/</link>
-      <guid isPermaLink="true">https://dealroom.co/news/171407-inkbox-lands-5-3m-seed-for-ai-agents-with-their-own-persistent-computers/</guid>
-      <category>agent-startup funding</category>
-      <description>Inkbox lands $5.3M seed for AI agents with their own persistent computers</description>
-      <pubDate>Sat, 14 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Vercel ships UI SDK beta: 50+ UI behaviors for AI coding agents</title>
-      <link>https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/</link>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/</guid>
-      <category>agent frameworks</category>
-      <description>Vercel ships UI SDK beta: 50+ UI behaviors for AI coding agents</description>
-      <pubDate>Sat, 14 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Apple opens Siri AI to developers: App Intents become agent tools, Siri reads SKILL.md</title>
-      <link>https://medium.com/@nuthalapativarun/siri-now-reads-skill-md-apple-turned-app-intents-into-an-agent-tool-api-87ca4a9024e2</link>
-      <guid isPermaLink="true">https://medium.com/@nuthalapativarun/siri-now-reads-skill-md-apple-turned-app-intents-into-an-agent-tool-api-87ca4a9024e2</guid>
-      <category>model APIs</category>
-      <description>Apple opens Siri AI to developers: App Intents become agent tools, Siri reads SKILL.md</description>
       <pubDate>Sat, 14 Nov 2026 21:20:00 -0500</pubDate>
     </item>
   </channel>
