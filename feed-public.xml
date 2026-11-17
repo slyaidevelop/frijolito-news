@@ -5,7 +5,31 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Meta makes its enterprise AI bet official: Muse agent, Business Agent, Muse API and Muse Code</title>
+      <link>https://webpulse.one/threads/metas-next-big-ai-bet-is-enterprise-its-biggest-hurdle-may-be-trust.10778/</link>
+      <guid isPermaLink="true">https://webpulse.one/threads/metas-next-big-ai-bet-is-enterprise-its-biggest-hurdle-may-be-trust.10778/</guid>
+      <category>Meta developer news</category>
+      <description>Meta is taking its Muse AI agent to the enterprise, bundling it with a business agent, an API and a coding tool as its next major business pillar.</description>
+      <pubDate>Tue, 17 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Nvidia reports Q3 tonight in its first call since Huang resigned; Anthropic prices its IPO Wednesday</title>
+      <link>https://www.coindesk.com/markets/2026/11/17/nvidia-faces-first-earnings-test-without-jensen-huang-as-ai-stocks-slide</link>
+      <guid isPermaLink="true">https://www.coindesk.com/markets/2026/11/17/nvidia-faces-first-earnings-test-without-jensen-huang-as-ai-stocks-slide</guid>
+      <category>model APIs</category>
+      <description>Nvidia reports earnings after the close today in its first call since its CEO resigned, and Anthropic is expected to price its IPO on Wednesday at a valuation near $1.5 trillion.</description>
+      <pubDate>Tue, 17 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Instinct made the consumer agent feel real, a first-person account argues</title>
+      <link>https://vuink.com/post/k-d-dpbz/sytaylor/status/2094346674911035447</link>
+      <guid isPermaLink="true">https://vuink.com/post/k-d-dpbz/sytaylor/status/2094346674911035447</guid>
+      <category>Base44/Instinct ecosystem</category>
+      <description>A first-person account says Instinct is the first personal AI agent that feels like a product, not a project — it books and buys by texting, with no app to learn.</description>
+      <pubDate>Tue, 17 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Brave Search API now accepts x402 agentic payments</title>
       <link>https://www.webpronews.com/brave-search-api-accepts-agentic-payments/</link>
@@ -381,30 +405,6 @@
       <category>model APIs</category>
       <description>GitHub Copilot retires six models Dec 14 and locks down its harness; VS Code 1.146 previews MCP skills</description>
       <pubDate>Sat, 14 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OpenAI launches ChatGPT Wallet: its dots agents can now spend with tokenized cards</title>
-      <link>https://0xzx.com/en/post/pst_2a234cc8cb1aabb6</link>
-      <guid isPermaLink="true">https://0xzx.com/en/post/pst_2a234cc8cb1aabb6</guid>
-      <category>agentic commerce rails</category>
-      <description>OpenAI launches ChatGPT Wallet: its dots agents can now spend with tokenized cards</description>
-      <pubDate>Sat, 14 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>xAI ships grok-4.20-multi-agent in beta: a team of agents per research call</title>
-      <link>https://metagrok.io/how-to/run-multi-agent-research</link>
-      <guid isPermaLink="true">https://metagrok.io/how-to/run-multi-agent-research</guid>
-      <category>model APIs</category>
-      <description>xAI launched grok-4.20-multi-agent in beta: one call spins up a team of agents that research in parallel, with a leader agent pulling it together into a final answer.</description>
-      <pubDate>Sat, 14 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Google opens Agent Gateway in Limited Preview for EKS, AKS and OpenShift</title>
-      <link>https://aiweekly.co/alerts/google-opens-agent-gateway-preview-for-eks-aks-openshift</link>
-      <guid isPermaLink="true">https://aiweekly.co/alerts/google-opens-agent-gateway-preview-for-eks-aks-openshift</guid>
-      <category>agent governance</category>
-      <description>Google opened Agent Gateway in limited preview for Amazon EKS, Azure AKS and OpenShift, giving agents a verifiable identity and routing their traffic through policy-enforcing proxies outside Google Cloud.</description>
-      <pubDate>Sat, 14 Nov 2026 12:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
