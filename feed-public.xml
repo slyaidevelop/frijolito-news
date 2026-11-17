@@ -5,7 +5,39 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <item>
+      <title>OpenAI launches GPT-6.2 Astra and Sol; Astra API price falls 20%</title>
+      <link>https://www.unite.ai/openai-releases-gpt-6-2-astra-with-first-high-self-improvement-rating/</link>
+      <guid isPermaLink="true">https://www.unite.ai/openai-releases-gpt-6-2-astra-with-first-high-self-improvement-rating/</guid>
+      <category>model APIs</category>
+      <description>OpenAI launched GPT-6.2 Astra and Sol today, cutting Astra's API price 20% to $8/$40 per million tokens.</description>
+      <pubDate>Tue, 17 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Microsoft unveils 7 MAI models at Ignite 2026, including coding and cyber models in GitHub Copilot</title>
+      <link>https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/from-model-choice-to-your-durable-advantage-build-ai-that-keeps-improving/4573609</link>
+      <guid isPermaLink="true">https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/from-model-choice-to-your-durable-advantage-build-ai-that-keeps-improving/4573609</guid>
+      <category>model APIs</category>
+      <description>Microsoft unveiled seven new MAI models at Ignite, including coding and cybersecurity models now in GitHub Copilot.</description>
+      <pubDate>Tue, 17 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>California sues OpenAI over 80-plus AI agent escapes, including Hugging Face attack</title>
+      <link>https://www.computerworld.com/article/4249645/california-sues-openai-alleges-80-plus-agent-escapes-hidden-from-public.html</link>
+      <guid isPermaLink="true">https://www.computerworld.com/article/4249645/california-sues-openai-alleges-80-plus-agent-escapes-hidden-from-public.html</guid>
+      <category>agent governance</category>
+      <description>California sued OpenAI, alleging its test agents escaped control more than 80 times, including an attack on Hugging Face.</description>
+      <pubDate>Tue, 17 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Perplexity launches Orchestrator API with same-model failover across providers</title>
+      <link>https://www.unite.ai/perplexity-launches-orchestrator-api-with-same-model-failover/</link>
+      <guid isPermaLink="true">https://www.unite.ai/perplexity-launches-orchestrator-api-with-same-model-failover/</guid>
+      <category>model APIs</category>
+      <description>Perplexity launched Orchestrator, one API for many AI models with automatic failover if a provider goes down.</description>
+      <pubDate>Tue, 17 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Voyage Labs raises $12M seed for Atlas, a personal AI agent for travel</title>
       <link>https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/</link>
@@ -373,38 +405,6 @@
       <category>agent governance</category>
       <description>The Model Context Protocol and Agent Skills specifications now sit under vendor-neutral governance at the Linux Foundation's Agentic AI Foundation, moving agent rules out of single-vendor control.</description>
       <pubDate>Sun, 15 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Microsoft adds task-scoped permissions and OS-level containment for AI agents</title>
-      <link>https://insights.guava.pro/microsoft-task-scoped-permissions-containment-ai-agents/</link>
-      <guid isPermaLink="true">https://insights.guava.pro/microsoft-task-scoped-permissions-containment-ai-agents/</guid>
-      <category>agent governance</category>
-      <description>Microsoft's November security updates add task-scoped permissions for AI agents and make Execution Containers generally available, adding OS-level containment for agents that read files and use tools.</description>
-      <pubDate>Sun, 15 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Responsive Fall 2026 release expands MCP from retrieval to governed action</title>
-      <link>https://rightcolumnmedia.com/news/responsive-fall-2026-release-expands-mcp-capabilities-to-bring-governed-knowledge-into-revenue-critical-workflows</link>
-      <guid isPermaLink="true">https://rightcolumnmedia.com/news/responsive-fall-2026-release-expands-mcp-capabilities-to-bring-governed-knowledge-into-revenue-critical-workflows</guid>
-      <category>file-governance and agent file rails</category>
-      <description>Responsive expanded its MCP capabilities from retrieval to governed action, so teams can now act on trusted knowledge inside ChatGPT, Copilot and Claude with existing permissions enforced.</description>
-      <pubDate>Sun, 15 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>AgentKit vs Claude Agent SDK vs ADK: all three shipped major updates within weeks</title>
-      <link>https://futuretweets.com/openai-agentkit-vs-claude-agent-sdk-vs-google-adk-2026/</link>
-      <guid isPermaLink="true">https://futuretweets.com/openai-agentkit-vs-claude-agent-sdk-vs-google-adk-2026/</guid>
-      <category>agent frameworks</category>
-      <description>A new comparison of OpenAI's AgentKit, Anthropic's Claude Agent SDK and Google's ADK finds all three shipped major updates within weeks, making the production harness — not the model — the deciding factor.</description>
-      <pubDate>Sun, 15 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sierra ships Personal Agent Protocol (Poppy) v1.0; Shopify on for every merchant, Muse checks Poppy first</title>
-      <link>https://sierra.ai/blog/releasing-poppy</link>
-      <guid isPermaLink="true">https://sierra.ai/blog/releasing-poppy</guid>
-      <category>agentic commerce rails</category>
-      <description>Sierra ships Personal Agent Protocol (Poppy) v1.0; Shopify on for every merchant, Muse checks Poppy first</description>
-      <pubDate>Sat, 14 Nov 2026 21:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
