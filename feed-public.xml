@@ -5,13 +5,53 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Brave Search API now accepts x402 agentic payments</title>
+      <link>https://www.webpronews.com/brave-search-api-accepts-agentic-payments/</link>
+      <guid isPermaLink="true">https://www.webpronews.com/brave-search-api-accepts-agentic-payments/</guid>
+      <category>agentic commerce rails</category>
+      <description>Brave's search API now accepts x402 payments, so AI agents can pay per search in USDC on Base without an API key or account.</description>
+      <pubDate>Mon, 16 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>The Agent Almanac launches a live x402 tracker: $10.7M settled, most of it off-protocol</title>
+      <link>https://agentalmanac.org/x402</link>
+      <guid isPermaLink="true">https://agentalmanac.org/x402</guid>
+      <category>agentic commerce rails</category>
+      <description>A new live tracker puts cumulative x402 payments at $10.7 million across 18.1 million transactions — and finds most of the money flowing into listed wallets settled outside the protocol.</description>
+      <pubDate>Mon, 16 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Genpact Onyx generally available for building, running and governing enterprise AI agents</title>
+      <link>https://www.unite.ai/genpact-makes-onyx-available-to-build-and-govern-enterprise-ai-agents/</link>
+      <guid isPermaLink="true">https://www.unite.ai/genpact-makes-onyx-available-to-build-and-govern-enterprise-ai-agents/</guid>
+      <category>enterprise agents</category>
+      <description>Genpact's Onyx platform for building, running and governing enterprise AI agents is now generally available, starting with an accounts-payable suite.</description>
+      <pubDate>Mon, 16 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Zoho launches Blended Agents for Zoho Desk, free to deploy on paid plans</title>
+      <link>https://aiagentupdate.com/post/zoho-blended-ai-agents-2026-11-16</link>
+      <guid isPermaLink="true">https://aiagentupdate.com/post/zoho-blended-ai-agents-2026-11-16</guid>
+      <category>agent launches</category>
+      <description>Zoho launched Blended Agents for Zoho Desk: AI agents handle routine support cases and hand tricky ones to humans, free to deploy on paid plans.</description>
+      <pubDate>Mon, 16 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Google unveils Ask AdMob and AI agent tools, with an AdMob MCP server coming in 2027</title>
+      <link>https://www.unite.ai/google-unveils-ask-admob-and-ai-agent-tools-for-app-monetization/</link>
+      <guid isPermaLink="true">https://www.unite.ai/google-unveils-ask-admob-and-ai-agent-tools-for-app-monetization/</guid>
+      <category>model APIs</category>
+      <description>Google added a Gemini assistant inside AdMob plus agent skills for ad setup, and an MCP server in early 2027 will let agents manage ad accounts directly.</description>
+      <pubDate>Mon, 16 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Alibaba releases Qwen4-Max: 2.4T-parameter MoE, 1M context, API-only at $1.50/$4.50 per 1M tokens</title>
       <link>https://www.hpcwire.com/aiwire/2026/11/16/alibaba-releases-qwen4-max-with-2-4-trillion-parameters/</link>
       <guid isPermaLink="true">https://www.hpcwire.com/aiwire/2026/11/16/alibaba-releases-qwen4-max-with-2-4-trillion-parameters/</guid>
       <category>model APIs</category>
-      <description>Alibaba released Qwen4-Max, a 2.4-trillion-parameter AI model with a one-million-token context window, available now through its cloud API at $1.50 per million input tokens.</description>
+      <description>Alibaba releases Qwen4-Max: 2.4T-parameter MoE, 1M context, API-only at $1.50/$4.50 per 1M tokens</description>
       <pubDate>Mon, 16 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -19,7 +59,7 @@
       <link>https://dealroom.co/news/173186-di-closes-round-at-100m-valuation-to-build-ai-agents-for-markets/</link>
       <guid isPermaLink="true">https://dealroom.co/news/173186-di-closes-round-at-100m-valuation-to-build-ai-agents-for-markets/</guid>
       <category>agent-startup funding</category>
-      <description>DI closed a funding round at a $100 million valuation to build an AI agent network for stock and crypto markets, with its first product, Event Engine, launching soon.</description>
+      <description>DI closes round at $100M valuation to build AI agents for markets</description>
       <pubDate>Mon, 16 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -27,7 +67,7 @@
       <link>https://agenteconomy.to/x402</link>
       <guid isPermaLink="true">https://agenteconomy.to/x402</guid>
       <category>agentic commerce rails</category>
-      <description>Payments on the x402 protocol passed 201 million settled transactions, worth $43 million, with most activity on the Base network.</description>
+      <description>A live tracker counts over 197.5 million x402 payments settled and $42.5 million in volume as of November 7, with Base the largest chain.</description>
       <pubDate>Mon, 16 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -365,46 +405,6 @@
       <category>agent governance</category>
       <description>Google opened Agent Gateway in limited preview for Amazon EKS, Azure AKS and OpenShift, giving agents a verifiable identity and routing their traffic through policy-enforcing proxies outside Google Cloud.</description>
       <pubDate>Sat, 14 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Tano raises $4M seed to let AI agents run creator marketing end to end</title>
-      <link>https://www.storika.ai/guides/tano-ai-agent-creator-marketing-funding-2026</link>
-      <guid isPermaLink="true">https://www.storika.ai/guides/tano-ai-agent-creator-marketing-funding-2026</guid>
-      <category>agent-startup funding</category>
-      <description>Tano raised a $4M seed round led by Cherry Ventures to run creator marketing with AI agents that find creators, negotiate rates and pay them end to end.</description>
-      <pubDate>Sat, 14 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OpenAI launches Business Hub beta in ChatGPT: verified profiles and business agents</title>
-      <link>https://trewknowledge.com/2026/11/13/ai-this-week-smarter-models-deeper-access-higher-stakes/</link>
-      <guid isPermaLink="true">https://trewknowledge.com/2026/11/13/ai-this-week-smarter-models-deeper-access-higher-stakes/</guid>
-      <category>agent spaces</category>
-      <description>OpenAI launched a Business Hub beta in ChatGPT, letting companies claim verified profiles and deploy a business agent that answers users' questions.</description>
-      <pubDate>Sat, 14 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Arctera adds MCP connectivity for Microsoft 365 Copilot</title>
-      <link>https://windowsforum.com/news/arctera-adds-mcp-connectivity-for-microsoft-365-copilot-admin-setup-and-governance-questions.452072/</link>
-      <guid isPermaLink="true">https://windowsforum.com/news/arctera-adds-mcp-connectivity-for-microsoft-365-copilot-admin-setup-and-governance-questions.452072/</guid>
-      <category>file governance</category>
-      <description>Arctera added MCP connectivity for Microsoft 365 Copilot, letting Copilot reach governed enterprise content through a live federated connector.</description>
-      <pubDate>Sat, 14 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Kindo raises $30M to govern enterprise AI agents and their spending</title>
-      <link>https://techstartups.com/2026/11/13/startup-funding-news-today-november-13-2026-mirendil-langchain-luminal-kindo-q-ctrl-more/</link>
-      <guid isPermaLink="true">https://techstartups.com/2026/11/13/startup-funding-news-today-november-13-2026-mirendil-langchain-luminal-kindo-q-ctrl-more/</guid>
-      <category>agent-startup funding</category>
-      <description>Kindo raised $30M to govern enterprise AI agents and their spending, co-led by Crosspoint Capital and Forgepoint Capital.</description>
-      <pubDate>Sat, 14 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>AI agent payments on the XRP Ledger pass 15.69 million</title>
-      <link>https://www.weex.com/news/detail/ai-agent-payments-reach-15-million-expanding-xrp-ledger-ecosystem-oyrrkkrqv445ib4jf9482qyy</link>
-      <guid isPermaLink="true">https://www.weex.com/news/detail/ai-agent-payments-reach-15-million-expanding-xrp-ledger-ecosystem-oyrrkkrqv445ib4jf9482qyy</guid>
-      <category>agentic commerce rails</category>
-      <description>AI agent payments on the XRP Ledger passed 15.69 million, with 5,410 services from 193 merchants now payable by agents via x402 in XRP and RLUSD.</description>
-      <pubDate>Sat, 14 Nov 2026 09:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
