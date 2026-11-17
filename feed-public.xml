@@ -5,7 +5,47 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Model ML raises $250M Series B at $1.5B valuation for personal AI agents in banking and consulting</title>
+      <link>https://www.generalatlantic.com/media-article/model-ml-raises-250-million-at-1-5-billion-valuation-18-months-after-launching-from-stealth/</link>
+      <guid isPermaLink="true">https://www.generalatlantic.com/media-article/model-ml-raises-250-million-at-1-5-billion-valuation-18-months-after-launching-from-stealth/</guid>
+      <category>agent-startup funding</category>
+      <description>Model ML raised $250 million at a $1.5 billion valuation for personal AI agents that automate banking and consulting work, with revenue up 12x year on year.</description>
+      <pubDate>Tue, 17 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Arva AI raises $20M Series A for bank-compliance AI agents</title>
+      <link>https://www.unite.ai/arva-ai-raises-20m-series-a-to-expand-bank-compliance-ai-and-sales/</link>
+      <guid isPermaLink="true">https://www.unite.ai/arva-ai-raises-20m-series-a-to-expand-bank-compliance-ai-and-sales/</guid>
+      <category>agent-startup funding</category>
+      <description>Arva AI raised $20 million to expand its bank-compliance agents, which research businesses and investigate sanctions and suspicious-transaction alerts.</description>
+      <pubDate>Tue, 17 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Anthropic opens self-hosted Claude Managed Agents in private beta</title>
+      <link>https://webpulse.one/threads/anthropic-opens-self-hosted-claude-managed-agents-in-private-beta.15885/</link>
+      <guid isPermaLink="true">https://webpulse.one/threads/anthropic-opens-self-hosted-claude-managed-agents-in-private-beta.15885/</guid>
+      <category>model APIs</category>
+      <description>Anthropic opened a private beta of self-hosted Claude Managed Agents, letting companies run the agent harness, sandboxes and credentials inside their own infrastructure.</description>
+      <pubDate>Tue, 17 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Two Claude API calls stop working Nov 30: Sonnet 4.5 retires, Opus 4-8 fast mode removed</title>
+      <link>https://zemna.net/blog/claude-api-two-calls-stop-nov-30/</link>
+      <guid isPermaLink="true">https://zemna.net/blog/claude-api-two-calls-stop-nov-30/</guid>
+      <category>model APIs</category>
+      <description>Two Claude API calls stop working November 30: the Sonnet 4.5 model string retires and fast mode is removed on Opus 4-8, so developers need to migrate now.</description>
+      <pubDate>Tue, 17 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OpenAI brings computer-use agents to healthcare teams</title>
+      <link>https://freshsynapse.com/articles/what-is-a-computer-use-agent/</link>
+      <guid isPermaLink="true">https://freshsynapse.com/articles/what-is-a-computer-use-agent/</guid>
+      <category>model APIs</category>
+      <description>OpenAI is bringing computer-use agents to healthcare teams, letting AI operate software by clicking and typing to handle clinical and admin workflows.</description>
+      <pubDate>Tue, 17 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Meta makes its enterprise AI bet official: Muse agent, Business Agent, Muse API and Muse Code</title>
       <link>https://webpulse.one/threads/metas-next-big-ai-bet-is-enterprise-its-biggest-hurdle-may-be-trust.10778/</link>
@@ -365,46 +405,6 @@
       <category>model APIs</category>
       <description>Apple opens Siri AI to developers: App Intents become agent tools, Siri reads SKILL.md</description>
       <pubDate>Sat, 14 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Memro v0.1.0: a memory layer for AI agents with typed memory and MCP over PostgreSQL</title>
-      <link>https://dev.to/delimitter/memro-a-memory-layer-for-ai-agents-with-typed-memory-and-mcp-over-postgresql-46ag</link>
-      <guid isPermaLink="true">https://dev.to/delimitter/memro-a-memory-layer-for-ai-agents-with-typed-memory-and-mcp-over-postgresql-46ag</guid>
-      <category>file governance</category>
-      <description>Memro v0.1.0: a memory layer for AI agents with typed memory and MCP over PostgreSQL</description>
-      <pubDate>Sat, 14 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>KubeCon NA 2026: agent identity takes center stage — OpenShift 5.0 ships a built-in MCP server</title>
-      <link>https://dev.to/saaro_net/kubecon-na-2026-live-the-identity-crisis-of-ai-agents-and-the-first-announcements-from-salt-lake-2fdg</link>
-      <guid isPermaLink="true">https://dev.to/saaro_net/kubecon-na-2026-live-the-identity-crisis-of-ai-agents-and-the-first-announcements-from-salt-lake-2fdg</guid>
-      <category>file governance</category>
-      <description>KubeCon NA 2026: agent identity takes center stage — OpenShift 5.0 ships a built-in MCP server</description>
-      <pubDate>Sat, 14 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Same three agents built in Grok Bot, ChatGPT Dots, Claude Duet and Meta Muse: Duet wins the inbox, Muse Spaces the tracker</title>
-      <link>https://medium.com/@ZoyaVasquez/i-built-the-same-3-agents-in-grok-bot-chatgpt-dots-and-claude-duet-4bb91b0186c0</link>
-      <guid isPermaLink="true">https://medium.com/@ZoyaVasquez/i-built-the-same-3-agents-in-grok-bot-chatgpt-dots-and-claude-duet-4bb91b0186c0</guid>
-      <category>agent spaces</category>
-      <description>Same three agents built in Grok Bot, ChatGPT Dots, Claude Duet and Meta Muse: Duet wins the inbox, Muse Spaces the tracker</description>
-      <pubDate>Sat, 14 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MCP servers drift under a pinned version: one server rebuilt 19 times with 15 dependency sets</title>
-      <link>https://www.ashishkaul.com/journal/mcp-server-security-version-number</link>
-      <guid isPermaLink="true">https://www.ashishkaul.com/journal/mcp-server-security-version-number</guid>
-      <category>file governance</category>
-      <description>MCP servers drift under a pinned version: one server rebuilt 19 times with 15 dependency sets</description>
-      <pubDate>Sat, 14 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GitHub Copilot retires six models Dec 14 and locks down its harness; VS Code 1.146 previews MCP skills</title>
-      <link>https://ai.dominicreichl.com/trends/</link>
-      <guid isPermaLink="true">https://ai.dominicreichl.com/trends/</guid>
-      <category>model APIs</category>
-      <description>GitHub Copilot retires six models Dec 14 and locks down its harness; VS Code 1.146 previews MCP skills</description>
-      <pubDate>Sat, 14 Nov 2026 18:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
