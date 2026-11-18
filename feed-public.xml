@@ -5,7 +5,31 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Sequel.io raises $15M Series B to expand AI agents and website personalization</title>
+      <link>https://www.unite.ai/sequel-io-raises-15m-series-b-to-expand-ai-agents-and-personalization/</link>
+      <guid isPermaLink="true">https://www.unite.ai/sequel-io-raises-15m-series-b-to-expand-ai-agents-and-personalization/</guid>
+      <category>agent-startup funding</category>
+      <description>Sequel raised $15 million to build AI agents that plan video programs from webinar-viewer data, with more than 400 companies already using its platform.</description>
+      <pubDate>Wed, 18 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Wix says Base44 nears $250M ARR, up from $100M in March</title>
+      <link>https://fourweekmba.com/ai-wixs-base44-nears-250m-arr-as-free-cash-flow-falls-41/</link>
+      <guid isPermaLink="true">https://fourweekmba.com/ai-wixs-base44-nears-250m-arr-as-free-cash-flow-falls-41/</guid>
+      <category>Base44/Instinct ecosystem</category>
+      <description>Wix says its AI app builder Base44 is nearing $250 million in annual recurring revenue, up from $100 million in March, with margins recovering to 58%.</description>
+      <pubDate>Wed, 18 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Who governs x402? 19 board seats at $200k a year while the rail moved $274k in October</title>
+      <link>https://www.danielmcglynn.com/your-ai-assistant-can-spend-your-money-before-anyone-decides-who-refunds-you/</link>
+      <guid isPermaLink="true">https://www.danielmcglynn.com/your-ai-assistant-can-spend-your-money-before-anyone-decides-who-refunds-you/</guid>
+      <category>agentic commerce rails</category>
+      <description>The group governing the x402 agent-payment standard charges $200,000 a year for a board seat, while the rail itself moved about $274,000 in October.</description>
+      <pubDate>Wed, 18 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Payhawk raises $280M Series C at $2B valuation to expand AI agents for finance operations</title>
       <link>https://www.leperspective.com/p/payhawk-280m-series-c-2b-valuation</link>
@@ -381,30 +405,6 @@
       <category>agent frameworks</category>
       <description>OpenAI Responses API bug: approved MCP writes can execute twice</description>
       <pubDate>Mon, 16 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Mastercard backs both card and crypto rails for AI agent payments</title>
-      <link>https://coinmarketcap.com/academy/article/mastercard-chatgpt-wallet-x402-agent-payments</link>
-      <guid isPermaLink="true">https://coinmarketcap.com/academy/article/mastercard-chatgpt-wallet-x402-agent-payments</guid>
-      <category>agentic commerce rails</category>
-      <description>Mastercard is backing both card payments and stablecoin payments for AI agents: ChatGPT Wallet runs on card tokenization, while its Agent Pay for Machines settles in stablecoins on Coinbase's x402 protocol.</description>
-      <pubDate>Sun, 15 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>XRP Ledger passes 11.7M sub-dollar AI agent microtransactions via x402</title>
-      <link>https://en.coin-turk.com/xrpl-ai-agent-transactions-surpass-11-7-million-t54-ai-eyes-real-world-payments/</link>
-      <guid isPermaLink="true">https://en.coin-turk.com/xrpl-ai-agent-transactions-surpass-11-7-million-t54-ai-eyes-real-world-payments/</guid>
-      <category>agentic commerce rails</category>
-      <description>The XRP Ledger passed 11.7 million sub-dollar AI agent microtransactions through t54.ai's x402 facilitator, with agents paying per task in XRP or the RLUSD stablecoin.</description>
-      <pubDate>Sun, 15 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>The 3 a.m. Invoice: a hands-on study of x402 payment risk</title>
-      <link>https://medium.com/@sriram1983007/the-3-a-m-invoice-c10953df8a67</link>
-      <guid isPermaLink="true">https://medium.com/@sriram1983007/the-3-a-m-invoice-c10953df8a67</guid>
-      <category>agentic commerce rails</category>
-      <description>A study of one day of real x402 payments on Base found 396,786 agent payments, nearly all tiny — and a small AI model approved 34.6% of the payments it should have stopped.</description>
-      <pubDate>Sun, 15 Nov 2026 21:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
