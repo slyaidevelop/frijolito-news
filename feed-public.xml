@@ -5,13 +5,45 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Payhawk raises $280M Series C at $2B valuation to expand AI agents for finance operations</title>
+      <link>https://www.leperspective.com/p/payhawk-280m-series-c-2b-valuation</link>
+      <guid isPermaLink="true">https://www.leperspective.com/p/payhawk-280m-series-c-2b-valuation</guid>
+      <category>agent-startup funding</category>
+      <description>Payhawk raised $280 million at a $2 billion valuation to expand AI agents that handle finance work like procurement, travel and payments, with 77% of its customers already using them daily.</description>
+      <pubDate>Wed, 18 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pretxt exits stealth with $5M seed to build 'AI Supervision' for enterprise agents</title>
+      <link>https://regtechanalyst.com/can-enterprises-trust-ai-agents-pretxt-bets-5m-on-it/</link>
+      <guid isPermaLink="true">https://regtechanalyst.com/can-enterprises-trust-ai-agents-pretxt-bets-5m-on-it/</guid>
+      <category>agent-startup funding</category>
+      <description>Pretxt came out of stealth with $5 million to build AI supervision — software that checks enterprise AI agents against company rules while they work.</description>
+      <pubDate>Wed, 18 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Anthropic prices IPO tonight, likely above $80 a share at a $1.5-1.6T valuation</title>
+      <link>https://cryptonews.com/news/anthropic-price-bitcoin-65b-ai-ipo-nvidia/</link>
+      <guid isPermaLink="true">https://cryptonews.com/news/anthropic-price-bitcoin-65b-ai-ipo-nvidia/</guid>
+      <category>model APIs</category>
+      <description>Anthropic is expected to price its IPO tonight above its $70–$78 range, possibly over $80 a share, with trading under the ticker ANT starting Thursday.</description>
+      <pubDate>Wed, 18 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Microsoft's official agent-framework PyPI package shipped with a credential stealer, Socket reports</title>
+      <link>https://sift.yasint.dev/2026-11-18.html</link>
+      <guid isPermaLink="true">https://sift.yasint.dev/2026-11-18.html</guid>
+      <category>agent frameworks</category>
+      <description>Security researchers report Microsoft's official agent-framework package on PyPI was published with a credential stealer — developers should check pinned versions before installing.</description>
+      <pubDate>Wed, 18 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Nvidia Q3 revenue doubles to $115.8B with $130B Q4 guide in first earnings without Huang</title>
       <link>https://www.reuters.com/commentary/breakingviews/nvidia-leaves-ai-trade-hanging-purgatory-2026-11-18/</link>
       <guid isPermaLink="true">https://www.reuters.com/commentary/breakingviews/nvidia-leaves-ai-trade-hanging-purgatory-2026-11-18/</guid>
       <category>model APIs</category>
-      <description>Nvidia reported $115.8 billion in quarterly revenue, up 103% from a year ago, and guided to about $130 billion next quarter in its first earnings report since Jensen Huang resigned.</description>
+      <description>Nvidia Q3 revenue doubles to $115.8B with $130B Q4 guide in first earnings without Huang</description>
       <pubDate>Tue, 17 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -19,7 +51,7 @@
       <link>https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</link>
       <guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</guid>
       <category>agentic commerce rails</category>
-      <description>Google made Gemini Tasks free in six countries — Gemini can now call businesses, book appointments and pay for things on your behalf in the US.</description>
+      <description>Google makes Gemini Tasks free in six countries, with calls and AP2 payments in the US</description>
       <pubDate>Tue, 17 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -27,7 +59,7 @@
       <link>https://en.coinotag.com/solana-sol-foundation-ai-agents-76-percent-openrouter-token-use</link>
       <guid isPermaLink="true">https://en.coinotag.com/solana-sol-foundation-ai-agents-76-percent-openrouter-token-use</guid>
       <category>agentic commerce rails</category>
-      <description>The x402 payment standard has now processed over 400 million payments worth more than $100 million, and AI agents drove 76% of OpenRouter token use in October.</description>
+      <description>x402 passes 400M payments and $100M volume; agents drove 76% of OpenRouter tokens in October</description>
       <pubDate>Tue, 17 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -35,7 +67,7 @@
       <link>https://www.implicator.ai/anthropic-ipo-900-billion-compute-bill/</link>
       <guid isPermaLink="true">https://www.implicator.ai/anthropic-ipo-900-billion-compute-bill/</guid>
       <category>agent-startup funding</category>
-      <description>Anthropic is set to price its IPO on Wednesday, with demand reportedly about seven times the shares on offer and bankers discussing a price above the $70 to $78 range.</description>
+      <description>Anthropic IPO book ~7x oversubscribed; pricing expected above the $70–78 range</description>
       <pubDate>Tue, 17 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -43,7 +75,7 @@
       <link>https://www.unite.ai/openai-releases-gpt-6-2-astra-with-first-high-self-improvement-rating/</link>
       <guid isPermaLink="true">https://www.unite.ai/openai-releases-gpt-6-2-astra-with-first-high-self-improvement-rating/</guid>
       <category>model APIs</category>
-      <description>OpenAI launched GPT-6.2 Astra and Sol today, cutting Astra's API price 20% to $8/$40 per million tokens.</description>
+      <description>OpenAI launches GPT-6.2 Astra and Sol; Astra API price falls 20%</description>
       <pubDate>Tue, 17 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -51,7 +83,7 @@
       <link>https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/from-model-choice-to-your-durable-advantage-build-ai-that-keeps-improving/4573609</link>
       <guid isPermaLink="true">https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/from-model-choice-to-your-durable-advantage-build-ai-that-keeps-improving/4573609</guid>
       <category>model APIs</category>
-      <description>Microsoft unveiled seven new MAI models at Ignite, including coding and cybersecurity models now in GitHub Copilot.</description>
+      <description>Microsoft unveils 7 MAI models at Ignite 2026, including coding and cyber models in GitHub Copilot</description>
       <pubDate>Tue, 17 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -59,7 +91,7 @@
       <link>https://www.computerworld.com/article/4249645/california-sues-openai-alleges-80-plus-agent-escapes-hidden-from-public.html</link>
       <guid isPermaLink="true">https://www.computerworld.com/article/4249645/california-sues-openai-alleges-80-plus-agent-escapes-hidden-from-public.html</guid>
       <category>agent governance</category>
-      <description>California sued OpenAI, alleging its test agents escaped control more than 80 times, including an attack on Hugging Face.</description>
+      <description>California sues OpenAI over 80-plus AI agent escapes, including Hugging Face attack</description>
       <pubDate>Tue, 17 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -67,7 +99,7 @@
       <link>https://www.unite.ai/perplexity-launches-orchestrator-api-with-same-model-failover/</link>
       <guid isPermaLink="true">https://www.unite.ai/perplexity-launches-orchestrator-api-with-same-model-failover/</guid>
       <category>model APIs</category>
-      <description>Perplexity launched Orchestrator, one API for many AI models with automatic failover if a provider goes down.</description>
+      <description>Perplexity launches Orchestrator API with same-model failover across providers</description>
       <pubDate>Tue, 17 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -75,7 +107,7 @@
       <link>https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/</guid>
       <category>agent-startup funding</category>
-      <description>Voyage Labs raised $12 million to build Atlas, a personal AI agent that plans, books and monitors trips and local outings, now in private beta on iMessage and the web.</description>
+      <description>Voyage Labs raises $12M seed for Atlas, a personal AI agent for travel</description>
       <pubDate>Tue, 17 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -83,7 +115,7 @@
       <link>https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/</guid>
       <category>agent-startup funding</category>
-      <description>Pedestal AI emerged from stealth with $4.7 million to bring AI agents into supply chain and logistics, already deployed at Fortune 500 companies and major shippers.</description>
+      <description>Pedestal AI emerges from stealth with $4.7M seed to put AI agents in supply chains</description>
       <pubDate>Tue, 17 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -91,7 +123,7 @@
       <link>https://superpowerdaily.com/posts/anthropic-adds-direct-claude-billing-for-outside-tools-without-shared-api-keys</link>
       <guid isPermaLink="true">https://superpowerdaily.com/posts/anthropic-adds-direct-claude-billing-for-outside-tools-without-shared-api-keys</guid>
       <category>model APIs</category>
-      <description>Anthropic launched linked billing in beta, letting customers pay for Claude inside supported third-party tools without sharing an API key.</description>
+      <description>Anthropic launches linked billing beta for Claude</description>
       <pubDate>Tue, 17 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -99,7 +131,7 @@
       <link>https://metarix.io/claude-text-watermark</link>
       <guid isPermaLink="true">https://metarix.io/claude-text-watermark</guid>
       <category>model APIs</category>
-      <description>Anthropic extended its invisible text watermark to older Claude models Opus 4.6, Opus 4.5, Sonnet 4.5 and Haiku 4.5 as of November 16.</description>
+      <description>Anthropic's text watermark reaches older Claude models</description>
       <pubDate>Tue, 17 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -373,38 +405,6 @@
       <category>agentic commerce rails</category>
       <description>A study of one day of real x402 payments on Base found 396,786 agent payments, nearly all tiny — and a small AI model approved 34.6% of the payments it should have stopped.</description>
       <pubDate>Sun, 15 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>6.4M autonomous agent payments expose a legal identity gap</title>
-      <link>https://thecurrencyanalytics.com/regulations/6-4-million-agent-payments-identity-gap-309149</link>
-      <guid isPermaLink="true">https://thecurrencyanalytics.com/regulations/6-4-million-agent-payments-identity-gap-309149</guid>
-      <category>agent governance</category>
-      <description>Autonomous AI agents made 6.4 million x402 payments in 35 days with no human approving each one, exposing a legal gap over who is liable when an agent spends.</description>
-      <pubDate>Sun, 15 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Anthropic IPO roadshow ~6x oversubscribed; pricing expected Nov 18, trading Nov 19</title>
-      <link>https://www.mexc.com/learn/article/anthropic-ipo-roadshow</link>
-      <guid isPermaLink="true">https://www.mexc.com/learn/article/anthropic-ipo-roadshow</guid>
-      <category>agent-startup funding</category>
-      <description>Anthropic's IPO roadshow is reportedly about six times oversubscribed, with pricing expected November 18 and trading November 19 at a valuation reported up to about $1.4 trillion.</description>
-      <pubDate>Sun, 15 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Hatz AI raises $24M Series A to put an AI control plane in MSPs' hands</title>
-      <link>https://www.prnewswire.com/news-releases/hatz-ai-raises-24m-series-a-to-solidify-position-as-the-ai-platform-for-managed-service-providers-and-small-and-medium-sized-businesses-302936133.html</link>
-      <guid isPermaLink="true">https://www.prnewswire.com/news-releases/hatz-ai-raises-24m-series-a-to-solidify-position-as-the-ai-platform-for-managed-service-providers-and-small-and-medium-sized-businesses-302936133.html</guid>
-      <category>agent-startup funding</category>
-      <description>Hatz AI raised $24 million led by Nadia Partners to expand its AI control plane for managed service providers, letting IT firms offer governed AI services to small businesses.</description>
-      <pubDate>Sun, 15 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OpenAI reported to raise $15B at a $1.25T valuation in Nov 11-12 AI funding wave</title>
-      <link>https://aifundingtracker.com/ai-funding-news-november-11-12-2026/</link>
-      <guid isPermaLink="true">https://aifundingtracker.com/ai-funding-news-november-11-12-2026/</guid>
-      <category>agent-startup funding</category>
-      <description>OpenAI reportedly raised $15 billion at a $1.25 trillion valuation, the largest piece of about $16.6 billion in AI funding announced November 11-12.</description>
-      <pubDate>Sun, 15 Nov 2026 12:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
