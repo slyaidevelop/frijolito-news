@@ -5,7 +5,39 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Nvidia Q3 revenue doubles to $115.8B with $130B Q4 guide in first earnings without Huang</title>
+      <link>https://www.reuters.com/commentary/breakingviews/nvidia-leaves-ai-trade-hanging-purgatory-2026-11-18/</link>
+      <guid isPermaLink="true">https://www.reuters.com/commentary/breakingviews/nvidia-leaves-ai-trade-hanging-purgatory-2026-11-18/</guid>
+      <category>model APIs</category>
+      <description>Nvidia reported $115.8 billion in quarterly revenue, up 103% from a year ago, and guided to about $130 billion next quarter in its first earnings report since Jensen Huang resigned.</description>
+      <pubDate>Tue, 17 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Google makes Gemini Tasks free in six countries, with calls and AP2 payments in the US</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</link>
+      <guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</guid>
+      <category>agentic commerce rails</category>
+      <description>Google made Gemini Tasks free in six countries — Gemini can now call businesses, book appointments and pay for things on your behalf in the US.</description>
+      <pubDate>Tue, 17 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>x402 passes 400M payments and $100M volume; agents drove 76% of OpenRouter tokens in October</title>
+      <link>https://en.coinotag.com/solana-sol-foundation-ai-agents-76-percent-openrouter-token-use</link>
+      <guid isPermaLink="true">https://en.coinotag.com/solana-sol-foundation-ai-agents-76-percent-openrouter-token-use</guid>
+      <category>agentic commerce rails</category>
+      <description>The x402 payment standard has now processed over 400 million payments worth more than $100 million, and AI agents drove 76% of OpenRouter token use in October.</description>
+      <pubDate>Tue, 17 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Anthropic IPO book ~7x oversubscribed; pricing expected above the $70–78 range</title>
+      <link>https://www.implicator.ai/anthropic-ipo-900-billion-compute-bill/</link>
+      <guid isPermaLink="true">https://www.implicator.ai/anthropic-ipo-900-billion-compute-bill/</guid>
+      <category>agent-startup funding</category>
+      <description>Anthropic is set to price its IPO on Wednesday, with demand reportedly about seven times the shares on offer and bankers discussing a price above the $70 to $78 range.</description>
+      <pubDate>Tue, 17 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>OpenAI launches GPT-6.2 Astra and Sol; Astra API price falls 20%</title>
       <link>https://www.unite.ai/openai-releases-gpt-6-2-astra-with-first-high-self-improvement-rating/</link>
@@ -373,38 +405,6 @@
       <category>agent-startup funding</category>
       <description>OpenAI reportedly raised $15 billion at a $1.25 trillion valuation, the largest piece of about $16.6 billion in AI funding announced November 11-12.</description>
       <pubDate>Sun, 15 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>StackShip ships an MCP server with scoped write access and approval gates</title>
-      <link>https://docs.stackship.run/automation/mcp/</link>
-      <guid isPermaLink="true">https://docs.stackship.run/automation/mcp/</guid>
-      <category>agent governance</category>
-      <description>StackShip launched an MCP server that lets AI agents inspect and manage infrastructure workspaces, with scoped permissions and approval gates on every change.</description>
-      <pubDate>Sun, 15 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>StitchStudio raises $8M to expand AI agents for insurance operations</title>
-      <link>https://www.europesays.com/ai/241211/</link>
-      <guid isPermaLink="true">https://www.europesays.com/ai/241211/</guid>
-      <category>agent-startup funding</category>
-      <description>Insurtech StitchStudio raised $8 million to expand AI agents that automate insurance underwriting and brokerage workflows inside existing systems.</description>
-      <pubDate>Sun, 15 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Upshift maps 30 companies that let AI agents pay; x402 passes 200M payments</title>
-      <link>https://www.upshift.finance/blog/agentic-payments-companies</link>
-      <guid isPermaLink="true">https://www.upshift.finance/blog/agentic-payments-companies</guid>
-      <category>agentic commerce rails</category>
-      <description>A new map of 30 agentic-payments companies shows how AI agents actually spend - wallets, cards, pay-per-call and checkout - as x402 payments pass 200 million.</description>
-      <pubDate>Sun, 15 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MCP and Agent Skills move to vendor-neutral governance under the Linux Foundation's Agentic AI Foundation</title>
-      <link>https://aigovernance.com/news/mcp-and-agent-skills-move-to-vendor-neutral-governance-under-linux-foundation</link>
-      <guid isPermaLink="true">https://aigovernance.com/news/mcp-and-agent-skills-move-to-vendor-neutral-governance-under-linux-foundation</guid>
-      <category>agent governance</category>
-      <description>The Model Context Protocol and Agent Skills specifications now sit under vendor-neutral governance at the Linux Foundation's Agentic AI Foundation, moving agent rules out of single-vendor control.</description>
-      <pubDate>Sun, 15 Nov 2026 09:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
