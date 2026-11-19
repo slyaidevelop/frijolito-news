@@ -5,7 +5,47 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Linq raises $90M Series B led by a16z at $1B valuation to build messaging infrastructure for AI agents</title>
+      <link>https://www.prnewswire.com/news-releases/linq-raises-90-million-in-new-funding-led-by-andreessen-horowitz-to-build-the-infrastructure-platform-for-ai-agents-302944728.html</link>
+      <guid isPermaLink="true">https://www.prnewswire.com/news-releases/linq-raises-90-million-in-new-funding-led-by-andreessen-horowitz-to-build-the-infrastructure-platform-for-ai-agents-302944728.html</guid>
+      <category>agent-startup funding</category>
+      <description>Linq raised $90M led by Andreessen Horowitz at a $1B valuation to build the messaging infrastructure that lets AI agents work inside WhatsApp, RCS and Apple Messages.</description>
+      <pubDate>Thu, 19 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Anthropic starts trading on Nasdaq today as ANT after pricing the largest US IPO on record at $83</title>
+      <link>https://chrisabraham.net/2026/11/ai-roundup-the-ticker-is-the-scoreboard.html</link>
+      <guid isPermaLink="true">https://chrisabraham.net/2026/11/ai-roundup-the-ticker-is-the-scoreboard.html</guid>
+      <category>model APIs</category>
+      <description>Anthropic starts trading on Nasdaq today as ANT after pricing its IPO at $83 a share — the largest US IPO on record at about $81.3B raised.</description>
+      <pubDate>Thu, 19 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>LATO raises €4.28M seed for AI agents that automate commercial due diligence</title>
+      <link>https://www.thesaasnews.com/news/lato-raises-4-28m-seed/</link>
+      <guid isPermaLink="true">https://www.thesaasnews.com/news/lato-raises-4-28m-seed/</guid>
+      <category>agent-startup funding</category>
+      <description>London startup LATO raised €4.28M to build AI agents that automate commercial due diligence for investors.</description>
+      <pubDate>Thu, 19 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>STRACT raises ¥1.2B (~$7.7M) for AI commerce agents DONDO and ureteku AI</title>
+      <link>https://www.thesaasnews.com/news/stract-raises-1-2b-other/</link>
+      <guid isPermaLink="true">https://www.thesaasnews.com/news/stract-raises-1-2b-other/</guid>
+      <category>agent-startup funding</category>
+      <description>Tokyo startup STRACT raised about $7.7M to build AI shopping agents that help consumers discover, compare and buy products across online marketplaces.</description>
+      <pubDate>Thu, 19 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>August AI raises $12M to expand its AI healthcare assistant in the US</title>
+      <link>https://inc42.com/buzz/august-ai-raises-12-mn-to-expand-ai-healthcare-assistant-in-the-us/</link>
+      <guid isPermaLink="true">https://inc42.com/buzz/august-ai-raises-12-mn-to-expand-ai-healthcare-assistant-in-the-us/</guid>
+      <category>agent-startup funding</category>
+      <description>August AI raised $12M to expand its AI healthcare assistant in the US, handling appointment booking and insurance-claim follow-ups for patients.</description>
+      <pubDate>Thu, 19 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Google launches Gemini 4 Neon, the mid-tier Gemini 4 model, at $3/$15 per 1M tokens</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</link>
@@ -365,46 +405,6 @@
       <category>model APIs</category>
       <description>Google's Gemini Decisions API (Nov 11) scores up to 1,000 closed questions per call instead of generating prose; DeepSeek shipped a built-in application API suite (Nov 13); GitHub Copilot removes six models Dec 14 - decision-scoring is becoming a second API shape alongside generation.</description>
       <pubDate>Mon, 16 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Airbnb CEO: AI agents like Muse and Instinct barely bringing in bookings - 'I don't see them as a threat'</title>
-      <link>https://apexnews-latam.com/en/news/airbnb-ceo-says-ai-agents-like-muse-and-instinct-are-barely-bringing-in-bookings-i-don-t-see-them-as-a-threat-7499d7dc261106en_zz</link>
-      <guid isPermaLink="true">https://apexnews-latam.com/en/news/airbnb-ceo-says-ai-agents-like-muse-and-instinct-are-barely-bringing-in-bookings-i-don-t-see-them-as-a-threat-7499d7dc261106en_zz</guid>
-      <category>Base44/Instinct ecosystem</category>
-      <description>First hard signal from a big travel platform that agent-driven booking volume is still negligible, tempering agent-commerce hype against actual transaction flow; Airbnb plans its own agent next year.</description>
-      <pubDate>Mon, 16 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Dreamteam raises $53M for an AI-native CRM with AI coworkers</title>
-      <link>https://agilebrandguide.com/ai-native-crm-dreamteam-raises-53m-to-challenge-incumbents-with-ai-coworkers-who-actually-get-work-done/</link>
-      <guid isPermaLink="true">https://agilebrandguide.com/ai-native-crm-dreamteam-raises-53m-to-challenge-incumbents-with-ai-coworkers-who-actually-get-work-done/</guid>
-      <category>agent-startup funding</category>
-      <description>Freshworks alumni's AI-native CRM - four AI coworkers plus an MCP server for agents - raised $53M from Accel and Together Fund and signed 100+ customers in its first 3 months.</description>
-      <pubDate>Mon, 16 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Numa raises $45M Series C for dealership AI</title>
-      <link>https://www.securities.io/numa-raises-45-million-series-c-to-expand-its-dealership-ai-platform/</link>
-      <guid isPermaLink="true">https://www.securities.io/numa-raises-45-million-series-c-to-expand-its-dealership-ai-platform/</guid>
-      <category>agent-startup funding</category>
-      <description>Dealership AI vendor triples ARR, tops $96M raised, and lands FordDirect as strategic vendor - vertical agents consolidating into infrastructure.</description>
-      <pubDate>Mon, 16 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Exaforce launches ExaU: an AI agent team for every security practitioner</title>
-      <link>https://business.theantlersamerican.com/theantlersamerican/article/bizwire-2026-11-16-exaforce-launches-exau-ai-agent-team-for-every-security-practitioner</link>
-      <guid isPermaLink="true">https://business.theantlersamerican.com/theantlersamerican/article/bizwire-2026-11-16-exaforce-launches-exau-ai-agent-team-for-every-security-practitioner</guid>
-      <category>agent launches</category>
-      <description>Each security practitioner gets a team of AI agents that learn their priorities and work around the clock - agent teams as a product, not a platform feature.</description>
-      <pubDate>Mon, 16 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Moneiva raises $3.1M seed to automate supply-chain communications</title>
-      <link>https://lifestyle.inspiredn.com/story/995761/moneiva-raises-3-1-million-to-automate-the-hardest-work-in-supply-chain/</link>
-      <guid isPermaLink="true">https://lifestyle.inspiredn.com/story/995761/moneiva-raises-3-1-million-to-automate-the-hardest-work-in-supply-chain/</guid>
-      <category>agent-startup funding</category>
-      <description>AI operators take over the repetitive, high-stakes coordination behind logistics - already live with carriers and brokers.</description>
-      <pubDate>Mon, 16 Nov 2026 12:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
