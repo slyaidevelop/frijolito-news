@@ -5,7 +5,23 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 13:32:00 -0500</lastBuildDate>
+    <item>
+      <title>Anthropic's ANT opens at $111.50, up 34% on its $83 IPO price, in the largest IPO on record</title>
+      <link>https://www.fool.com/investing/2026/11/19/anthropic-just-started-trading-here-s-what-you-need-to-know/</link>
+      <guid isPermaLink="true">https://www.fool.com/investing/2026/11/19/anthropic-just-started-trading-here-s-what-you-need-to-know/</guid>
+      <category>model APIs</category>
+      <description>Anthropic began trading on Nasdaq today as ANT, opening at $111.50 — about 34% above its $83 IPO price — in the largest IPO on record.</description>
+      <pubDate>Thu, 19 Nov 2026 13:32:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Microsoft recasts Copilot as the 'OS for work' at Ignite, with always-on Autopilot agent</title>
+      <link>https://aiagentupdate.com/post/microsoft-ignite-copilot-os-2026-11-19</link>
+      <guid isPermaLink="true">https://aiagentupdate.com/post/microsoft-ignite-copilot-os-2026-11-19</guid>
+      <category>agent frameworks</category>
+      <description>Microsoft rebuilt Copilot at Ignite around an always-on Autopilot agent that carries projects forward, plus shared Workspaces for people and agents.</description>
+      <pubDate>Thu, 19 Nov 2026 13:32:00 -0500</pubDate>
+    </item>
     <item>
       <title>Linq raises $90M Series B led by a16z at $1B valuation to build messaging infrastructure for AI agents</title>
       <link>https://www.prnewswire.com/news-releases/linq-raises-90-million-in-new-funding-led-by-andreessen-horowitz-to-build-the-infrastructure-platform-for-ai-agents-302944728.html</link>
@@ -389,22 +405,6 @@
       <category>agent-startup funding</category>
       <description>The startup is building an AI agent network for US stock and crypto markets, with its first product, Event Engine, launching soon — agents moving from copilots into live market infrastructure.</description>
       <pubDate>Mon, 16 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>x402 settlements pass 201 million, worth $43.0M</title>
-      <link>https://agenteconomy.to/x402</link>
-      <guid isPermaLink="true">https://agenteconomy.to/x402</guid>
-      <category>agentic commerce rails</category>
-      <description>The live tracker shows 201,182,995 cumulative x402 payments settled as of Nov 15, worth $43.0M across 12 chains with Base largest — the rail keeps compounding, even as the share of that volume that is genuinely agentic stays small.</description>
-      <pubDate>Mon, 16 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Developer API week, Nov 9-16: Gemini Decisions API, DeepSeek app suite, Copilot deprecations</title>
-      <link>https://dev.to/cuelark/ai-updates-for-developers-nov-9-16-2026-fable-52-gemini-4-carbon-decision-models-and-what-14j1</link>
-      <guid isPermaLink="true">https://dev.to/cuelark/ai-updates-for-developers-nov-9-16-2026-fable-52-gemini-4-carbon-decision-models-and-what-14j1</guid>
-      <category>model APIs</category>
-      <description>Google's Gemini Decisions API (Nov 11) scores up to 1,000 closed questions per call instead of generating prose; DeepSeek shipped a built-in application API suite (Nov 13); GitHub Copilot removes six models Dec 14 - decision-scoring is becoming a second API shape alongside generation.</description>
-      <pubDate>Mon, 16 Nov 2026 15:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
