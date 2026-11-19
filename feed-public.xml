@@ -5,7 +5,39 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Google launches Gemini 4 Neon, the mid-tier Gemini 4 model, at $3/$15 per 1M tokens</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</link>
+      <guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</guid>
+      <category>model APIs</category>
+      <description>Google launched Gemini 4 Neon, a new mid-tier AI model for coding and knowledge work, at $3 per million input tokens with a 1M-token context window.</description>
+      <pubDate>Wed, 18 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ivanti gives AI clients governed MCP access to Neurons operational context</title>
+      <link>https://www.prnewswire.com/news-releases/new-ivanti-capabilities-bring-operational-context-through-a-trusted-system-of-record-to-enterprise-ai-302943776.html</link>
+      <guid isPermaLink="true">https://www.prnewswire.com/news-releases/new-ivanti-capabilities-bring-operational-context-through-a-trusted-system-of-record-to-enterprise-ai-302943776.html</guid>
+      <category>file-governance</category>
+      <description>Ivanti now lets AI assistants like GitHub Copilot and Claude read endpoint and patch data from its Neurons platform through a governed MCP connection.</description>
+      <pubDate>Wed, 18 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Oleria launches AI Gateway, extending identity governance to AI agents</title>
+      <link>https://www.morningstar.com/news/accesswire/1252602msn/oleria-extends-identity-governance-to-ai-agents-tracing-every-agent-through-the-people-and-credentials-it-acts-for</link>
+      <guid isPermaLink="true">https://www.morningstar.com/news/accesswire/1252602msn/oleria-extends-identity-governance-to-ai-agents-tracing-every-agent-through-the-people-and-credentials-it-acts-for</guid>
+      <category>agent governance</category>
+      <description>Oleria launched an AI Gateway that gives every AI agent an owner and lets companies approve, block or route each agent action in real time.</description>
+      <pubDate>Wed, 18 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Una AI launches Orchestrator and AI Governance for FP&amp;A</title>
+      <link>https://markets.financialcontent.com/theantlersamerican/article/bizwire-2026-11-18-una-ai-launches-orchestrator-and-ai-governance-for-fp-and-a</link>
+      <guid isPermaLink="true">https://markets.financialcontent.com/theantlersamerican/article/bizwire-2026-11-18-una-ai-launches-orchestrator-and-ai-governance-for-fp-and-a</guid>
+      <category>agent governance</category>
+      <description>Una AI launched an Orchestrator and Governance tools that let finance teams hand planning work to AI agents while controlling what they can access, change and approve.</description>
+      <pubDate>Wed, 18 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Anthropic prices IPO at $83 a share, above its $70–78 range; trading as ANT starts Thursday</title>
       <link>https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/</link>
@@ -373,38 +405,6 @@
       <category>agent-startup funding</category>
       <description>AI operators take over the repetitive, high-stakes coordination behind logistics - already live with carriers and brokers.</description>
       <pubDate>Mon, 16 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Agentic finance in 2026: the rails shipped before the riders</title>
-      <link>https://vanja.io/agentic-finance/</link>
-      <guid isPermaLink="true">https://vanja.io/agentic-finance/</guid>
-      <category>agentic commerce rails</category>
-      <description>A sourced map of the rails: x402 settled about $274,000 in October (~5 cents a payment), Visa reports agents buying in Europe but publishes no volume, and no bank deployment has a published measured result.</description>
-      <pubDate>Mon, 16 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Rational Optimist's guide to AI agents: Instinct retrieves a family's airline miles</title>
-      <link>https://rationaloptimistsociety.substack.com/p/agents-ai-for-normies</link>
-      <guid isPermaLink="true">https://rationaloptimistsociety.substack.com/p/agents-ai-for-normies</guid>
-      <category>Base44/Instinct ecosystem</category>
-      <description>A first-person account of Instinct doing real multi-step work - digging bookings from email, opening miles accounts, chatting with a human rep - named one of five agents worth knowing.</description>
-      <pubDate>Mon, 16 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Qwen launches Qwen4-Max: 2.4T-parameter backbone, native vision, 1M-token context</title>
-      <link>https://munderdiffl.in/blog/agent-tools-today-2026-11-16/</link>
-      <guid isPermaLink="true">https://munderdiffl.in/blog/agent-tools-today-2026-11-16/</guid>
-      <category>model APIs</category>
-      <description>Another frontier-scale model lands in the agent stack the same day it was announced — widening the capable, long-context options for long-running agents.</description>
-      <pubDate>Mon, 16 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Linux Foundation launches Agent Name Service to give AI agents verifiable identities</title>
-      <link>https://www.prnewswire.com/news-releases/linux-foundation-welcomes-agent-name-service-to-bring-verifiable-identity-and-discovery-to-ai-agents-302935151.html</link>
-      <guid isPermaLink="true">https://www.prnewswire.com/news-releases/linux-foundation-welcomes-agent-name-service-to-bring-verifiable-identity-and-discovery-to-ai-agents-302935151.html</guid>
-      <category>agent governance</category>
-      <description>A standard way to prove which organization an agent belongs to before granting it access — DNS-anchored identity with 11 backers including Cisco, Cloudflare, GoDaddy and Salesforce, though the specs are still marked drafts.</description>
-      <pubDate>Mon, 16 Nov 2026 09:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
