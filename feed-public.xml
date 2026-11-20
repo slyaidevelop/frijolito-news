@@ -5,7 +5,39 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Everful raises $48.5M Series A to build the AI infrastructure layer for global commerce</title>
+      <link>https://www.prnewswire.com/news-releases/everful-raises-48-5-million-series-a-to-build-the-ai-infrastructure-layer-for-global-commerce-302945927.html</link>
+      <guid isPermaLink="true">https://www.prnewswire.com/news-releases/everful-raises-48-5-million-series-a-to-build-the-ai-infrastructure-layer-for-global-commerce-302945927.html</guid>
+      <category>agent-startup funding</category>
+      <description>Everful raised $48.5 million to build AI infrastructure for global commerce, with agents that find products, vet factories and manage orders across 60 countries.</description>
+      <pubDate>Thu, 19 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>LangChain launches LangSmith Tool Gateway in public beta to govern agent tool calls</title>
+      <link>https://www.unite.ai/langchain-launches-langsmith-tool-gateway-to-govern-agent-tool-calls/</link>
+      <guid isPermaLink="true">https://www.unite.ai/langchain-launches-langsmith-tool-gateway-to-govern-agent-tool-calls/</guid>
+      <category>file-governance</category>
+      <description>LangChain launched LangSmith Tool Gateway in public beta, a control layer that governs which tools AI agents can call, whose credentials they use, and how each action is recorded.</description>
+      <pubDate>Thu, 19 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BigCommerce launches Shopping Agent for merchants as Firmly's Ask Agent reaches 11M+ merchants</title>
+      <link>https://www.pymnts.com/news/artificial-intelligence/2026/bigcommerce-and-firmly-hand-every-merchant-a-walmart-style-ai-agent/</link>
+      <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/bigcommerce-and-firmly-hand-every-merchant-a-walmart-style-ai-agent/</guid>
+      <category>agentic commerce rails</category>
+      <description>BigCommerce launched a Shopping Agent for merchants and Firmly's Ask Agent now reaches more than 11 million merchants, bringing AI shopping agents to smaller stores.</description>
+      <pubDate>Thu, 19 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Meta names Loblaw the first Canadian retailer on Muse, with meal planning and grocery checkout in-chat</title>
+      <link>https://ppc.land/loblaw-lets-metas-muse-plan-meals-and-check-out-groceries-in-canada/</link>
+      <guid isPermaLink="true">https://ppc.land/loblaw-lets-metas-muse-plan-meals-and-check-out-groceries-in-canada/</guid>
+      <category>WhatsApp/Meta dev</category>
+      <description>Loblaw became the first Canadian retailer on Meta's Muse, letting shoppers plan meals, fill a basket and check out without leaving the assistant.</description>
+      <pubDate>Thu, 19 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Metano raises $12M seed to secure AI agents across the enterprise</title>
       <link>https://www.agentdarkroom.com/news/metano-raises-12m-seed-to-secure-ai-agents-across-the-enterprise-1a0ec3</link>
@@ -373,38 +405,6 @@
       <category>Meta developer news</category>
       <description>Meta is taking its Muse AI agent to the enterprise, bundling it with a business agent, an API and a coding tool as its next major business pillar.</description>
       <pubDate>Tue, 17 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Nvidia reports Q3 tonight in its first call since Huang resigned; Anthropic prices its IPO Wednesday</title>
-      <link>https://www.coindesk.com/markets/2026/11/17/nvidia-faces-first-earnings-test-without-jensen-huang-as-ai-stocks-slide</link>
-      <guid isPermaLink="true">https://www.coindesk.com/markets/2026/11/17/nvidia-faces-first-earnings-test-without-jensen-huang-as-ai-stocks-slide</guid>
-      <category>model APIs</category>
-      <description>Nvidia reports earnings after the close today in its first call since its CEO resigned, and Anthropic is expected to price its IPO on Wednesday at a valuation near $1.5 trillion.</description>
-      <pubDate>Tue, 17 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Instinct made the consumer agent feel real, a first-person account argues</title>
-      <link>https://vuink.com/post/k-d-dpbz/sytaylor/status/2094346674911035447</link>
-      <guid isPermaLink="true">https://vuink.com/post/k-d-dpbz/sytaylor/status/2094346674911035447</guid>
-      <category>Base44/Instinct ecosystem</category>
-      <description>A first-person account says Instinct is the first personal AI agent that feels like a product, not a project — it books and buys by texting, with no app to learn.</description>
-      <pubDate>Tue, 17 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Brave Search API now accepts x402 agentic payments</title>
-      <link>https://www.webpronews.com/brave-search-api-accepts-agentic-payments/</link>
-      <guid isPermaLink="true">https://www.webpronews.com/brave-search-api-accepts-agentic-payments/</guid>
-      <category>agentic commerce rails</category>
-      <description>Brave's search API now accepts x402 payments, so AI agents can pay per search in USDC on Base without an API key or account.</description>
-      <pubDate>Mon, 16 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>The Agent Almanac launches a live x402 tracker: $10.7M settled, most of it off-protocol</title>
-      <link>https://agentalmanac.org/x402</link>
-      <guid isPermaLink="true">https://agentalmanac.org/x402</guid>
-      <category>agentic commerce rails</category>
-      <description>A new live tracker puts cumulative x402 payments at $10.7 million across 18.1 million transactions — and finds most of the money flowing into listed wallets settled outside the protocol.</description>
-      <pubDate>Mon, 16 Nov 2026 21:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
