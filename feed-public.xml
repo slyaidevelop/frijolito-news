@@ -5,7 +5,31 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Metano raises $12M seed to secure AI agents across the enterprise</title>
+      <link>https://www.agentdarkroom.com/news/metano-raises-12m-seed-to-secure-ai-agents-across-the-enterprise-1a0ec3</link>
+      <guid isPermaLink="true">https://www.agentdarkroom.com/news/metano-raises-12m-seed-to-secure-ai-agents-across-the-enterprise-1a0ec3</guid>
+      <category>agent-startup funding</category>
+      <description>Metano came out of stealth with $12 million in seed funding to build security and governance software for enterprise AI agents, led by Sierra Ventures.</description>
+      <pubDate>Thu, 19 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>AI-agent USDC transfers surge 498.8% to 11.1 million in 30 days</title>
+      <link>https://www.kucoin.com/news/flash/ai-agent-usdc-transfers-surge-498-8-to-11-1-million-in-30-days</link>
+      <guid isPermaLink="true">https://www.kucoin.com/news/flash/ai-agent-usdc-transfers-surge-498-8-to-11-1-million-in-30-days</guid>
+      <category>agentic commerce rails</category>
+      <description>AI agents made 11.1 million USDC transfers in the past 30 days, up nearly 500% from the month before, with most of the activity on Base, Polygon and Arc.</description>
+      <pubDate>Thu, 19 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Claude Code 2.1.328 brings Opus 4.6 and Sonnet 4.6 auto mode to more hosts</title>
+      <link>https://vibestacklab.com/new</link>
+      <guid isPermaLink="true">https://vibestacklab.com/new</guid>
+      <category>agent frameworks</category>
+      <description>Claude Code 2.1.328, released today, brings automatic model selection for Opus 4.6 and Sonnet 4.6 to more cloud platforms, including Bedrock and Microsoft Foundry.</description>
+      <pubDate>Thu, 19 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>ServiceNow: 92% of Indian organisations faced an AI agent security incident in the past year</title>
       <link>https://www.varindia.com/news/92-of-indian-organisations-faced-ai-agent-security-incident-in-the-past-year-servicenow-report</link>
@@ -380,30 +404,6 @@
       <guid isPermaLink="true">https://agentalmanac.org/x402</guid>
       <category>agentic commerce rails</category>
       <description>A new live tracker puts cumulative x402 payments at $10.7 million across 18.1 million transactions — and finds most of the money flowing into listed wallets settled outside the protocol.</description>
-      <pubDate>Mon, 16 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Genpact Onyx generally available for building, running and governing enterprise AI agents</title>
-      <link>https://www.unite.ai/genpact-makes-onyx-available-to-build-and-govern-enterprise-ai-agents/</link>
-      <guid isPermaLink="true">https://www.unite.ai/genpact-makes-onyx-available-to-build-and-govern-enterprise-ai-agents/</guid>
-      <category>enterprise agents</category>
-      <description>Genpact's Onyx platform for building, running and governing enterprise AI agents is now generally available, starting with an accounts-payable suite.</description>
-      <pubDate>Mon, 16 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Zoho launches Blended Agents for Zoho Desk, free to deploy on paid plans</title>
-      <link>https://aiagentupdate.com/post/zoho-blended-ai-agents-2026-11-16</link>
-      <guid isPermaLink="true">https://aiagentupdate.com/post/zoho-blended-ai-agents-2026-11-16</guid>
-      <category>agent launches</category>
-      <description>Zoho launched Blended Agents for Zoho Desk: AI agents handle routine support cases and hand tricky ones to humans, free to deploy on paid plans.</description>
-      <pubDate>Mon, 16 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Google unveils Ask AdMob and AI agent tools, with an AdMob MCP server coming in 2027</title>
-      <link>https://www.unite.ai/google-unveils-ask-admob-and-ai-agent-tools-for-app-monetization/</link>
-      <guid isPermaLink="true">https://www.unite.ai/google-unveils-ask-admob-and-ai-agent-tools-for-app-monetization/</guid>
-      <category>model APIs</category>
-      <description>Google added a Gemini assistant inside AdMob plus agent skills for ad setup, and an MCP server in early 2027 will let agents manage ad accounts directly.</description>
       <pubDate>Mon, 16 Nov 2026 21:20:00 -0500</pubDate>
     </item>
   </channel>
