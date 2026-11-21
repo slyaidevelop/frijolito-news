@@ -5,7 +5,39 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Model ML raises $250M Series B at $1.5B valuation to put personal AI agents on bankers' desks</title>
+      <link>https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/</guid>
+      <category>agent-startup funding</category>
+      <description>Model ML raised a $250 million Series B at a $1.5 billion valuation to build personal AI agents for bankers and consultants.</description>
+      <pubDate>Sat, 21 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Axle raises $9M to add AI agents to investment-bank meeting scheduling</title>
+      <link>https://news.hamidun.com/en/news/17421/axle-raises-9m-to-build-ai-agents-for-investment-bank-meetin</link>
+      <guid isPermaLink="true">https://news.hamidun.com/en/news/17421/axle-raises-9m-to-build-ai-agents-for-investment-bank-meetin</guid>
+      <category>agent-startup funding</category>
+      <description>Axle raised $9 million to add AI agents to investment-bank meeting scheduling.</description>
+      <pubDate>Sat, 21 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Atlan brings data governance to MCP: agents read owners, lineage and policies, changes wait for approval</title>
+      <link>https://atlan.com/know/ai-agent/ai-agent-governance/mcp-for-data-governance/</link>
+      <guid isPermaLink="true">https://atlan.com/know/ai-agent/ai-agent-governance/mcp-for-data-governance/</guid>
+      <category>file-governance</category>
+      <description>Atlan's MCP server now lets AI agents read data owners, lineage and policies, with any metadata change waiting for human approval.</description>
+      <pubDate>Sat, 21 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>AI agents can now pay on XDC in USDC via x402</title>
+      <link>https://xdcnetwork.org/ai-agents-payments-xdc/</link>
+      <guid isPermaLink="true">https://xdcnetwork.org/ai-agents-payments-xdc/</guid>
+      <category>agentic commerce rails</category>
+      <description>AI agents can now pay in USDC on the XDC network via the open x402 payment standard.</description>
+      <pubDate>Sat, 21 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Modern Industrials raises $6M seed to build custom AI agents for manufacturers and distributors</title>
       <link>https://en.wowtale.net/2026/11/21/236116/</link>
@@ -373,38 +405,6 @@
       <category>agentic commerce rails</category>
       <description>Coinstancy launches Agentic Bank: per-agent USDC wallets on Base with owner-set budgets, paying over x402</description>
       <pubDate>Wed, 18 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GPT-6.2 Astra faces early backlash from builders over loops and repetitive choices</title>
-      <link>https://www.androidheadlines.com/2026/11/openai-gpt-6-2-astra-sol-release-reviews.html</link>
-      <guid isPermaLink="true">https://www.androidheadlines.com/2026/11/openai-gpt-6-2-astra-sol-release-reviews.html</guid>
-      <category>model APIs</category>
-      <description>GPT-6.2 Astra faces early backlash from builders over loops and repetitive choices</description>
-      <pubDate>Wed, 18 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Pi Network demos x402 machine payments with OpenMind RoboPay on testnet</title>
-      <link>https://bsc.news/news/pi-network-x402-robopay-testnet-demo</link>
-      <guid isPermaLink="true">https://bsc.news/news/pi-network-x402-robopay-testnet-demo</guid>
-      <category>agentic commerce rails</category>
-      <description>Pi Network demos x402 machine payments with OpenMind RoboPay on testnet</description>
-      <pubDate>Wed, 18 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sequel.io raises $15M Series B to expand AI agents and website personalization</title>
-      <link>https://www.unite.ai/sequel-io-raises-15m-series-b-to-expand-ai-agents-and-personalization/</link>
-      <guid isPermaLink="true">https://www.unite.ai/sequel-io-raises-15m-series-b-to-expand-ai-agents-and-personalization/</guid>
-      <category>agent-startup funding</category>
-      <description>Sequel.io raises $15M Series B to expand AI agents and website personalization</description>
-      <pubDate>Wed, 18 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Wix says Base44 nears $250M ARR, up from $100M in March</title>
-      <link>https://fourweekmba.com/ai-wixs-base44-nears-250m-arr-as-free-cash-flow-falls-41/</link>
-      <guid isPermaLink="true">https://fourweekmba.com/ai-wixs-base44-nears-250m-arr-as-free-cash-flow-falls-41/</guid>
-      <category>Base44/Instinct ecosystem</category>
-      <description>Wix says Base44 nears $250M ARR, up from $100M in March</description>
-      <pubDate>Wed, 18 Nov 2026 15:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
