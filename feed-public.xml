@@ -5,7 +5,47 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Pragmatik Labs raises new round at ~$5B valuation; Oracle fully funds its OpenAI buildout</title>
+      <link>https://www.mediocresecurity.com/ai-landscape/funding/</link>
+      <guid isPermaLink="true">https://www.mediocresecurity.com/ai-landscape/funding/</guid>
+      <category>agent-startup funding</category>
+      <description>Pragmatik Labs raised a new round at about a $5 billion valuation, and Oracle says its OpenAI infrastructure buildout is now fully funded.</description>
+      <pubDate>Sat, 21 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Okta extends MCP governance to every hop of an agent's tool calls</title>
+      <link>https://www.okta.com/blog/product-innovation/secure-ai-agents-mcp-workflow/</link>
+      <guid isPermaLink="true">https://www.okta.com/blog/product-innovation/secure-ai-agents-mcp-workflow/</guid>
+      <category>file-governance</category>
+      <description>Okta extended its MCP governance so every step of an AI agent's tool calls is scoped, audited, and tied to the person who requested it.</description>
+      <pubDate>Sat, 21 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare Agents SDK v0.34.0 brings Pi 1.6 tools that wait without staying awake</title>
+      <link>https://community.cloudflare.com/t/agents-agents-sdk-now-supports-pi-1-6-with-tools-that-wait-without-keeping-your-agent-awake/982817</link>
+      <guid isPermaLink="true">https://community.cloudflare.com/t/agents-agents-sdk-now-supports-pi-1-6-with-tools-that-wait-without-keeping-your-agent-awake/982817</guid>
+      <category>agent frameworks</category>
+      <description>Cloudflare's Agents SDK now lets AI agent tools wait for a person or a deadline without staying awake and burning compute.</description>
+      <pubDate>Sat, 21 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>MCP drafts an experimental file uploads and downloads extension</title>
+      <link>https://agentndx.ai/blog/mcp-file-uploads-downloads-draft-extension/</link>
+      <guid isPermaLink="true">https://agentndx.ai/blog/mcp-file-uploads-downloads-draft-extension/</guid>
+      <category>file-governance</category>
+      <description>The Model Context Protocol published a draft extension for uploading and downloading files outside the model's context.</description>
+      <pubDate>Sat, 21 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Dev week in review: GPT-6.2 coding backlash, Microsoft MAI Code 2, Gemini 4 Neon</title>
+      <link>https://www.everydev.ai/p/news-weekly-ai-dev-news-digest-november-14-november-20-2026</link>
+      <guid isPermaLink="true">https://www.everydev.ai/p/news-weekly-ai-dev-news-digest-november-14-november-20-2026</guid>
+      <category>model APIs</category>
+      <description>This week's developer digest: GPT-6.2 drew mixed reviews for coding, Microsoft launched MAI Code 2, and Google shipped Gemini 4 Neon.</description>
+      <pubDate>Sat, 21 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>First Person Labs exits stealth with ~$10M led by a16z to build per-user models</title>
       <link>https://opcreport.cn/opc-report-2026-11-20-0925/</link>
@@ -365,46 +405,6 @@
       <category>agent-startup funding</category>
       <description>Pretxt exits stealth with $5M seed to build 'AI Supervision' for enterprise agents</description>
       <pubDate>Wed, 18 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Anthropic prices IPO tonight, likely above $80 a share at a $1.5-1.6T valuation</title>
-      <link>https://cryptonews.com/news/anthropic-price-bitcoin-65b-ai-ipo-nvidia/</link>
-      <guid isPermaLink="true">https://cryptonews.com/news/anthropic-price-bitcoin-65b-ai-ipo-nvidia/</guid>
-      <category>model APIs</category>
-      <description>Anthropic prices IPO tonight, likely above $80 a share at a $1.5-1.6T valuation</description>
-      <pubDate>Wed, 18 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Microsoft's official agent-framework PyPI package shipped with a credential stealer, Socket reports</title>
-      <link>https://sift.yasint.dev/2026-11-18.html</link>
-      <guid isPermaLink="true">https://sift.yasint.dev/2026-11-18.html</guid>
-      <category>agent frameworks</category>
-      <description>Microsoft's official agent-framework PyPI package shipped with a credential stealer, Socket reports</description>
-      <pubDate>Wed, 18 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Nvidia Q3 revenue doubles to $115.8B with $130B Q4 guide in first earnings without Huang</title>
-      <link>https://www.reuters.com/commentary/breakingviews/nvidia-leaves-ai-trade-hanging-purgatory-2026-11-18/</link>
-      <guid isPermaLink="true">https://www.reuters.com/commentary/breakingviews/nvidia-leaves-ai-trade-hanging-purgatory-2026-11-18/</guid>
-      <category>model APIs</category>
-      <description>Nvidia Q3 revenue doubles to $115.8B with $130B Q4 guide in first earnings without Huang</description>
-      <pubDate>Tue, 17 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Google makes Gemini Tasks free in six countries, with calls and AP2 payments in the US</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</link>
-      <guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</guid>
-      <category>agentic commerce rails</category>
-      <description>Google makes Gemini Tasks free in six countries, with calls and AP2 payments in the US</description>
-      <pubDate>Tue, 17 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>x402 passes 400M payments and $100M volume; agents drove 76% of OpenRouter tokens in October</title>
-      <link>https://en.coinotag.com/solana-sol-foundation-ai-agents-76-percent-openrouter-token-use</link>
-      <guid isPermaLink="true">https://en.coinotag.com/solana-sol-foundation-ai-agents-76-percent-openrouter-token-use</guid>
-      <category>agentic commerce rails</category>
-      <description>x402 passes 400M payments and $100M volume; agents drove 76% of OpenRouter tokens in October</description>
-      <pubDate>Tue, 17 Nov 2026 21:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
