@@ -5,13 +5,29 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <item>
+      <title>First Person Labs exits stealth with ~$10M led by a16z to build per-user models</title>
+      <link>https://opcreport.cn/opc-report-2026-11-20-0925/</link>
+      <guid isPermaLink="true">https://opcreport.cn/opc-report-2026-11-20-0925/</guid>
+      <category>agent-startup funding</category>
+      <description>First Person Labs came out of stealth with about $10 million led by Andreessen Horowitz to build AI models tuned to each individual user.</description>
+      <pubDate>Fri, 20 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Simplex AI open-sources Linger, a personal agent that runs entirely on your PC</title>
+      <link>https://opcreport.cn/opc-report-2026-11-20-1330/</link>
+      <guid isPermaLink="true">https://opcreport.cn/opc-report-2026-11-20-1330/</guid>
+      <category>agent frameworks</category>
+      <description>Simplex AI open-sourced Linger, a personal AI agent that runs entirely on your own PC instead of in the cloud.</description>
+      <pubDate>Fri, 20 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Cognition AI in funding talks at a $75 billion valuation</title>
       <link>https://www.reuters.com/technology/cognition-ai-talks-be-valued-75-billion-latest-funding-round-bloomberg-news-2026-11-20/</link>
       <guid isPermaLink="true">https://www.reuters.com/technology/cognition-ai-talks-be-valued-75-billion-latest-funding-round-bloomberg-news-2026-11-20/</guid>
       <category>agent-startup funding</category>
-      <description>Cognition AI is reportedly in talks to raise over $2 billion at a $75 billion valuation, two months after its Series E valued the coding-agent startup at $48 billion.</description>
+      <description>Cognition AI in funding talks at a $75 billion valuation</description>
       <pubDate>Fri, 20 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -19,7 +35,7 @@
       <link>https://dailyaibrief.com/news/hoplite-raises-5-5-million-from-stripes-collison-brothers-to-run-ai-coding-agents-in-the-cloud-kkVjFyEm</link>
       <guid isPermaLink="true">https://dailyaibrief.com/news/hoplite-raises-5-5-million-from-stripes-collison-brothers-to-run-ai-coding-agents-in-the-cloud-kkVjFyEm</guid>
       <category>agent-startup funding</category>
-      <description>Hoplite raised $5.5 million led by Stripe founders Patrick and John Collison to run AI coding agents in the cloud instead of on a laptop.</description>
+      <description>Hoplite raises $5.5M from Stripe's Collison brothers to run AI coding agents in the cloud</description>
       <pubDate>Fri, 20 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -27,7 +43,7 @@
       <link>https://opcreport.cn/opc-report-2026-11-20-1740/</link>
       <guid isPermaLink="true">https://opcreport.cn/opc-report-2026-11-20-1740/</guid>
       <category>agentic commerce rails</category>
-      <description>Citi, PNC and Citizens updated their terms this week so customers are responsible for what third-party AI agents do on their accounts.</description>
+      <description>US banks shift AI-agent liability onto customers</description>
       <pubDate>Fri, 20 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -35,7 +51,7 @@
       <link>https://news.johnsavageai.com/p/daily-ai-brief-nov-20-2026/</link>
       <guid isPermaLink="true">https://news.johnsavageai.com/p/daily-ai-brief-nov-20-2026/</guid>
       <category>agent-startup funding</category>
-      <description>Anthropic went public on the Nasdaq under the ticker ANT, pricing shares at $83 and raising about $81.3 billion in the largest AI IPO yet.</description>
+      <description>Anthropic goes public at $83 a share, raising about $81.3 billion</description>
       <pubDate>Fri, 20 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -43,7 +59,7 @@
       <link>https://oossa.com/en/humyn-labs-raises-47-million-series-a-to-expand-physical-ai-research</link>
       <guid isPermaLink="true">https://oossa.com/en/humyn-labs-raises-47-million-series-a-to-expand-physical-ai-research</guid>
       <category>agent-startup funding</category>
-      <description>Humyn Labs raised $47 million in Series A funding to expand its physical AI research and get robots ready for real-world use.</description>
+      <description>Humyn Labs raises $47M Series A to expand physical AI research</description>
       <pubDate>Fri, 20 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -51,7 +67,7 @@
       <link>https://runtimewire.com/article/archer-raises-10m-to-build-an-ai-agent-for-both-sides-of-hiring</link>
       <guid isPermaLink="true">https://runtimewire.com/article/archer-raises-10m-to-build-an-ai-agent-for-both-sides-of-hiring</guid>
       <category>agent-startup funding</category>
-      <description>Hackajob raised $10 million to expand Archer, its AI hiring agent that works for both recruiters and job candidates.</description>
+      <description>Hackajob raises $10M to expand Archer, its two-sided AI hiring agent</description>
       <pubDate>Fri, 20 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -59,7 +75,7 @@
       <link>https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/</link>
       <guid isPermaLink="true">https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/</guid>
       <category>model APIs</category>
-      <description>Google added computer use to the Gemini app for Mac, so it can click, type, and fill in forms across local apps and websites in the background.</description>
+      <description>Gemini computer use comes to Mac — click, type, and fill forms in the background</description>
       <pubDate>Fri, 20 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -67,7 +83,7 @@
       <link>https://www.digitaltrends.com/computing/meta-is-putting-muse-in-a-chrome-sidebar-and-the-official-announcement-just-arrived/</link>
       <guid isPermaLink="true">https://www.digitaltrends.com/computing/meta-is-putting-muse-in-a-chrome-sidebar-and-the-official-announcement-just-arrived/</guid>
       <category>agent spaces</category>
-      <description>Meta officially announced its Muse Chrome extension, putting the AI agent in the browser sidebar — it already has 200,000 users and a 4.6 rating.</description>
+      <description>Meta officially announces the Muse Chrome extension: 200,000 users, 4.6 rating</description>
       <pubDate>Fri, 20 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -147,7 +163,7 @@
       <link>https://www.agentdarkroom.com/news/metano-raises-12m-seed-to-secure-ai-agents-across-the-enterprise-1a0ec3</link>
       <guid isPermaLink="true">https://www.agentdarkroom.com/news/metano-raises-12m-seed-to-secure-ai-agents-across-the-enterprise-1a0ec3</guid>
       <category>agent-startup funding</category>
-      <description>Metano came out of stealth with $12 million in seed funding to build security and governance software for enterprise AI agents, led by Sierra Ventures.</description>
+      <description>Metano raises $12M seed to secure AI agents across the enterprise</description>
       <pubDate>Thu, 19 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -155,7 +171,7 @@
       <link>https://www.kucoin.com/news/flash/ai-agent-usdc-transfers-surge-498-8-to-11-1-million-in-30-days</link>
       <guid isPermaLink="true">https://www.kucoin.com/news/flash/ai-agent-usdc-transfers-surge-498-8-to-11-1-million-in-30-days</guid>
       <category>agentic commerce rails</category>
-      <description>AI agents made 11.1 million USDC transfers in the past 30 days, up nearly 500% from the month before, with most of the activity on Base, Polygon and Arc.</description>
+      <description>AI-agent USDC transfers surge 498.8% to 11.1 million in 30 days</description>
       <pubDate>Thu, 19 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -163,7 +179,7 @@
       <link>https://vibestacklab.com/new</link>
       <guid isPermaLink="true">https://vibestacklab.com/new</guid>
       <category>agent frameworks</category>
-      <description>Claude Code 2.1.328, released today, brings automatic model selection for Opus 4.6 and Sonnet 4.6 to more cloud platforms, including Bedrock and Microsoft Foundry.</description>
+      <description>Claude Code 2.1.328 brings Opus 4.6 and Sonnet 4.6 auto mode to more hosts</description>
       <pubDate>Thu, 19 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -171,7 +187,7 @@
       <link>https://www.varindia.com/news/92-of-indian-organisations-faced-ai-agent-security-incident-in-the-past-year-servicenow-report</link>
       <guid isPermaLink="true">https://www.varindia.com/news/92-of-indian-organisations-faced-ai-agent-security-incident-in-the-past-year-servicenow-report</guid>
       <category>agent governance</category>
-      <description>A new ServiceNow survey found 92% of Indian organisations faced an AI agent security incident in the past year, and 37% discovered agents running in production that security never knew about.</description>
+      <description>ServiceNow: 92% of Indian organisations faced an AI agent security incident in the past year</description>
       <pubDate>Thu, 19 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -179,7 +195,7 @@
       <link>https://techcommunity.microsoft.com/blog/intunecustomersuccess/a-guide-to-governing-local-ai-agents-with-intune/4573284</link>
       <guid isPermaLink="true">https://techcommunity.microsoft.com/blog/intunecustomersuccess/a-guide-to-governing-local-ai-agents-with-intune/4573284</guid>
       <category>agent governance</category>
-      <description>Microsoft published a hands-on guide to governing local AI agents with Intune, including preview policies that cut off company data on devices running unapproved agents.</description>
+      <description>Microsoft's Intune guide to governing local AI agents: compliance policies, Execution Containers, Defender runtime protection</description>
       <pubDate>Thu, 19 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -315,7 +331,7 @@
       <link>https://www.unite.ai/sequel-io-raises-15m-series-b-to-expand-ai-agents-and-personalization/</link>
       <guid isPermaLink="true">https://www.unite.ai/sequel-io-raises-15m-series-b-to-expand-ai-agents-and-personalization/</guid>
       <category>agent-startup funding</category>
-      <description>Sequel raised $15 million to build AI agents that plan video programs from webinar-viewer data, with more than 400 companies already using its platform.</description>
+      <description>Sequel.io raises $15M Series B to expand AI agents and website personalization</description>
       <pubDate>Wed, 18 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -323,7 +339,7 @@
       <link>https://fourweekmba.com/ai-wixs-base44-nears-250m-arr-as-free-cash-flow-falls-41/</link>
       <guid isPermaLink="true">https://fourweekmba.com/ai-wixs-base44-nears-250m-arr-as-free-cash-flow-falls-41/</guid>
       <category>Base44/Instinct ecosystem</category>
-      <description>Wix says its AI app builder Base44 is nearing $250 million in annual recurring revenue, up from $100 million in March, with margins recovering to 58%.</description>
+      <description>Wix says Base44 nears $250M ARR, up from $100M in March</description>
       <pubDate>Wed, 18 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -331,7 +347,7 @@
       <link>https://www.danielmcglynn.com/your-ai-assistant-can-spend-your-money-before-anyone-decides-who-refunds-you/</link>
       <guid isPermaLink="true">https://www.danielmcglynn.com/your-ai-assistant-can-spend-your-money-before-anyone-decides-who-refunds-you/</guid>
       <category>agentic commerce rails</category>
-      <description>The group governing the x402 agent-payment standard charges $200,000 a year for a board seat, while the rail itself moved about $274,000 in October.</description>
+      <description>Who governs x402? 19 board seats at $200k a year while the rail moved $274k in October</description>
       <pubDate>Wed, 18 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -339,7 +355,7 @@
       <link>https://www.leperspective.com/p/payhawk-280m-series-c-2b-valuation</link>
       <guid isPermaLink="true">https://www.leperspective.com/p/payhawk-280m-series-c-2b-valuation</guid>
       <category>agent-startup funding</category>
-      <description>Payhawk raised $280 million at a $2 billion valuation to expand AI agents that handle finance work like procurement, travel and payments, with 77% of its customers already using them daily.</description>
+      <description>Payhawk raises $280M Series C at $2B valuation to expand AI agents for finance operations</description>
       <pubDate>Wed, 18 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -347,7 +363,7 @@
       <link>https://regtechanalyst.com/can-enterprises-trust-ai-agents-pretxt-bets-5m-on-it/</link>
       <guid isPermaLink="true">https://regtechanalyst.com/can-enterprises-trust-ai-agents-pretxt-bets-5m-on-it/</guid>
       <category>agent-startup funding</category>
-      <description>Pretxt came out of stealth with $5 million to build AI supervision — software that checks enterprise AI agents against company rules while they work.</description>
+      <description>Pretxt exits stealth with $5M seed to build 'AI Supervision' for enterprise agents</description>
       <pubDate>Wed, 18 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -355,7 +371,7 @@
       <link>https://cryptonews.com/news/anthropic-price-bitcoin-65b-ai-ipo-nvidia/</link>
       <guid isPermaLink="true">https://cryptonews.com/news/anthropic-price-bitcoin-65b-ai-ipo-nvidia/</guid>
       <category>model APIs</category>
-      <description>Anthropic is expected to price its IPO tonight above its $70–$78 range, possibly over $80 a share, with trading under the ticker ANT starting Thursday.</description>
+      <description>Anthropic prices IPO tonight, likely above $80 a share at a $1.5-1.6T valuation</description>
       <pubDate>Wed, 18 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -363,7 +379,7 @@
       <link>https://sift.yasint.dev/2026-11-18.html</link>
       <guid isPermaLink="true">https://sift.yasint.dev/2026-11-18.html</guid>
       <category>agent frameworks</category>
-      <description>Security researchers report Microsoft's official agent-framework package on PyPI was published with a credential stealer — developers should check pinned versions before installing.</description>
+      <description>Microsoft's official agent-framework PyPI package shipped with a credential stealer, Socket reports</description>
       <pubDate>Wed, 18 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -389,22 +405,6 @@
       <category>agentic commerce rails</category>
       <description>x402 passes 400M payments and $100M volume; agents drove 76% of OpenRouter tokens in October</description>
       <pubDate>Tue, 17 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Anthropic IPO book ~7x oversubscribed; pricing expected above the $70–78 range</title>
-      <link>https://www.implicator.ai/anthropic-ipo-900-billion-compute-bill/</link>
-      <guid isPermaLink="true">https://www.implicator.ai/anthropic-ipo-900-billion-compute-bill/</guid>
-      <category>agent-startup funding</category>
-      <description>Anthropic IPO book ~7x oversubscribed; pricing expected above the $70–78 range</description>
-      <pubDate>Tue, 17 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OpenAI launches GPT-6.2 Astra and Sol; Astra API price falls 20%</title>
-      <link>https://www.unite.ai/openai-releases-gpt-6-2-astra-with-first-high-self-improvement-rating/</link>
-      <guid isPermaLink="true">https://www.unite.ai/openai-releases-gpt-6-2-astra-with-first-high-self-improvement-rating/</guid>
-      <category>model APIs</category>
-      <description>OpenAI launches GPT-6.2 Astra and Sol; Astra API price falls 20%</description>
-      <pubDate>Tue, 17 Nov 2026 18:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
