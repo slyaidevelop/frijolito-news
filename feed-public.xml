@@ -5,7 +5,31 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Modern Industrials raises $6M seed to build custom AI agents for manufacturers and distributors</title>
+      <link>https://en.wowtale.net/2026/11/21/236116/</link>
+      <guid isPermaLink="true">https://en.wowtale.net/2026/11/21/236116/</guid>
+      <category>agent-startup funding</category>
+      <description>Modern Industrials raised a $6 million seed round to build custom AI agents for manufacturers and distributors.</description>
+      <pubDate>Sat, 21 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp usernames and BSUID: API changes for business</title>
+      <link>https://nextinera.com/blog/whatsapp-usernames-bsuid-business-api-changes/</link>
+      <guid isPermaLink="true">https://nextinera.com/blog/whatsapp-usernames-bsuid-business-api-changes/</guid>
+      <category>WhatsApp/Meta dev</category>
+      <description>WhatsApp is rolling out usernames so customers can chat without sharing a phone number, and businesses will see a new business-scoped user ID in API webhooks instead.</description>
+      <pubDate>Sat, 21 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Codex CLI 0.171.0 and Claude Code 2.1.330 ship the same day</title>
+      <link>https://agentvera.dev/en/agent-changelog/</link>
+      <guid isPermaLink="true">https://agentvera.dev/en/agent-changelog/</guid>
+      <category>model APIs</category>
+      <description>Codex CLI 0.171.0 and Claude Code 2.1.330 both shipped on November 20, with GPT-6.2 Sol now the default model in Codex.</description>
+      <pubDate>Sat, 21 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Pragmatik Labs raises new round at ~$5B valuation; Oracle fully funds its OpenAI buildout</title>
       <link>https://www.mediocresecurity.com/ai-landscape/funding/</link>
@@ -381,30 +405,6 @@
       <category>Base44/Instinct ecosystem</category>
       <description>Wix says Base44 nears $250M ARR, up from $100M in March</description>
       <pubDate>Wed, 18 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Who governs x402? 19 board seats at $200k a year while the rail moved $274k in October</title>
-      <link>https://www.danielmcglynn.com/your-ai-assistant-can-spend-your-money-before-anyone-decides-who-refunds-you/</link>
-      <guid isPermaLink="true">https://www.danielmcglynn.com/your-ai-assistant-can-spend-your-money-before-anyone-decides-who-refunds-you/</guid>
-      <category>agentic commerce rails</category>
-      <description>Who governs x402? 19 board seats at $200k a year while the rail moved $274k in October</description>
-      <pubDate>Wed, 18 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Payhawk raises $280M Series C at $2B valuation to expand AI agents for finance operations</title>
-      <link>https://www.leperspective.com/p/payhawk-280m-series-c-2b-valuation</link>
-      <guid isPermaLink="true">https://www.leperspective.com/p/payhawk-280m-series-c-2b-valuation</guid>
-      <category>agent-startup funding</category>
-      <description>Payhawk raises $280M Series C at $2B valuation to expand AI agents for finance operations</description>
-      <pubDate>Wed, 18 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Pretxt exits stealth with $5M seed to build 'AI Supervision' for enterprise agents</title>
-      <link>https://regtechanalyst.com/can-enterprises-trust-ai-agents-pretxt-bets-5m-on-it/</link>
-      <guid isPermaLink="true">https://regtechanalyst.com/can-enterprises-trust-ai-agents-pretxt-bets-5m-on-it/</guid>
-      <category>agent-startup funding</category>
-      <description>Pretxt exits stealth with $5M seed to build 'AI Supervision' for enterprise agents</description>
-      <pubDate>Wed, 18 Nov 2026 09:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
