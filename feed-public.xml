@@ -5,7 +5,15 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Independent live benchmark of 9 frontier models exposes Gemini 4 Neon pricing inversion and thinking-token bug</title>
+      <link>https://dev.to/m1kulya/9-frontier-ai-models-tested-live-nov-2026-pricing-inversions-thinking-token-traps--1k2h</link>
+      <guid isPermaLink="true">https://dev.to/m1kulya/9-frontier-ai-models-tested-live-nov-2026-pricing-inversions-thinking-token-traps--1k2h</guid>
+      <category>model APIs</category>
+      <description>An independent benchmark of nine leading AI models found Gemini 4 Neon costs more per token than Google's flagship Carbon until December 1, and that test results swing widely with the harness used.</description>
+      <pubDate>Sun, 22 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>OpenAI ships GPT-Live-1.1 for voice agents and cuts idle cost to $0.02/min</title>
       <link>https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/</link>
@@ -397,14 +405,6 @@
       <category>agent governance</category>
       <description>Microsoft published a hands-on guide to governing local AI agents with Intune, including preview policies that cut off company data on devices running unapproved agents.</description>
       <pubDate>Thu, 19 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Anthropic's ANT opens at $111.50, up 34% on its $83 IPO price, in the largest IPO on record</title>
-      <link>https://www.fool.com/investing/2026/11/19/anthropic-just-started-trading-here-s-what-you-need-to-know/</link>
-      <guid isPermaLink="true">https://www.fool.com/investing/2026/11/19/anthropic-just-started-trading-here-s-what-you-need-to-know/</guid>
-      <category>model APIs</category>
-      <description>Anthropic's ANT opens at $111.50, up 34% on its $83 IPO price, in the largest IPO on record</description>
-      <pubDate>Thu, 19 Nov 2026 13:32:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
