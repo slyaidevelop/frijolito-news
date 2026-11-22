@@ -5,7 +5,47 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <item>
+      <title>AgentKit Beta 3 adds GitHub Copilot runtime support and Ollama context-window discovery</title>
+      <link>https://undercodenews.com/agentkit-just-got-a-major-update-beta-3-brings-github-copilot-runtime-integration-ollama-discovery-and-more-powerful-agent-tools-video/</link>
+      <guid isPermaLink="true">https://undercodenews.com/agentkit-just-got-a-major-update-beta-3-brings-github-copilot-runtime-integration-ollama-discovery-and-more-powerful-agent-tools-video/</guid>
+      <category>agent frameworks</category>
+      <description>AgentKit Beta 3 adds GitHub Copilot runtime support and Ollama context-window discovery, moving toward agents that work across providers and local models.</description>
+      <pubDate>Sat, 21 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Gauge raises $500K seed to track how AI agents pick software</title>
+      <link>https://dealroom.co/news/174775-gauge-raises-500k-seed-to-track-how-ai-agents-pick-software/</link>
+      <guid isPermaLink="true">https://dealroom.co/news/174775-gauge-raises-500k-seed-to-track-how-ai-agents-pick-software/</guid>
+      <category>agent-startup funding</category>
+      <description>Gauge raised a $500,000 seed round to track how AI agents discover and choose software, as agents start buying tools inside developer environments.</description>
+      <pubDate>Sat, 21 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Noeri launches with $110M led by Menlo Ventures to build self-improving AI</title>
+      <link>https://inite.ai/en/news/model-ml-and-noeri-land-big-rounds-for-business-ai</link>
+      <guid isPermaLink="true">https://inite.ai/en/news/model-ml-and-noeri-land-big-rounds-for-business-ai</guid>
+      <category>agent-startup funding</category>
+      <description>Noeri launched with $110 million in initial funding led by Menlo Ventures to build self-improving AI for enterprises and researchers.</description>
+      <pubDate>Sat, 21 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Base44 launches Production Agent to watch published apps and suggest one-click fixes</title>
+      <link>https://docs.base44.com/changelog/product?experiment_id=120232338341120128%5EFacebook_Mobile_Feed</link>
+      <guid isPermaLink="true">https://docs.base44.com/changelog/product?experiment_id=120232338341120128%5EFacebook_Mobile_Feed</guid>
+      <category>Base44/Instinct ecosystem</category>
+      <description>Base44 launched Production Agent, which watches published apps for errors, suggests one-click fixes, and can send email alerts when issues recur.</description>
+      <pubDate>Sat, 21 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>System 1 agents: local agents that never generate text, 92.9% correct on 1,952 tool requests</title>
+      <link>https://discuss.huggingface.co/t/system-1-agents-a-method-for-local-reliable-and-fast-agentic-ai/192267</link>
+      <guid isPermaLink="true">https://discuss.huggingface.co/t/system-1-agents-a-method-for-local-reliable-and-fast-agentic-ai/192267</guid>
+      <category>agent frameworks</category>
+      <description>A new preprint describes 'System 1 agents' — local AI agents that never generate text and scored 92.9% correct across nearly 2,000 tool requests.</description>
+      <pubDate>Sat, 21 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Sierra in talks to raise ~$1.5B at a ~$30B valuation, nearly doubling its May price</title>
       <link>https://www.pymnts.com/startups/2026/ai-customer-support-startup-sierra-eyes-30-billion-valuation/</link>
@@ -365,46 +405,6 @@
       <category>agent-startup funding</category>
       <description>STRACT raises ¥1.2B (~$7.7M) for AI commerce agents DONDO and ureteku AI</description>
       <pubDate>Thu, 19 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>August AI raises $12M to expand its AI healthcare assistant in the US</title>
-      <link>https://inc42.com/buzz/august-ai-raises-12-mn-to-expand-ai-healthcare-assistant-in-the-us/</link>
-      <guid isPermaLink="true">https://inc42.com/buzz/august-ai-raises-12-mn-to-expand-ai-healthcare-assistant-in-the-us/</guid>
-      <category>agent-startup funding</category>
-      <description>August AI raises $12M to expand its AI healthcare assistant in the US</description>
-      <pubDate>Thu, 19 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Google launches Gemini 4 Neon, the mid-tier Gemini 4 model, at $3/$15 per 1M tokens</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</link>
-      <guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</guid>
-      <category>model APIs</category>
-      <description>Google launches Gemini 4 Neon, the mid-tier Gemini 4 model, at $3/$15 per 1M tokens</description>
-      <pubDate>Wed, 18 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Ivanti gives AI clients governed MCP access to Neurons operational context</title>
-      <link>https://www.prnewswire.com/news-releases/new-ivanti-capabilities-bring-operational-context-through-a-trusted-system-of-record-to-enterprise-ai-302943776.html</link>
-      <guid isPermaLink="true">https://www.prnewswire.com/news-releases/new-ivanti-capabilities-bring-operational-context-through-a-trusted-system-of-record-to-enterprise-ai-302943776.html</guid>
-      <category>file-governance</category>
-      <description>Ivanti gives AI clients governed MCP access to Neurons operational context</description>
-      <pubDate>Wed, 18 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Oleria launches AI Gateway, extending identity governance to AI agents</title>
-      <link>https://www.morningstar.com/news/accesswire/1252602msn/oleria-extends-identity-governance-to-ai-agents-tracing-every-agent-through-the-people-and-credentials-it-acts-for</link>
-      <guid isPermaLink="true">https://www.morningstar.com/news/accesswire/1252602msn/oleria-extends-identity-governance-to-ai-agents-tracing-every-agent-through-the-people-and-credentials-it-acts-for</guid>
-      <category>agent governance</category>
-      <description>Oleria launches AI Gateway, extending identity governance to AI agents</description>
-      <pubDate>Wed, 18 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Una AI launches Orchestrator and AI Governance for FP&amp;A</title>
-      <link>https://markets.financialcontent.com/theantlersamerican/article/bizwire-2026-11-18-una-ai-launches-orchestrator-and-ai-governance-for-fp-and-a</link>
-      <guid isPermaLink="true">https://markets.financialcontent.com/theantlersamerican/article/bizwire-2026-11-18-una-ai-launches-orchestrator-and-ai-governance-for-fp-and-a</guid>
-      <category>agent governance</category>
-      <description>Una AI launches Orchestrator and AI Governance for FP&amp;A</description>
-      <pubDate>Wed, 18 Nov 2026 21:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
