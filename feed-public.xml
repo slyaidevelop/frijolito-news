@@ -5,7 +5,39 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <item>
+      <title>OpenAI ships GPT-Live-1.1 for voice agents and cuts idle cost to $0.02/min</title>
+      <link>https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/</link>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/</guid>
+      <category>model APIs</category>
+      <description>OpenAI's new GPT-Live-1.1 voice model charges $0.02 a minute for idle time instead of $0.05, making always-on voice agents cheaper to run.</description>
+      <pubDate>Sun, 22 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Google previews Tool Retrieval in the Gemini API for large tool libraries</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</link>
+      <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</guid>
+      <category>model APIs</category>
+      <description>Google's Gemini API can now load an agent's tool definitions on demand instead of sending the whole library with every request, cutting token costs for agents with lots of tools.</description>
+      <pubDate>Sun, 22 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Perplexity Computer adds Multiagent: up to 16 agents that cross-check each other's work</title>
+      <link>https://www.perplexity.ai/hub/blog/introducing-computer-multiagent</link>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/introducing-computer-multiagent</guid>
+      <category>agent builders</category>
+      <description>Perplexity's Computer can now run a team of up to 16 AI agents on different models that share findings and check each other's work on complex tasks.</description>
+      <pubDate>Sun, 22 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Meta puts Muse in a Chrome sidebar — 200,000 users already</title>
+      <link>https://www.insightex.si/news/metas-muse-ai-agent-arrives-as-a-chrome-extension-with-200000-early-users</link>
+      <guid isPermaLink="true">https://www.insightex.si/news/metas-muse-ai-agent-arrives-as-a-chrome-extension-with-200000-early-users</guid>
+      <category>agent sidebar race</category>
+      <description>Meta's Muse AI agent is now available as a Chrome extension, with 200,000 people already using it in the browser sidebar.</description>
+      <pubDate>Sun, 22 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Collate 2.1 brings open-context governance and MCP graph tools to enterprise AI agents</title>
       <link>https://futurumgroup.com/insights/collate-bets-on-open-context-and-staged-governance-for-ai-agents/</link>
@@ -373,38 +405,6 @@
       <category>model APIs</category>
       <description>Anthropic's ANT opens at $111.50, up 34% on its $83 IPO price, in the largest IPO on record</description>
       <pubDate>Thu, 19 Nov 2026 13:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Microsoft recasts Copilot as the 'OS for work' at Ignite, with always-on Autopilot agent</title>
-      <link>https://aiagentupdate.com/post/microsoft-ignite-copilot-os-2026-11-19</link>
-      <guid isPermaLink="true">https://aiagentupdate.com/post/microsoft-ignite-copilot-os-2026-11-19</guid>
-      <category>agent frameworks</category>
-      <description>Microsoft recasts Copilot as the 'OS for work' at Ignite, with always-on Autopilot agent</description>
-      <pubDate>Thu, 19 Nov 2026 13:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Linq raises $90M Series B led by a16z at $1B valuation to build messaging infrastructure for AI agents</title>
-      <link>https://www.prnewswire.com/news-releases/linq-raises-90-million-in-new-funding-led-by-andreessen-horowitz-to-build-the-infrastructure-platform-for-ai-agents-302944728.html</link>
-      <guid isPermaLink="true">https://www.prnewswire.com/news-releases/linq-raises-90-million-in-new-funding-led-by-andreessen-horowitz-to-build-the-infrastructure-platform-for-ai-agents-302944728.html</guid>
-      <category>agent-startup funding</category>
-      <description>Linq raises $90M Series B led by a16z at $1B valuation to build messaging infrastructure for AI agents</description>
-      <pubDate>Thu, 19 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Anthropic starts trading on Nasdaq today as ANT after pricing the largest US IPO on record at $83</title>
-      <link>https://chrisabraham.net/2026/11/ai-roundup-the-ticker-is-the-scoreboard.html</link>
-      <guid isPermaLink="true">https://chrisabraham.net/2026/11/ai-roundup-the-ticker-is-the-scoreboard.html</guid>
-      <category>model APIs</category>
-      <description>Anthropic starts trading on Nasdaq today as ANT after pricing the largest US IPO on record at $83</description>
-      <pubDate>Thu, 19 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LATO raises €4.28M seed for AI agents that automate commercial due diligence</title>
-      <link>https://www.thesaasnews.com/news/lato-raises-4-28m-seed/</link>
-      <guid isPermaLink="true">https://www.thesaasnews.com/news/lato-raises-4-28m-seed/</guid>
-      <category>agent-startup funding</category>
-      <description>LATO raises €4.28M seed for AI agents that automate commercial due diligence</description>
-      <pubDate>Thu, 19 Nov 2026 09:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
