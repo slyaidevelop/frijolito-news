@@ -5,7 +5,31 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Sierra in talks to raise ~$1.5B at a ~$30B valuation, nearly doubling its May price</title>
+      <link>https://www.pymnts.com/startups/2026/ai-customer-support-startup-sierra-eyes-30-billion-valuation/</link>
+      <guid isPermaLink="true">https://www.pymnts.com/startups/2026/ai-customer-support-startup-sierra-eyes-30-billion-valuation/</guid>
+      <category>agent-startup funding</category>
+      <description>Sierra is reportedly in talks to raise about $1.5B at a $30B valuation, nearly double its May price, after passing $400M in annual recurring revenue.</description>
+      <pubDate>Sat, 21 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BMW's playbook for governing hundreds of AI agents across 12,500 developers</title>
+      <link>https://www.explainx.ai/blog/bmw-group-governs-hundreds-of-ai-agents-12500-developers-aws-governance-patterns-2026</link>
+      <guid isPermaLink="true">https://www.explainx.ai/blog/bmw-group-governs-hundreds-of-ai-agents-12500-developers-aws-governance-patterns-2026</guid>
+      <category>agent governance</category>
+      <description>BMW shared how it governs hundreds of AI agents across 12,500 developers, with rules enforced outside the agent and different approval levels for each step.</description>
+      <pubDate>Sat, 21 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>SnapLogic launches MCP Discovery Hub, a central registry for MCP servers and tools</title>
+      <link>https://www.valuespectrum.com/corporate_news/1530974-snaplogic-launches-mcp-discovery-hub-adds-new-ai-agent-building-and-governance-capabilities</link>
+      <guid isPermaLink="true">https://www.valuespectrum.com/corporate_news/1530974-snaplogic-launches-mcp-discovery-hub-adds-new-ai-agent-building-and-governance-capabilities</guid>
+      <category>file-governance</category>
+      <description>SnapLogic launched a central registry for discovering and reusing MCP servers and tools, with governance and observability built in.</description>
+      <pubDate>Sat, 21 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Model ML raises $250M Series B at $1.5B valuation to put personal AI agents on bankers' desks</title>
       <link>https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/</link>
@@ -381,30 +405,6 @@
       <category>agent governance</category>
       <description>Una AI launches Orchestrator and AI Governance for FP&amp;A</description>
       <pubDate>Wed, 18 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Anthropic prices IPO at $83 a share, above its $70–78 range; trading as ANT starts Thursday</title>
-      <link>https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/</guid>
-      <category>model APIs</category>
-      <description>Anthropic prices IPO at $83 a share, above its $70–78 range; trading as ANT starts Thursday</description>
-      <pubDate>Wed, 18 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Plaid powers read-only financial account connections for Instinct</title>
-      <link>https://www.pymnts.com/news/artificial-intelligence/2026/plaid-powers-instinct-ai-assistants-ability-to-have-personalized-financial-conversations/</link>
-      <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/plaid-powers-instinct-ai-assistants-ability-to-have-personalized-financial-conversations/</guid>
-      <category>Base44/Instinct ecosystem</category>
-      <description>Plaid powers read-only financial account connections for Instinct</description>
-      <pubDate>Wed, 18 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Coinstancy launches Agentic Bank: per-agent USDC wallets on Base with owner-set budgets, paying over x402</title>
-      <link>https://siliconvalleysjournal.com/2026/11/18/coinstancy-introduces-agentic-bank-as-software-becomes-a-paying-customer/</link>
-      <guid isPermaLink="true">https://siliconvalleysjournal.com/2026/11/18/coinstancy-introduces-agentic-bank-as-software-becomes-a-paying-customer/</guid>
-      <category>agentic commerce rails</category>
-      <description>Coinstancy launches Agentic Bank: per-agent USDC wallets on Base with owner-set budgets, paying over x402</description>
-      <pubDate>Wed, 18 Nov 2026 18:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
