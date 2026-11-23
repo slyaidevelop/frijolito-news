@@ -5,7 +5,31 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Walmart Agent Gateway goes live with Meta Muse: agentic checkout inside the conversation</title>
+      <link>https://dev.to/delimitter/walmart-agent-gateway-goes-live-with-meta-muse-agentic-checkout-inside-the-conversation-g1e</link>
+      <guid isPermaLink="true">https://dev.to/delimitter/walmart-agent-gateway-goes-live-with-meta-muse-agentic-checkout-inside-the-conversation-g1e</guid>
+      <category>agentic commerce rails</category>
+      <description>Walmart's Agent Gateway is now live with Meta's Muse as the first agent, letting shoppers check out inside the conversation.</description>
+      <pubDate>Mon, 23 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Z.ai rolls out GLM-5.4 coding model with vision and 50% more quota</title>
+      <link>https://medium.com/@zhwan85/z-ai-unveils-glm-5-4-full-rollout-to-coding-plan-subscribers-and-the-addition-of-vision-b4badacb6626</link>
+      <guid isPermaLink="true">https://medium.com/@zhwan85/z-ai-unveils-glm-5-4-full-rollout-to-coding-plan-subscribers-and-the-addition-of-vision-b4badacb6626</guid>
+      <category>model APIs</category>
+      <description>Z.ai rolled out GLM-5.4, a new coding model with vision and 50% more weekly usage for coding-plan subscribers.</description>
+      <pubDate>Mon, 23 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ClearCadence launches ClearHand, a governed AI orchestration platform for enterprise teams</title>
+      <link>https://www.businessjournalflorida.com/article/958546513-clearcadence-launches-clearhand-bringing-governed-ai-agents-to-enterprise-teams-in-30-days</link>
+      <guid isPermaLink="true">https://www.businessjournalflorida.com/article/958546513-clearcadence-launches-clearhand-bringing-governed-ai-agents-to-enterprise-teams-in-30-days</guid>
+      <category>agent governance</category>
+      <description>ClearCadence launched ClearHand, a platform that turns company procedures into audited AI agents with human approval steps.</description>
+      <pubDate>Mon, 23 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Agon raises $70M Series A at $450M valuation to build an AI lab for European defense</title>
       <link>https://www.tectonicdefense.com/first-look-agon-raises-70m-series-a/</link>
@@ -381,30 +405,6 @@
       <category>agent-startup funding</category>
       <description>Hoplite raises $5.5M from Stripe's Collison brothers to run AI coding agents in the cloud</description>
       <pubDate>Fri, 20 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>US banks shift AI-agent liability onto customers</title>
-      <link>https://opcreport.cn/opc-report-2026-11-20-1740/</link>
-      <guid isPermaLink="true">https://opcreport.cn/opc-report-2026-11-20-1740/</guid>
-      <category>agentic commerce rails</category>
-      <description>US banks shift AI-agent liability onto customers</description>
-      <pubDate>Fri, 20 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Anthropic goes public at $83 a share, raising about $81.3 billion</title>
-      <link>https://news.johnsavageai.com/p/daily-ai-brief-nov-20-2026/</link>
-      <guid isPermaLink="true">https://news.johnsavageai.com/p/daily-ai-brief-nov-20-2026/</guid>
-      <category>agent-startup funding</category>
-      <description>Anthropic went public on the Nasdaq under the ticker ANT, pricing shares at $83 and raising about $81.3 billion in the largest AI IPO yet.</description>
-      <pubDate>Fri, 20 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Humyn Labs raises $47M Series A to expand physical AI research</title>
-      <link>https://oossa.com/en/humyn-labs-raises-47-million-series-a-to-expand-physical-ai-research</link>
-      <guid isPermaLink="true">https://oossa.com/en/humyn-labs-raises-47-million-series-a-to-expand-physical-ai-research</guid>
-      <category>agent-startup funding</category>
-      <description>Humyn Labs raised $47 million in Series A funding to expand its physical AI research and get robots ready for real-world use.</description>
-      <pubDate>Fri, 20 Nov 2026 12:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
