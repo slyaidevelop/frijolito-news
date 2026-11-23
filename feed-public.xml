@@ -5,7 +5,39 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and more, compared on memory, security and cost</title>
+      <link>https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/</link>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/</guid>
+      <category>agent sidebar race</category>
+      <description>A new comparison ranks six personal AI agents — Hermes, OpenClaw, Gemini Spark, OpenAI dots, Meta Muse and Perplexity Personal Computer — on memory, security defaults and real cost.</description>
+      <pubDate>Sun, 22 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Thinking Machines releases Inkling 2 Mini: 26B looped MoE that runs on a 32GB Mac</title>
+      <link>https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/</link>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/</guid>
+      <category>model APIs</category>
+      <description>Thinking Machines released Inkling 2 Mini, a 26-billion-parameter open model that runs on a 32GB Mac and scores 79% on a standard coding benchmark.</description>
+      <pubDate>Sun, 22 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>RadixArk ships DaisyRose-27B, a 27B agentic coding model trained with reinforcement learning only</title>
+      <link>https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/</link>
+      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/</guid>
+      <category>model APIs</category>
+      <description>RadixArk released DaisyRose-27B, an open agentic coding model trained with reinforcement learning only, that more than doubled its Terminal Bench score and runs on one GPU.</description>
+      <pubDate>Sun, 22 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OpenAI begins embedded third-party assessments with Apollo Research, METR, Transluce and Goodfire</title>
+      <link>https://fruition.net/frontier/</link>
+      <guid isPermaLink="true">https://fruition.net/frontier/</guid>
+      <category>model APIs</category>
+      <description>OpenAI is giving outside evaluators Apollo Research, METR, Transluce and Goodfire standing access to independently check its models alignment and safeguards.</description>
+      <pubDate>Sun, 22 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Independent live benchmark of 9 frontier models exposes Gemini 4 Neon pricing inversion and thinking-token bug</title>
       <link>https://dev.to/m1kulya/9-frontier-ai-models-tested-live-nov-2026-pricing-inversions-thinking-token-traps--1k2h</link>
@@ -373,38 +405,6 @@
       <category>agent-startup funding</category>
       <description>Metano came out of stealth with $12 million in seed funding to build security and governance software for enterprise AI agents, led by Sierra Ventures.</description>
       <pubDate>Thu, 19 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>AI-agent USDC transfers surge 498.8% to 11.1 million in 30 days</title>
-      <link>https://www.kucoin.com/news/flash/ai-agent-usdc-transfers-surge-498-8-to-11-1-million-in-30-days</link>
-      <guid isPermaLink="true">https://www.kucoin.com/news/flash/ai-agent-usdc-transfers-surge-498-8-to-11-1-million-in-30-days</guid>
-      <category>agentic commerce rails</category>
-      <description>AI agents made 11.1 million USDC transfers in the past 30 days, up nearly 500% from the month before, with most of the activity on Base, Polygon and Arc.</description>
-      <pubDate>Thu, 19 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Claude Code 2.1.328 brings Opus 4.6 and Sonnet 4.6 auto mode to more hosts</title>
-      <link>https://vibestacklab.com/new</link>
-      <guid isPermaLink="true">https://vibestacklab.com/new</guid>
-      <category>agent frameworks</category>
-      <description>Claude Code 2.1.328, released today, brings automatic model selection for Opus 4.6 and Sonnet 4.6 to more cloud platforms, including Bedrock and Microsoft Foundry.</description>
-      <pubDate>Thu, 19 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ServiceNow: 92% of Indian organisations faced an AI agent security incident in the past year</title>
-      <link>https://www.varindia.com/news/92-of-indian-organisations-faced-ai-agent-security-incident-in-the-past-year-servicenow-report</link>
-      <guid isPermaLink="true">https://www.varindia.com/news/92-of-indian-organisations-faced-ai-agent-security-incident-in-the-past-year-servicenow-report</guid>
-      <category>agent governance</category>
-      <description>A new ServiceNow survey found 92% of Indian organisations faced an AI agent security incident in the past year, and 37% discovered agents running in production that security never knew about.</description>
-      <pubDate>Thu, 19 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Microsoft's Intune guide to governing local AI agents: compliance policies, Execution Containers, Defender runtime protection</title>
-      <link>https://techcommunity.microsoft.com/blog/intunecustomersuccess/a-guide-to-governing-local-ai-agents-with-intune/4573284</link>
-      <guid isPermaLink="true">https://techcommunity.microsoft.com/blog/intunecustomersuccess/a-guide-to-governing-local-ai-agents-with-intune/4573284</guid>
-      <category>agent governance</category>
-      <description>Microsoft published a hands-on guide to governing local AI agents with Intune, including preview policies that cut off company data on devices running unapproved agents.</description>
-      <pubDate>Thu, 19 Nov 2026 15:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
