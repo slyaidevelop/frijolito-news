@@ -5,7 +5,31 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <item>
+      <title>OpenRouter drops three inference providers after Dragos canary test catches months of prompt theft</title>
+      <link>https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html</link>
+      <guid isPermaLink="true">https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html</guid>
+      <category>model APIs</category>
+      <description>OpenRouter removed three AI providers after researchers found customer prompts being copied for months — including prompts marked as never stored.</description>
+      <pubDate>Sun, 22 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pragmatik Labs closes new round at $5B valuation, 2.5x its August seed</title>
+      <link>https://www.pymnts.com/news/investment-tracker/2026/ex-alibaba-ai-chief-junyang-lin-drives-startup-pragmatik-labs-to-5-billion-valuation/</link>
+      <guid isPermaLink="true">https://www.pymnts.com/news/investment-tracker/2026/ex-alibaba-ai-chief-junyang-lin-drives-startup-pragmatik-labs-to-5-billion-valuation/</guid>
+      <category>agent-startup funding</category>
+      <description>Pragmatik Labs, the AI agent startup from Alibaba's former Qwen chief, raised new funding at a $5 billion valuation — two and a half times its August value.</description>
+      <pubDate>Sun, 22 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>StepSecurity raises $20M Series A to stop supply-chain attacks on AI coding agents</title>
+      <link>https://www.stepsecurity.io/blog/stepsecurity-20-million-series-a</link>
+      <guid isPermaLink="true">https://www.stepsecurity.io/blog/stepsecurity-20-million-series-a</guid>
+      <category>agent-startup funding</category>
+      <description>StepSecurity raised $20 million to stop supply-chain attacks on the tools and agents that build software, after a tampered coding-agent extension was caught spreading a backdoor.</description>
+      <pubDate>Sun, 22 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and more, compared on memory, security and cost</title>
       <link>https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/</link>
@@ -381,30 +405,6 @@
       <category>file-governance</category>
       <description>LangChain launches LangSmith Tool Gateway in public beta to govern agent tool calls</description>
       <pubDate>Thu, 19 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BigCommerce launches Shopping Agent for merchants as Firmly's Ask Agent reaches 11M+ merchants</title>
-      <link>https://www.pymnts.com/news/artificial-intelligence/2026/bigcommerce-and-firmly-hand-every-merchant-a-walmart-style-ai-agent/</link>
-      <guid isPermaLink="true">https://www.pymnts.com/news/artificial-intelligence/2026/bigcommerce-and-firmly-hand-every-merchant-a-walmart-style-ai-agent/</guid>
-      <category>agentic commerce rails</category>
-      <description>BigCommerce launches Shopping Agent for merchants as Firmly's Ask Agent reaches 11M+ merchants</description>
-      <pubDate>Thu, 19 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Meta names Loblaw the first Canadian retailer on Muse, with meal planning and grocery checkout in-chat</title>
-      <link>https://ppc.land/loblaw-lets-metas-muse-plan-meals-and-check-out-groceries-in-canada/</link>
-      <guid isPermaLink="true">https://ppc.land/loblaw-lets-metas-muse-plan-meals-and-check-out-groceries-in-canada/</guid>
-      <category>WhatsApp/Meta dev</category>
-      <description>Meta names Loblaw the first Canadian retailer on Muse, with meal planning and grocery checkout in-chat</description>
-      <pubDate>Thu, 19 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Metano raises $12M seed to secure AI agents across the enterprise</title>
-      <link>https://www.agentdarkroom.com/news/metano-raises-12m-seed-to-secure-ai-agents-across-the-enterprise-1a0ec3</link>
-      <guid isPermaLink="true">https://www.agentdarkroom.com/news/metano-raises-12m-seed-to-secure-ai-agents-across-the-enterprise-1a0ec3</guid>
-      <category>agent-startup funding</category>
-      <description>Metano came out of stealth with $12 million in seed funding to build security and governance software for enterprise AI agents, led by Sierra Ventures.</description>
-      <pubDate>Thu, 19 Nov 2026 18:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
