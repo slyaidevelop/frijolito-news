@@ -3,9 +3,49 @@
   <channel>
     <title>Frijolito Public News Updates</title>
     <link>https://frijolito.app</link>
-    <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
+    <description>Public social news updates from Frijolito&#x27;s 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <item>
+      <title>AWS lets agents pay for x402 Marketplace tools in USD on the AWS bill</title>
+      <link>https://www.explainx.ai/blog/aws-marketplace-x402-agentcore-payments-aws-billing-tavily-agents-pay-usd-2026</link>
+      <guid isPermaLink="true">https://www.explainx.ai/blog/aws-marketplace-x402-agentcore-payments-aws-billing-tavily-agents-pay-usd-2026</guid>
+      <category>agentic commerce rails</category>
+      <description>AWS now lets AI agents buy tools from its Marketplace and pay in dollars on the regular AWS bill — no crypto wallet or API key needed.</description>
+      <pubDate>Mon, 23 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA launches NeMo Switchyard, a Rust-based framework for routing multi-step agent requests</title>
+      <link>https://betabriefing.ai/channels/the-gateway-signal/briefings/2026-11-23/</link>
+      <guid isPermaLink="true">https://betabriefing.ai/channels/the-gateway-signal/briefings/2026-11-23/</guid>
+      <category>agent frameworks</category>
+      <description>NVIDIA released NeMo Switchyard, an open-source framework that routes multi-step AI agent work across models and checks results as it goes.</description>
+      <pubDate>Mon, 23 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>X Square Robot unveils WALL-OSS-1.0 vision-language-action model, XR Harness and WALL-API-1.0</title>
+      <link>https://www.globenewswire.com/news-release/2026/11/23/3408046/0/en/x-square-robot-introduces-wall-oss-1-0-understand-more-act-better-a-native-foundation-model-for-the-physical-world.html</link>
+      <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/11/23/3408046/0/en/x-square-robot-introduces-wall-oss-1-0-understand-more-act-better-a-native-foundation-model-for-the-physical-world.html</guid>
+      <category>model APIs</category>
+      <description>X Square Robot unveiled WALL-OSS-1.0, a foundation model that lets robots understand instructions and act on them, plus a new developer API.</description>
+      <pubDate>Mon, 23 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Unsiloed AI raises $7.5M seed to process documents for AI agents</title>
+      <link>https://www.citybiz.co/article/937212/unsiloed-ai-raises-7-5m-seed-round-to-process-documents-for-ai-agents/</link>
+      <guid isPermaLink="true">https://www.citybiz.co/article/937212/unsiloed-ai-raises-7-5m-seed-round-to-process-documents-for-ai-agents/</guid>
+      <category>agent-startup funding</category>
+      <description>Unsiloed AI raised $7.5 million to turn business documents into a format AI agents can actually use.</description>
+      <pubDate>Mon, 23 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Matters.AI raises ₹115 Cr pre-Series A to stop AI agents misusing sensitive data</title>
+      <link>https://inc42.com/buzz/data-security-startup-matters-ai-nets-%e2%82%b9115-cr-from-tanglin-venture-partners-others/</link>
+      <guid isPermaLink="true">https://inc42.com/buzz/data-security-startup-matters-ai-nets-%e2%82%b9115-cr-from-tanglin-venture-partners-others/</guid>
+      <category>agent-startup funding</category>
+      <description>Matters.AI raised about $12 million to track how AI agents handle sensitive company data and stop misuse.</description>
+      <pubDate>Mon, 23 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Sierra raises $1.75B Series F at $30B valuation</title>
       <link>https://www.unite.ai/sierra-raises-1-75b-in-series-f-funding-at-30b-valuation/</link>
@@ -19,7 +59,7 @@
       <link>https://www.techarena.co.ke/2026/11/23/red-hat-developer-hub-2-1-ai-agent-governance/</link>
       <guid isPermaLink="true">https://www.techarena.co.ke/2026/11/23/red-hat-developer-hub-2-1-ai-agent-governance/</guid>
       <category>agent governance</category>
-      <description>Red Hat's Developer Hub 2.1 gives AI coding agents governed access to company systems through MCP, so they can run approved workflows instead of improvising.</description>
+      <description>Red Hat&#x27;s Developer Hub 2.1 gives AI coding agents governed access to company systems through MCP, so they can run approved workflows instead of improvising.</description>
       <pubDate>Mon, 23 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -43,7 +83,7 @@
       <link>https://www.pymnts.com/news/investment-tracker/2026/ex-alibaba-ai-chief-junyang-lin-drives-startup-pragmatik-labs-to-5-billion-valuation/</link>
       <guid isPermaLink="true">https://www.pymnts.com/news/investment-tracker/2026/ex-alibaba-ai-chief-junyang-lin-drives-startup-pragmatik-labs-to-5-billion-valuation/</guid>
       <category>agent-startup funding</category>
-      <description>Pragmatik Labs, the AI agent startup from Alibaba's former Qwen chief, raised new funding at a $5 billion valuation — two and a half times its August value.</description>
+      <description>Pragmatik Labs, the AI agent startup from Alibaba&#x27;s former Qwen chief, raised new funding at a $5 billion valuation — two and a half times its August value.</description>
       <pubDate>Sun, 22 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -91,7 +131,7 @@
       <link>https://dev.to/m1kulya/9-frontier-ai-models-tested-live-nov-2026-pricing-inversions-thinking-token-traps--1k2h</link>
       <guid isPermaLink="true">https://dev.to/m1kulya/9-frontier-ai-models-tested-live-nov-2026-pricing-inversions-thinking-token-traps--1k2h</guid>
       <category>model APIs</category>
-      <description>An independent benchmark of nine leading AI models found Gemini 4 Neon costs more per token than Google's flagship Carbon until December 1, and that test results swing widely with the harness used.</description>
+      <description>An independent benchmark of nine leading AI models found Gemini 4 Neon costs more per token than Google&#x27;s flagship Carbon until December 1, and that test results swing widely with the harness used.</description>
       <pubDate>Sun, 22 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -99,7 +139,7 @@
       <link>https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/</link>
       <guid isPermaLink="true">https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/</guid>
       <category>model APIs</category>
-      <description>OpenAI's new GPT-Live-1.1 voice model charges $0.02 a minute for idle time instead of $0.05, making always-on voice agents cheaper to run.</description>
+      <description>OpenAI&#x27;s new GPT-Live-1.1 voice model charges $0.02 a minute for idle time instead of $0.05, making always-on voice agents cheaper to run.</description>
       <pubDate>Sun, 22 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -107,15 +147,15 @@
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</link>
       <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</guid>
       <category>model APIs</category>
-      <description>Google's Gemini API can now load an agent's tool definitions on demand instead of sending the whole library with every request, cutting token costs for agents with lots of tools.</description>
+      <description>Google&#x27;s Gemini API can now load an agent&#x27;s tool definitions on demand instead of sending the whole library with every request, cutting token costs for agents with lots of tools.</description>
       <pubDate>Sun, 22 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
-      <title>Perplexity Computer adds Multiagent: up to 16 agents that cross-check each other's work</title>
+      <title>Perplexity Computer adds Multiagent: up to 16 agents that cross-check each other&#x27;s work</title>
       <link>https://www.perplexity.ai/hub/blog/introducing-computer-multiagent</link>
       <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/introducing-computer-multiagent</guid>
       <category>agent builders</category>
-      <description>Perplexity's Computer can now run a team of up to 16 AI agents on different models that share findings and check each other's work on complex tasks.</description>
+      <description>Perplexity&#x27;s Computer can now run a team of up to 16 AI agents on different models that share findings and check each other&#x27;s work on complex tasks.</description>
       <pubDate>Sun, 22 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -123,7 +163,7 @@
       <link>https://www.insightex.si/news/metas-muse-ai-agent-arrives-as-a-chrome-extension-with-200000-early-users</link>
       <guid isPermaLink="true">https://www.insightex.si/news/metas-muse-ai-agent-arrives-as-a-chrome-extension-with-200000-early-users</guid>
       <category>agent sidebar race</category>
-      <description>Meta's Muse AI agent is now available as a Chrome extension, with 200,000 people already using it in the browser sidebar.</description>
+      <description>Meta&#x27;s Muse AI agent is now available as a Chrome extension, with 200,000 people already using it in the browser sidebar.</description>
       <pubDate>Sun, 22 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -183,11 +223,11 @@
       <pubDate>Sat, 21 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
-      <title>BMW's playbook for governing hundreds of AI agents across 12,500 developers</title>
+      <title>BMW&#x27;s playbook for governing hundreds of AI agents across 12,500 developers</title>
       <link>https://www.explainx.ai/blog/bmw-group-governs-hundreds-of-ai-agents-12500-developers-aws-governance-patterns-2026</link>
       <guid isPermaLink="true">https://www.explainx.ai/blog/bmw-group-governs-hundreds-of-ai-agents-12500-developers-aws-governance-patterns-2026</guid>
       <category>agent governance</category>
-      <description>BMW's playbook for governing hundreds of AI agents across 12,500 developers</description>
+      <description>BMW&#x27;s playbook for governing hundreds of AI agents across 12,500 developers</description>
       <pubDate>Sat, 21 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -199,11 +239,11 @@
       <pubDate>Sat, 21 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
-      <title>Model ML raises $250M Series B at $1.5B valuation to put personal AI agents on bankers' desks</title>
+      <title>Model ML raises $250M Series B at $1.5B valuation to put personal AI agents on bankers&#x27; desks</title>
       <link>https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/</guid>
       <category>agent-startup funding</category>
-      <description>Model ML raises $250M Series B at $1.5B valuation to put personal AI agents on bankers' desks</description>
+      <description>Model ML raises $250M Series B at $1.5B valuation to put personal AI agents on bankers&#x27; desks</description>
       <pubDate>Sat, 21 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -263,11 +303,11 @@
       <pubDate>Sat, 21 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
-      <title>Okta extends MCP governance to every hop of an agent's tool calls</title>
+      <title>Okta extends MCP governance to every hop of an agent&#x27;s tool calls</title>
       <link>https://www.okta.com/blog/product-innovation/secure-ai-agents-mcp-workflow/</link>
       <guid isPermaLink="true">https://www.okta.com/blog/product-innovation/secure-ai-agents-mcp-workflow/</guid>
       <category>file-governance</category>
-      <description>Okta extends MCP governance to every hop of an agent's tool calls</description>
+      <description>Okta extends MCP governance to every hop of an agent&#x27;s tool calls</description>
       <pubDate>Sat, 21 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -319,11 +359,11 @@
       <pubDate>Fri, 20 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
-      <title>Hoplite raises $5.5M from Stripe's Collison brothers to run AI coding agents in the cloud</title>
+      <title>Hoplite raises $5.5M from Stripe&#x27;s Collison brothers to run AI coding agents in the cloud</title>
       <link>https://dailyaibrief.com/news/hoplite-raises-5-5-million-from-stripes-collison-brothers-to-run-ai-coding-agents-in-the-cloud-kkVjFyEm</link>
       <guid isPermaLink="true">https://dailyaibrief.com/news/hoplite-raises-5-5-million-from-stripes-collison-brothers-to-run-ai-coding-agents-in-the-cloud-kkVjFyEm</guid>
       <category>agent-startup funding</category>
-      <description>Hoplite raises $5.5M from Stripe's Collison brothers to run AI coding agents in the cloud</description>
+      <description>Hoplite raises $5.5M from Stripe&#x27;s Collison brothers to run AI coding agents in the cloud</description>
       <pubDate>Fri, 20 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -365,46 +405,6 @@
       <category>model APIs</category>
       <description>Google added computer use to the Gemini app for Mac, so it can click, type, and fill in forms across local apps and websites in the background.</description>
       <pubDate>Fri, 20 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Meta officially announces the Muse Chrome extension: 200,000 users, 4.6 rating</title>
-      <link>https://www.digitaltrends.com/computing/meta-is-putting-muse-in-a-chrome-sidebar-and-the-official-announcement-just-arrived/</link>
-      <guid isPermaLink="true">https://www.digitaltrends.com/computing/meta-is-putting-muse-in-a-chrome-sidebar-and-the-official-announcement-just-arrived/</guid>
-      <category>agent spaces</category>
-      <description>Meta officially announced its Muse Chrome extension, putting the AI agent in the browser sidebar — it already has 200,000 users and a 4.6 rating.</description>
-      <pubDate>Fri, 20 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Google puts Genie 4 on the Gemini API at about $0.10 per second</title>
-      <link>https://af.net/realtime/google-releases-genie-4-world-generation-api-at-0-10-per-second/</link>
-      <guid isPermaLink="true">https://af.net/realtime/google-releases-genie-4-world-generation-api-at-0-10-per-second/</guid>
-      <category>model APIs</category>
-      <description>Google puts Genie 4 on the Gemini API at about $0.10 per second</description>
-      <pubDate>Fri, 20 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Mistral Pixtral Large 2502 lands on the Mistral API with 128k context</title>
-      <link>https://www.promptzone.com/ai-model-releases</link>
-      <guid isPermaLink="true">https://www.promptzone.com/ai-model-releases</guid>
-      <category>model APIs</category>
-      <description>Mistral Pixtral Large 2502 lands on the Mistral API with 128k context</description>
-      <pubDate>Fri, 20 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Optimism maps agentic commerce on the OP Stack: x402, ERC-7715 permissions, Circle Nanopayments</title>
-      <link>https://optimism.io/blog/agentic-commerce-on-the-op-stack</link>
-      <guid isPermaLink="true">https://optimism.io/blog/agentic-commerce-on-the-op-stack</guid>
-      <category>agentic commerce rails</category>
-      <description>Optimism maps agentic commerce on the OP Stack: x402, ERC-7715 permissions, Circle Nanopayments</description>
-      <pubDate>Fri, 20 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Nozle lets AI agents pay invoices via Stripe tokens or x402 USDC</title>
-      <link>https://docs.nozle.dev/guides/billing/agent-payments</link>
-      <guid isPermaLink="true">https://docs.nozle.dev/guides/billing/agent-payments</guid>
-      <category>agentic commerce rails</category>
-      <description>Nozle lets AI agents pay invoices via Stripe tokens or x402 USDC</description>
-      <pubDate>Fri, 20 Nov 2026 09:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
