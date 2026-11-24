@@ -5,7 +5,31 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Okta/Auth0 launches Auth for Personal Agents beta with Poppy support</title>
+      <link>https://auth0.com/blog/auth-for-personal-agents-beta-release/</link>
+      <guid isPermaLink="true">https://auth0.com/blog/auth-for-personal-agents-beta-release/</guid>
+      <category>agent governance</category>
+      <description>Okta launched Auth for Personal Agents in beta, letting brands verify AI agents and give them scoped, revocable access to act for customers.</description>
+      <pubDate>Tue, 24 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Trustly completes $60M raise to build AI-powered payment products</title>
+      <link>https://tech.eu/2026/11/24/trustly-completes-60m-funding-raise/</link>
+      <guid isPermaLink="true">https://tech.eu/2026/11/24/trustly-completes-60m-funding-raise/</guid>
+      <category>agentic commerce rails</category>
+      <description>Trustly raised $60 million to build AI-powered products on its open-banking payments network.</description>
+      <pubDate>Tue, 24 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>geniosAI emerges from stealth with $19.1M led by FactSet</title>
+      <link>https://dailyaibrief.com/news/geniosai-raises-19-1-million-financial-analysis-platform-ppXhpadm</link>
+      <guid isPermaLink="true">https://dailyaibrief.com/news/geniosai-raises-19-1-million-financial-analysis-platform-ppXhpadm</guid>
+      <category>agent-startup funding</category>
+      <description>geniosAI raised $19.1 million led by FactSet to build a financial-analysis platform.</description>
+      <pubDate>Tue, 24 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>CrowdStrike to acquire Zscaler in $43.9B all-stock deal</title>
       <link>https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/</link>
@@ -381,30 +405,6 @@
       <category>agent frameworks</category>
       <description>Cloudflare Agents SDK v0.34.0 brings Pi 1.6 tools that wait without staying awake</description>
       <pubDate>Sat, 21 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MCP drafts an experimental file uploads and downloads extension</title>
-      <link>https://agentndx.ai/blog/mcp-file-uploads-downloads-draft-extension/</link>
-      <guid isPermaLink="true">https://agentndx.ai/blog/mcp-file-uploads-downloads-draft-extension/</guid>
-      <category>file-governance</category>
-      <description>MCP drafts an experimental file uploads and downloads extension</description>
-      <pubDate>Sat, 21 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Dev week in review: GPT-6.2 coding backlash, Microsoft MAI Code 2, Gemini 4 Neon</title>
-      <link>https://www.everydev.ai/p/news-weekly-ai-dev-news-digest-november-14-november-20-2026</link>
-      <guid isPermaLink="true">https://www.everydev.ai/p/news-weekly-ai-dev-news-digest-november-14-november-20-2026</guid>
-      <category>model APIs</category>
-      <description>Dev week in review: GPT-6.2 coding backlash, Microsoft MAI Code 2, Gemini 4 Neon</description>
-      <pubDate>Sat, 21 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>First Person Labs exits stealth with ~$10M led by a16z to build per-user models</title>
-      <link>https://opcreport.cn/opc-report-2026-11-20-0925/</link>
-      <guid isPermaLink="true">https://opcreport.cn/opc-report-2026-11-20-0925/</guid>
-      <category>agent-startup funding</category>
-      <description>First Person Labs exits stealth with ~$10M led by a16z to build per-user models</description>
-      <pubDate>Fri, 20 Nov 2026 21:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
