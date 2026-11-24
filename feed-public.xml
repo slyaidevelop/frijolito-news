@@ -5,7 +5,47 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Anthropic launches Claude Ship: agents that review, fix and approve pull requests</title>
+      <link>https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/</guid>
+      <category>agent frameworks</category>
+      <description>Anthropic launched Claude Ship in beta: AI agents that review pull requests, fix failing checks, and approve routine changes under rules your team writes.</description>
+      <pubDate>Tue, 24 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>AidenAI raises $32M Series A to scale enterprise AI workflows</title>
+      <link>https://www.finsmes.com/2026/11/aidenai-raises-32m-in-series-a-funding.html</link>
+      <guid isPermaLink="true">https://www.finsmes.com/2026/11/aidenai-raises-32m-in-series-a-funding.html</guid>
+      <category>agent-startup funding</category>
+      <description>Enterprise AI startup AidenAI raised $32M in a Series A led by A91 Partners to scale its AI builder platform for production deployments.</description>
+      <pubDate>Tue, 24 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Omniloy discloses $9.64M financing for hospital AI agents</title>
+      <link>https://dealroom.co/news/175204-omniloy-discloses-9-64m-financing-for-hospital-ai/</link>
+      <guid isPermaLink="true">https://dealroom.co/news/175204-omniloy-discloses-9-64m-financing-for-hospital-ai/</guid>
+      <category>agent-startup funding</category>
+      <description>Hospital AI startup Omniloy disclosed a $9.64M financing to run AI agents across admissions, follow-up, clinical documentation, and billing.</description>
+      <pubDate>Tue, 24 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Riyadh's 009 raises $1.4M pre-seed for AI 'agent twins'</title>
+      <link>https://dealroom.co/news/175286-riyadh-s-009-raises-1-4m-pre-seed-for-ai-agent-twins/</link>
+      <guid isPermaLink="true">https://dealroom.co/news/175286-riyadh-s-009-raises-1-4m-pre-seed-for-ai-agent-twins/</guid>
+      <category>agent-startup funding</category>
+      <description>Riyadh startup 009 raised $1.4M in pre-seed funding to build AI agent twins for government, manufacturing, mining, and defence work.</description>
+      <pubDate>Tue, 24 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>x402 payments nearly tripled in 30 days — but 20 wallets made 95% of them</title>
+      <link>https://newsletter.ownyourmind.ai/p/agent-payments-nearly-tripled-in</link>
+      <guid isPermaLink="true">https://newsletter.ownyourmind.ai/p/agent-payments-nearly-tripled-in</guid>
+      <category>agentic commerce rails</category>
+      <description>Payments over x402, the rail AI agents use to pay in stablecoins, nearly tripled in 30 days — though 20 wallets accounted for 95% of them.</description>
+      <pubDate>Tue, 24 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Okta/Auth0 launches Auth for Personal Agents beta with Poppy support</title>
       <link>https://auth0.com/blog/auth-for-personal-agents-beta-release/</link>
@@ -365,46 +405,6 @@
       <category>agent-startup funding</category>
       <description>Modern Industrials raises $6M seed to build custom AI agents for manufacturers and distributors</description>
       <pubDate>Sat, 21 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp usernames and BSUID: API changes for business</title>
-      <link>https://nextinera.com/blog/whatsapp-usernames-bsuid-business-api-changes/</link>
-      <guid isPermaLink="true">https://nextinera.com/blog/whatsapp-usernames-bsuid-business-api-changes/</guid>
-      <category>WhatsApp/Meta dev</category>
-      <description>WhatsApp usernames and BSUID: API changes for business</description>
-      <pubDate>Sat, 21 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Codex CLI 0.171.0 and Claude Code 2.1.330 ship the same day</title>
-      <link>https://agentvera.dev/en/agent-changelog/</link>
-      <guid isPermaLink="true">https://agentvera.dev/en/agent-changelog/</guid>
-      <category>model APIs</category>
-      <description>Codex CLI 0.171.0 and Claude Code 2.1.330 ship the same day</description>
-      <pubDate>Sat, 21 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Pragmatik Labs raises new round at ~$5B valuation; Oracle fully funds its OpenAI buildout</title>
-      <link>https://www.mediocresecurity.com/ai-landscape/funding/</link>
-      <guid isPermaLink="true">https://www.mediocresecurity.com/ai-landscape/funding/</guid>
-      <category>agent-startup funding</category>
-      <description>Pragmatik Labs raises new round at ~$5B valuation; Oracle fully funds its OpenAI buildout</description>
-      <pubDate>Sat, 21 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Okta extends MCP governance to every hop of an agent's tool calls</title>
-      <link>https://www.okta.com/blog/product-innovation/secure-ai-agents-mcp-workflow/</link>
-      <guid isPermaLink="true">https://www.okta.com/blog/product-innovation/secure-ai-agents-mcp-workflow/</guid>
-      <category>file-governance</category>
-      <description>Okta extends MCP governance to every hop of an agent's tool calls</description>
-      <pubDate>Sat, 21 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare Agents SDK v0.34.0 brings Pi 1.6 tools that wait without staying awake</title>
-      <link>https://community.cloudflare.com/t/agents-agents-sdk-now-supports-pi-1-6-with-tools-that-wait-without-keeping-your-agent-awake/982817</link>
-      <guid isPermaLink="true">https://community.cloudflare.com/t/agents-agents-sdk-now-supports-pi-1-6-with-tools-that-wait-without-keeping-your-agent-awake/982817</guid>
-      <category>agent frameworks</category>
-      <description>Cloudflare Agents SDK v0.34.0 brings Pi 1.6 tools that wait without staying awake</description>
-      <pubDate>Sat, 21 Nov 2026 09:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
