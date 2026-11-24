@@ -5,7 +5,31 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <item>
+      <title>CrowdStrike to acquire Zscaler in $43.9B all-stock deal</title>
+      <link>https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/</guid>
+      <category>agent-startup funding</category>
+      <description>CrowdStrike agreed to buy Zscaler for about $43.9 billion in stock, combining endpoint security with zero-trust network security.</description>
+      <pubDate>Mon, 23 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Amazon to buy Decart's AI optimization tech and team in reported $7.5B deal</title>
+      <link>https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/</guid>
+      <category>agent-startup funding</category>
+      <description>Amazon is buying AI startup Decart's optimization software and hiring its founders for a reported $7.5 billion to boost its own AI chips.</description>
+      <pubDate>Mon, 23 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Marlowe raises $277M seed at $1.15B valuation for inference-only AI data centers</title>
+      <link>https://www.geekwire.com/2026/beyond-nvidia-convoy-co-founder-and-former-microsoft-leader-raise-277m-to-rethink-ai-infrastructure/</link>
+      <guid isPermaLink="true">https://www.geekwire.com/2026/beyond-nvidia-convoy-co-founder-and-former-microsoft-leader-raise-277m-to-rethink-ai-infrastructure/</guid>
+      <category>agent-startup funding</category>
+      <description>Marlowe raised $277 million at a $1.15 billion valuation to build data centers for running AI models on AMD and Etched chips instead of Nvidia.</description>
+      <pubDate>Mon, 23 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Walmart Agent Gateway goes live with Meta Muse: agentic checkout inside the conversation</title>
       <link>https://dev.to/delimitter/walmart-agent-gateway-goes-live-with-meta-muse-agentic-checkout-inside-the-conversation-g1e</link>
@@ -381,30 +405,6 @@
       <category>agent-startup funding</category>
       <description>First Person Labs exits stealth with ~$10M led by a16z to build per-user models</description>
       <pubDate>Fri, 20 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Simplex AI open-sources Linger, a personal agent that runs entirely on your PC</title>
-      <link>https://opcreport.cn/opc-report-2026-11-20-1330/</link>
-      <guid isPermaLink="true">https://opcreport.cn/opc-report-2026-11-20-1330/</guid>
-      <category>agent frameworks</category>
-      <description>Simplex AI open-sources Linger, a personal agent that runs entirely on your PC</description>
-      <pubDate>Fri, 20 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Cognition AI in funding talks at a $75 billion valuation</title>
-      <link>https://www.reuters.com/technology/cognition-ai-talks-be-valued-75-billion-latest-funding-round-bloomberg-news-2026-11-20/</link>
-      <guid isPermaLink="true">https://www.reuters.com/technology/cognition-ai-talks-be-valued-75-billion-latest-funding-round-bloomberg-news-2026-11-20/</guid>
-      <category>agent-startup funding</category>
-      <description>Cognition AI in funding talks at a $75 billion valuation</description>
-      <pubDate>Fri, 20 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Hoplite raises $5.5M from Stripe's Collison brothers to run AI coding agents in the cloud</title>
-      <link>https://dailyaibrief.com/news/hoplite-raises-5-5-million-from-stripes-collison-brothers-to-run-ai-coding-agents-in-the-cloud-kkVjFyEm</link>
-      <guid isPermaLink="true">https://dailyaibrief.com/news/hoplite-raises-5-5-million-from-stripes-collison-brothers-to-run-ai-coding-agents-in-the-cloud-kkVjFyEm</guid>
-      <category>agent-startup funding</category>
-      <description>Hoplite raises $5.5M from Stripe's Collison brothers to run AI coding agents in the cloud</description>
-      <pubDate>Fri, 20 Nov 2026 18:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
