@@ -5,13 +5,45 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Nominal raises $240M Series C at $3B valuation for its industrial-engineering AI agent</title>
+      <link>http://hangingcontext.com/stories/2026-11-24/ai-checks-split-big-and-small/</link>
+      <guid isPermaLink="true">http://hangingcontext.com/stories/2026-11-24/ai-checks-split-big-and-small/</guid>
+      <category>agent-startup funding</category>
+      <description>Nominal raised $240 million at a $3 billion valuation for its AI agent that automates root-cause analysis for industrial engineers, with the US Air Force adding a $71.2 million award.</description>
+      <pubDate>Tue, 24 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Instinct: The Hidden Cost of a Free AI Agent — a Nov 24 deep dive into the personal agent's safeguards and defaults</title>
+      <link>https://dev.to/socialawy/instinct-the-hidden-cost-of-a-free-ai-agent-4mjf</link>
+      <guid isPermaLink="true">https://dev.to/socialawy/instinct-the-hidden-cost-of-a-free-ai-agent-4mjf</guid>
+      <category>Base44/Instinct ecosystem</category>
+      <description>A new deep dive into Instinct examines the personal AI agent's safety defaults and the billing failure that took it offline on WhatsApp in early November.</description>
+      <pubDate>Tue, 24 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Codex CLI 0.172.0 adds thread links, tab completion and Bedrock Runtime support</title>
+      <link>https://dirtystatic.com/articles/codex-0-172-adds-thread-links-bedrock-support/</link>
+      <guid isPermaLink="true">https://dirtystatic.com/articles/codex-0-172-adds-thread-links-bedrock-support/</guid>
+      <category>agent frameworks</category>
+      <description>OpenAI's Codex CLI 0.172.0 adds thread links in the terminal, tab completion for slash commands and Bedrock Runtime support for app-server clients.</description>
+      <pubDate>Tue, 24 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OpenAI API adds healthcare configurations of GPT-6.2 Astra and Sol with a medical-source search index</title>
+      <link>https://botsdothat.com/news/</link>
+      <guid isPermaLink="true">https://botsdothat.com/news/</guid>
+      <category>model APIs</category>
+      <description>OpenAI's API now offers healthcare versions of its GPT-6.2 models that search only medical sources when web search is turned on.</description>
+      <pubDate>Tue, 24 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>OpenAI and Cisco launch Shirudo, an open-source runtime letting AI agents shield Linux systems from exploits</title>
       <link>https://www.prnewswire.com/news-releases/cisco-and-openai-launch-shirudo-a-new-project-to-safeguard-agentic-ai-302948685.html</link>
       <guid isPermaLink="true">https://www.prnewswire.com/news-releases/cisco-and-openai-launch-shirudo-a-new-project-to-safeguard-agentic-ai-302948685.html</guid>
       <category>agent frameworks</category>
-      <description>OpenAI and Cisco launched Shirudo, an open-source tool that lets AI agents block attacks on Linux systems while teams prepare a proper patch.</description>
+      <description>OpenAI and Cisco launch Shirudo, an open-source runtime letting AI agents shield Linux systems from exploits</description>
       <pubDate>Tue, 24 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -19,7 +51,7 @@
       <link>https://www.anthropic.com/news/enterprise-frontier-safeguards?ref=thestack.technology</link>
       <guid isPermaLink="true">https://www.anthropic.com/news/enterprise-frontier-safeguards?ref=thestack.technology</guid>
       <category>agent governance</category>
-      <description>Anthropic opened a public beta that lets companies use Claude without Anthropic keeping their data, while still checking for misuse.</description>
+      <description>Anthropic opens Enterprise Frontier Safeguards in public beta: zero-data-retention Claude with cross-request misuse monitoring</description>
       <pubDate>Tue, 24 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -27,7 +59,7 @@
       <link>https://www.digitaltrends.com/computing/chatgpt-is-getting-a-chat-tuned-gpt-6-2-sol-and-it-can-offer-to-watch-for-a-price-drop/</link>
       <guid isPermaLink="true">https://www.digitaltrends.com/computing/chatgpt-is-getting-a-chat-tuned-gpt-6-2-sol-and-it-can-offer-to-watch-for-a-price-drop/</guid>
       <category>model APIs</category>
-      <description>ChatGPT's everyday chat now runs on the newer GPT-6.2 Sol for paid users, and the older GPT-5.6 models retire on December 23.</description>
+      <description>OpenAI rolls chat-tuned GPT-6.2 Sol into ChatGPT's Chat tab, retires GPT-5.6 Sol and Terra on Dec 23</description>
       <pubDate>Tue, 24 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -35,7 +67,7 @@
       <link>https://aiweekly.co/alerts/aws-ships-strands-decider-v2-on-gemma-4-debuts-box-cli</link>
       <guid isPermaLink="true">https://aiweekly.co/alerts/aws-ships-strands-decider-v2-on-gemma-4-debuts-box-cli</guid>
       <category>agent frameworks</category>
-      <description>AWS released five open decision models that help AI agents pick between options without writing text, plus a sandbox tool for coding agents.</description>
+      <description>AWS ships Strands Decider v2: five open-weight decision models plus Box CLI sandboxing for coding agents</description>
       <pubDate>Tue, 24 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -43,7 +75,7 @@
       <link>https://claude.ai/plugins</link>
       <guid isPermaLink="true">https://claude.ai/plugins</guid>
       <category>agent frameworks</category>
-      <description>Claude now has one place for plugins — tools and skills together — with more than 10,000 available to browse.</description>
+      <description>Anthropic unifies Claude connectors and skills into plugins, with 10,000+ in the directory</description>
       <pubDate>Tue, 24 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -51,7 +83,7 @@
       <link>https://yonkersdailynews.com/stories/zipher-lands-53m-to-put-ai-agents-not-data-engineers-in-charge-of-data-workloads,2282587</link>
       <guid isPermaLink="true">https://yonkersdailynews.com/stories/zipher-lands-53m-to-put-ai-agents-not-data-engineers-in-charge-of-data-workloads,2282587</guid>
       <category>agent-startup funding</category>
-      <description>Data startup Zipher raised $53 million to let AI agents — not data engineers — decide how enterprise data workloads run.</description>
+      <description>Zipher lands $53M to put AI agents, not data engineers, in charge of data workloads</description>
       <pubDate>Tue, 24 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -59,7 +91,7 @@
       <link>https://www.finsmes.com/2026/11/verra-raises-5m-in-seed-funding.html</link>
       <guid isPermaLink="true">https://www.finsmes.com/2026/11/verra-raises-5m-in-seed-funding.html</guid>
       <category>agent-startup funding</category>
-      <description>Verra raised $5 million in seed funding to build an AI memory layer that helps consulting firms use decades of institutional knowledge.</description>
+      <description>Verra raises $5M seed to build an AI memory layer for consulting firms</description>
       <pubDate>Tue, 24 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -67,7 +99,7 @@
       <link>https://theaiinsider.tech/2026/11/24/pedestal-ai-emerges-from-stealth-with-4-7m-to-bring-agentic-ai-to-delivery-supply-chains/</link>
       <guid isPermaLink="true">https://theaiinsider.tech/2026/11/24/pedestal-ai-emerges-from-stealth-with-4-7m-to-bring-agentic-ai-to-delivery-supply-chains/</guid>
       <category>agent-startup funding</category>
-      <description>Pedestal AI came out of stealth with $4.7 million to put AI agents to work on delivery supply chains.</description>
+      <description>Pedestal AI emerges from stealth with $4.7M for agentic AI in delivery supply chains</description>
       <pubDate>Tue, 24 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -323,7 +355,7 @@
       <link>https://dev.to/m1kulya/9-frontier-ai-models-tested-live-nov-2026-pricing-inversions-thinking-token-traps--1k2h</link>
       <guid isPermaLink="true">https://dev.to/m1kulya/9-frontier-ai-models-tested-live-nov-2026-pricing-inversions-thinking-token-traps--1k2h</guid>
       <category>model APIs</category>
-      <description>Independent live benchmark of 9 frontier models exposes Gemini 4 Neon pricing inversion and thinking-token bug</description>
+      <description>An independent benchmark of nine leading AI models found Gemini 4 Neon costs more per token than Google's flagship Carbon until December 1, and that test results swing widely with the harness used.</description>
       <pubDate>Sun, 22 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -331,7 +363,7 @@
       <link>https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/</link>
       <guid isPermaLink="true">https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/</guid>
       <category>model APIs</category>
-      <description>OpenAI ships GPT-Live-1.1 for voice agents and cuts idle cost to $0.02/min</description>
+      <description>OpenAI's new GPT-Live-1.1 voice model charges $0.02 a minute for idle time instead of $0.05, making always-on voice agents cheaper to run.</description>
       <pubDate>Sun, 22 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -339,7 +371,7 @@
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</link>
       <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</guid>
       <category>model APIs</category>
-      <description>Google previews Tool Retrieval in the Gemini API for large tool libraries</description>
+      <description>Google's Gemini API can now load an agent's tool definitions on demand instead of sending the whole library with every request, cutting token costs for agents with lots of tools.</description>
       <pubDate>Sun, 22 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -347,7 +379,7 @@
       <link>https://www.perplexity.ai/hub/blog/introducing-computer-multiagent</link>
       <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/introducing-computer-multiagent</guid>
       <category>agent builders</category>
-      <description>Perplexity Computer adds Multiagent: up to 16 agents that cross-check each other's work</description>
+      <description>Perplexity's Computer can now run a team of up to 16 AI agents on different models that share findings and check each other's work on complex tasks.</description>
       <pubDate>Sun, 22 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -355,7 +387,7 @@
       <link>https://www.insightex.si/news/metas-muse-ai-agent-arrives-as-a-chrome-extension-with-200000-early-users</link>
       <guid isPermaLink="true">https://www.insightex.si/news/metas-muse-ai-agent-arrives-as-a-chrome-extension-with-200000-early-users</guid>
       <category>agent sidebar race</category>
-      <description>Meta puts Muse in a Chrome sidebar — 200,000 users already</description>
+      <description>Meta's Muse AI agent is now available as a Chrome extension, with 200,000 people already using it in the browser sidebar.</description>
       <pubDate>Sun, 22 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -363,7 +395,7 @@
       <link>https://futurumgroup.com/insights/collate-bets-on-open-context-and-staged-governance-for-ai-agents/</link>
       <guid isPermaLink="true">https://futurumgroup.com/insights/collate-bets-on-open-context-and-staged-governance-for-ai-agents/</guid>
       <category>file-governance</category>
-      <description>Collate 2.1 brings open-context governance and MCP graph tools to enterprise AI agents</description>
+      <description>Collate 2.1 adds open-standards semantic modeling for enterprise data and an MCP server so AI agents can query business context as a graph, with human approval required before governance changes go live.</description>
       <pubDate>Sun, 22 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -372,38 +404,6 @@
       <guid isPermaLink="true">https://undercodenews.com/agentkit-just-got-a-major-update-beta-3-brings-github-copilot-runtime-integration-ollama-discovery-and-more-powerful-agent-tools-video/</guid>
       <category>agent frameworks</category>
       <description>AgentKit Beta 3 adds GitHub Copilot runtime support and Ollama context-window discovery</description>
-      <pubDate>Sat, 21 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Gauge raises $500K seed to track how AI agents pick software</title>
-      <link>https://dealroom.co/news/174775-gauge-raises-500k-seed-to-track-how-ai-agents-pick-software/</link>
-      <guid isPermaLink="true">https://dealroom.co/news/174775-gauge-raises-500k-seed-to-track-how-ai-agents-pick-software/</guid>
-      <category>agent-startup funding</category>
-      <description>Gauge raises $500K seed to track how AI agents pick software</description>
-      <pubDate>Sat, 21 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Noeri launches with $110M led by Menlo Ventures to build self-improving AI</title>
-      <link>https://inite.ai/en/news/model-ml-and-noeri-land-big-rounds-for-business-ai</link>
-      <guid isPermaLink="true">https://inite.ai/en/news/model-ml-and-noeri-land-big-rounds-for-business-ai</guid>
-      <category>agent-startup funding</category>
-      <description>Noeri launches with $110M led by Menlo Ventures to build self-improving AI</description>
-      <pubDate>Sat, 21 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Base44 launches Production Agent to watch published apps and suggest one-click fixes</title>
-      <link>https://docs.base44.com/changelog/product?experiment_id=120232338341120128%5EFacebook_Mobile_Feed</link>
-      <guid isPermaLink="true">https://docs.base44.com/changelog/product?experiment_id=120232338341120128%5EFacebook_Mobile_Feed</guid>
-      <category>Base44/Instinct ecosystem</category>
-      <description>Base44 launches Production Agent to watch published apps and suggest one-click fixes</description>
-      <pubDate>Sat, 21 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>System 1 agents: local agents that never generate text, 92.9% correct on 1,952 tool requests</title>
-      <link>https://discuss.huggingface.co/t/system-1-agents-a-method-for-local-reliable-and-fast-agentic-ai/192267</link>
-      <guid isPermaLink="true">https://discuss.huggingface.co/t/system-1-agents-a-method-for-local-reliable-and-fast-agentic-ai/192267</guid>
-      <category>agent frameworks</category>
-      <description>System 1 agents: local agents that never generate text, 92.9% correct on 1,952 tool requests</description>
       <pubDate>Sat, 21 Nov 2026 21:20:00 -0500</pubDate>
     </item>
   </channel>
