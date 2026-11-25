@@ -5,13 +5,53 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Every raises $17.5M Series A at $110M valuation to make teams AI-native</title>
+      <link>https://every.to/on-every/we-raised-17-5-million-to-make-you-and-your-team-ai-native</link>
+      <guid isPermaLink="true">https://every.to/on-every/we-raised-17-5-million-to-make-you-and-your-team-ai-native</guid>
+      <category>agent-startup funding</category>
+      <description>Every raised $17.5 million at a $110 million valuation to build one subscription that helps people and teams work with AI, led by IA Ventures.</description>
+      <pubDate>Wed, 25 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Saudi AI startup 009 raises $1.4M pre-seed to build agents for government and industry</title>
+      <link>https://www.wamda.com/en/2026/11/saudi-ai-startup-009-raises-1-4-million-pre-seed-led-outliers-venture-capital</link>
+      <guid isPermaLink="true">https://www.wamda.com/en/2026/11/saudi-ai-startup-009-raises-1-4-million-pre-seed-led-outliers-venture-capital</guid>
+      <category>agent-startup funding</category>
+      <description>Riyadh AI startup 009 raised $1.4 million to build AI agents that automate administrative work for government agencies and industrial companies.</description>
+      <pubDate>Wed, 25 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Anthropic ships Skills over MCP in public beta; MCP Tasks and Elicitation reach general availability</title>
+      <link>https://cryptobriefing.com/anthropic-skills-over-mcp-claude-beta/</link>
+      <guid isPermaLink="true">https://cryptobriefing.com/anthropic-skills-over-mcp-claude-beta/</guid>
+      <category>model APIs / agent frameworks</category>
+      <description>Anthropic's MCP now lets servers ship skills alongside tools, run long jobs in the background, and pause to ask a human before risky actions.</description>
+      <pubDate>Wed, 25 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Google launches Gemini 4 Neon, a $3/$15 mid-tier frontier model</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</link>
+      <guid isPermaLink="true">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</guid>
+      <category>model APIs</category>
+      <description>Google launched Gemini 4 Neon, a mid-tier frontier model priced at $3 per million input tokens with a 1-million-token context window.</description>
+      <pubDate>Wed, 25 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp Direct Send lets businesses send utility and OTP messages without pre-created templates</title>
+      <link>https://omni.z-api.io/academy/articles/whatsapp-direct-send-without-templates/</link>
+      <guid isPermaLink="true">https://omni.z-api.io/academy/articles/whatsapp-direct-send-without-templates/</guid>
+      <category>WhatsApp/Meta dev</category>
+      <description>WhatsApp's Direct Send lets businesses send utility and one-time-code messages without creating a template first.</description>
+      <pubDate>Wed, 25 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Avicena raises $100M+ Series C to commercialize optical interconnects for AI infrastructure</title>
       <link>https://pulse2.com/avicena-raises-more-than-100-million-to-commercialize-optical-interconnects-for-ai-infrastructure</link>
       <guid isPermaLink="true">https://pulse2.com/avicena-raises-more-than-100-million-to-commercialize-optical-interconnects-for-ai-infrastructure</guid>
       <category>agent-startup funding</category>
-      <description>Avicena raised over $100 million to commercialize laser-free optical interconnects that move data between AI processors, memory and switches.</description>
+      <description>Avicena raises $100M+ Series C to commercialize optical interconnects for AI infrastructure</description>
       <pubDate>Wed, 25 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -19,7 +59,7 @@
       <link>https://www.theblock.co/press-releases/ai-investing-app-ulys-reaches-17-million-in-total-funding-446731</link>
       <guid isPermaLink="true">https://www.theblock.co/press-releases/ai-investing-app-ulys-reaches-17-million-in-total-funding-446731</guid>
       <category>agent-startup funding</category>
-      <description>AI investing app Ulys raised another $4 million, bringing its total funding to $17 million, to market its app and train its investing models.</description>
+      <description>Ulys raises $4M more, taking total funding to $17M for its AI investing app</description>
       <pubDate>Wed, 25 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -27,7 +67,7 @@
       <link>https://seenews.com/news/romanian-startup-outcome1-raises-1-mln-euro-in-catalyst-led-funding-round-1305644</link>
       <guid isPermaLink="true">https://seenews.com/news/romanian-startup-outcome1-raises-1-mln-euro-in-catalyst-led-funding-round-1305644</guid>
       <category>agent-startup funding</category>
-      <description>Romanian startup Outcome1 raised €1 million to build its AI agent platform for medium and large businesses.</description>
+      <description>Outcome1 raises €1M Catalyst-led round to build its AI agent platform</description>
       <pubDate>Wed, 25 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -35,7 +75,7 @@
       <link>https://sigmalawgroup.com/blog/2026-11-25-ec-meta-whatsapp-interim-measures-ai-assistants/</link>
       <guid isPermaLink="true">https://sigmalawgroup.com/blog/2026-11-25-ec-meta-whatsapp-interim-measures-ai-assistants/</guid>
       <category>WhatsApp/Meta dev</category>
-      <description>The EU has ordered Meta to keep WhatsApp open to rival AI assistants, and Meta is challenging the order in the EU General Court.</description>
+      <description>EU interim measures order Meta to keep WhatsApp open to rival AI assistants</description>
       <pubDate>Wed, 25 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -43,7 +83,7 @@
       <link>https://stackpick.app/tool/base44/changelog</link>
       <guid isPermaLink="true">https://stackpick.app/tool/base44/changelog</guid>
       <category>Base44/Instinct ecosystem</category>
-      <description>Base44's latest updates add split create/update rules for field security, new image models, and white-label setup from workspace settings.</description>
+      <description>Base44 Nov 23 updates: split field-security rules, new image models, white-label setup</description>
       <pubDate>Wed, 25 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -51,7 +91,7 @@
       <link>https://www.thesaasnews.com/news/permut-raises-3m-seed/</link>
       <guid isPermaLink="true">https://www.thesaasnews.com/news/permut-raises-3m-seed/</guid>
       <category>agent-startup funding</category>
-      <description>Permut raised €3 million to grow its AI agents for online retailers, which handle customer chats, sales and marketing across WhatsApp, Instagram and Messenger.</description>
+      <description>Permut raises €3M seed for AI agents serving e-commerce brands</description>
       <pubDate>Wed, 25 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -59,7 +99,7 @@
       <link>https://theaiinsider.tech/2026/11/25/leash-biosciences-raises-11m-in-funding-to-expand-scientific-ai-training-environments/</link>
       <guid isPermaLink="true">https://theaiinsider.tech/2026/11/25/leash-biosciences-raises-11m-in-funding-to-expand-scientific-ai-training-environments/</guid>
       <category>agent-startup funding</category>
-      <description>Leash Biosciences raised $11 million to expand automated labs where AI agents practice scientific experiments on real laboratory data.</description>
+      <description>Leash Biosciences raises $11M to expand AI training environments for scientific agents</description>
       <pubDate>Wed, 25 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -67,7 +107,7 @@
       <link>https://www.thesaasnews.com/news/lawvek-raises-550000-pre-seed/</link>
       <guid isPermaLink="true">https://www.thesaasnews.com/news/lawvek-raises-550000-pre-seed/</guid>
       <category>agent-startup funding</category>
-      <description>Lawvek raised $550,000 to help enterprises recover money from vendor overcharges using AI agents that check contracts against invoices.</description>
+      <description>Lawvek raises $550K pre-seed for AI agents recovering vendor overcharges</description>
       <pubDate>Wed, 25 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -75,7 +115,7 @@
       <link>https://www.thecodew.com/2026/11/ai-watch-november-25.html</link>
       <guid isPermaLink="true">https://www.thecodew.com/2026/11/ai-watch-november-25.html</guid>
       <category>model APIs</category>
-      <description>Anthropic's Model Context Protocol now tops 700 million monthly downloads, with Skills over MCP in public beta and Tasks and Elicitation generally available.</description>
+      <description>MCP passes 700M monthly SDK downloads; Skills over MCP enters public beta</description>
       <pubDate>Wed, 25 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -83,7 +123,7 @@
       <link>https://ashutoshai.com/ai-compass/2026/11/24/</link>
       <guid isPermaLink="true">https://ashutoshai.com/ai-compass/2026/11/24/</guid>
       <category>model APIs</category>
-      <description>Claude can now turn an interactive artifact into a standalone desktop app for Mac or Windows, with no manual packaging or API keys needed.</description>
+      <description>Anthropic ships 'Install as app' beta: Claude artifacts become standalone desktop apps</description>
       <pubDate>Wed, 25 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -91,7 +131,7 @@
       <link>https://blockchain.news/flashnews/base-7-3m-x402-payments-prove-stablecoin-micro-pay-edge</link>
       <guid isPermaLink="true">https://blockchain.news/flashnews/base-7-3m-x402-payments-prove-stablecoin-micro-pay-edge</guid>
       <category>agentic commerce rails</category>
-      <description>Base handled 92% of 7.3 million x402 agent payments in the last 30 days, with a median payment of just 2 cents.</description>
+      <description>7.3M x402 payments in 30 days, 92% on Base, median 2 cents</description>
       <pubDate>Wed, 25 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -99,7 +139,7 @@
       <link>https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/</link>
       <guid isPermaLink="true">https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/</guid>
       <category>agent-startup funding</category>
-      <description>Sierra raised $1.75 billion at a $30 billion valuation, doubling its value in six months as demand for AI customer service grows.</description>
+      <description>Sierra raises $1.75B Series F at $30B valuation, doubling in six months</description>
       <pubDate>Wed, 25 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -107,7 +147,7 @@
       <link>https://coinstats.app/news/f5a5ae60cbb1e2900a4b20e489569599514f799c11f86de96ba753c1cc719afd_Coinbase-Says-x402-Has-Processed-160M-Agentic-Payments/</link>
       <guid isPermaLink="true">https://coinstats.app/news/f5a5ae60cbb1e2900a4b20e489569599514f799c11f86de96ba753c1cc719afd_Coinbase-Says-x402-Has-Processed-160M-Agentic-Payments/</guid>
       <category>agentic commerce rails</category>
-      <description>Coinbase says its x402 protocol has now processed more than 160 million AI agent payments, and its new Coinbase for Agents tool is live.</description>
+      <description>Coinbase says x402 has processed 160M+ agentic payments as Coinbase for Agents goes live</description>
       <pubDate>Wed, 25 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -115,7 +155,7 @@
       <link>https://xatkit.com/article/meta-lets-ai-agents-handle-whatsapp-business-setup-tasks.html</link>
       <guid isPermaLink="true">https://xatkit.com/article/meta-lets-ai-agents-handle-whatsapp-business-setup-tasks.html</guid>
       <category>WhatsApp/Meta dev</category>
-      <description>Meta now lets AI assistants like Claude, Cursor, Codex and ChatGPT set up and manage WhatsApp Business accounts.</description>
+      <description>Meta ships WhatsApp Business Tools MCP: Claude, Cursor, Codex and ChatGPT can set up WhatsApp Business</description>
       <pubDate>Wed, 25 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -123,7 +163,7 @@
       <link>https://hernandez.systems/en/articles/whatsapp-separates-its-marketing-errors-starting-february-2027-131066-will-tell-you-your-template</link>
       <guid isPermaLink="true">https://hernandez.systems/en/articles/whatsapp-separates-its-marketing-errors-starting-february-2027-131066-will-tell-you-your-template</guid>
       <category>WhatsApp/Meta dev</category>
-      <description>WhatsApp will use a new error code from February 2027 so businesses can tell whether a marketing message failed on quality or price.</description>
+      <description>WhatsApp splits marketing errors: new code 131066 from February 2027 for template quality and max price</description>
       <pubDate>Wed, 25 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -131,7 +171,7 @@
       <link>https://workspace.google.com/blog/product-announcements/built-for-trust-and-control-new-ai-agent-protections-and-developer-tools-in-google-workspace</link>
       <guid isPermaLink="true">https://workspace.google.com/blog/product-announcements/built-for-trust-and-control-new-ai-agent-protections-and-developer-tools-in-google-workspace</guid>
       <category>model APIs</category>
-      <description>Google made its Workspace MCP servers generally available, and AI agents will have to use them instead of direct API access from February 2027.</description>
+      <description>Google Workspace MCP servers and CLI now generally available; agents must use MCP from Feb 1, 2027</description>
       <pubDate>Wed, 25 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -365,46 +405,6 @@
       <category>agentic commerce rails</category>
       <description>AWS lets agents pay for x402 Marketplace tools in USD on the AWS bill</description>
       <pubDate>Mon, 23 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA launches NeMo Switchyard, a Rust-based framework for routing multi-step agent requests</title>
-      <link>https://betabriefing.ai/channels/the-gateway-signal/briefings/2026-11-23/</link>
-      <guid isPermaLink="true">https://betabriefing.ai/channels/the-gateway-signal/briefings/2026-11-23/</guid>
-      <category>agent frameworks</category>
-      <description>NVIDIA launches NeMo Switchyard, a Rust-based framework for routing multi-step agent requests</description>
-      <pubDate>Mon, 23 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>X Square Robot unveils WALL-OSS-1.0 vision-language-action model, XR Harness and WALL-API-1.0</title>
-      <link>https://www.globenewswire.com/news-release/2026/11/23/3408046/0/en/x-square-robot-introduces-wall-oss-1-0-understand-more-act-better-a-native-foundation-model-for-the-physical-world.html</link>
-      <guid isPermaLink="true">https://www.globenewswire.com/news-release/2026/11/23/3408046/0/en/x-square-robot-introduces-wall-oss-1-0-understand-more-act-better-a-native-foundation-model-for-the-physical-world.html</guid>
-      <category>model APIs</category>
-      <description>X Square Robot unveils WALL-OSS-1.0 vision-language-action model, XR Harness and WALL-API-1.0</description>
-      <pubDate>Mon, 23 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Unsiloed AI raises $7.5M seed to process documents for AI agents</title>
-      <link>https://www.citybiz.co/article/937212/unsiloed-ai-raises-7-5m-seed-round-to-process-documents-for-ai-agents/</link>
-      <guid isPermaLink="true">https://www.citybiz.co/article/937212/unsiloed-ai-raises-7-5m-seed-round-to-process-documents-for-ai-agents/</guid>
-      <category>agent-startup funding</category>
-      <description>Unsiloed AI raises $7.5M seed to process documents for AI agents</description>
-      <pubDate>Mon, 23 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Matters.AI raises ₹115 Cr pre-Series A to stop AI agents misusing sensitive data</title>
-      <link>https://inc42.com/buzz/data-security-startup-matters-ai-nets-%e2%82%b9115-cr-from-tanglin-venture-partners-others/</link>
-      <guid isPermaLink="true">https://inc42.com/buzz/data-security-startup-matters-ai-nets-%e2%82%b9115-cr-from-tanglin-venture-partners-others/</guid>
-      <category>agent-startup funding</category>
-      <description>Matters.AI raises ₹115 Cr pre-Series A to stop AI agents misusing sensitive data</description>
-      <pubDate>Mon, 23 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sierra raises $1.75B Series F at $30B valuation</title>
-      <link>https://www.unite.ai/sierra-raises-1-75b-in-series-f-funding-at-30b-valuation/</link>
-      <guid isPermaLink="true">https://www.unite.ai/sierra-raises-1-75b-in-series-f-funding-at-30b-valuation/</guid>
-      <category>agent-startup funding</category>
-      <description>Sierra raises $1.75B Series F at $30B valuation</description>
-      <pubDate>Mon, 23 Nov 2026 09:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
