@@ -5,7 +5,47 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Sierra raises $1.75B Series F at $30B valuation, doubling in six months</title>
+      <link>https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/</guid>
+      <category>agent-startup funding</category>
+      <description>Sierra raised $1.75 billion at a $30 billion valuation, doubling its value in six months as demand for AI customer service grows.</description>
+      <pubDate>Wed, 25 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Coinbase says x402 has processed 160M+ agentic payments as Coinbase for Agents goes live</title>
+      <link>https://coinstats.app/news/f5a5ae60cbb1e2900a4b20e489569599514f799c11f86de96ba753c1cc719afd_Coinbase-Says-x402-Has-Processed-160M-Agentic-Payments/</link>
+      <guid isPermaLink="true">https://coinstats.app/news/f5a5ae60cbb1e2900a4b20e489569599514f799c11f86de96ba753c1cc719afd_Coinbase-Says-x402-Has-Processed-160M-Agentic-Payments/</guid>
+      <category>agentic commerce rails</category>
+      <description>Coinbase says its x402 protocol has now processed more than 160 million AI agent payments, and its new Coinbase for Agents tool is live.</description>
+      <pubDate>Wed, 25 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Meta ships WhatsApp Business Tools MCP: Claude, Cursor, Codex and ChatGPT can set up WhatsApp Business</title>
+      <link>https://xatkit.com/article/meta-lets-ai-agents-handle-whatsapp-business-setup-tasks.html</link>
+      <guid isPermaLink="true">https://xatkit.com/article/meta-lets-ai-agents-handle-whatsapp-business-setup-tasks.html</guid>
+      <category>WhatsApp/Meta dev</category>
+      <description>Meta now lets AI assistants like Claude, Cursor, Codex and ChatGPT set up and manage WhatsApp Business accounts.</description>
+      <pubDate>Wed, 25 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WhatsApp splits marketing errors: new code 131066 from February 2027 for template quality and max price</title>
+      <link>https://hernandez.systems/en/articles/whatsapp-separates-its-marketing-errors-starting-february-2027-131066-will-tell-you-your-template</link>
+      <guid isPermaLink="true">https://hernandez.systems/en/articles/whatsapp-separates-its-marketing-errors-starting-february-2027-131066-will-tell-you-your-template</guid>
+      <category>WhatsApp/Meta dev</category>
+      <description>WhatsApp will use a new error code from February 2027 so businesses can tell whether a marketing message failed on quality or price.</description>
+      <pubDate>Wed, 25 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Google Workspace MCP servers and CLI now generally available; agents must use MCP from Feb 1, 2027</title>
+      <link>https://workspace.google.com/blog/product-announcements/built-for-trust-and-control-new-ai-agent-protections-and-developer-tools-in-google-workspace</link>
+      <guid isPermaLink="true">https://workspace.google.com/blog/product-announcements/built-for-trust-and-control-new-ai-agent-protections-and-developer-tools-in-google-workspace</guid>
+      <category>model APIs</category>
+      <description>Google made its Workspace MCP servers generally available, and AI agents will have to use them instead of direct API access from February 2027.</description>
+      <pubDate>Wed, 25 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Nominal raises $240M Series C at $3B valuation for its industrial-engineering AI agent</title>
       <link>http://hangingcontext.com/stories/2026-11-24/ai-checks-split-big-and-small/</link>
@@ -365,46 +405,6 @@
       <category>model APIs</category>
       <description>OpenAI's new GPT-Live-1.1 voice model charges $0.02 a minute for idle time instead of $0.05, making always-on voice agents cheaper to run.</description>
       <pubDate>Sun, 22 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Google previews Tool Retrieval in the Gemini API for large tool libraries</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</link>
-      <guid isPermaLink="true">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</guid>
-      <category>model APIs</category>
-      <description>Google's Gemini API can now load an agent's tool definitions on demand instead of sending the whole library with every request, cutting token costs for agents with lots of tools.</description>
-      <pubDate>Sun, 22 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Perplexity Computer adds Multiagent: up to 16 agents that cross-check each other's work</title>
-      <link>https://www.perplexity.ai/hub/blog/introducing-computer-multiagent</link>
-      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/introducing-computer-multiagent</guid>
-      <category>agent builders</category>
-      <description>Perplexity's Computer can now run a team of up to 16 AI agents on different models that share findings and check each other's work on complex tasks.</description>
-      <pubDate>Sun, 22 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Meta puts Muse in a Chrome sidebar — 200,000 users already</title>
-      <link>https://www.insightex.si/news/metas-muse-ai-agent-arrives-as-a-chrome-extension-with-200000-early-users</link>
-      <guid isPermaLink="true">https://www.insightex.si/news/metas-muse-ai-agent-arrives-as-a-chrome-extension-with-200000-early-users</guid>
-      <category>agent sidebar race</category>
-      <description>Meta's Muse AI agent is now available as a Chrome extension, with 200,000 people already using it in the browser sidebar.</description>
-      <pubDate>Sun, 22 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Collate 2.1 brings open-context governance and MCP graph tools to enterprise AI agents</title>
-      <link>https://futurumgroup.com/insights/collate-bets-on-open-context-and-staged-governance-for-ai-agents/</link>
-      <guid isPermaLink="true">https://futurumgroup.com/insights/collate-bets-on-open-context-and-staged-governance-for-ai-agents/</guid>
-      <category>file-governance</category>
-      <description>Collate 2.1 adds open-standards semantic modeling for enterprise data and an MCP server so AI agents can query business context as a graph, with human approval required before governance changes go live.</description>
-      <pubDate>Sun, 22 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>AgentKit Beta 3 adds GitHub Copilot runtime support and Ollama context-window discovery</title>
-      <link>https://undercodenews.com/agentkit-just-got-a-major-update-beta-3-brings-github-copilot-runtime-integration-ollama-discovery-and-more-powerful-agent-tools-video/</link>
-      <guid isPermaLink="true">https://undercodenews.com/agentkit-just-got-a-major-update-beta-3-brings-github-copilot-runtime-integration-ollama-discovery-and-more-powerful-agent-tools-video/</guid>
-      <category>agent frameworks</category>
-      <description>AgentKit Beta 3 adds GitHub Copilot runtime support and Ollama context-window discovery</description>
-      <pubDate>Sat, 21 Nov 2026 21:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
