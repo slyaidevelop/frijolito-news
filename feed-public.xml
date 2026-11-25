@@ -5,7 +5,47 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Avicena raises $100M+ Series C to commercialize optical interconnects for AI infrastructure</title>
+      <link>https://pulse2.com/avicena-raises-more-than-100-million-to-commercialize-optical-interconnects-for-ai-infrastructure</link>
+      <guid isPermaLink="true">https://pulse2.com/avicena-raises-more-than-100-million-to-commercialize-optical-interconnects-for-ai-infrastructure</guid>
+      <category>agent-startup funding</category>
+      <description>Avicena raised over $100 million to commercialize laser-free optical interconnects that move data between AI processors, memory and switches.</description>
+      <pubDate>Wed, 25 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Ulys raises $4M more, taking total funding to $17M for its AI investing app</title>
+      <link>https://www.theblock.co/press-releases/ai-investing-app-ulys-reaches-17-million-in-total-funding-446731</link>
+      <guid isPermaLink="true">https://www.theblock.co/press-releases/ai-investing-app-ulys-reaches-17-million-in-total-funding-446731</guid>
+      <category>agent-startup funding</category>
+      <description>AI investing app Ulys raised another $4 million, bringing its total funding to $17 million, to market its app and train its investing models.</description>
+      <pubDate>Wed, 25 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Outcome1 raises €1M Catalyst-led round to build its AI agent platform</title>
+      <link>https://seenews.com/news/romanian-startup-outcome1-raises-1-mln-euro-in-catalyst-led-funding-round-1305644</link>
+      <guid isPermaLink="true">https://seenews.com/news/romanian-startup-outcome1-raises-1-mln-euro-in-catalyst-led-funding-round-1305644</guid>
+      <category>agent-startup funding</category>
+      <description>Romanian startup Outcome1 raised €1 million to build its AI agent platform for medium and large businesses.</description>
+      <pubDate>Wed, 25 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>EU interim measures order Meta to keep WhatsApp open to rival AI assistants</title>
+      <link>https://sigmalawgroup.com/blog/2026-11-25-ec-meta-whatsapp-interim-measures-ai-assistants/</link>
+      <guid isPermaLink="true">https://sigmalawgroup.com/blog/2026-11-25-ec-meta-whatsapp-interim-measures-ai-assistants/</guid>
+      <category>WhatsApp/Meta dev</category>
+      <description>The EU has ordered Meta to keep WhatsApp open to rival AI assistants, and Meta is challenging the order in the EU General Court.</description>
+      <pubDate>Wed, 25 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Base44 Nov 23 updates: split field-security rules, new image models, white-label setup</title>
+      <link>https://stackpick.app/tool/base44/changelog</link>
+      <guid isPermaLink="true">https://stackpick.app/tool/base44/changelog</guid>
+      <category>Base44/Instinct ecosystem</category>
+      <description>Base44's latest updates add split create/update rules for field security, new image models, and white-label setup from workspace settings.</description>
+      <pubDate>Wed, 25 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Permut raises €3M seed for AI agents serving e-commerce brands</title>
       <link>https://www.thesaasnews.com/news/permut-raises-3m-seed/</link>
@@ -365,46 +405,6 @@
       <category>agent-startup funding</category>
       <description>Sierra raises $1.75B Series F at $30B valuation</description>
       <pubDate>Mon, 23 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Red Hat Developer Hub 2.1 adds governed AI agent context via MCP</title>
-      <link>https://www.techarena.co.ke/2026/11/23/red-hat-developer-hub-2-1-ai-agent-governance/</link>
-      <guid isPermaLink="true">https://www.techarena.co.ke/2026/11/23/red-hat-developer-hub-2-1-ai-agent-governance/</guid>
-      <category>agent governance</category>
-      <description>Red Hat Developer Hub 2.1 adds governed AI agent context via MCP</description>
-      <pubDate>Mon, 23 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>TrustHouse launches Secure AI Gateway for enterprise AI risk management</title>
-      <link>https://aithority.com/machine-learning/trusthouse-launches-secure-ai-gateway-extending-enterprise-ai-risk-management-beyond-model-gateways/</link>
-      <guid isPermaLink="true">https://aithority.com/machine-learning/trusthouse-launches-secure-ai-gateway-extending-enterprise-ai-risk-management-beyond-model-gateways/</guid>
-      <category>agent governance</category>
-      <description>TrustHouse launches Secure AI Gateway for enterprise AI risk management</description>
-      <pubDate>Mon, 23 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OpenRouter drops three inference providers after Dragos canary test catches months of prompt theft</title>
-      <link>https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html</link>
-      <guid isPermaLink="true">https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html</guid>
-      <category>model APIs</category>
-      <description>OpenRouter drops three inference providers after Dragos canary test catches months of prompt theft</description>
-      <pubDate>Sun, 22 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Pragmatik Labs closes new round at $5B valuation, 2.5x its August seed</title>
-      <link>https://www.pymnts.com/news/investment-tracker/2026/ex-alibaba-ai-chief-junyang-lin-drives-startup-pragmatik-labs-to-5-billion-valuation/</link>
-      <guid isPermaLink="true">https://www.pymnts.com/news/investment-tracker/2026/ex-alibaba-ai-chief-junyang-lin-drives-startup-pragmatik-labs-to-5-billion-valuation/</guid>
-      <category>agent-startup funding</category>
-      <description>Pragmatik Labs closes new round at $5B valuation, 2.5x its August seed</description>
-      <pubDate>Sun, 22 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>StepSecurity raises $20M Series A to stop supply-chain attacks on AI coding agents</title>
-      <link>https://www.stepsecurity.io/blog/stepsecurity-20-million-series-a</link>
-      <guid isPermaLink="true">https://www.stepsecurity.io/blog/stepsecurity-20-million-series-a</guid>
-      <category>agent-startup funding</category>
-      <description>StepSecurity raises $20M Series A to stop supply-chain attacks on AI coding agents</description>
-      <pubDate>Sun, 22 Nov 2026 21:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
