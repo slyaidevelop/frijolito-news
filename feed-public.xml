@@ -5,7 +5,55 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Permut raises €3M seed for AI agents serving e-commerce brands</title>
+      <link>https://www.thesaasnews.com/news/permut-raises-3m-seed/</link>
+      <guid isPermaLink="true">https://www.thesaasnews.com/news/permut-raises-3m-seed/</guid>
+      <category>agent-startup funding</category>
+      <description>Permut raised €3 million to grow its AI agents for online retailers, which handle customer chats, sales and marketing across WhatsApp, Instagram and Messenger.</description>
+      <pubDate>Wed, 25 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Leash Biosciences raises $11M to expand AI training environments for scientific agents</title>
+      <link>https://theaiinsider.tech/2026/11/25/leash-biosciences-raises-11m-in-funding-to-expand-scientific-ai-training-environments/</link>
+      <guid isPermaLink="true">https://theaiinsider.tech/2026/11/25/leash-biosciences-raises-11m-in-funding-to-expand-scientific-ai-training-environments/</guid>
+      <category>agent-startup funding</category>
+      <description>Leash Biosciences raised $11 million to expand automated labs where AI agents practice scientific experiments on real laboratory data.</description>
+      <pubDate>Wed, 25 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Lawvek raises $550K pre-seed for AI agents recovering vendor overcharges</title>
+      <link>https://www.thesaasnews.com/news/lawvek-raises-550000-pre-seed/</link>
+      <guid isPermaLink="true">https://www.thesaasnews.com/news/lawvek-raises-550000-pre-seed/</guid>
+      <category>agent-startup funding</category>
+      <description>Lawvek raised $550,000 to help enterprises recover money from vendor overcharges using AI agents that check contracts against invoices.</description>
+      <pubDate>Wed, 25 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>MCP passes 700M monthly SDK downloads; Skills over MCP enters public beta</title>
+      <link>https://www.thecodew.com/2026/11/ai-watch-november-25.html</link>
+      <guid isPermaLink="true">https://www.thecodew.com/2026/11/ai-watch-november-25.html</guid>
+      <category>model APIs</category>
+      <description>Anthropic's Model Context Protocol now tops 700 million monthly downloads, with Skills over MCP in public beta and Tasks and Elicitation generally available.</description>
+      <pubDate>Wed, 25 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Anthropic ships 'Install as app' beta: Claude artifacts become standalone desktop apps</title>
+      <link>https://ashutoshai.com/ai-compass/2026/11/24/</link>
+      <guid isPermaLink="true">https://ashutoshai.com/ai-compass/2026/11/24/</guid>
+      <category>model APIs</category>
+      <description>Claude can now turn an interactive artifact into a standalone desktop app for Mac or Windows, with no manual packaging or API keys needed.</description>
+      <pubDate>Wed, 25 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>7.3M x402 payments in 30 days, 92% on Base, median 2 cents</title>
+      <link>https://blockchain.news/flashnews/base-7-3m-x402-payments-prove-stablecoin-micro-pay-edge</link>
+      <guid isPermaLink="true">https://blockchain.news/flashnews/base-7-3m-x402-payments-prove-stablecoin-micro-pay-edge</guid>
+      <category>agentic commerce rails</category>
+      <description>Base handled 92% of 7.3 million x402 agent payments in the last 30 days, with a median payment of just 2 cents.</description>
+      <pubDate>Wed, 25 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Sierra raises $1.75B Series F at $30B valuation, doubling in six months</title>
       <link>https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/</link>
@@ -357,54 +405,6 @@
       <category>agent-startup funding</category>
       <description>StepSecurity raises $20M Series A to stop supply-chain attacks on AI coding agents</description>
       <pubDate>Sun, 22 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and more, compared on memory, security and cost</title>
-      <link>https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/</link>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/</guid>
-      <category>agent sidebar race</category>
-      <description>Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and more, compared on memory, security and cost</description>
-      <pubDate>Sun, 22 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Thinking Machines releases Inkling 2 Mini: 26B looped MoE that runs on a 32GB Mac</title>
-      <link>https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/</link>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/</guid>
-      <category>model APIs</category>
-      <description>Thinking Machines releases Inkling 2 Mini: 26B looped MoE that runs on a 32GB Mac</description>
-      <pubDate>Sun, 22 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RadixArk ships DaisyRose-27B, a 27B agentic coding model trained with reinforcement learning only</title>
-      <link>https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/</link>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/</guid>
-      <category>model APIs</category>
-      <description>RadixArk ships DaisyRose-27B, a 27B agentic coding model trained with reinforcement learning only</description>
-      <pubDate>Sun, 22 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OpenAI begins embedded third-party assessments with Apollo Research, METR, Transluce and Goodfire</title>
-      <link>https://fruition.net/frontier/</link>
-      <guid isPermaLink="true">https://fruition.net/frontier/</guid>
-      <category>model APIs</category>
-      <description>OpenAI begins embedded third-party assessments with Apollo Research, METR, Transluce and Goodfire</description>
-      <pubDate>Sun, 22 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Independent live benchmark of 9 frontier models exposes Gemini 4 Neon pricing inversion and thinking-token bug</title>
-      <link>https://dev.to/m1kulya/9-frontier-ai-models-tested-live-nov-2026-pricing-inversions-thinking-token-traps--1k2h</link>
-      <guid isPermaLink="true">https://dev.to/m1kulya/9-frontier-ai-models-tested-live-nov-2026-pricing-inversions-thinking-token-traps--1k2h</guid>
-      <category>model APIs</category>
-      <description>An independent benchmark of nine leading AI models found Gemini 4 Neon costs more per token than Google's flagship Carbon until December 1, and that test results swing widely with the harness used.</description>
-      <pubDate>Sun, 22 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OpenAI ships GPT-Live-1.1 for voice agents and cuts idle cost to $0.02/min</title>
-      <link>https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/</link>
-      <guid isPermaLink="true">https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/</guid>
-      <category>model APIs</category>
-      <description>OpenAI's new GPT-Live-1.1 voice model charges $0.02 a minute for idle time instead of $0.05, making always-on voice agents cheaper to run.</description>
-      <pubDate>Sun, 22 Nov 2026 12:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
