@@ -5,7 +5,47 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <item>
+      <title>OpenAI and Cisco launch Shirudo, an open-source runtime letting AI agents shield Linux systems from exploits</title>
+      <link>https://www.prnewswire.com/news-releases/cisco-and-openai-launch-shirudo-a-new-project-to-safeguard-agentic-ai-302948685.html</link>
+      <guid isPermaLink="true">https://www.prnewswire.com/news-releases/cisco-and-openai-launch-shirudo-a-new-project-to-safeguard-agentic-ai-302948685.html</guid>
+      <category>agent frameworks</category>
+      <description>OpenAI and Cisco launched Shirudo, an open-source tool that lets AI agents block attacks on Linux systems while teams prepare a proper patch.</description>
+      <pubDate>Tue, 24 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Anthropic opens Enterprise Frontier Safeguards in public beta: zero-data-retention Claude with cross-request misuse monitoring</title>
+      <link>https://www.anthropic.com/news/enterprise-frontier-safeguards?ref=thestack.technology</link>
+      <guid isPermaLink="true">https://www.anthropic.com/news/enterprise-frontier-safeguards?ref=thestack.technology</guid>
+      <category>agent governance</category>
+      <description>Anthropic opened a public beta that lets companies use Claude without Anthropic keeping their data, while still checking for misuse.</description>
+      <pubDate>Tue, 24 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OpenAI rolls chat-tuned GPT-6.2 Sol into ChatGPT's Chat tab, retires GPT-5.6 Sol and Terra on Dec 23</title>
+      <link>https://www.digitaltrends.com/computing/chatgpt-is-getting-a-chat-tuned-gpt-6-2-sol-and-it-can-offer-to-watch-for-a-price-drop/</link>
+      <guid isPermaLink="true">https://www.digitaltrends.com/computing/chatgpt-is-getting-a-chat-tuned-gpt-6-2-sol-and-it-can-offer-to-watch-for-a-price-drop/</guid>
+      <category>model APIs</category>
+      <description>ChatGPT's everyday chat now runs on the newer GPT-6.2 Sol for paid users, and the older GPT-5.6 models retire on December 23.</description>
+      <pubDate>Tue, 24 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>AWS ships Strands Decider v2: five open-weight decision models plus Box CLI sandboxing for coding agents</title>
+      <link>https://aiweekly.co/alerts/aws-ships-strands-decider-v2-on-gemma-4-debuts-box-cli</link>
+      <guid isPermaLink="true">https://aiweekly.co/alerts/aws-ships-strands-decider-v2-on-gemma-4-debuts-box-cli</guid>
+      <category>agent frameworks</category>
+      <description>AWS released five open decision models that help AI agents pick between options without writing text, plus a sandbox tool for coding agents.</description>
+      <pubDate>Tue, 24 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Anthropic unifies Claude connectors and skills into plugins, with 10,000+ in the directory</title>
+      <link>https://claude.ai/plugins</link>
+      <guid isPermaLink="true">https://claude.ai/plugins</guid>
+      <category>agent frameworks</category>
+      <description>Claude now has one place for plugins — tools and skills together — with more than 10,000 available to browse.</description>
+      <pubDate>Tue, 24 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Zipher lands $53M to put AI agents, not data engineers, in charge of data workloads</title>
       <link>https://yonkersdailynews.com/stories/zipher-lands-53m-to-put-ai-agents-not-data-engineers-in-charge-of-data-workloads,2282587</link>
@@ -365,46 +405,6 @@
       <category>agent frameworks</category>
       <description>System 1 agents: local agents that never generate text, 92.9% correct on 1,952 tool requests</description>
       <pubDate>Sat, 21 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sierra in talks to raise ~$1.5B at a ~$30B valuation, nearly doubling its May price</title>
-      <link>https://www.pymnts.com/startups/2026/ai-customer-support-startup-sierra-eyes-30-billion-valuation/</link>
-      <guid isPermaLink="true">https://www.pymnts.com/startups/2026/ai-customer-support-startup-sierra-eyes-30-billion-valuation/</guid>
-      <category>agent-startup funding</category>
-      <description>Sierra in talks to raise ~$1.5B at a ~$30B valuation, nearly doubling its May price</description>
-      <pubDate>Sat, 21 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BMW's playbook for governing hundreds of AI agents across 12,500 developers</title>
-      <link>https://www.explainx.ai/blog/bmw-group-governs-hundreds-of-ai-agents-12500-developers-aws-governance-patterns-2026</link>
-      <guid isPermaLink="true">https://www.explainx.ai/blog/bmw-group-governs-hundreds-of-ai-agents-12500-developers-aws-governance-patterns-2026</guid>
-      <category>agent governance</category>
-      <description>BMW's playbook for governing hundreds of AI agents across 12,500 developers</description>
-      <pubDate>Sat, 21 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SnapLogic launches MCP Discovery Hub, a central registry for MCP servers and tools</title>
-      <link>https://www.valuespectrum.com/corporate_news/1530974-snaplogic-launches-mcp-discovery-hub-adds-new-ai-agent-building-and-governance-capabilities</link>
-      <guid isPermaLink="true">https://www.valuespectrum.com/corporate_news/1530974-snaplogic-launches-mcp-discovery-hub-adds-new-ai-agent-building-and-governance-capabilities</guid>
-      <category>file-governance</category>
-      <description>SnapLogic launches MCP Discovery Hub, a central registry for MCP servers and tools</description>
-      <pubDate>Sat, 21 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Model ML raises $250M Series B at $1.5B valuation to put personal AI agents on bankers' desks</title>
-      <link>https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/</guid>
-      <category>agent-startup funding</category>
-      <description>Model ML raises $250M Series B at $1.5B valuation to put personal AI agents on bankers' desks</description>
-      <pubDate>Sat, 21 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Axle raises $9M to add AI agents to investment-bank meeting scheduling</title>
-      <link>https://news.hamidun.com/en/news/17421/axle-raises-9m-to-build-ai-agents-for-investment-bank-meetin</link>
-      <guid isPermaLink="true">https://news.hamidun.com/en/news/17421/axle-raises-9m-to-build-ai-agents-for-investment-bank-meetin</guid>
-      <category>agent-startup funding</category>
-      <description>Axle raises $9M to add AI agents to investment-bank meeting scheduling</description>
-      <pubDate>Sat, 21 Nov 2026 15:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
