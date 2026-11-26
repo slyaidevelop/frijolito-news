@@ -5,7 +5,39 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Hoplite raises $5.5M seed to build tools for running software engineering agents in the cloud</title>
+      <link>https://pulse2.com/hoplite-raises-5-5-million-to-build-tools-for-running-software-engineering-agents-in-the-cloud/</link>
+      <guid isPermaLink="true">https://pulse2.com/hoplite-raises-5-5-million-to-build-tools-for-running-software-engineering-agents-in-the-cloud/</guid>
+      <category>agent-startup funding</category>
+      <description>Hoplite raised $5.5M to build cloud tools that run multiple AI coding agents at once, backed by the Stripe co-founders and Paul Graham.</description>
+      <pubDate>Thu, 26 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Apify adds x402 and Skyfire support so agents can pay for web tools with no API key</title>
+      <link>https://betabriefing.ai/channels/the-settlement-layer/briefings/2026-11-25/</link>
+      <guid isPermaLink="true">https://betabriefing.ai/channels/the-settlement-layer/briefings/2026-11-25/</guid>
+      <category>agentic commerce rails</category>
+      <description>Apify now lets AI agents pay for web scraping tools with USDC and no API key — agents can buy the data tools they need on the spot.</description>
+      <pubDate>Thu, 26 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Solana Signal API deploys eleven x402 v2 pay-per-call intelligence endpoints</title>
+      <link>https://betabriefing.ai/channels/candy-toybox/briefings/2026-11-25/</link>
+      <guid isPermaLink="true">https://betabriefing.ai/channels/candy-toybox/briefings/2026-11-25/</guid>
+      <category>agentic commerce rails</category>
+      <description>Solana Signal API launched eleven pay-per-call data endpoints on the x402 standard, so agents can buy market intelligence per call.</description>
+      <pubDate>Thu, 26 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>x402 cumulative payments pass 206.9M, with $43.7M in settlement volume</title>
+      <link>https://scriptmasterlabs.com/402-daily</link>
+      <guid isPermaLink="true">https://scriptmasterlabs.com/402-daily</guid>
+      <category>agentic commerce rails</category>
+      <description>Agent payments on the x402 standard passed 206.9 million transactions, with $43.7 million settled so far.</description>
+      <pubDate>Thu, 26 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Base44 MCP server gains upload_app_asset for project media libraries</title>
       <link>https://docs.base44.com/changelog/product?experiment_id=_removed_</link>
@@ -372,38 +404,6 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/</guid>
       <category>agent frameworks</category>
       <description>Anthropic launches Claude Ship: agents that review, fix and approve pull requests</description>
-      <pubDate>Tue, 24 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>AidenAI raises $32M Series A to scale enterprise AI workflows</title>
-      <link>https://www.finsmes.com/2026/11/aidenai-raises-32m-in-series-a-funding.html</link>
-      <guid isPermaLink="true">https://www.finsmes.com/2026/11/aidenai-raises-32m-in-series-a-funding.html</guid>
-      <category>agent-startup funding</category>
-      <description>AidenAI raises $32M Series A to scale enterprise AI workflows</description>
-      <pubDate>Tue, 24 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Omniloy discloses $9.64M financing for hospital AI agents</title>
-      <link>https://dealroom.co/news/175204-omniloy-discloses-9-64m-financing-for-hospital-ai/</link>
-      <guid isPermaLink="true">https://dealroom.co/news/175204-omniloy-discloses-9-64m-financing-for-hospital-ai/</guid>
-      <category>agent-startup funding</category>
-      <description>Omniloy discloses $9.64M financing for hospital AI agents</description>
-      <pubDate>Tue, 24 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Riyadh's 009 raises $1.4M pre-seed for AI 'agent twins'</title>
-      <link>https://dealroom.co/news/175286-riyadh-s-009-raises-1-4m-pre-seed-for-ai-agent-twins/</link>
-      <guid isPermaLink="true">https://dealroom.co/news/175286-riyadh-s-009-raises-1-4m-pre-seed-for-ai-agent-twins/</guid>
-      <category>agent-startup funding</category>
-      <description>Riyadh's 009 raises $1.4M pre-seed for AI 'agent twins'</description>
-      <pubDate>Tue, 24 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>x402 payments nearly tripled in 30 days — but 20 wallets made 95% of them</title>
-      <link>https://newsletter.ownyourmind.ai/p/agent-payments-nearly-tripled-in</link>
-      <guid isPermaLink="true">https://newsletter.ownyourmind.ai/p/agent-payments-nearly-tripled-in</guid>
-      <category>agentic commerce rails</category>
-      <description>x402 payments nearly tripled in 30 days — but 20 wallets made 95% of them</description>
       <pubDate>Tue, 24 Nov 2026 12:20:00 -0500</pubDate>
     </item>
   </channel>
