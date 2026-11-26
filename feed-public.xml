@@ -5,13 +5,53 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Linq raises $90M led by Andreessen Horowitz to build the infrastructure platform for AI agents</title>
+      <link>https://theaiinsider.tech/2026/11/26/linq-raises-90m-in-new-funding-led-by-andreessen-horowitz-to-build-the-infrastructure-platform-for-ai-agents/</link>
+      <guid isPermaLink="true">https://theaiinsider.tech/2026/11/26/linq-raises-90m-in-new-funding-led-by-andreessen-horowitz-to-build-the-infrastructure-platform-for-ai-agents/</guid>
+      <category>agent-startup funding</category>
+      <description>Linq raised $90 million led by Andreessen Horowitz to build infrastructure for AI agents, with Ben Horowitz joining its board.</description>
+      <pubDate>Thu, 26 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>XEBO.ai raises $10.5M Series A to expand agentic AI and experience analytics</title>
+      <link>https://www.thesaasnews.com/news/xebo-ai-raises-10-5m-series-a/</link>
+      <guid isPermaLink="true">https://www.thesaasnews.com/news/xebo-ai-raises-10-5m-series-a/</guid>
+      <category>agent-startup funding</category>
+      <description>XEBO.ai raised $10.5 million in a Series A led by Emirates Growth Fund to expand its AI-native experience platform and agentic AI features.</description>
+      <pubDate>Thu, 26 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Anthropic moved its Messages API from Python to Rust, with Claude writing the new code</title>
+      <link>https://www.infoworld.com/article/4253460/anthropic-says-it-moved-its-claude-api-from-python-to-rust-with-no-downtime.html</link>
+      <guid isPermaLink="true">https://www.infoworld.com/article/4253460/anthropic-says-it-moved-its-claude-api-from-python-to-rust-with-no-downtime.html</guid>
+      <category>model APIs</category>
+      <description>Anthropic moved its Messages API from Python to Rust with Claude writing the new code, cutting CPU use per request by about 70%.</description>
+      <pubDate>Thu, 26 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OpenAI fixes GPT-6.2 billing bug — ChatGPT users hit limits up to 40% faster</title>
+      <link>https://www.notebookcheck.net/ChatGPT-users-hit-limits-up-to-40-sooner-after-OpenAI-billing-fix.1460643.0.html</link>
+      <guid isPermaLink="true">https://www.notebookcheck.net/ChatGPT-users-hit-limits-up-to-40-sooner-after-OpenAI-billing-fix.1460643.0.html</guid>
+      <category>model APIs</category>
+      <description>OpenAI fixed a billing error that had undercounted GPT-6.2 usage, so ChatGPT users now reach their limits up to 40% faster on Astra.</description>
+      <pubDate>Thu, 26 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Perplexity launches Time Machine — search the web as it was on a past date</title>
+      <link>https://www.perplexity.ai/hub/blog/freeze-the-web-with-perplexity-time-machine</link>
+      <guid isPermaLink="true">https://www.perplexity.ai/hub/blog/freeze-the-web-with-perplexity-time-machine</guid>
+      <category>agent frameworks</category>
+      <description>Perplexity launched Time Machine, letting developers search the web as it was on a past date, up to a year back.</description>
+      <pubDate>Thu, 26 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>ElevenLabs in early talks for 2027 funding round at $33B target valuation, ARR at $700M</title>
       <link>https://www.pymnts.com/news/investment-tracker/2026/elevenlabs-targets-33-billion-valuation-in-early-2027-funding-round/</link>
       <guid isPermaLink="true">https://www.pymnts.com/news/investment-tracker/2026/elevenlabs-targets-33-billion-valuation-in-early-2027-funding-round/</guid>
       <category>agent-startup funding</category>
-      <description>ElevenLabs is in early talks for a 2027 funding round at a $33 billion valuation, up from $22 billion in September, with annual recurring revenue now at $700 million.</description>
+      <description>ElevenLabs in early talks for 2027 funding round at $33B target valuation, ARR at $700M</description>
       <pubDate>Wed, 25 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -19,7 +59,7 @@
       <link>https://www.infosecurity-magazine.com/news/ncsc-tips-tackle-agentic-threat/</link>
       <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ncsc-tips-tackle-agentic-threat/</guid>
       <category>agent governance</category>
-      <description>The UK's cyber agency warns AI-assisted attacks have risen sharply since September, as agentic frameworks let attackers probe and exploit known weaknesses within minutes.</description>
+      <description>UK NCSC warns of marked rise in AI-assisted cyberattacks from agentic offensive frameworks</description>
       <pubDate>Wed, 25 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -27,7 +67,7 @@
       <link>https://markets.financialcontent.com/pentictonherald/article/bizwire-2026-11-23-bedrock-datas-agent-dlp-now-determines-intent-and-evaluates-ai-agent-behavior-to-keep-authorized-work-moving-and-block-sensitive-data-exposure</link>
       <guid isPermaLink="true">https://markets.financialcontent.com/pentictonherald/article/bizwire-2026-11-23-bedrock-datas-agent-dlp-now-determines-intent-and-evaluates-ai-agent-behavior-to-keep-authorized-work-moving-and-block-sensitive-data-exposure</guid>
       <category>file-governance</category>
-      <description>Bedrock Data's Agent DLP now judges AI agents by their intent and behavior, blocking risky data exposure while letting authorized work continue.</description>
+      <description>Bedrock Data's Agent DLP now infers intent and evaluates agent behavior to stop sensitive data exposure</description>
       <pubDate>Wed, 25 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -365,46 +405,6 @@
       <category>agent-startup funding</category>
       <description>CrowdStrike to acquire Zscaler in $43.9B all-stock deal</description>
       <pubDate>Mon, 23 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Amazon to buy Decart's AI optimization tech and team in reported $7.5B deal</title>
-      <link>https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/</guid>
-      <category>agent-startup funding</category>
-      <description>Amazon to buy Decart's AI optimization tech and team in reported $7.5B deal</description>
-      <pubDate>Mon, 23 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Marlowe raises $277M seed at $1.15B valuation for inference-only AI data centers</title>
-      <link>https://www.geekwire.com/2026/beyond-nvidia-convoy-co-founder-and-former-microsoft-leader-raise-277m-to-rethink-ai-infrastructure/</link>
-      <guid isPermaLink="true">https://www.geekwire.com/2026/beyond-nvidia-convoy-co-founder-and-former-microsoft-leader-raise-277m-to-rethink-ai-infrastructure/</guid>
-      <category>agent-startup funding</category>
-      <description>Marlowe raises $277M seed at $1.15B valuation for inference-only AI data centers</description>
-      <pubDate>Mon, 23 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Walmart Agent Gateway goes live with Meta Muse: agentic checkout inside the conversation</title>
-      <link>https://dev.to/delimitter/walmart-agent-gateway-goes-live-with-meta-muse-agentic-checkout-inside-the-conversation-g1e</link>
-      <guid isPermaLink="true">https://dev.to/delimitter/walmart-agent-gateway-goes-live-with-meta-muse-agentic-checkout-inside-the-conversation-g1e</guid>
-      <category>agentic commerce rails</category>
-      <description>Walmart Agent Gateway goes live with Meta Muse: agentic checkout inside the conversation</description>
-      <pubDate>Mon, 23 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Z.ai rolls out GLM-5.4 coding model with vision and 50% more quota</title>
-      <link>https://medium.com/@zhwan85/z-ai-unveils-glm-5-4-full-rollout-to-coding-plan-subscribers-and-the-addition-of-vision-b4badacb6626</link>
-      <guid isPermaLink="true">https://medium.com/@zhwan85/z-ai-unveils-glm-5-4-full-rollout-to-coding-plan-subscribers-and-the-addition-of-vision-b4badacb6626</guid>
-      <category>model APIs</category>
-      <description>Z.ai rolls out GLM-5.4 coding model with vision and 50% more quota</description>
-      <pubDate>Mon, 23 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ClearCadence launches ClearHand, a governed AI orchestration platform for enterprise teams</title>
-      <link>https://www.businessjournalflorida.com/article/958546513-clearcadence-launches-clearhand-bringing-governed-ai-agents-to-enterprise-teams-in-30-days</link>
-      <guid isPermaLink="true">https://www.businessjournalflorida.com/article/958546513-clearcadence-launches-clearhand-bringing-governed-ai-agents-to-enterprise-teams-in-30-days</guid>
-      <category>agent governance</category>
-      <description>ClearCadence launches ClearHand, a governed AI orchestration platform for enterprise teams</description>
-      <pubDate>Mon, 23 Nov 2026 18:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
