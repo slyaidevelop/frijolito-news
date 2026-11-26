@@ -5,7 +5,31 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <item>
+      <title>ElevenLabs in early talks for 2027 funding round at $33B target valuation, ARR at $700M</title>
+      <link>https://www.pymnts.com/news/investment-tracker/2026/elevenlabs-targets-33-billion-valuation-in-early-2027-funding-round/</link>
+      <guid isPermaLink="true">https://www.pymnts.com/news/investment-tracker/2026/elevenlabs-targets-33-billion-valuation-in-early-2027-funding-round/</guid>
+      <category>agent-startup funding</category>
+      <description>ElevenLabs is in early talks for a 2027 funding round at a $33 billion valuation, up from $22 billion in September, with annual recurring revenue now at $700 million.</description>
+      <pubDate>Wed, 25 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UK NCSC warns of marked rise in AI-assisted cyberattacks from agentic offensive frameworks</title>
+      <link>https://www.infosecurity-magazine.com/news/ncsc-tips-tackle-agentic-threat/</link>
+      <guid isPermaLink="true">https://www.infosecurity-magazine.com/news/ncsc-tips-tackle-agentic-threat/</guid>
+      <category>agent governance</category>
+      <description>The UK's cyber agency warns AI-assisted attacks have risen sharply since September, as agentic frameworks let attackers probe and exploit known weaknesses within minutes.</description>
+      <pubDate>Wed, 25 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Bedrock Data's Agent DLP now infers intent and evaluates agent behavior to stop sensitive data exposure</title>
+      <link>https://markets.financialcontent.com/pentictonherald/article/bizwire-2026-11-23-bedrock-datas-agent-dlp-now-determines-intent-and-evaluates-ai-agent-behavior-to-keep-authorized-work-moving-and-block-sensitive-data-exposure</link>
+      <guid isPermaLink="true">https://markets.financialcontent.com/pentictonherald/article/bizwire-2026-11-23-bedrock-datas-agent-dlp-now-determines-intent-and-evaluates-ai-agent-behavior-to-keep-authorized-work-moving-and-block-sensitive-data-exposure</guid>
+      <category>file-governance</category>
+      <description>Bedrock Data's Agent DLP now judges AI agents by their intent and behavior, blocking risky data exposure while letting authorized work continue.</description>
+      <pubDate>Wed, 25 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Every raises $17.5M Series A at $110M valuation to make teams AI-native</title>
       <link>https://every.to/on-every/we-raised-17-5-million-to-make-you-and-your-team-ai-native</link>
@@ -381,30 +405,6 @@
       <category>agent governance</category>
       <description>ClearCadence launches ClearHand, a governed AI orchestration platform for enterprise teams</description>
       <pubDate>Mon, 23 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Agon raises $70M Series A at $450M valuation to build an AI lab for European defense</title>
-      <link>https://www.tectonicdefense.com/first-look-agon-raises-70m-series-a/</link>
-      <guid isPermaLink="true">https://www.tectonicdefense.com/first-look-agon-raises-70m-series-a/</guid>
-      <category>agent-startup funding</category>
-      <description>Agon raises $70M Series A at $450M valuation to build an AI lab for European defense</description>
-      <pubDate>Mon, 23 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Surelio raises $1.19M to stress-test enterprise AI agents</title>
-      <link>https://dealroom.co/news/175079-surelio-raises-1-19m-to-stress-test-enterprise-ai-agents/</link>
-      <guid isPermaLink="true">https://dealroom.co/news/175079-surelio-raises-1-19m-to-stress-test-enterprise-ai-agents/</guid>
-      <category>agent-startup funding</category>
-      <description>Surelio raises $1.19M to stress-test enterprise AI agents</description>
-      <pubDate>Mon, 23 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>AWS lets agents pay for x402 Marketplace tools in USD on the AWS bill</title>
-      <link>https://www.explainx.ai/blog/aws-marketplace-x402-agentcore-payments-aws-billing-tavily-agents-pay-usd-2026</link>
-      <guid isPermaLink="true">https://www.explainx.ai/blog/aws-marketplace-x402-agentcore-payments-aws-billing-tavily-agents-pay-usd-2026</guid>
-      <category>agentic commerce rails</category>
-      <description>AWS lets agents pay for x402 Marketplace tools in USD on the AWS bill</description>
-      <pubDate>Mon, 23 Nov 2026 12:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
