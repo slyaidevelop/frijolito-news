@@ -5,13 +5,29 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Altair Semiconductor raises $100M Series A for edge AI — Nov 26 funding roundup</title>
+      <link>https://aifundingtracker.com/ai-funding-news-november-26-2026/</link>
+      <guid isPermaLink="true">https://aifundingtracker.com/ai-funding-news-november-26-2026/</guid>
+      <category>agent-startup funding</category>
+      <description>Altair Semiconductor raised $100 million to mass-produce low-power modems for smart glasses and wearables, with a push toward running AI agents on the device itself.</description>
+      <pubDate>Thu, 26 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Pippa Labs raises £500k pre-seed for trusted infrastructure for the agentic web</title>
+      <link>https://www.startupmag.co.uk/funding/pippa-labs-2026-pre-seed-funding/</link>
+      <guid isPermaLink="true">https://www.startupmag.co.uk/funding/pippa-labs-2026-pre-seed-funding/</guid>
+      <category>agentic commerce rails</category>
+      <description>UK startup Pippa Labs raised £500,000 to build trusted infrastructure so AI agents can securely communicate, collaborate and transact with each other.</description>
+      <pubDate>Thu, 26 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Hoplite raises $5.5M seed to build tools for running software engineering agents in the cloud</title>
       <link>https://pulse2.com/hoplite-raises-5-5-million-to-build-tools-for-running-software-engineering-agents-in-the-cloud/</link>
       <guid isPermaLink="true">https://pulse2.com/hoplite-raises-5-5-million-to-build-tools-for-running-software-engineering-agents-in-the-cloud/</guid>
       <category>agent-startup funding</category>
-      <description>Hoplite raised $5.5M to build cloud tools that run multiple AI coding agents at once, backed by the Stripe co-founders and Paul Graham.</description>
+      <description>Hoplite raises $5.5M seed to build tools for running software engineering agents in the cloud</description>
       <pubDate>Thu, 26 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -19,7 +35,7 @@
       <link>https://betabriefing.ai/channels/the-settlement-layer/briefings/2026-11-25/</link>
       <guid isPermaLink="true">https://betabriefing.ai/channels/the-settlement-layer/briefings/2026-11-25/</guid>
       <category>agentic commerce rails</category>
-      <description>Apify now lets AI agents pay for web scraping tools with USDC and no API key — agents can buy the data tools they need on the spot.</description>
+      <description>Apify adds x402 and Skyfire support so agents can pay for web tools with no API key</description>
       <pubDate>Thu, 26 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -27,7 +43,7 @@
       <link>https://betabriefing.ai/channels/candy-toybox/briefings/2026-11-25/</link>
       <guid isPermaLink="true">https://betabriefing.ai/channels/candy-toybox/briefings/2026-11-25/</guid>
       <category>agentic commerce rails</category>
-      <description>Solana Signal API launched eleven pay-per-call data endpoints on the x402 standard, so agents can buy market intelligence per call.</description>
+      <description>Solana Signal API deploys eleven x402 v2 pay-per-call intelligence endpoints</description>
       <pubDate>Thu, 26 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -35,7 +51,7 @@
       <link>https://scriptmasterlabs.com/402-daily</link>
       <guid isPermaLink="true">https://scriptmasterlabs.com/402-daily</guid>
       <category>agentic commerce rails</category>
-      <description>Agent payments on the x402 standard passed 206.9 million transactions, with $43.7 million settled so far.</description>
+      <description>x402 cumulative payments pass 206.9M, with $43.7M in settlement volume</description>
       <pubDate>Thu, 26 Nov 2026 15:20:00 -0500</pubDate>
     </item>
     <item>
@@ -389,22 +405,6 @@
       <category>agent-startup funding</category>
       <description>Verra raises $5M seed to build an AI memory layer for consulting firms</description>
       <pubDate>Tue, 24 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Pedestal AI emerges from stealth with $4.7M for agentic AI in delivery supply chains</title>
-      <link>https://theaiinsider.tech/2026/11/24/pedestal-ai-emerges-from-stealth-with-4-7m-to-bring-agentic-ai-to-delivery-supply-chains/</link>
-      <guid isPermaLink="true">https://theaiinsider.tech/2026/11/24/pedestal-ai-emerges-from-stealth-with-4-7m-to-bring-agentic-ai-to-delivery-supply-chains/</guid>
-      <category>agent-startup funding</category>
-      <description>Pedestal AI emerges from stealth with $4.7M for agentic AI in delivery supply chains</description>
-      <pubDate>Tue, 24 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Anthropic launches Claude Ship: agents that review, fix and approve pull requests</title>
-      <link>https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/</guid>
-      <category>agent frameworks</category>
-      <description>Anthropic launches Claude Ship: agents that review, fix and approve pull requests</description>
-      <pubDate>Tue, 24 Nov 2026 12:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
