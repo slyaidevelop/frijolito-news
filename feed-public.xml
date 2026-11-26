@@ -5,7 +5,39 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Base44 MCP server gains upload_app_asset for project media libraries</title>
+      <link>https://docs.base44.com/changelog/product?experiment_id=_removed_</link>
+      <guid isPermaLink="true">https://docs.base44.com/changelog/product?experiment_id=_removed_</guid>
+      <category>Base44/Instinct ecosystem</category>
+      <description>Base44's MCP server can now upload files to a project's media library from an attachment, base64 data, or a public URL.</description>
+      <pubDate>Thu, 26 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>PrismML Ternary Bonsai 2.5 27B scores 75.6 on SWE-bench Verified in a 5.9 GB file</title>
+      <link>https://prismml.com/news/bonsai-2-5-27b</link>
+      <guid isPermaLink="true">https://prismml.com/news/bonsai-2-5-27b</guid>
+      <category>model APIs</category>
+      <description>PrismML released Ternary Bonsai 2.5, a 27B coding model in a 5.9 GB file that scores 75.6 on SWE-bench Verified, close to its full-precision parent.</description>
+      <pubDate>Thu, 26 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OpenAI: GPT-6 models show intrinsic protein-design ability, with lab binding on five targets</title>
+      <link>https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/</link>
+      <guid isPermaLink="true">https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/</guid>
+      <category>model APIs</category>
+      <description>OpenAI says GPT-6.2 designed proteins that bound all five lab targets tested, with 35 of 322 candidates showing binding in partner lab tests.</description>
+      <pubDate>Thu, 26 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>SplitSecure launches StepAuth and MCP gateway for agents, raises $4.7M</title>
+      <link>https://www.agentbeam.com/blog/splitsecure-secret-splitting-stepauth-mcp-coding-agents-november-2026</link>
+      <guid isPermaLink="true">https://www.agentbeam.com/blog/splitsecure-secret-splitting-stepauth-mcp-coding-agents-november-2026</guid>
+      <category>agent-startup funding</category>
+      <description>SplitSecure launched StepAuth and an MCP gateway that stop AI agents approving their own high-risk actions, and raised $4.7 million.</description>
+      <pubDate>Thu, 26 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Linq raises $90M led by Andreessen Horowitz to build the infrastructure platform for AI agents</title>
       <link>https://theaiinsider.tech/2026/11/26/linq-raises-90m-in-new-funding-led-by-andreessen-horowitz-to-build-the-infrastructure-platform-for-ai-agents/</link>
@@ -373,38 +405,6 @@
       <category>agentic commerce rails</category>
       <description>x402 payments nearly tripled in 30 days — but 20 wallets made 95% of them</description>
       <pubDate>Tue, 24 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Okta/Auth0 launches Auth for Personal Agents beta with Poppy support</title>
-      <link>https://auth0.com/blog/auth-for-personal-agents-beta-release/</link>
-      <guid isPermaLink="true">https://auth0.com/blog/auth-for-personal-agents-beta-release/</guid>
-      <category>agent governance</category>
-      <description>Okta/Auth0 launches Auth for Personal Agents beta with Poppy support</description>
-      <pubDate>Tue, 24 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Trustly completes $60M raise to build AI-powered payment products</title>
-      <link>https://tech.eu/2026/11/24/trustly-completes-60m-funding-raise/</link>
-      <guid isPermaLink="true">https://tech.eu/2026/11/24/trustly-completes-60m-funding-raise/</guid>
-      <category>agentic commerce rails</category>
-      <description>Trustly completes $60M raise to build AI-powered payment products</description>
-      <pubDate>Tue, 24 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>geniosAI emerges from stealth with $19.1M led by FactSet</title>
-      <link>https://dailyaibrief.com/news/geniosai-raises-19-1-million-financial-analysis-platform-ppXhpadm</link>
-      <guid isPermaLink="true">https://dailyaibrief.com/news/geniosai-raises-19-1-million-financial-analysis-platform-ppXhpadm</guid>
-      <category>agent-startup funding</category>
-      <description>geniosAI emerges from stealth with $19.1M led by FactSet</description>
-      <pubDate>Tue, 24 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike to acquire Zscaler in $43.9B all-stock deal</title>
-      <link>https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/</guid>
-      <category>agent-startup funding</category>
-      <description>CrowdStrike to acquire Zscaler in $43.9B all-stock deal</description>
-      <pubDate>Mon, 23 Nov 2026 21:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
