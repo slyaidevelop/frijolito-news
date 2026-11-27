@@ -5,13 +5,37 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Visa: on-chain agent payments are ~$50K a week, flat for 6-8 months</title>
+      <link>https://www.onesafe.io/blog/visa-agentic-payments-volume-50k-week-x402-mpp</link>
+      <guid isPermaLink="true">https://www.onesafe.io/blog/visa-agentic-payments-volume-50k-week-x402-mpp</guid>
+      <category>agentic commerce rails</category>
+      <description>Visa's crypto lead says on-chain agent payments across x402 and MPP total about $50,000 a week and have barely grown in six to eight months — the rails exist, but the volume doesn't yet.</description>
+      <pubDate>Fri, 27 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Telnyx AI Assistants add WhatsApp Business messaging</title>
+      <link>https://www.martech360.com/news/media-growth/telnyx-ai-assistants-bring-conversational-ai-to-whatsapp-chat</link>
+      <guid isPermaLink="true">https://www.martech360.com/news/media-growth/telnyx-ai-assistants-bring-conversational-ai-to-whatsapp-chat</guid>
+      <category>WhatsApp/Meta dev</category>
+      <description>Telnyx now lets businesses run AI assistants on WhatsApp Business, answering messages and voice calls on the same number with shared context.</description>
+      <pubDate>Fri, 27 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OX Security: 22% of flagged MCP servers carry prompt injection or tool poisoning</title>
+      <link>https://www.ox.security/blog/plug-and-pray-your-ai-agents-are-taking-orders-from-strangers/</link>
+      <guid isPermaLink="true">https://www.ox.security/blog/plug-and-pray-your-ai-agents-are-taking-orders-from-strangers/</guid>
+      <category>file-governance</category>
+      <description>OX Security found prompt injection or tool poisoning in 22% of flagged MCP servers, and code that couldn't be independently verified in 83% of them.</description>
+      <pubDate>Fri, 27 Nov 2026 15:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Chainalysis: AI agents made 138M+ x402 payments on Base in a year</title>
       <link>https://coinmarketcap.com/academy/article/ai-agents-x402-payments-138-million-chainalysis</link>
       <guid isPermaLink="true">https://coinmarketcap.com/academy/article/ai-agents-x402-payments-138-million-chainalysis</guid>
       <category>agentic commerce rails</category>
-      <description>AI agents made over 138 million payments on the x402 protocol in a year, and the time from funding a wallet to first payment fell from 73 days to 18 minutes.</description>
+      <description>Chainalysis: AI agents made 138M+ x402 payments on Base in a year</description>
       <pubDate>Fri, 27 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -19,7 +43,7 @@
       <link>https://coinmarketcap.com/academy/article/blackrock-says-ai-agents-will-drive-next-wave-of-stablecoin-demand</link>
       <guid isPermaLink="true">https://coinmarketcap.com/academy/article/blackrock-says-ai-agents-will-drive-next-wave-of-stablecoin-demand</guid>
       <category>agentic commerce rails</category>
-      <description>BlackRock says AI agents could drive the next wave of stablecoin demand, as agents need money that settles around the clock without a bank account.</description>
+      <description>BlackRock: AI agents could drive the next wave of stablecoin demand</description>
       <pubDate>Fri, 27 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -27,7 +51,7 @@
       <link>https://training.initd.sg/blog/is-meta-business-agent-available-in-singapore/</link>
       <guid isPermaLink="true">https://training.initd.sg/blog/is-meta-business-agent-available-in-singapore/</guid>
       <category>WhatsApp/Meta dev</category>
-      <description>Meta's AI agent for businesses is now available to small businesses in Singapore through a Meta One subscription, replying to customers on WhatsApp even when the business is offline.</description>
+      <description>Meta Business Agent reaches Singapore small businesses via Meta One at SGD17.99/month</description>
       <pubDate>Fri, 27 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -35,7 +59,7 @@
       <link>https://base44.com/blog/inside-base-code-updates</link>
       <guid isPermaLink="true">https://base44.com/blog/inside-base-code-updates</guid>
       <category>Base44/Instinct ecosystem</category>
-      <description>Base44 updated Base Code so AI agents can keep working across branches and pull requests, read skills from your repo, and handle GitHub review feedback in the same conversation.</description>
+      <description>Base44 ships Base Code updates: no setup PRs, repo skills, sessions across branches</description>
       <pubDate>Fri, 27 Nov 2026 12:20:00 -0500</pubDate>
     </item>
     <item>
@@ -43,7 +67,7 @@
       <link>https://inc42.com/buzz/kabeer-biswas-m-raises-9-mn-led-by-rtp-global/</link>
       <guid isPermaLink="true">https://inc42.com/buzz/kabeer-biswas-m-raises-9-mn-led-by-rtp-global/</guid>
       <category>agent-startup funding</category>
-      <description>Dunzo co-founder Kabeer Biswas's AI startup M raised $9M to build an agent that runs a household, starting with the kitchen.</description>
+      <description>M raises $9M led by RTP Global to build an AI agent that runs the household</description>
       <pubDate>Fri, 27 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -51,7 +75,7 @@
       <link>https://www.thesaasnews.com/news/virtualbrain-raises-4m-series-a/</link>
       <guid isPermaLink="true">https://www.thesaasnews.com/news/virtualbrain-raises-4m-series-a/</guid>
       <category>agent-startup funding</category>
-      <description>VirtualBrain raised €4M to turn consulting firms' expertise into AI-powered apps and agents.</description>
+      <description>VirtualBrain raises €4M Series A to turn consulting expertise into AI agents</description>
       <pubDate>Fri, 27 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -59,7 +83,7 @@
       <link>https://accessnorthga.com/ap_article/archive-intel-launches-model-context-protocol-mcp-and-claude-compliance-api-integration</link>
       <guid isPermaLink="true">https://accessnorthga.com/ap_article/archive-intel-launches-model-context-protocol-mcp-and-claude-compliance-api-integration</guid>
       <category>file-governance</category>
-      <description>Archive Intel launched an MCP server and Claude Compliance API integration so financial firms can query archived messages through AI assistants while staying compliant.</description>
+      <description>Archive Intel launches MCP server and Claude Compliance API integration for financial firms</description>
       <pubDate>Fri, 27 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -67,7 +91,7 @@
       <link>https://wordok.top/ai-daily/2026-11-26/</link>
       <guid isPermaLink="true">https://wordok.top/ai-daily/2026-11-26/</guid>
       <category>model APIs</category>
-      <description>OpenAI is testing Private Inference, confidential-computing inference that keeps user data private while models run.</description>
+      <description>OpenAI is testing Private Inference, confidential-computing inference with zero data retention</description>
       <pubDate>Fri, 27 Nov 2026 09:20:00 -0500</pubDate>
     </item>
     <item>
@@ -75,7 +99,7 @@
       <link>https://www.calcalistech.com/ctechnews/article/m3h4xzamw</link>
       <guid isPermaLink="true">https://www.calcalistech.com/ctechnews/article/m3h4xzamw</guid>
       <category>agent-startup funding</category>
-      <description>Altair Semiconductor raised $100 million to mass-produce a low-power modem for AI glasses and wearables, so the devices can stay connected to cloud AI without a phone.</description>
+      <description>Altair Semiconductor raises $100M Series A to mass-produce low-power modems for AI glasses and wearables</description>
       <pubDate>Thu, 26 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -83,7 +107,7 @@
       <link>https://www.ai-market-watch.com/news/nextesy-raises-104-million-seed-round-for-ai-bookkeeping-r51m82</link>
       <guid isPermaLink="true">https://www.ai-market-watch.com/news/nextesy-raises-104-million-seed-round-for-ai-bookkeeping-r51m82</guid>
       <category>agent-startup funding</category>
-      <description>Zurich startup Nextesy raised $10.4 million to automate admin work for small businesses with AI agents, aiming for fully automated year-end closing.</description>
+      <description>Nextesy raises $10.4M seed to automate SMB admin with AI agents</description>
       <pubDate>Thu, 26 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -91,7 +115,7 @@
       <link>https://turbo.gadgets360.com/en/apps/whatsapp-blocks-ai-chatbots-business-solution-api-policy-changes-meta-ai-news-9491204</link>
       <guid isPermaLink="true">https://turbo.gadgets360.com/en/apps/whatsapp-blocks-ai-chatbots-business-solution-api-policy-changes-meta-ai-news-9491204</guid>
       <category>WhatsApp/Meta dev</category>
-      <description>WhatsApp is set to ban third-party AI chatbots from its Business API early next year, leaving Meta AI as the only AI chatbot on the platform.</description>
+      <description>WhatsApp moves to block third-party AI chatbots from its Business API</description>
       <pubDate>Thu, 26 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -99,7 +123,7 @@
       <link>https://www.crypto-currency-network.net/the-x402-bazaars-hidden-layers-what-coinbases-index-reveals--2026-11-26.html</link>
       <guid isPermaLink="true">https://www.crypto-currency-network.net/the-x402-bazaars-hidden-layers-what-coinbases-index-reveals--2026-11-26.html</guid>
       <category>agentic commerce rails</category>
-      <description>Coinbase's new x402 index shows just 285 payees control most agent payment listings, with most activity concentrated on Base and Solana.</description>
+      <description>Coinbase's x402 Bazaar index: 285 payees control 6,261 payment accepts across 88,552 listings</description>
       <pubDate>Thu, 26 Nov 2026 21:20:00 -0500</pubDate>
     </item>
     <item>
@@ -380,30 +404,6 @@
       <guid isPermaLink="true">https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/</guid>
       <category>agent-startup funding</category>
       <description>Sierra raises $1.75B Series F at $30B valuation, doubling in six months</description>
-      <pubDate>Wed, 25 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Coinbase says x402 has processed 160M+ agentic payments as Coinbase for Agents goes live</title>
-      <link>https://coinstats.app/news/f5a5ae60cbb1e2900a4b20e489569599514f799c11f86de96ba753c1cc719afd_Coinbase-Says-x402-Has-Processed-160M-Agentic-Payments/</link>
-      <guid isPermaLink="true">https://coinstats.app/news/f5a5ae60cbb1e2900a4b20e489569599514f799c11f86de96ba753c1cc719afd_Coinbase-Says-x402-Has-Processed-160M-Agentic-Payments/</guid>
-      <category>agentic commerce rails</category>
-      <description>Coinbase says x402 has processed 160M+ agentic payments as Coinbase for Agents goes live</description>
-      <pubDate>Wed, 25 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Meta ships WhatsApp Business Tools MCP: Claude, Cursor, Codex and ChatGPT can set up WhatsApp Business</title>
-      <link>https://xatkit.com/article/meta-lets-ai-agents-handle-whatsapp-business-setup-tasks.html</link>
-      <guid isPermaLink="true">https://xatkit.com/article/meta-lets-ai-agents-handle-whatsapp-business-setup-tasks.html</guid>
-      <category>WhatsApp/Meta dev</category>
-      <description>Meta ships WhatsApp Business Tools MCP: Claude, Cursor, Codex and ChatGPT can set up WhatsApp Business</description>
-      <pubDate>Wed, 25 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp splits marketing errors: new code 131066 from February 2027 for template quality and max price</title>
-      <link>https://hernandez.systems/en/articles/whatsapp-separates-its-marketing-errors-starting-february-2027-131066-will-tell-you-your-template</link>
-      <guid isPermaLink="true">https://hernandez.systems/en/articles/whatsapp-separates-its-marketing-errors-starting-february-2027-131066-will-tell-you-your-template</guid>
-      <category>WhatsApp/Meta dev</category>
-      <description>WhatsApp splits marketing errors: new code 131066 from February 2027 for template quality and max price</description>
       <pubDate>Wed, 25 Nov 2026 09:20:00 -0500</pubDate>
     </item>
   </channel>
