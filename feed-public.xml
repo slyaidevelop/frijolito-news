@@ -5,7 +5,39 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <item>
+      <title>M raises $9M led by RTP Global to build an AI agent that runs the household</title>
+      <link>https://inc42.com/buzz/kabeer-biswas-m-raises-9-mn-led-by-rtp-global/</link>
+      <guid isPermaLink="true">https://inc42.com/buzz/kabeer-biswas-m-raises-9-mn-led-by-rtp-global/</guid>
+      <category>agent-startup funding</category>
+      <description>Dunzo co-founder Kabeer Biswas's AI startup M raised $9M to build an agent that runs a household, starting with the kitchen.</description>
+      <pubDate>Fri, 27 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VirtualBrain raises €4M Series A to turn consulting expertise into AI agents</title>
+      <link>https://www.thesaasnews.com/news/virtualbrain-raises-4m-series-a/</link>
+      <guid isPermaLink="true">https://www.thesaasnews.com/news/virtualbrain-raises-4m-series-a/</guid>
+      <category>agent-startup funding</category>
+      <description>VirtualBrain raised €4M to turn consulting firms' expertise into AI-powered apps and agents.</description>
+      <pubDate>Fri, 27 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Archive Intel launches MCP server and Claude Compliance API integration for financial firms</title>
+      <link>https://accessnorthga.com/ap_article/archive-intel-launches-model-context-protocol-mcp-and-claude-compliance-api-integration</link>
+      <guid isPermaLink="true">https://accessnorthga.com/ap_article/archive-intel-launches-model-context-protocol-mcp-and-claude-compliance-api-integration</guid>
+      <category>file-governance</category>
+      <description>Archive Intel launched an MCP server and Claude Compliance API integration so financial firms can query archived messages through AI assistants while staying compliant.</description>
+      <pubDate>Fri, 27 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OpenAI is testing Private Inference, confidential-computing inference with zero data retention</title>
+      <link>https://wordok.top/ai-daily/2026-11-26/</link>
+      <guid isPermaLink="true">https://wordok.top/ai-daily/2026-11-26/</guid>
+      <category>model APIs</category>
+      <description>OpenAI is testing Private Inference, confidential-computing inference that keeps user data private while models run.</description>
+      <pubDate>Fri, 27 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Altair Semiconductor raises $100M Series A to mass-produce low-power modems for AI glasses and wearables</title>
       <link>https://www.calcalistech.com/ctechnews/article/m3h4xzamw</link>
@@ -373,38 +405,6 @@
       <category>agent frameworks</category>
       <description>OpenAI's Codex CLI 0.172.0 adds thread links in the terminal, tab completion for slash commands and Bedrock Runtime support for app-server clients.</description>
       <pubDate>Tue, 24 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OpenAI API adds healthcare configurations of GPT-6.2 Astra and Sol with a medical-source search index</title>
-      <link>https://botsdothat.com/news/</link>
-      <guid isPermaLink="true">https://botsdothat.com/news/</guid>
-      <category>model APIs</category>
-      <description>OpenAI's API now offers healthcare versions of its GPT-6.2 models that search only medical sources when web search is turned on.</description>
-      <pubDate>Tue, 24 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OpenAI and Cisco launch Shirudo, an open-source runtime letting AI agents shield Linux systems from exploits</title>
-      <link>https://www.prnewswire.com/news-releases/cisco-and-openai-launch-shirudo-a-new-project-to-safeguard-agentic-ai-302948685.html</link>
-      <guid isPermaLink="true">https://www.prnewswire.com/news-releases/cisco-and-openai-launch-shirudo-a-new-project-to-safeguard-agentic-ai-302948685.html</guid>
-      <category>agent frameworks</category>
-      <description>OpenAI and Cisco launch Shirudo, an open-source runtime letting AI agents shield Linux systems from exploits</description>
-      <pubDate>Tue, 24 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Anthropic opens Enterprise Frontier Safeguards in public beta: zero-data-retention Claude with cross-request misuse monitoring</title>
-      <link>https://www.anthropic.com/news/enterprise-frontier-safeguards?ref=thestack.technology</link>
-      <guid isPermaLink="true">https://www.anthropic.com/news/enterprise-frontier-safeguards?ref=thestack.technology</guid>
-      <category>agent governance</category>
-      <description>Anthropic opens Enterprise Frontier Safeguards in public beta: zero-data-retention Claude with cross-request misuse monitoring</description>
-      <pubDate>Tue, 24 Nov 2026 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OpenAI rolls chat-tuned GPT-6.2 Sol into ChatGPT's Chat tab, retires GPT-5.6 Sol and Terra on Dec 23</title>
-      <link>https://www.digitaltrends.com/computing/chatgpt-is-getting-a-chat-tuned-gpt-6-2-sol-and-it-can-offer-to-watch-for-a-price-drop/</link>
-      <guid isPermaLink="true">https://www.digitaltrends.com/computing/chatgpt-is-getting-a-chat-tuned-gpt-6-2-sol-and-it-can-offer-to-watch-for-a-price-drop/</guid>
-      <category>model APIs</category>
-      <description>OpenAI rolls chat-tuned GPT-6.2 Sol into ChatGPT's Chat tab, retires GPT-5.6 Sol and Terra on Dec 23</description>
-      <pubDate>Tue, 24 Nov 2026 18:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
