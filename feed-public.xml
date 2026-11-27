@@ -5,7 +5,23 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 15:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Google forces agents onto MCP rails for Workspace from Feb 1, 2027 — and Gmail's server can't send mail</title>
+      <link>https://ai0.news/posts/2026-11-27-daily-digest/</link>
+      <guid isPermaLink="true">https://ai0.news/posts/2026-11-27-daily-digest/</guid>
+      <category>model APIs / agent frameworks</category>
+      <description>From February 2027, AI agents will have to reach Gmail, Drive and Calendar through Google's MCP servers — and the Gmail server can't send mail yet, only draft and read it.</description>
+      <pubDate>Fri, 27 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>DeepMind lets AI agents control part of its compute for Gemini experiments</title>
+      <link>https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/</link>
+      <guid isPermaLink="true">https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/</guid>
+      <category>model APIs</category>
+      <description>Google DeepMind says AI agents now run some of the experiments behind the next Gemini models, choosing what to test and managing the compute themselves.</description>
+      <pubDate>Fri, 27 Nov 2026 18:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Visa: on-chain agent payments are ~$50K a week, flat for 6-8 months</title>
       <link>https://www.onesafe.io/blog/visa-agentic-payments-volume-50k-week-x402-mpp</link>
@@ -389,22 +405,6 @@
       <category>model APIs</category>
       <description>Anthropic ships 'Install as app' beta: Claude artifacts become standalone desktop apps</description>
       <pubDate>Wed, 25 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>7.3M x402 payments in 30 days, 92% on Base, median 2 cents</title>
-      <link>https://blockchain.news/flashnews/base-7-3m-x402-payments-prove-stablecoin-micro-pay-edge</link>
-      <guid isPermaLink="true">https://blockchain.news/flashnews/base-7-3m-x402-payments-prove-stablecoin-micro-pay-edge</guid>
-      <category>agentic commerce rails</category>
-      <description>7.3M x402 payments in 30 days, 92% on Base, median 2 cents</description>
-      <pubDate>Wed, 25 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Sierra raises $1.75B Series F at $30B valuation, doubling in six months</title>
-      <link>https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/</guid>
-      <category>agent-startup funding</category>
-      <description>Sierra raises $1.75B Series F at $30B valuation, doubling in six months</description>
-      <pubDate>Wed, 25 Nov 2026 09:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
