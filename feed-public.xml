@@ -5,7 +5,39 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Chainalysis: AI agents made 138M+ x402 payments on Base in a year</title>
+      <link>https://coinmarketcap.com/academy/article/ai-agents-x402-payments-138-million-chainalysis</link>
+      <guid isPermaLink="true">https://coinmarketcap.com/academy/article/ai-agents-x402-payments-138-million-chainalysis</guid>
+      <category>agentic commerce rails</category>
+      <description>AI agents made over 138 million payments on the x402 protocol in a year, and the time from funding a wallet to first payment fell from 73 days to 18 minutes.</description>
+      <pubDate>Fri, 27 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BlackRock: AI agents could drive the next wave of stablecoin demand</title>
+      <link>https://coinmarketcap.com/academy/article/blackrock-says-ai-agents-will-drive-next-wave-of-stablecoin-demand</link>
+      <guid isPermaLink="true">https://coinmarketcap.com/academy/article/blackrock-says-ai-agents-will-drive-next-wave-of-stablecoin-demand</guid>
+      <category>agentic commerce rails</category>
+      <description>BlackRock says AI agents could drive the next wave of stablecoin demand, as agents need money that settles around the clock without a bank account.</description>
+      <pubDate>Fri, 27 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Meta Business Agent reaches Singapore small businesses via Meta One at SGD17.99/month</title>
+      <link>https://training.initd.sg/blog/is-meta-business-agent-available-in-singapore/</link>
+      <guid isPermaLink="true">https://training.initd.sg/blog/is-meta-business-agent-available-in-singapore/</guid>
+      <category>WhatsApp/Meta dev</category>
+      <description>Meta's AI agent for businesses is now available to small businesses in Singapore through a Meta One subscription, replying to customers on WhatsApp even when the business is offline.</description>
+      <pubDate>Fri, 27 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Base44 ships Base Code updates: no setup PRs, repo skills, sessions across branches</title>
+      <link>https://base44.com/blog/inside-base-code-updates</link>
+      <guid isPermaLink="true">https://base44.com/blog/inside-base-code-updates</guid>
+      <category>Base44/Instinct ecosystem</category>
+      <description>Base44 updated Base Code so AI agents can keep working across branches and pull requests, read skills from your repo, and handle GitHub review feedback in the same conversation.</description>
+      <pubDate>Fri, 27 Nov 2026 12:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>M raises $9M led by RTP Global to build an AI agent that runs the household</title>
       <link>https://inc42.com/buzz/kabeer-biswas-m-raises-9-mn-led-by-rtp-global/</link>
@@ -373,38 +405,6 @@
       <category>WhatsApp/Meta dev</category>
       <description>WhatsApp splits marketing errors: new code 131066 from February 2027 for template quality and max price</description>
       <pubDate>Wed, 25 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Google Workspace MCP servers and CLI now generally available; agents must use MCP from Feb 1, 2027</title>
-      <link>https://workspace.google.com/blog/product-announcements/built-for-trust-and-control-new-ai-agent-protections-and-developer-tools-in-google-workspace</link>
-      <guid isPermaLink="true">https://workspace.google.com/blog/product-announcements/built-for-trust-and-control-new-ai-agent-protections-and-developer-tools-in-google-workspace</guid>
-      <category>model APIs</category>
-      <description>Google Workspace MCP servers and CLI now generally available; agents must use MCP from Feb 1, 2027</description>
-      <pubDate>Wed, 25 Nov 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Nominal raises $240M Series C at $3B valuation for its industrial-engineering AI agent</title>
-      <link>http://hangingcontext.com/stories/2026-11-24/ai-checks-split-big-and-small/</link>
-      <guid isPermaLink="true">http://hangingcontext.com/stories/2026-11-24/ai-checks-split-big-and-small/</guid>
-      <category>agent-startup funding</category>
-      <description>Nominal raised $240 million at a $3 billion valuation for its AI agent that automates root-cause analysis for industrial engineers, with the US Air Force adding a $71.2 million award.</description>
-      <pubDate>Tue, 24 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Instinct: The Hidden Cost of a Free AI Agent — a Nov 24 deep dive into the personal agent's safeguards and defaults</title>
-      <link>https://dev.to/socialawy/instinct-the-hidden-cost-of-a-free-ai-agent-4mjf</link>
-      <guid isPermaLink="true">https://dev.to/socialawy/instinct-the-hidden-cost-of-a-free-ai-agent-4mjf</guid>
-      <category>Base44/Instinct ecosystem</category>
-      <description>A new deep dive into Instinct examines the personal AI agent's safety defaults and the billing failure that took it offline on WhatsApp in early November.</description>
-      <pubDate>Tue, 24 Nov 2026 21:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Codex CLI 0.172.0 adds thread links, tab completion and Bedrock Runtime support</title>
-      <link>https://dirtystatic.com/articles/codex-0-172-adds-thread-links-bedrock-support/</link>
-      <guid isPermaLink="true">https://dirtystatic.com/articles/codex-0-172-adds-thread-links-bedrock-support/</guid>
-      <category>agent frameworks</category>
-      <description>OpenAI's Codex CLI 0.172.0 adds thread links in the terminal, tab completion for slash commands and Bedrock Runtime support for app-server clients.</description>
-      <pubDate>Tue, 24 Nov 2026 21:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
