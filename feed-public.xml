@@ -5,7 +5,39 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 09:20:00 -0500</lastBuildDate>
+    <item>
+      <title>Meta declined the UK FCA's offer to jointly test Muse before its UK launch</title>
+      <link>https://cryptobriefing.com/meta-declines-fca-sandbox-muse-ai/</link>
+      <guid isPermaLink="true">https://cryptobriefing.com/meta-declines-fca-sandbox-muse-ai/</guid>
+      <category>WhatsApp/Meta dev</category>
+      <description>Meta declined the UK financial regulator's offer to jointly test its Muse AI agent before its UK launch, as regulators ask how agents that shop and pay should be overseen.</description>
+      <pubDate>Sat, 28 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>DeepMind's Humanity's First Exam: top models score 96-98% once, ~86% every time</title>
+      <link>https://www.techrepublic.com/article/news-google-humanitys-first-exam-ai-benchmark/</link>
+      <guid isPermaLink="true">https://www.techrepublic.com/article/news-google-humanitys-first-exam-ai-benchmark/</guid>
+      <category>model APIs</category>
+      <description>Google DeepMind's new Humanity's First Exam finds top AI models score 96-98% on simple tasks once, but only about 86% when they must get every variation right.</description>
+      <pubDate>Sat, 28 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Anthropic lets Claude artifacts install as standalone Mac and Windows desktop apps</title>
+      <link>https://www.geeky-gadgets.com/claude-artifacts-6-289-desktop-apps/</link>
+      <guid isPermaLink="true">https://www.geeky-gadgets.com/claude-artifacts-6-289-desktop-apps/</guid>
+      <category>model APIs</category>
+      <description>Anthropic now lets you install Claude artifacts as standalone desktop apps on Mac and Windows, with their own icon and window.</description>
+      <pubDate>Sat, 28 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Maple AI raises $5.3M seed to build AI agents that cannot read your private data</title>
+      <link>https://www.martechai.com/ai-news/maple-ai-raises-53-million-to-build-ai-agents-that-cannot-read-your-private-data-3948.html</link>
+      <guid isPermaLink="true">https://www.martechai.com/ai-news/maple-ai-raises-53-million-to-build-ai-agents-that-cannot-read-your-private-data-3948.html</guid>
+      <category>agent-startup funding</category>
+      <description>Maple AI raised $5.3 million to build AI agents designed so they cannot read your private data — not even the company itself.</description>
+      <pubDate>Sat, 28 Nov 2026 09:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>AI2Earn raises $2M seed to build a distributed AI agent workforce network</title>
       <link>https://opinion.brandwirejournal.com/2026/11/27/ai2earn-raises-us2-million-to-build-the-worlds-largest-distributed-ai-workforce-network/</link>
@@ -373,38 +405,6 @@
       <category>WhatsApp/Meta dev</category>
       <description>EU interim measures order Meta to keep WhatsApp open to rival AI assistants</description>
       <pubDate>Wed, 25 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Base44 Nov 23 updates: split field-security rules, new image models, white-label setup</title>
-      <link>https://stackpick.app/tool/base44/changelog</link>
-      <guid isPermaLink="true">https://stackpick.app/tool/base44/changelog</guid>
-      <category>Base44/Instinct ecosystem</category>
-      <description>Base44 Nov 23 updates: split field-security rules, new image models, white-label setup</description>
-      <pubDate>Wed, 25 Nov 2026 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Permut raises €3M seed for AI agents serving e-commerce brands</title>
-      <link>https://www.thesaasnews.com/news/permut-raises-3m-seed/</link>
-      <guid isPermaLink="true">https://www.thesaasnews.com/news/permut-raises-3m-seed/</guid>
-      <category>agent-startup funding</category>
-      <description>Permut raises €3M seed for AI agents serving e-commerce brands</description>
-      <pubDate>Wed, 25 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Leash Biosciences raises $11M to expand AI training environments for scientific agents</title>
-      <link>https://theaiinsider.tech/2026/11/25/leash-biosciences-raises-11m-in-funding-to-expand-scientific-ai-training-environments/</link>
-      <guid isPermaLink="true">https://theaiinsider.tech/2026/11/25/leash-biosciences-raises-11m-in-funding-to-expand-scientific-ai-training-environments/</guid>
-      <category>agent-startup funding</category>
-      <description>Leash Biosciences raises $11M to expand AI training environments for scientific agents</description>
-      <pubDate>Wed, 25 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Lawvek raises $550K pre-seed for AI agents recovering vendor overcharges</title>
-      <link>https://www.thesaasnews.com/news/lawvek-raises-550000-pre-seed/</link>
-      <guid isPermaLink="true">https://www.thesaasnews.com/news/lawvek-raises-550000-pre-seed/</guid>
-      <category>agent-startup funding</category>
-      <description>Lawvek raises $550K pre-seed for AI agents recovering vendor overcharges</description>
-      <pubDate>Wed, 25 Nov 2026 12:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
