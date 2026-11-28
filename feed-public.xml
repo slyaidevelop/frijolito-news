@@ -5,13 +5,29 @@
     <link>https://frijolito.app</link>
     <description>Public social news updates from Frijolito's 3-hour digest: agent startups, agent payments, files, WhatsApp/Meta, and model APIs. Short post-ready updates with source links, refreshed every 3 hours, daytime ET.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 18:20:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:20:00 -0500</lastBuildDate>
+    <item>
+      <title>AI2Earn raises $2M seed to build a distributed AI agent workforce network</title>
+      <link>https://opinion.brandwirejournal.com/2026/11/27/ai2earn-raises-us2-million-to-build-the-worlds-largest-distributed-ai-workforce-network/</link>
+      <guid isPermaLink="true">https://opinion.brandwirejournal.com/2026/11/27/ai2earn-raises-us2-million-to-build-the-worlds-largest-distributed-ai-workforce-network/</guid>
+      <category>agent-startup funding</category>
+      <description>AI2Earn raised $2 million in seed funding to build a distributed network of AI agents that act as a sales team for businesses.</description>
+      <pubDate>Fri, 27 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>Z.AI's GLM-5.5 slips to Q1 2027 and Moonshot's Kimi K4 may slide to mid-2027</title>
+      <link>https://insidetelecom.com/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development/</link>
+      <guid isPermaLink="true">https://insidetelecom.com/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development/</guid>
+      <category>model APIs</category>
+      <description>Z.AI's next flagship model GLM-5.5 has slipped to early 2027 and Moonshot's Kimi K4 could slide to mid-2027, as US chip rules and anti-distillation safeguards slow Chinese AI development.</description>
+      <pubDate>Fri, 27 Nov 2026 21:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>Google forces agents onto MCP rails for Workspace from Feb 1, 2027 — and Gmail's server can't send mail</title>
       <link>https://ai0.news/posts/2026-11-27-daily-digest/</link>
       <guid isPermaLink="true">https://ai0.news/posts/2026-11-27-daily-digest/</guid>
       <category>model APIs / agent frameworks</category>
-      <description>From February 2027, AI agents will have to reach Gmail, Drive and Calendar through Google's MCP servers — and the Gmail server can't send mail yet, only draft and read it.</description>
+      <description>Google forces agents onto MCP rails for Workspace from Feb 1, 2027 — and Gmail's server can't send mail</description>
       <pubDate>Fri, 27 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -19,7 +35,7 @@
       <link>https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/</link>
       <guid isPermaLink="true">https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/</guid>
       <category>model APIs</category>
-      <description>Google DeepMind says AI agents now run some of the experiments behind the next Gemini models, choosing what to test and managing the compute themselves.</description>
+      <description>DeepMind lets AI agents control part of its compute for Gemini experiments</description>
       <pubDate>Fri, 27 Nov 2026 18:20:00 -0500</pubDate>
     </item>
     <item>
@@ -388,22 +404,6 @@
       <guid isPermaLink="true">https://www.thesaasnews.com/news/lawvek-raises-550000-pre-seed/</guid>
       <category>agent-startup funding</category>
       <description>Lawvek raises $550K pre-seed for AI agents recovering vendor overcharges</description>
-      <pubDate>Wed, 25 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MCP passes 700M monthly SDK downloads; Skills over MCP enters public beta</title>
-      <link>https://www.thecodew.com/2026/11/ai-watch-november-25.html</link>
-      <guid isPermaLink="true">https://www.thecodew.com/2026/11/ai-watch-november-25.html</guid>
-      <category>model APIs</category>
-      <description>MCP passes 700M monthly SDK downloads; Skills over MCP enters public beta</description>
-      <pubDate>Wed, 25 Nov 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>Anthropic ships 'Install as app' beta: Claude artifacts become standalone desktop apps</title>
-      <link>https://ashutoshai.com/ai-compass/2026/11/24/</link>
-      <guid isPermaLink="true">https://ashutoshai.com/ai-compass/2026/11/24/</guid>
-      <category>model APIs</category>
-      <description>Anthropic ships 'Install as app' beta: Claude artifacts become standalone desktop apps</description>
       <pubDate>Wed, 25 Nov 2026 12:20:00 -0500</pubDate>
     </item>
   </channel>
